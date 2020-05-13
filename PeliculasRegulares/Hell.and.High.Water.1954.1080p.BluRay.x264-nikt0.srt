@@ -1,0 +1,4532 @@
+﻿1
+00:00:13,907 --> 00:00:15,784
+<i>In the summer of 1953,</i>
+
+2
+00:00:15,867 --> 00:00:18,912
+<i>it was announced
+that an atomic bomb of foreign origin</i>
+
+3
+00:00:18,995 --> 00:00:22,624
+<i>had been exploded somewhere
+outside of the United States.</i>
+
+4
+00:00:22,707 --> 00:00:26,294
+<i>Shortly thereafter, it was indicated
+that this atomic reaction,</i>
+
+5
+00:00:26,378 --> 00:00:28,296
+<i>according to scientific reports,</i>
+
+6
+00:00:28,380 --> 00:00:32,175
+<i>had originated in a remote area
+in North Pacific waters,</i>
+
+7
+00:00:32,259 --> 00:00:35,262
+<i>somewhere between the northern tip
+of the Japanese islands</i>
+
+8
+00:00:35,345 --> 00:00:37,264
+<i>and the arctic circle.</i>
+
+9
+00:00:37,347 --> 00:00:39,849
+<i>This is the story of that explosion.</i>
+
+10
+00:03:36,109 --> 00:03:38,027
+Oh!
+
+11
+00:03:41,156 --> 00:03:43,992
+Professor Montel.
+I'm McCleary of the <i>Herald Tribune.</i>
+
+12
+00:03:44,075 --> 00:03:45,994
+Oh, yes. How do you do?
+
+13
+00:03:46,077 --> 00:03:49,581
+I understand that you're going
+to Vienna to address the,
+
+14
+00:03:49,664 --> 00:03:52,000
+Central European Federation
+of Advanced Scientists.
+
+15
+00:03:52,083 --> 00:03:53,710
+That is correct.
+
+16
+00:03:53,793 --> 00:03:57,005
+I will read a paper on the emission
+of neutrons and collision of nuclei.
+
+17
+00:03:57,088 --> 00:03:58,506
+Thank you, Professor.
+
+18
+00:03:58,590 --> 00:04:00,776
+Will any of the American Atomic
+Energy Commission be present?
+
+19
+00:04:00,800 --> 00:04:02,051
+I doubt it.
+
+20
+00:04:07,640 --> 00:04:10,310
+Will you excuse me, gentlemen?
+
+21
+00:04:30,038 --> 00:04:32,791
+<i>Oui.</i>
+
+22
+00:04:42,675 --> 00:04:43,718
+Professor. Excuse me.
+
+23
+00:04:43,802 --> 00:04:46,020
+There's one or two points
+I'd like to get clarified.
+
+24
+00:04:51,643 --> 00:04:55,647
+You will have to excuse me, gentlemen.
+The plane is waiting.
+
+25
+00:04:57,190 --> 00:04:59,108
+Who's the girl?
+
+26
+00:05:02,821 --> 00:05:06,407
+<i>This is the BBC
+with the latest news bulletin.</i>
+
+27
+00:05:06,491 --> 00:05:10,578
+<i>Professor Montel, famous nuclear physicist
+and atomic scientist,</i>
+
+28
+00:05:10,662 --> 00:05:13,790
+<i>has vanished while en route
+to attend a conference in Vienna.</i>
+
+29
+00:05:13,873 --> 00:05:17,418
+<i>Professor Montel's disappearance
+is a complete mystery to the police.</i>
+
+30
+00:05:17,502 --> 00:05:21,005
+<i>Authoritative sources reveal today
+that the former Nobel Prize winner</i>
+
+31
+00:05:21,089 --> 00:05:25,134
+<i>is the fifth noted scientist believed
+to have vanished behind the iron curtain.</i>
+
+32
+00:05:25,218 --> 00:05:28,805
+<i>Professor Montel was last seen
+at the International Airport in Vienna.</i>
+
+33
+00:05:28,888 --> 00:05:31,099
+<i>Speculation as to the whereabouts</i>
+
+34
+00:05:31,182 --> 00:05:33,434
+<i>of Professor Montel continues.</i>
+
+35
+00:05:33,518 --> 00:05:36,771
+<i>Ten days have elapsed
+since the distinguished scientist vanished,</i>
+
+36
+00:05:36,855 --> 00:05:40,441
+<i>and so far police have been unable
+to offer any explanation.</i>
+
+37
+00:05:43,403 --> 00:05:45,864
+<i>Authorities are now convinced</i>
+
+38
+00:05:45,947 --> 00:05:48,533
+<i>that Professor Montel was not kidnapped</i>
+
+39
+00:05:48,616 --> 00:05:51,411
+<i>and that his disappearance
+was part of a prearranged plan.</i>
+
+40
+00:05:51,494 --> 00:05:54,455
+<i>Airport officials in Vienna
+reveal that the scientist</i>
+
+41
+00:05:54,539 --> 00:05:57,083
+<i>carried a diplomatic passport.</i>
+
+42
+00:05:57,166 --> 00:05:59,627
+<i>The search for Professor Montel</i>
+
+43
+00:05:59,711 --> 00:06:01,021
+<i>continues into the fourth week.</i>
+
+44
+00:06:01,045 --> 00:06:04,233
+<i>It is interesting to note that while the
+story has been given front-page space</i>
+
+45
+00:06:04,257 --> 00:06:07,468
+<i>in newspapers in the United States
+and all other parts of the free world,</i>
+
+46
+00:06:07,552 --> 00:06:10,471
+Pravda, <i>the official mouthpiece</i>
+<i>of the Soviet Union,</i>
+
+47
+00:06:10,555 --> 00:06:12,807
+<i>has, as yet, failed to take note on it.</i>
+
+48
+00:06:40,835 --> 00:06:43,296
+- Corporal Lee Stockwell?
+- Right.
+
+49
+00:06:45,089 --> 00:06:48,134
+- Mr. R.♪. MacDougall?
+- That's right.
+
+50
+00:06:49,928 --> 00:06:52,180
+- Mr. Franklin Meredith.
+- That's correct.
+
+51
+00:06:52,263 --> 00:06:54,223
+Jones!
+
+52
+00:06:54,307 --> 00:06:57,101
+I'm afraid you're mistaken.
+My name's MacDougall.
+
+53
+00:06:57,185 --> 00:07:00,688
+You're a dead ringer for an officer
+I used to know in the submarine service.
+
+54
+00:07:00,772 --> 00:07:02,690
+Sorry.
+
+55
+00:07:11,783 --> 00:07:14,035
+Mr. MacDougall?
+
+56
+00:07:14,118 --> 00:07:16,037
+Yeah.
+
+57
+00:07:16,120 --> 00:07:18,122
+My name is Eddy.
+
+58
+00:07:19,874 --> 00:07:21,793
+Your instructions.
+
+59
+00:07:27,799 --> 00:07:31,803
+There is a taxi waiting for you.
+The driver knows the address.
+
+60
+00:07:31,886 --> 00:07:34,138
+Taxi number 63.
+
+61
+00:07:34,222 --> 00:07:36,391
+Number 63.
+
+62
+00:07:36,474 --> 00:07:38,393
+Okay.
+
+63
+00:08:00,248 --> 00:08:02,166
+This is it.
+
+64
+00:08:05,169 --> 00:08:07,296
+- You better wait for me.
+- No, I go now.
+
+65
+00:08:07,380 --> 00:08:09,483
+Wait a minute. What if I need you again?
+Where can I find you?
+
+66
+00:08:09,507 --> 00:08:11,676
+- What's your name?
+- Eddy.
+
+67
+00:08:39,662 --> 00:08:41,581
+Mr. MacDougall?
+
+68
+00:08:42,665 --> 00:08:45,543
+- Yeah.
+- Come in, please, and follow me.
+
+69
+00:08:55,344 --> 00:08:57,346
+Watch your step, please.
+
+70
+00:09:11,569 --> 00:09:15,364
+- Now don't tell me your name is Eddy too.
+- "Eddy" is the password.
+
+71
+00:09:15,448 --> 00:09:17,533
+I'm Hokada Fujimori, Commander Jones.
+
+72
+00:09:17,617 --> 00:09:19,619
+I'm very pleased to meet you.
+
+73
+00:09:19,702 --> 00:09:24,582
+Thanks. For a minute there, I thought
+this was something out of <i>Inner Sanctum.</i>
+
+74
+00:09:26,667 --> 00:09:29,796
+You've lost a little weight.
+
+75
+00:09:29,879 --> 00:09:32,965
+I'm on a diet.
+
+76
+00:09:33,049 --> 00:09:36,844
+I'll bet Captain Taylor
+put a little fat on?
+
+77
+00:09:36,928 --> 00:09:40,932
+- Where is he?
+- I'm sorry to tell you, your friend is dead.
+
+78
+00:09:43,434 --> 00:09:44,268
+Dead?
+
+79
+00:09:44,352 --> 00:09:48,231
+His plane crashed returning
+from an arctic expedition.
+
+80
+00:09:48,314 --> 00:09:50,316
+No one survived.
+
+81
+00:09:55,738 --> 00:09:58,074
+He never did like to fly.
+
+82
+00:10:00,326 --> 00:10:03,704
+Why did he want me to come here?
+What was the 5,000 for?
+
+83
+00:10:03,788 --> 00:10:04,997
+It's an advance payment
+
+84
+00:10:05,081 --> 00:10:08,042
+for a job Captain Taylor
+was certain you would do for us.
+
+85
+00:10:08,126 --> 00:10:10,086
+- Advance?
+- Yes.
+
+86
+00:10:10,169 --> 00:10:12,171
+- When do I start?
+- Without questions?
+
+87
+00:10:12,255 --> 00:10:16,134
+Why talk? If Taylor lined me up
+for the job, it must be kosher.
+
+88
+00:10:16,217 --> 00:10:18,970
+Some people might not
+exactly call it kosher.
+
+89
+00:10:19,053 --> 00:10:21,055
+In here, please.
+
+90
+00:10:33,192 --> 00:10:35,862
+Gentlemen, Commander Jones.
+
+91
+00:10:35,945 --> 00:10:37,905
+- Mr. McAuliff.
+- How do you do, sir?
+
+92
+00:10:37,989 --> 00:10:39,907
+- Colonel Schuman.
+- How are you?
+
+93
+00:10:39,991 --> 00:10:42,243
+- Mr. Aylesworth.
+- How do you do?
+
+94
+00:10:42,326 --> 00:10:44,704
+And Professor Montel.
+
+95
+00:10:56,632 --> 00:10:59,510
+- Montel, the scientist?
+- Yes.
+
+96
+00:10:59,594 --> 00:11:02,513
+Everybody and his brother
+is gunning for you, Professor.
+
+97
+00:11:02,597 --> 00:11:04,932
+They say you skipped
+behind the iron curtain.
+
+98
+00:11:05,016 --> 00:11:07,852
+As you can see, only a wooden door.
+
+99
+00:11:08,895 --> 00:11:11,230
+- Glad you're here.
+- Thank you, sir.
+
+100
+00:11:12,565 --> 00:11:15,568
+Well, it's quite a layout you got here.
+
+101
+00:11:18,029 --> 00:11:20,489
+What kind of business
+are you gentlemen in?
+
+102
+00:11:20,573 --> 00:11:22,575
+The business of investigation.
+
+103
+00:11:24,035 --> 00:11:26,537
+The scientific investigation
+
+104
+00:11:26,621 --> 00:11:30,625
+of these uninhabited North Pacific islands
+that lie in neutral waters
+
+105
+00:11:30,708 --> 00:11:32,793
+between the free world
+and the iron curtain.
+
+106
+00:11:33,794 --> 00:11:37,298
+Our deductions make us believe
+that one of these islands...
+
+107
+00:11:37,381 --> 00:11:39,717
+we don't know which one, Mr. Jones...
+
+108
+00:11:39,800 --> 00:11:42,970
+has been prepared as an arsenal
+for atomic weapons.
+
+109
+00:11:43,054 --> 00:11:45,181
+Your friend Captain Taylor
+volunteered
+
+110
+00:11:45,264 --> 00:11:47,516
+to undertake a photographic mission
+to find out.
+
+111
+00:11:47,600 --> 00:11:49,518
+- Volunteered?
+- Yes.
+
+112
+00:11:49,602 --> 00:11:51,520
+- For free?
+- For free.
+
+113
+00:11:51,604 --> 00:11:53,606
+Is that when he had the accident?
+
+114
+00:11:53,689 --> 00:11:55,900
+It was no accident.
+His plane was shot down.
+
+115
+00:11:55,983 --> 00:11:58,236
+This photograph we have just printed
+
+116
+00:11:58,319 --> 00:12:01,656
+came from the camera
+of his salvaged plane.
+
+117
+00:12:03,658 --> 00:12:06,786
+Thirty years in the navy,
+and he gets killed for a picture.
+
+118
+00:12:06,869 --> 00:12:09,330
+For free.
+
+119
+00:12:09,413 --> 00:12:14,210
+Each man has his own reason
+for living, Mr. Jones,
+
+120
+00:12:14,293 --> 00:12:17,296
+and his own price for dying.
+
+121
+00:12:19,006 --> 00:12:21,926
+This was Captain Taylor's price.
+
+122
+00:12:23,427 --> 00:12:27,098
+There's nothing there, Professor.
+It's a washout.
+
+123
+00:12:27,181 --> 00:12:30,726
+I wouldn't be too certain.
+Extend these lines.
+
+124
+00:12:30,810 --> 00:12:33,896
+They could be atomic vault constructions.
+
+125
+00:12:33,980 --> 00:12:36,774
+And over here could also be part
+of a concrete runway.
+
+126
+00:12:36,857 --> 00:12:39,735
+Look. Look, before we go any further,
+
+127
+00:12:39,819 --> 00:12:42,405
+exactly what country do you men represent?
+
+128
+00:12:42,488 --> 00:12:46,534
+We represent many countries,
+as private individuals.
+
+129
+00:12:46,617 --> 00:12:49,704
+We are scientists,
+former statesmen, businessmen.
+
+130
+00:12:49,787 --> 00:12:52,748
+All volunteers acting independently
+
+131
+00:12:52,832 --> 00:12:56,335
+for a common cause
+against a common enemy.
+
+132
+00:12:56,419 --> 00:12:58,337
+As private individuals,
+
+133
+00:12:58,421 --> 00:13:01,674
+we can conduct this investigation
+on a scientific basis
+
+134
+00:13:01,757 --> 00:13:04,927
+without violating any neutral waters.
+
+135
+00:13:05,011 --> 00:13:07,638
+And if what we suspect is verified,
+
+136
+00:13:07,722 --> 00:13:11,058
+we can then make our findings public.
+
+137
+00:13:11,142 --> 00:13:12,935
+And what good will that do?
+
+138
+00:13:13,019 --> 00:13:15,313
+Don't you think the truth
+is worth knowing?
+
+139
+00:13:15,396 --> 00:13:18,441
+Don't you believe that factual proof
+will establish, once and for all,
+
+140
+00:13:18,524 --> 00:13:21,569
+both the identity and the intention
+of the aggressor?
+
+141
+00:13:21,652 --> 00:13:25,448
+Who knows?
+But where do I fit into the picture?
+
+142
+00:13:25,531 --> 00:13:29,493
+We want you to command a ship
+for an inspection tour of these islands.
+
+143
+00:13:29,577 --> 00:13:31,912
+- What kind of a ship?
+- A submarine.
+
+144
+00:13:31,996 --> 00:13:34,749
+We know that four times
+during World War I I,
+
+145
+00:13:34,832 --> 00:13:37,585
+you commanded a submarine
+reconnaissance patrol
+
+146
+00:13:37,668 --> 00:13:39,628
+in this very area.
+
+147
+00:13:39,712 --> 00:13:43,424
+As I recall, you were extremely
+successful in these waters
+
+148
+00:13:43,507 --> 00:13:45,426
+when you fought my country.
+
+149
+00:13:45,509 --> 00:13:49,472
+This time the enemy is different,
+Mr. Jones, but the waters are the same.
+
+150
+00:13:49,555 --> 00:13:52,058
+You received already $5,000.
+
+151
+00:13:52,141 --> 00:13:55,102
+20,000 in United States currency
+
+152
+00:13:55,186 --> 00:13:59,148
+will be deposited to your account
+in any bank you elect
+
+153
+00:13:59,231 --> 00:14:01,942
+to chauffeur Professor Montel
+to this island.
+
+154
+00:14:02,026 --> 00:14:06,489
+And another 25,000 bonus
+when you bring him back safely
+
+155
+00:14:06,572 --> 00:14:09,075
+with all the information he seeks.
+
+156
+00:14:11,619 --> 00:14:14,121
+What about the sub?
+Did it volunteer too?
+
+157
+00:14:14,205 --> 00:14:17,500
+One does not pick up a first-class
+submarine in the junkyard, Mr. Jones.
+
+158
+00:14:17,583 --> 00:14:19,627
+We have salvaged a Japanese submarine.
+
+159
+00:14:19,710 --> 00:14:21,629
+- What class?
+- I-203.
+
+160
+00:14:21,712 --> 00:14:24,840
+Sewer pipe. Had one on my tail once
+for six hours. Taylor look her over?
+
+161
+00:14:24,924 --> 00:14:26,550
+- Yes.
+- Start getting her refitted?
+
+162
+00:14:26,634 --> 00:14:28,636
+- Yes.
+- Armed?
+
+163
+00:14:28,719 --> 00:14:31,055
+Mr. Jones,
+the object of this mission
+
+164
+00:14:31,138 --> 00:14:35,017
+is scientific investigation,
+not combat.
+
+165
+00:14:35,101 --> 00:14:36,268
+Professor...
+
+166
+00:14:37,353 --> 00:14:39,271
+am I in command?
+
+167
+00:14:39,355 --> 00:14:42,483
+- That's right.
+- Then we arm the sub.
+
+168
+00:14:42,566 --> 00:14:45,694
+That is, if you want me
+to get you back in one piece.
+
+169
+00:14:45,778 --> 00:14:49,073
+Did you also salvage a crew?
+
+170
+00:14:49,156 --> 00:14:52,159
+We have picked volunteers,
+experienced men.
+
+171
+00:14:52,243 --> 00:14:54,328
+There will be two scientists on board.
+
+172
+00:14:54,412 --> 00:14:57,123
+Professor Montel and his assistant,
+Professor Gerard.
+
+173
+00:14:57,206 --> 00:14:59,792
+We aren't positive which island it is,
+
+174
+00:14:59,875 --> 00:15:03,003
+but a certain freighter, the <i>Kiang Ching,</i>
+
+175
+00:15:03,087 --> 00:15:06,173
+has been up to this area
+several times before
+
+176
+00:15:06,257 --> 00:15:09,135
+with cargos of concrete and heavy metals.
+
+177
+00:15:09,218 --> 00:15:11,679
+She's loading again at Tientsin.
+
+178
+00:15:11,762 --> 00:15:14,390
+The last time I tailed a freighter,
+my price was 650 a month,
+
+179
+00:15:14,473 --> 00:15:16,434
+and I had to buy my own uniforms.
+
+180
+00:15:19,311 --> 00:15:23,816
+All right. I want my own key men,
+men who've served with me before.
+
+181
+00:15:23,899 --> 00:15:25,943
+You name them, and we'll get them.
+
+182
+00:15:26,026 --> 00:15:28,654
+Like you got me? For cash.
+
+183
+00:15:28,737 --> 00:15:30,656
+If it's necessary.
+
+184
+00:15:30,739 --> 00:15:32,992
+As I said before, Mr. Jones,
+
+185
+00:15:33,075 --> 00:15:35,786
+each man has his own reason for living
+
+186
+00:15:35,870 --> 00:15:38,205
+and his own price for dying.
+
+187
+00:15:38,289 --> 00:15:40,583
+I hope, for all of us,
+
+188
+00:15:40,666 --> 00:15:43,586
+that it will be a <i>bon voyage.</i>
+
+189
+00:16:00,019 --> 00:16:02,646
+<i>Giovane!</i> Help him with the line.
+
+190
+00:16:04,732 --> 00:16:08,402
+<i>Giovane!</i> You! You, Carpino,
+give him a hand with the torpedo.
+
+191
+00:16:10,696 --> 00:16:12,740
+How many hands
+you think I got, Neuman?
+
+192
+00:16:12,823 --> 00:16:16,452
+Mr. Neuman to you.
+
+193
+00:16:20,206 --> 00:16:22,350
+Now, make sure you give me
+the reading on that battery.
+
+194
+00:16:22,374 --> 00:16:23,209
+Right, Skipper.
+
+195
+00:16:23,292 --> 00:16:26,337
+Come on. Come on!
+
+196
+00:16:26,420 --> 00:16:29,298
+Bring it on, boys.
+Bring it around! Come on!
+
+197
+00:16:29,381 --> 00:16:32,092
+Hey! Come on now.
+Easy now. Come on.
+
+198
+00:16:32,176 --> 00:16:34,553
+Come on. Come on. All right, hold.
+
+199
+00:16:34,637 --> 00:16:37,515
+All right, boys.
+Make it fast to the cleats.
+
+200
+00:16:38,516 --> 00:16:41,727
+Hey.
+
+201
+00:16:48,817 --> 00:16:51,946
+- Don't you ever take a bath?
+- Shut up.
+
+202
+00:16:52,029 --> 00:16:54,865
+"Shut up."
+Is that the extent of your vocabulary?
+
+203
+00:16:54,949 --> 00:16:57,451
+What'd you ever give up
+the wrestling racket for anyway?
+
+204
+00:16:57,535 --> 00:17:00,496
+I just found out it was phony.
+
+205
+00:17:00,579 --> 00:17:02,414
+That's the trouble with these...
+
+206
+00:17:02,498 --> 00:17:04,684
+I say, that's the trouble
+with these phony wrestlers, Dugboat.
+
+207
+00:17:04,708 --> 00:17:07,211
+- They never take a bath.
+- We do too.
+
+208
+00:17:13,092 --> 00:17:15,803
+Hey, Joto. Hey, Joto.
+The after valve won't turn.
+
+209
+00:17:15,886 --> 00:17:17,846
+- What?
+- The after valve won't turn.
+
+210
+00:17:17,930 --> 00:17:19,848
+No, no. The other way.
+
+211
+00:17:19,932 --> 00:17:23,310
+Everything backwards. No wonder you blokes
+lost the war, with subs like this.
+
+212
+00:17:24,603 --> 00:17:26,522
+- Skipper.
+- Yeah.
+
+213
+00:17:26,605 --> 00:17:29,483
+- That guy Welles... any good?
+- Best engineer out of Australia.
+
+214
+00:17:29,567 --> 00:17:32,820
+- Wish we had Wilbur.
+- Yeah.
+
+215
+00:17:32,903 --> 00:17:35,739
+With Charlie Wilbur handling
+the engines on the <i>Bowfin,</i>
+
+216
+00:17:35,823 --> 00:17:37,741
+there was nothing to worry about.
+
+217
+00:17:37,825 --> 00:17:40,494
+Hear he's a three-striper now.
+
+218
+00:17:40,578 --> 00:17:42,496
+Yeah, so I hear.
+
+219
+00:17:42,580 --> 00:17:45,082
+Skipper,
+that number two scopes don't work.
+
+220
+00:17:45,165 --> 00:17:47,686
+- What's the matter with it?
+- Can't get the rust out of it.
+
+221
+00:17:47,710 --> 00:17:49,670
+- How 'bout number one?
+- Didn't check it.
+
+222
+00:17:49,753 --> 00:17:51,755
+Lift her up, Holter.
+
+223
+00:17:56,802 --> 00:17:59,722
+The professor topside
+wants to see the captain.
+
+224
+00:17:59,805 --> 00:18:01,724
+Send him down.
+
+225
+00:18:01,807 --> 00:18:04,310
+He's part of the brass behind this setup.
+
+226
+00:18:04,393 --> 00:18:07,220
+Now, if he looks familiar,
+don't say anything. I'll explain later.
+
+227
+00:18:08,522 --> 00:18:12,359
+- Hello, Professor. Welcome aboard, sir.
+- Captain.
+
+228
+00:18:12,443 --> 00:18:14,987
+Well, we're trying to put
+this sewer pipe together
+
+229
+00:18:15,070 --> 00:18:17,531
+with a little spit and a lot of sweat.
+
+230
+00:18:17,615 --> 00:18:20,159
+- I guess we'll make it all right.
+- Captain Jones.
+
+231
+00:18:20,242 --> 00:18:22,661
+What's the matter?
+Is there something wrong?
+
+232
+00:18:22,745 --> 00:18:27,082
+I'm sorry to say we cannot permit
+one of your crew to make this expedition.
+
+233
+00:18:27,166 --> 00:18:29,376
+What do you mean?
+They were all handpicked.
+
+234
+00:18:29,460 --> 00:18:31,378
+- We cannot trust this one.
+- Who?
+
+235
+00:18:31,462 --> 00:18:33,297
+The torpedo man, Revnik.
+
+236
+00:18:33,380 --> 00:18:35,299
+Oh, one of the men you picked.
+
+237
+00:18:35,382 --> 00:18:38,886
+I could have told you that all the time.
+A knothead.
+
+238
+00:18:38,969 --> 00:18:42,056
+Did you screen all my men too?
+
+239
+00:18:42,139 --> 00:18:45,559
+Very closely, including you.
+
+240
+00:18:45,643 --> 00:18:48,354
+- Okay. I'll get rid of Revnik right away.
+- Good.
+
+241
+00:18:48,437 --> 00:18:50,356
+Holter, I want...
+
+242
+00:19:03,702 --> 00:19:06,330
+She the replacement, Doc?
+
+243
+00:19:06,413 --> 00:19:10,959
+Gentlemen, this is Professor Gerard,
+my assistant and my right arm.
+
+244
+00:19:11,043 --> 00:19:14,129
+- Hiya.
+- Denise, this is Captain Jones.
+
+245
+00:19:14,213 --> 00:19:17,007
+- Captain Jones.
+- Glad to know you, Professor.
+
+246
+00:19:17,091 --> 00:19:20,427
+Well, if I'd known about this,
+I'd have cut my price.
+
+247
+00:19:20,511 --> 00:19:23,389
+Boys, these two professors
+are going with us as cargo.
+
+248
+00:19:23,472 --> 00:19:25,391
+- What?
+- You heard me.
+
+249
+00:19:25,474 --> 00:19:28,519
+Have you blown a gasket?
+Nobody takes a female along in a pigboat.
+
+250
+00:19:28,602 --> 00:19:32,022
+Look, junior, you gonna give me
+that 2,000-year-old navy bilge
+
+251
+00:19:32,106 --> 00:19:33,315
+that they're bad luck?
+
+252
+00:19:33,399 --> 00:19:36,026
+Take a look at her.
+What's so bad about that?
+
+253
+00:19:36,110 --> 00:19:39,321
+Nothing. Absolutely nothing!
+
+254
+00:19:39,405 --> 00:19:42,533
+They're all Jonahs. It's traditional.
+
+255
+00:19:45,994 --> 00:19:48,497
+Look, Skipper, I made up my mind.
+Count me out.
+
+256
+00:19:50,165 --> 00:19:52,376
+Okay.
+
+257
+00:19:52,459 --> 00:19:54,378
+Anybody else?
+
+258
+00:19:55,879 --> 00:19:59,675
+I'll give you jokers five minutes
+to sleep on it, and remember,
+
+259
+00:19:59,758 --> 00:20:02,928
+if I have to,
+I can replace every one of you.
+
+260
+00:20:03,011 --> 00:20:05,556
+Captain, I do not like it either.
+
+261
+00:20:18,485 --> 00:20:19,820
+Oh, <i>scusami.</i>
+
+262
+00:20:21,947 --> 00:20:23,907
+Perhaps you are right.
+
+263
+00:20:23,991 --> 00:20:27,995
+In your estimation,
+I am a... a female.
+
+264
+00:20:28,078 --> 00:20:30,956
+But first I am a scientist
+and a good one.
+
+265
+00:20:31,039 --> 00:20:34,710
+And I am not the only scientist
+who is not of your sex.
+
+266
+00:20:34,793 --> 00:20:36,837
+There are many.
+
+267
+00:20:36,920 --> 00:20:39,047
+Like Dr. Lise Meitner,
+
+268
+00:20:39,131 --> 00:20:43,260
+who played an important part
+in the development of the atom bomb.
+
+269
+00:20:43,343 --> 00:20:46,889
+Like Madame Curie, who discovered radium.
+
+270
+00:20:46,972 --> 00:20:50,392
+I have grown up in laboratories.
+
+271
+00:20:50,476 --> 00:20:53,187
+All my life, I have worked with men.
+
+272
+00:20:53,270 --> 00:20:55,939
+Never have I interfered,
+
+273
+00:20:56,023 --> 00:20:58,358
+and never have they resented me.
+
+274
+00:20:59,902 --> 00:21:04,615
+Professor Montel and I have...
+have much to accomplish.
+
+275
+00:21:04,698 --> 00:21:07,242
+Much.
+
+276
+00:21:07,326 --> 00:21:09,995
+And I shall appreciate it
+
+277
+00:21:10,078 --> 00:21:13,707
+if you would not let my... my presence
+
+278
+00:21:13,791 --> 00:21:16,794
+be the cause of... of a minor mutiny.
+
+279
+00:21:32,601 --> 00:21:34,520
+I like you.
+
+280
+00:21:35,521 --> 00:21:37,523
+I like you all.
+
+281
+00:21:39,233 --> 00:21:42,152
+And I shall try my best
+to make you like me...
+
+282
+00:21:45,322 --> 00:21:47,324
+as a scientist.
+
+283
+00:21:57,000 --> 00:22:00,254
+Man, that was quite a mouthful
+for a female!
+
+284
+00:22:00,337 --> 00:22:03,924
+That's no female. That's a scientist!
+
+285
+00:22:04,007 --> 00:22:06,677
+All right. Come on.
+We got a lot of work to do. Let's go.
+
+286
+00:22:13,892 --> 00:22:17,437
+Hi, Mr. Fujimori, Professor.
+
+287
+00:22:17,521 --> 00:22:20,440
+- Where's your assistant?
+- Are you prepared to sail?
+
+288
+00:22:20,524 --> 00:22:23,318
+I'll let you know tomorrow
+after we make the running dive tests.
+
+289
+00:22:23,402 --> 00:22:25,320
+There's no tomorrow left for us.
+
+290
+00:22:25,404 --> 00:22:27,966
+The freighter <i>Kiang Ching</i>
+sailed from Tientsin a half hour ago.
+
+291
+00:22:27,990 --> 00:22:30,343
+- You must leave right away.
+- What are you talking about?
+
+292
+00:22:30,367 --> 00:22:34,621
+We only been working for two weeks. We've
+got a lot of work left to do on this tub.
+
+293
+00:22:34,705 --> 00:22:37,836
+- You must leave by dark to overtake her.
+- What about the running tests?
+
+294
+00:22:37,875 --> 00:22:41,336
+As an amateur, might I suggest
+that we try the running test
+
+295
+00:22:41,420 --> 00:22:43,338
+while we are running?
+
+296
+00:22:43,422 --> 00:22:46,258
+Doc, there are about a hundred ways
+of losing a submarine.
+
+297
+00:22:46,341 --> 00:22:48,302
+You've just come up with one of the best.
+
+298
+00:22:48,385 --> 00:22:50,387
+We haven't even checked
+the torpedo tubes yet.
+
+299
+00:22:50,470 --> 00:22:54,016
+You know what that means if we have
+to call on fish? It means we're dead.
+
+300
+00:22:54,099 --> 00:22:56,101
+You've got to leave tonight.
+
+301
+00:22:57,603 --> 00:23:00,647
+Okay, buster, you're buying this trip.
+You want me to chance it?
+
+302
+00:23:00,731 --> 00:23:03,525
+It's not what we want, Captain Jones.
+It's what must be done.
+
+303
+00:23:03,609 --> 00:23:07,255
+All right. Just as long as the professor
+here knows what he's letting himself in for.
+
+304
+00:23:07,279 --> 00:23:10,008
+We've arranged airplane contact to give you
+position on the <i>Kiang Ching.</i>
+
+305
+00:23:10,032 --> 00:23:12,886
+- How'll they contact us, blinker or radio?
+- Neither is without risk.
+
+306
+00:23:12,910 --> 00:23:15,871
+We've decided cork drop is safest.
+
+307
+00:23:15,954 --> 00:23:18,624
+This contains your code,
+
+308
+00:23:18,707 --> 00:23:21,209
+and this contains
+your schedule for contacts.
+
+309
+00:23:21,293 --> 00:23:23,670
+Oh, just one more thing.
+
+310
+00:23:23,754 --> 00:23:28,091
+I want a clear-cut directive
+detailing my specific authority.
+
+311
+00:23:28,175 --> 00:23:30,552
+You'll find it all in here, Captain.
+
+312
+00:23:30,636 --> 00:23:33,013
+At sea, you are in complete command.
+
+313
+00:23:33,096 --> 00:23:36,683
+On land, Professor Montel is in command.
+
+314
+00:23:36,767 --> 00:23:40,145
+May I wish you the best of luck?
+
+315
+00:23:40,228 --> 00:23:42,147
+Thanks.
+
+316
+00:24:10,550 --> 00:24:13,220
+Well, now's as good a time as any,
+Mr. Neuman.
+
+317
+00:24:13,303 --> 00:24:16,181
+- Take her down to periscope depth.
+- Yes, sir.
+
+318
+00:24:16,264 --> 00:24:18,266
+Clear the bridge!
+
+319
+00:24:20,978 --> 00:24:23,647
+Dive!
+
+320
+00:24:36,118 --> 00:24:38,745
+Stand right over there.
+You'll be all right.
+
+321
+00:24:38,829 --> 00:24:42,416
+- Thank you.
+- Professor Gerard, give me your hand.
+
+322
+00:24:42,499 --> 00:24:45,585
+Watch that top rung. It's murder.
+
+323
+00:24:45,669 --> 00:24:47,587
+- Thank you.
+- You're welcome.
+
+324
+00:24:47,671 --> 00:24:49,589
+You sit right here.
+
+325
+00:24:49,673 --> 00:24:51,675
+Captain, trim satisfactory
+at periscope depth.
+
+326
+00:24:51,758 --> 00:24:53,677
+- Very well. Joto.
+- Yes, sir?
+
+327
+00:24:53,760 --> 00:24:56,489
+Give Welles a hand with those starboard
+engine blueprint translations, will you?
+
+328
+00:24:56,513 --> 00:24:58,432
+I'll take care of it, Captain.
+
+329
+00:24:58,515 --> 00:25:00,726
+Everything's tight
+in the forward torpedo room.
+
+330
+00:25:00,809 --> 00:25:03,895
+We're gonna try her down deep.
+Have all stations checked. Let me know.
+
+331
+00:25:03,979 --> 00:25:06,273
+<i>Ay, ay, Captain.</i>
+
+332
+00:25:06,356 --> 00:25:09,693
+This is that test we were
+talking about today, Professor.
+
+333
+00:25:09,776 --> 00:25:12,362
+- Now?
+- Now.
+
+334
+00:25:12,446 --> 00:25:16,116
+Don't get nervous. If we crack up,
+you won't get a chance to feel it.
+
+335
+00:25:16,199 --> 00:25:18,118
+Take it easy. It'll be all right.
+
+336
+00:25:18,201 --> 00:25:20,203
+Put her on the bottom, Mr. Neuman.
+
+337
+00:25:20,287 --> 00:25:22,289
+Two degrees down bubble.
+
+338
+00:25:23,540 --> 00:25:26,126
+- Flood negative.
+- Flood negative.
+
+339
+00:25:33,300 --> 00:25:35,844
+Oh, thanks, Chin Lee.
+
+340
+00:25:35,927 --> 00:25:37,929
+- Coffee, Professor?
+- No, thanks.
+
+341
+00:25:38,013 --> 00:25:40,515
+- How 'bout you?
+- No, thank you.
+
+342
+00:25:47,981 --> 00:25:49,983
+Two hundred feet, <i>Kapitän.</i>
+
+343
+00:26:00,827 --> 00:26:02,829
+Better hold on, Professor.
+
+344
+00:26:32,692 --> 00:26:35,195
+All right. Now let's see
+if we can hit the roof.
+
+345
+00:26:35,278 --> 00:26:38,031
+- Take her up, Mr. Neuman.
+- Close all main ballast vents.
+
+346
+00:26:38,115 --> 00:26:41,368
+- Stand by to surface.
+- Stand by to surface.
+
+347
+00:26:41,451 --> 00:26:43,411
+- Surface.
+- Surface.
+
+348
+00:26:46,832 --> 00:26:50,001
+- Blow all main ballasts!
+- Blow all main ballasts.
+
+349
+00:26:57,592 --> 00:26:59,594
+What's with the air banks, Holter?
+
+350
+00:27:02,472 --> 00:27:03,515
+The air bank's dry.
+
+351
+00:27:03,598 --> 00:27:06,143
+Open the emergency banks.
+Put 'em on the line.
+
+352
+00:27:07,686 --> 00:27:08,436
+They won't open.
+
+353
+00:27:08,520 --> 00:27:10,689
+They've got to open.
+We've checked everything.
+
+354
+00:27:10,772 --> 00:27:13,126
+These signs are all fouled up.
+I'll have to try every valve.
+
+355
+00:27:13,150 --> 00:27:14,651
+No, wait a minute.
+
+356
+00:27:14,734 --> 00:27:18,446
+Joto, come to the control room.
+Unsnarl these Japanese signs.
+
+357
+00:27:18,530 --> 00:27:21,992
+I can translate it. That one reads,
+"Open emergency air bank."
+
+358
+00:27:22,075 --> 00:27:25,412
+- What?
+- "Open emergency air bank."
+
+359
+00:27:25,495 --> 00:27:27,664
+Go ahead. Try it.
+
+360
+00:27:32,377 --> 00:27:34,421
+- Air bank's on the line.
+- Good. Thanks.
+
+361
+00:27:34,504 --> 00:27:36,506
+Okay. Put her on the roof.
+
+362
+00:27:48,393 --> 00:27:51,479
+- Skipper.
+- Yeah. Everything all right, Carpino?
+
+363
+00:27:51,563 --> 00:27:54,399
+Just a few leaks around the
+stuffing glands. I marked them.
+
+364
+00:27:54,482 --> 00:27:56,568
+Okay. Make a full sweep, Ski.
+
+365
+00:27:57,485 --> 00:27:59,446
+All clear, Skipper.
+
+366
+00:27:59,529 --> 00:28:02,115
+Rig for red. Up scope.
+
+367
+00:28:02,199 --> 00:28:04,117
+You better move out, Professor.
+
+368
+00:28:04,201 --> 00:28:07,537
+This helps get our eyes
+used to the dark when we go up.
+
+369
+00:28:17,631 --> 00:28:19,633
+Open the hatch, Holter.
+
+370
+00:28:21,051 --> 00:28:24,221
+You did a good job
+translating that sign, Doc.
+
+371
+00:28:26,556 --> 00:28:28,475
+Professor Gerard is MOL.
+
+372
+00:28:29,976 --> 00:28:32,896
+- MOL?
+- Master of Oriental Languages.
+
+373
+00:28:32,979 --> 00:28:36,399
+Oh? <i>Très bon. Très bon.</i>
+
+374
+00:28:36,483 --> 00:28:38,401
+Down scope.
+
+375
+00:28:41,154 --> 00:28:43,365
+Glad to have you aboard, Professor.
+
+376
+00:28:45,075 --> 00:28:47,911
+Glad to be aboard, Captain.
+
+377
+00:29:08,515 --> 00:29:13,019
+Captain. The professor wants to know
+if it's all right to come up for fresh air.
+
+378
+00:29:13,103 --> 00:29:15,522
+- Which one?
+- The one with the beard.
+
+379
+00:29:15,605 --> 00:29:18,775
+Oh. Okay.
+
+380
+00:29:18,858 --> 00:29:21,861
+Come to course 355,
+ahead full on both engines.
+
+381
+00:29:21,945 --> 00:29:24,364
+Ay, ay, Captain.
+
+382
+00:29:24,447 --> 00:29:27,450
+You won't need your umbrella, Professor.
+She's a dry boat.
+
+383
+00:29:28,785 --> 00:29:30,745
+It's nothing to worry about.
+
+384
+00:29:30,829 --> 00:29:34,708
+Almost everybody gets a touch
+of claustrophobia first time down.
+
+385
+00:29:34,791 --> 00:29:37,294
+It's not claustrophobia, Captain.
+
+386
+00:29:37,377 --> 00:29:41,381
+It's the realization that, at last,
+our mission has begun.
+
+387
+00:29:42,674 --> 00:29:45,385
+If anyone had told me six months ago
+
+388
+00:29:45,468 --> 00:29:48,888
+that today I would be on a submarine
+headed for arctic waters
+
+389
+00:29:48,972 --> 00:29:52,642
+in search of a secret atomic base...
+
+390
+00:29:52,726 --> 00:29:55,228
+- I just can't believe it.
+- Yeah, I know what you mean.
+
+391
+00:29:55,312 --> 00:29:57,314
+Well...
+
+392
+00:29:57,856 --> 00:30:00,567
+what about your assistant, Professor?
+
+393
+00:30:00,650 --> 00:30:04,487
+What makes a girl who looks like that
+get mixed up in science?
+
+394
+00:30:04,571 --> 00:30:07,407
+She comes from a family of scientists.
+
+395
+00:30:07,490 --> 00:30:09,576
+She was a child prodigy.
+
+396
+00:30:09,659 --> 00:30:11,786
+At 14, she entered college.
+
+397
+00:30:11,870 --> 00:30:15,081
+At 18, she studied at Göttingen.
+
+398
+00:30:15,165 --> 00:30:17,208
+She is really very brilliant.
+
+399
+00:30:17,292 --> 00:30:21,504
+A child prodigy
+with a body by Fisher?
+
+400
+00:30:21,588 --> 00:30:26,051
+And this is the greatest pigboat
+in the whole submarine service.
+
+401
+00:30:26,134 --> 00:30:28,428
+The USS <i>Bowfin.</i>
+
+402
+00:30:28,511 --> 00:30:30,764
+It's one we served on together...
+
+403
+00:30:30,847 --> 00:30:34,225
+me, the chief, Gunner,
+Dugboat and the skipper.
+
+404
+00:30:34,309 --> 00:30:36,728
+Beautiful, aingt she?
+
+405
+00:30:36,811 --> 00:30:39,189
+Oh, yes. Very beautiful.
+
+406
+00:30:39,272 --> 00:30:42,233
+You know something else
+that's very beautiful?
+
+407
+00:30:42,317 --> 00:30:45,111
+All my life I've been wanting
+to find a girl called Denise.
+
+408
+00:30:45,195 --> 00:30:48,281
+Oh, Ski,
+I'm sure you will find her.
+
+409
+00:30:48,365 --> 00:30:50,450
+Oh, I found her, all right.
+
+410
+00:30:50,533 --> 00:30:54,287
+You see, I lost no time at all
+in learning your first name.
+
+411
+00:30:54,371 --> 00:30:57,707
+Yep. Denise. It's always been
+my favorite name.
+
+412
+00:30:57,791 --> 00:30:59,751
+I... I never met a Denise,
+
+413
+00:30:59,834 --> 00:31:01,795
+but I always knew I would.
+
+414
+00:31:01,878 --> 00:31:06,174
+You see, from the moment I saw you,
+I said, "Lafayette, I'm here."
+
+415
+00:31:08,843 --> 00:31:11,846
+That's right. I always knew
+I'd meet a girl called Denise.
+
+416
+00:31:11,930 --> 00:31:13,848
+ID-E-N-I...
+
+417
+00:31:13,932 --> 00:31:15,934
+Don't let him kid you, honey.
+
+418
+00:31:16,017 --> 00:31:18,937
+I just seen him put your name on his arm.
+
+419
+00:31:19,020 --> 00:31:21,481
+- Look.
+- All right, bub. You asked for it!
+
+420
+00:31:21,564 --> 00:31:23,650
+No!
+
+421
+00:31:30,532 --> 00:31:33,076
+Come here, you big drunkard!
+
+422
+00:31:46,923 --> 00:31:50,176
+That's what I mean by Jonahs.
+They were beefing over the dame.
+
+423
+00:31:50,260 --> 00:31:52,637
+Wasn't her fault. He's stiff.
+
+424
+00:31:52,720 --> 00:31:54,722
+- She okay?
+- Yeah.
+
+425
+00:31:54,806 --> 00:31:56,808
+Just roughed up a little.
+
+426
+00:31:56,891 --> 00:31:58,893
+Take care of him, Holter.
+
+427
+00:31:58,977 --> 00:32:01,396
+Oh, here, let me help you, Professor.
+
+428
+00:32:01,479 --> 00:32:04,649
+- Thank you.
+- Let's see.
+
+429
+00:32:04,732 --> 00:32:07,068
+Boy.
+
+430
+00:32:07,152 --> 00:32:09,988
+I'm really very sorry about this,
+Professor.
+
+431
+00:32:10,071 --> 00:32:12,532
+That drunk was a last-minute replacement.
+
+432
+00:32:12,615 --> 00:32:15,952
+- He's all right when he's sober.
+- I'm sorry.
+
+433
+00:32:16,035 --> 00:32:18,705
+This is the last thing I...
+I wanted to happen.
+
+434
+00:32:18,788 --> 00:32:22,542
+It had to break out sooner or later.
+Let's have another look here.
+
+435
+00:32:22,625 --> 00:32:25,712
+It's lucky you still got your teeth.
+
+436
+00:32:32,260 --> 00:32:34,846
+Don't get nervous, Doc.
+Nobody's gonna bite you.
+
+437
+00:32:34,929 --> 00:32:39,476
+Don't you think that the pharmacist
+should treat me, if it's necessary?
+
+438
+00:32:39,559 --> 00:32:42,187
+He's got his hands full
+with those two lugs.
+
+439
+00:32:42,270 --> 00:32:46,733
+Besides, there's nothing
+he can do that I can't, you know.
+
+440
+00:32:46,816 --> 00:32:49,319
+Oh, my. He got you so greasy.
+
+441
+00:32:53,156 --> 00:32:55,408
+Okay.
+
+442
+00:32:55,492 --> 00:32:57,452
+You know what a log is?
+
+443
+00:32:57,535 --> 00:32:59,913
+- Yes.
+- You do?
+
+444
+00:32:59,996 --> 00:33:04,250
+Well, I'm supposed to keep a detailed
+report of everything that happens.
+
+445
+00:33:04,334 --> 00:33:07,712
+It's for Mr. Fujimori.
+
+446
+00:33:07,795 --> 00:33:10,590
+How'd it start?
+
+447
+00:33:12,717 --> 00:33:15,094
+I was working on a new formula
+
+448
+00:33:15,178 --> 00:33:18,765
+when Ski asked if he
+could show me his chest.
+
+449
+00:33:18,848 --> 00:33:20,850
+- Show you his chest?
+- Yes.
+
+450
+00:33:20,934 --> 00:33:23,311
+Oh.
+
+451
+00:33:23,394 --> 00:33:25,396
+And then what?
+
+452
+00:33:26,856 --> 00:33:29,776
+Then he removed his shirt.
+
+453
+00:33:29,859 --> 00:33:31,861
+No kidding?
+
+454
+00:33:31,945 --> 00:33:35,156
+- He wanted me to see his tattoo.
+- Oh, no.
+
+455
+00:33:37,033 --> 00:33:39,285
+- It was a beautiful tattoo.
+- I'll bet it was.
+
+456
+00:33:39,369 --> 00:33:41,287
+Beautiful.
+
+457
+00:33:41,371 --> 00:33:44,624
+- But the intoxicated one rubbed it off.
+- Naturally.
+
+458
+00:33:44,707 --> 00:33:47,710
+Tell me, he make a pass at you?
+
+459
+00:33:49,212 --> 00:33:51,422
+- A pass?
+- Did he try to kiss you?
+
+460
+00:33:51,506 --> 00:33:54,133
+Yes, he did.
+
+461
+00:33:54,217 --> 00:33:57,220
+He did? Did you coldcock him?
+
+462
+00:33:59,764 --> 00:34:02,058
+- What?
+- Did you hit him?
+
+463
+00:34:02,141 --> 00:34:04,477
+Wait a minute. Wait a minute.
+
+464
+00:34:04,561 --> 00:34:07,981
+Hold the phone. Hold the phone.
+Now, say that in English.
+
+465
+00:34:08,064 --> 00:34:10,066
+- I slapped him.
+- You did?
+
+466
+00:34:10,149 --> 00:34:12,318
+Tell me,
+
+467
+00:34:12,402 --> 00:34:14,612
+you hit him after he kissed you?
+
+468
+00:34:14,696 --> 00:34:17,532
+- Yes.
+- Not before?
+
+469
+00:34:21,244 --> 00:34:23,705
+I do not understand.
+
+470
+00:34:23,788 --> 00:34:27,250
+Well, you see, Professor, I just want
+to make sure my report is factual.
+
+471
+00:34:27,333 --> 00:34:29,252
+- I couldn't put...
+- Captain Jones.
+
+472
+00:34:29,335 --> 00:34:33,172
+Is this report for Mr. Fujimori
+or for you?
+
+473
+00:34:35,842 --> 00:34:40,013
+Now, really, a child prodigy oughta
+be able to figure that one out.
+
+474
+00:34:40,096 --> 00:34:42,181
+Don't you think?
+
+475
+00:34:42,265 --> 00:34:44,183
+- Yes.
+- Yes.
+
+476
+00:34:48,438 --> 00:34:50,648
+<i>Au revoir,</i> Professor.
+
+477
+00:34:59,616 --> 00:35:01,618
+Now listen to me.
+
+478
+00:35:02,910 --> 00:35:05,705
+I don't want any more beefs,
+you understand?
+
+479
+00:35:05,788 --> 00:35:08,249
+If I hear of anybody
+making a play for that girl,
+
+480
+00:35:08,333 --> 00:35:11,711
+I'll personally shoot him out
+through torpedo tube number one.
+
+481
+00:35:11,794 --> 00:35:14,964
+Captain, is it still a secret
+where we're going?
+
+482
+00:35:15,048 --> 00:35:18,051
+We're tailing a freighter
+to an island in the North Pacific.
+
+483
+00:35:18,134 --> 00:35:20,053
+Gonna sink her?
+
+484
+00:35:20,136 --> 00:35:22,889
+We're gonna sneak into this island,
+take a look and sneak out.
+
+485
+00:35:22,972 --> 00:35:24,891
+This is a scientific expedition.
+
+486
+00:35:24,974 --> 00:35:28,895
+- But, Skipper, what are we looking for?
+- Four-leaf clovers.
+
+487
+00:35:28,978 --> 00:35:31,773
+Well, what if the guys on the island
+don't like us?
+
+488
+00:35:31,856 --> 00:35:35,193
+Look, I know you're all
+itching for a little action,
+
+489
+00:35:35,276 --> 00:35:38,655
+but you'll only get it if we
+have to defend ourselves, so relax.
+
+490
+00:35:58,800 --> 00:36:00,718
+<i>Capitaine Jones?</i>
+
+491
+00:36:07,600 --> 00:36:09,519
+<i>Le Capitaine Jones.</i>
+
+492
+00:36:22,990 --> 00:36:25,451
+<i>Bonne nuit.</i>
+
+493
+00:36:25,535 --> 00:36:27,495
+<i>Bonne nuit.</i>
+
+494
+00:37:20,882 --> 00:37:23,801
+Oh, good morning!
+
+495
+00:37:23,885 --> 00:37:26,739
+- Was the water hot enough, Professor?
+- Just wonderful, thank you.
+
+496
+00:37:26,763 --> 00:37:30,349
+- <i>Voulez-vous "fume" une cigarette?</i>
+- What?
+
+497
+00:37:30,433 --> 00:37:32,393
+- I'm speaking French.
+- Oh.
+
+498
+00:37:32,477 --> 00:37:34,812
+<i>Voulez-vous "fume" une cigarette?</i>
+
+499
+00:37:34,896 --> 00:37:38,483
+Oh, you mean <i>"Voulez-vous</i>
+<i>fumer une cigarette</i>?"
+
+500
+00:37:38,566 --> 00:37:41,986
+- That's what I said.
+- No. <i>Fumer.</i>
+
+501
+00:37:42,069 --> 00:37:44,614
+- Foo-may.
+- No, no, no.
+
+502
+00:37:44,697 --> 00:37:47,200
+You have to form your lips like this.
+
+503
+00:37:47,283 --> 00:37:50,036
+<i>Fumer.</i>
+
+504
+00:37:50,119 --> 00:37:52,038
+<i>Fumer.</i>
+
+505
+00:37:53,581 --> 00:37:55,917
+<i>Fumer.</i>
+
+506
+00:37:56,000 --> 00:37:58,795
+<i>Fumer.</i>
+
+507
+00:37:58,878 --> 00:38:02,757
+I think I better go now.
+
+508
+00:38:02,840 --> 00:38:05,676
+Thank you.
+
+509
+00:38:05,760 --> 00:38:09,514
+You know, someday I'm gonna
+find out what color her eyes are.
+
+510
+00:38:10,848 --> 00:38:13,684
+Good morning, Captain Jones.
+You wanted to see me?
+
+511
+00:38:13,768 --> 00:38:16,646
+Why did you let me sleep
+through that plane contact?
+
+512
+00:38:16,729 --> 00:38:21,526
+I thought you needed the rest.
+You were on duty for almost 20 hours.
+
+513
+00:38:21,609 --> 00:38:24,654
+Didn't you stop to think
+how important that message might be?
+
+514
+00:38:24,737 --> 00:38:26,656
+Of course.
+
+515
+00:38:26,739 --> 00:38:30,493
+So I made sure that it was not
+by decoding it myself.
+
+516
+00:38:31,702 --> 00:38:33,996
+As you see,
+
+517
+00:38:34,080 --> 00:38:38,668
+it reports only that the <i>Kiang Ching</i>
+has made no change in speed or course.
+
+518
+00:38:38,751 --> 00:38:40,920
+I knew that was of no importance.
+
+519
+00:38:41,003 --> 00:38:43,464
+Professor, did it ever occur to you
+
+520
+00:38:43,548 --> 00:38:46,050
+that I might be steering a course to be...
+
+521
+00:38:47,552 --> 00:38:50,888
+You've lost us approximately two hours!
+
+522
+00:38:50,972 --> 00:38:53,558
+I'm very sorry, Captain.
+
+523
+00:38:53,641 --> 00:38:56,811
+- And I think I have learned something.
+- I hope so.
+
+524
+00:39:10,616 --> 00:39:14,245
+If you want to listen in on conversations,
+use the intercom. It's easier.
+
+525
+00:39:14,328 --> 00:39:16,706
+That conversation I would
+prefer not to have heard.
+
+526
+00:39:16,789 --> 00:39:20,126
+- But I was waiting to see you.
+- Okay, you see me. I'm busy.
+
+527
+00:39:20,209 --> 00:39:22,795
+Many years have I been
+with Professor Montel,
+
+528
+00:39:22,879 --> 00:39:25,339
+but never before have I heard
+anyone speak like you
+
+529
+00:39:25,423 --> 00:39:27,425
+to the greatest scientist in his field.
+
+530
+00:39:27,508 --> 00:39:31,304
+Professor Montel's field isn't commanding
+a screwball submarine. Mine is.
+
+531
+00:39:31,387 --> 00:39:33,389
+If such rudeness is necessary,
+
+532
+00:39:33,472 --> 00:39:36,475
+I hope this will be a very short cruise.
+
+533
+00:39:38,477 --> 00:39:41,814
+What'd you want to see me about?
+
+534
+00:39:51,032 --> 00:39:52,950
+- Joto.
+<i>- Yes, sir?</i>
+
+535
+00:39:53,034 --> 00:39:55,995
+In the future, when a message
+comes in to this boat, I get it,
+
+536
+00:39:56,078 --> 00:39:58,789
+no matter who says it's unnecessary,
+you understand?
+
+537
+00:39:58,873 --> 00:40:00,791
+<i>Yes, sir.</i>
+
+538
+00:40:00,875 --> 00:40:04,545
+Oh-oh-oh-oh-oh!
+
+539
+00:40:08,090 --> 00:40:10,301
+No, no, no, no.
+
+540
+00:40:10,384 --> 00:40:12,762
+This time, he was right.
+
+541
+00:40:32,990 --> 00:40:36,619
+May we come on the bridge?
+
+542
+00:40:36,702 --> 00:40:38,704
+Sure. Help yourself.
+
+543
+00:40:40,498 --> 00:40:42,792
+Contact plane
+approaching on schedule!
+
+544
+00:40:42,875 --> 00:40:44,794
+Good enough.
+
+545
+00:40:48,965 --> 00:40:50,883
+Okay, Charlie.
+
+546
+00:40:58,307 --> 00:41:00,601
+There it is!
+
+547
+00:41:20,079 --> 00:41:22,039
+Well, this one's for you, Doc.
+
+548
+00:41:22,123 --> 00:41:27,086
+"Intelligence reports <i>Kiang Ching</i> carrying
+unconventional-type 61 -♪ capsule."
+
+549
+00:41:27,169 --> 00:41:31,048
+Signed, "Fujimori." What's a 61 -♪ capsule?
+
+550
+00:41:31,132 --> 00:41:33,092
+The charge to explode an A-bomb.
+
+551
+00:41:33,175 --> 00:41:36,929
+Hey, Skipper. Radar shows
+surface object approaching,
+
+552
+00:41:37,013 --> 00:41:38,931
+bearing 355 degrees.
+
+553
+00:41:39,015 --> 00:41:41,934
+- Speed?
+- Can't tell yet, but he's closing fast.
+
+554
+00:41:42,018 --> 00:41:44,729
+- Range.
+- 3,800 yards.
+
+555
+00:41:44,812 --> 00:41:47,606
+Maybe the freighter has seen
+our signal and comes after us.
+
+556
+00:41:47,690 --> 00:41:48,690
+Rig for red.
+
+557
+00:42:18,512 --> 00:42:20,556
+A sub's after us.
+
+558
+00:42:20,639 --> 00:42:23,976
+A sub? I thought this was
+a scientific expedition.
+
+559
+00:42:24,060 --> 00:42:26,103
+It is, and we're gonna play it safe.
+
+560
+00:42:26,187 --> 00:42:29,523
+No use getting a bloody nose
+unless we have to.
+
+561
+00:42:31,692 --> 00:42:34,153
+She's submerged and listening for us.
+
+562
+00:42:34,236 --> 00:42:37,615
+- That's why she stopped pinging.
+- What does this mean?
+
+563
+00:42:37,698 --> 00:42:42,161
+It means she's saving her torpedoes,
+waiting till we surface.
+
+564
+00:42:42,244 --> 00:42:44,163
+Just one more day, Doc,
+
+565
+00:42:44,246 --> 00:42:47,249
+and we'd have finished
+overhauling those torpedo tubes.
+
+566
+00:42:47,333 --> 00:42:49,502
+Can you see her scope?
+
+567
+00:42:49,585 --> 00:42:51,879
+No.
+
+568
+00:42:51,962 --> 00:42:53,964
+Well, we can play possum too.
+
+569
+00:42:55,257 --> 00:42:58,803
+- How's the hydrogen?
+<i>- Built up to three percent.</i>
+
+570
+00:43:00,763 --> 00:43:03,766
+Well, we can't chance surfacing here.
+We've got to make a run for it.
+
+571
+00:43:03,849 --> 00:43:07,269
+Professor, I think you'd both
+better stay in your quarters.
+
+572
+00:43:07,353 --> 00:43:09,271
+Down scope.
+
+573
+00:43:28,040 --> 00:43:30,543
+They're still on our stern, Skipper.
+
+574
+00:43:43,514 --> 00:43:47,351
+- How's that hydrogen gas?
+<i>- Four percent and still building.</i>
+
+575
+00:43:56,986 --> 00:44:00,322
+Take her up!
+
+576
+00:44:09,165 --> 00:44:11,083
+Okay, Charlie.
+
+577
+00:44:39,862 --> 00:44:42,156
+You better keep off the bridge, Professor.
+
+578
+00:44:42,239 --> 00:44:44,158
+I'm not going up.
+
+579
+00:44:44,241 --> 00:44:49,079
+The skipper'd blow his top if he even
+found you here in the control room.
+
+580
+00:44:49,163 --> 00:44:52,166
+- Sit down, Professor. Grab some air.
+- Thank you.
+
+581
+00:44:54,710 --> 00:44:57,296
+Have you identified the submarine?
+
+582
+00:44:57,379 --> 00:45:00,007
+No. We haven't even seen her yet.
+
+583
+00:45:00,090 --> 00:45:02,885
+They're topside trying to spot her now.
+
+584
+00:45:02,968 --> 00:45:05,721
+No sign of her yet, Skipper.
+
+585
+00:45:05,804 --> 00:45:08,933
+Sonar tells us she's not far.
+Alert the gun crew.
+
+586
+00:45:09,016 --> 00:45:11,977
+- What?
+- I know. We're not looking for trouble.
+
+587
+00:45:12,061 --> 00:45:15,606
+But we'd be fools
+not to protect ourselves.
+
+588
+00:45:15,689 --> 00:45:17,608
+Alert for battle stations!
+
+589
+00:45:17,691 --> 00:45:20,736
+<i>Gun crew stand by to man the deck gun.</i>
+
+590
+00:45:23,489 --> 00:45:25,491
+What about these torpedoes?
+
+591
+00:45:26,992 --> 00:45:30,829
+You know those tubes haven't been checked.
+Forget the torpedoes!
+
+592
+00:45:30,913 --> 00:45:34,041
+- Where is she now, Joto?
+- Range, 1,500.
+
+593
+00:45:34,124 --> 00:45:36,585
+Either she's moving out,
+or she's gonna surface.
+
+594
+00:45:39,672 --> 00:45:41,298
+There she is, Skipper!
+
+595
+00:45:45,219 --> 00:45:47,137
+They're coming out on deck.
+
+596
+00:45:47,221 --> 00:45:49,181
+Ask them where we are, Charlie.
+
+597
+00:45:49,265 --> 00:45:51,517
+- Why not man the five-incher now?
+- No!
+
+598
+00:45:51,600 --> 00:45:55,604
+The minute they spot a crew near that gun,
+they'll throw torpedoes at us.
+
+599
+00:46:00,776 --> 00:46:01,777
+What are they saying?
+
+600
+00:46:01,860 --> 00:46:04,530
+They want to know who we are
+and what we're doing here.
+
+601
+00:46:04,613 --> 00:46:08,701
+Tell 'em we're a private scientific
+expedition headed for the arctic.
+
+602
+00:46:14,540 --> 00:46:17,209
+They insist on boarding us.
+
+603
+00:46:17,293 --> 00:46:19,753
+Well, keep stalling.
+Tell 'em we don't understand.
+
+604
+00:46:19,837 --> 00:46:22,256
+Ask them to repeat the message.
+
+605
+00:46:34,643 --> 00:46:38,188
+Put one over our bow.
+Keep asking them to repeat, Charlie.
+
+606
+00:46:40,899 --> 00:46:44,528
+Turn our nose into her. Steer 001.
+
+607
+00:46:44,611 --> 00:46:47,573
+And get ready to man that gun.
+
+608
+00:47:04,840 --> 00:47:07,593
+Keep clear of the lifeline!
+
+609
+00:47:16,143 --> 00:47:18,145
+Right full rudder.
+
+610
+00:47:51,387 --> 00:47:53,263
+Torpedo!
+
+611
+00:47:56,642 --> 00:47:58,560
+Clear the deck! Clear the deck!
+
+612
+00:47:58,644 --> 00:48:00,437
+Dive!
+
+613
+00:48:17,621 --> 00:48:19,623
+Close the hatch!
+
+614
+00:48:27,172 --> 00:48:29,675
+My hand! My hand!
+
+615
+00:48:31,135 --> 00:48:33,637
+My hand!
+
+616
+00:48:33,720 --> 00:48:37,808
+- Give me a knife!
+- No! No! No!
+
+617
+00:48:37,891 --> 00:48:40,018
+- My hand!
+- No!
+
+618
+00:48:40,102 --> 00:48:43,605
+Here.
+
+619
+00:48:50,446 --> 00:48:52,698
+- How is he? How is he?
+- It's his thumb.
+
+620
+00:48:55,284 --> 00:48:57,244
+All right. Get 'em all below.
+
+621
+00:48:57,327 --> 00:48:59,632
+Hey, you guys! Come on up here!
+Give me a hand, quick!
+
+622
+00:49:00,706 --> 00:49:02,541
+We ship too much water. Can't hold her up.
+
+623
+00:49:02,624 --> 00:49:04,644
+Get the angle off
+and let her settle to the bottom.
+
+624
+00:49:04,668 --> 00:49:06,503
+All back full.
+
+625
+00:49:18,682 --> 00:49:21,185
+Enemy torpedo fired.
+
+626
+00:49:26,690 --> 00:49:30,277
+Number two fish
+out of their basket.
+
+627
+00:49:56,845 --> 00:49:59,306
+Secure all running machinery.
+Remain silent.
+
+628
+00:49:59,389 --> 00:50:01,558
+<i>Bilge pump motor's flooded, Skipper.</i>
+
+629
+00:50:01,642 --> 00:50:04,245
+Form a bucket line.
+Dump the water in the engine room bilges.
+
+630
+00:50:04,269 --> 00:50:08,357
+That tub's laying for us, Skipper.
+She's coming real close.
+
+631
+00:50:49,898 --> 00:50:51,525
+I lost her.
+
+632
+00:50:52,442 --> 00:50:54,736
+Nothing out of her now. No sound.
+
+633
+00:50:58,073 --> 00:51:00,534
+What do you think, Skipper?
+
+634
+00:51:00,617 --> 00:51:03,954
+I think she's pulling
+the same trick we are.
+
+635
+00:51:21,513 --> 00:51:25,517
+Now watch that salt water.
+We don't want any chlorine gas in the boat.
+
+636
+00:51:38,572 --> 00:51:40,490
+Hold it.
+
+637
+00:51:41,575 --> 00:51:44,536
+Captain, this hot heat is killing us.
+
+638
+00:51:44,620 --> 00:51:46,538
+We got to turn on the fans.
+
+639
+00:51:46,622 --> 00:51:51,418
+If they heard our fans, you wouldn't have
+to worry about the heat killing you, boy.
+
+640
+00:51:51,501 --> 00:51:54,588
+All right, I'll fill in the picture
+for you quick.
+
+641
+00:51:54,671 --> 00:51:58,216
+We got torpedoes, but our tubes
+aren't in condition to fire 'em.
+
+642
+00:51:58,300 --> 00:52:00,278
+And the Red sub's parked
+on the bottom like we are,
+
+643
+00:52:00,302 --> 00:52:03,138
+waiting to pick us up on sonar.
+
+644
+00:52:03,221 --> 00:52:06,224
+Once she does,
+she'll throw more fish at us.
+
+645
+00:52:06,308 --> 00:52:11,271
+So it's a question of who can hold out
+longer without air... the Reds or us.
+
+646
+00:52:11,355 --> 00:52:16,109
+If we break first, chances are
+it'll be our last break.
+
+647
+00:52:17,402 --> 00:52:20,572
+And we're loaded with hydrogen.
+
+648
+00:52:20,656 --> 00:52:23,158
+We're liable to explode.
+
+649
+00:52:23,241 --> 00:52:25,911
+But we got one thing in our favor.
+
+650
+00:52:25,994 --> 00:52:28,789
+We can save oxygen by shutting up.
+
+651
+00:52:30,666 --> 00:52:32,084
+That's all.
+
+652
+00:53:23,927 --> 00:53:25,887
+Nothing?
+
+653
+00:53:26,888 --> 00:53:28,807
+Nothing.
+
+654
+00:53:34,146 --> 00:53:36,148
+We gotta save juice.
+
+655
+00:53:39,901 --> 00:53:42,154
+Shift to red.
+
+656
+00:53:46,742 --> 00:53:48,869
+Keep your ears open, Ski.
+
+657
+00:55:14,246 --> 00:55:18,416
+I am sorry, Captain, for being so stupid.
+
+658
+00:55:18,500 --> 00:55:20,961
+That's all right. Save your breath.
+
+659
+00:55:21,044 --> 00:55:23,046
+You had to use the knife.
+
+660
+00:55:24,339 --> 00:55:28,802
+If you didn't close the hatch,
+we would all be dead.
+
+661
+00:55:31,012 --> 00:55:33,056
+You're beat.
+
+662
+00:55:33,139 --> 00:55:37,060
+You better get back to your bunk
+and take it easy. Come on.
+
+663
+00:56:50,258 --> 00:56:53,053
+I want to tell you how...
+
+664
+00:56:53,136 --> 00:56:55,138
+Don't talk.
+
+665
+00:57:30,548 --> 00:57:32,550
+Skipper.
+
+666
+00:57:34,803 --> 00:57:36,972
+He's in a bad way.
+
+667
+00:57:37,055 --> 00:57:41,601
+I thought that hypo was gonna do the trick, but
+he's suffering from shock and loss of blood.
+
+668
+00:57:44,562 --> 00:57:49,025
+If he don't get some air right away, you're
+gonna have only one professor for cargo.
+
+669
+00:57:55,949 --> 00:57:59,869
+There's 50 grand in that bunk.
+
+670
+00:57:59,953 --> 00:58:02,998
+Fifty grand is worth a little air.
+
+671
+00:58:07,293 --> 00:58:09,504
+Joto, turn on the white lights.
+
+672
+00:58:25,311 --> 00:58:28,898
+Boys, I'm gonna try a long shot.
+
+673
+00:58:28,982 --> 00:58:32,736
+If her first couple of torpedoes
+miss us, we got a chance.
+
+674
+00:58:32,819 --> 00:58:37,574
+I'd rather pass out without air than have
+a torpedo come plowing through us.
+
+675
+00:58:40,535 --> 00:58:44,873
+Now when we start the pump,
+we're liable to get a spark.
+
+676
+00:58:46,416 --> 00:58:49,961
+Maybe it'll burn off the hydrogen,
+maybe it won't.
+
+677
+00:58:50,045 --> 00:58:52,672
+If it doesn't,
+
+678
+00:58:52,756 --> 00:58:56,176
+we'll blow up so fast
+you'll never feel it.
+
+679
+00:58:58,428 --> 00:59:00,722
+Good luck to all of us.
+
+680
+00:59:17,030 --> 00:59:19,657
+- You got everything straight?
+- Yes, sir.
+
+681
+00:59:35,090 --> 00:59:38,426
+Now here's where we find out
+if we've lived right.
+
+682
+01:00:13,461 --> 01:00:15,548
+No more chance of explosion.
+Pass the word along.
+
+683
+01:00:15,630 --> 01:00:17,549
+And build up the turns slowly.
+
+684
+01:00:17,632 --> 01:00:19,551
+- Hold down the noise.
+<i>- Yes, sir.</i>
+
+685
+01:00:19,634 --> 01:00:21,803
+- All ahead one-third.
+- Yes, sir.
+
+686
+01:00:21,886 --> 01:00:24,017
+Take her up and level her
+to 175 feet, Mr. Neuman.
+
+687
+01:00:24,097 --> 01:00:25,306
+Yes, sir.
+
+688
+01:01:23,281 --> 01:01:25,366
+She's speeded up, Skipper.
+
+689
+01:01:25,450 --> 01:01:27,452
+Bearing 240 degrees.
+
+690
+01:01:27,535 --> 01:01:29,454
+Right full rudder! All ahead flank!
+
+691
+01:01:35,960 --> 01:01:39,505
+- Stand by to ram!
+- Stand by to ram!
+
+692
+01:02:23,258 --> 01:02:27,178
+Range 200, bearing 010 degrees.
+
+693
+01:02:27,262 --> 01:02:29,973
+Left full rudder!
+Take her down to 190 feet.
+
+694
+01:02:30,056 --> 01:02:32,016
+- 190 feet.
+- Stand by to ram!
+
+695
+01:03:15,518 --> 01:03:18,146
+All back, emergency!
+Blow all main ballasts!
+
+696
+01:03:59,312 --> 01:04:00,855
+Captain!
+
+697
+01:04:04,776 --> 01:04:06,194
+Captain!
+
+698
+01:04:42,522 --> 01:04:46,109
+There you are.
+Are you sure you're all right, Doc?
+
+699
+01:04:46,192 --> 01:04:48,820
+- Yes, thank you.
+- All right.
+
+700
+01:04:48,903 --> 01:04:51,697
+Now take a good deep breath of fresh air.
+
+701
+01:05:12,760 --> 01:05:14,679
+Feel all right, Dugboat?
+
+702
+01:05:14,762 --> 01:05:18,266
+Yeah. For a quiet scientific expedition,
+I couldn't feel better.
+
+703
+01:05:19,350 --> 01:05:21,936
+You look awful. Let me see your tongue.
+
+704
+01:06:14,614 --> 01:06:16,532
+It all real cool, man.
+
+705
+01:06:22,330 --> 01:06:24,248
+This are the end, Jackson.
+
+706
+01:06:56,364 --> 01:07:00,243
+I'm learning French. You know,
+like Chin Lee learned that American song.
+
+707
+01:07:00,326 --> 01:07:03,329
+You're wasting your time, junior.
+
+708
+01:07:14,757 --> 01:07:17,176
+- Hi.
+- Hello.
+
+709
+01:07:17,260 --> 01:07:20,388
+Say, if that music disturbs you,
+I could have it turned off.
+
+710
+01:07:20,471 --> 01:07:22,598
+Oh, no. I... I love music.
+
+711
+01:07:22,682 --> 01:07:25,226
+Oh. That?
+
+712
+01:07:25,309 --> 01:07:27,228
+Well, how's the hand, Professor?
+
+713
+01:07:27,311 --> 01:07:29,313
+Wonderful, Captain, as you see.
+
+714
+01:07:29,397 --> 01:07:31,107
+Good. Glad to hear it.
+
+715
+01:07:31,190 --> 01:07:33,901
+- And how are you, Professor?
+- I'm fine, thank you.
+
+716
+01:07:33,985 --> 01:07:36,487
+- Swell. You know, when I...
+<i>- Captain Jones!</i>
+
+717
+01:07:36,571 --> 01:07:38,465
+<i>Come topside, please.
+Freighter in sight of land.</i>
+
+718
+01:07:38,489 --> 01:07:39,615
+Excuse me.
+
+719
+01:08:33,628 --> 01:08:35,796
+<i>Bonne chance.</i>
+
+720
+01:09:04,325 --> 01:09:06,619
+I don't understand.
+
+721
+01:09:06,702 --> 01:09:09,080
+Our intelligence report
+cannot be this wrong.
+
+722
+01:09:09,163 --> 01:09:11,666
+All we are getting is a normal count.
+
+723
+01:09:11,749 --> 01:09:14,919
+- You ought to be happy.
+- Don't misunderstand.
+
+724
+01:09:15,002 --> 01:09:18,190
+Nothing would please me more than
+to know that our suspicions are unfounded.
+
+725
+01:09:18,214 --> 01:09:20,132
+Then let's move out.
+
+726
+01:09:20,216 --> 01:09:24,720
+There's nothing here but this two-bit
+garrison and some beat-up storage tanks.
+
+727
+01:09:24,804 --> 01:09:27,682
+It's a great pity I cannot talk to them.
+
+728
+01:09:27,765 --> 01:09:30,976
+We are worlds apart.
+But, after all, they are human.
+
+729
+01:09:43,989 --> 01:09:46,283
+- Let's go.
+- But Neuman.
+
+730
+01:09:46,367 --> 01:09:48,327
+Forget it. Shot right through the head.
+
+731
+01:09:48,411 --> 01:09:50,746
+Let's get out of here.
+
+732
+01:09:54,625 --> 01:09:56,711
+Ski, try to knock out that light!
+
+733
+01:10:50,222 --> 01:10:52,141
+All right, come on! Let's get outta here!
+
+734
+01:10:54,602 --> 01:10:56,520
+You yellow dogs!
+
+735
+01:11:49,240 --> 01:11:51,909
+Come on, Ski. Give me a hand.
+Let's get him in the boat.
+
+736
+01:11:51,992 --> 01:11:54,954
+You wanted to talk to one of these <i>humans.</i>
+I got one for you.
+
+737
+01:12:05,840 --> 01:12:07,842
+Wet down your coats.
+
+738
+01:12:40,082 --> 01:12:42,626
+Well, they must be combing
+the whole area for us,
+
+739
+01:12:42,710 --> 01:12:45,170
+but so far, nothing?
+
+740
+01:12:45,254 --> 01:12:47,172
+Not even a seagull.
+
+741
+01:12:47,256 --> 01:12:51,468
+Hey, Dugboat, you sure this jelly I'm
+rubbing on my chest won't eat off my tattoo?
+
+742
+01:12:51,552 --> 01:12:53,697
+What are you worried about?
+You can always get another.
+
+743
+01:12:53,721 --> 01:12:57,641
+Are you nuts?
+That's my "piece be resistance."
+
+744
+01:12:57,725 --> 01:12:59,852
+- Your piece be what?
+- That's French.
+
+745
+01:12:59,935 --> 01:13:01,854
+I been practicing, "nessie-pas?"
+
+746
+01:13:01,937 --> 01:13:05,357
+You need more practice.
+
+747
+01:13:05,441 --> 01:13:09,320
+<i>Captain Jones. Professor Montel
+wants to see you in sick bay.</i>
+
+748
+01:13:14,825 --> 01:13:17,703
+- Want more coffee?
+- No. No, thank you, Chin Lee. Thank you.
+
+749
+01:13:17,786 --> 01:13:20,915
+This is wonderful.
+
+750
+01:13:20,998 --> 01:13:23,334
+- You want to see me, Professor?
+- Yes.
+
+751
+01:13:23,417 --> 01:13:25,628
+Denise has just translated his orders.
+
+752
+01:13:25,711 --> 01:13:30,841
+His name is Sin. He's a pilot en route
+to Kevlock Island for special duty.
+
+753
+01:13:30,925 --> 01:13:31,550
+So what?
+
+754
+01:13:31,634 --> 01:13:34,261
+Kevlock must be the island
+Captain Taylor photographed.
+
+755
+01:13:34,345 --> 01:13:36,263
+Well, how do you figure that?
+
+756
+01:13:36,347 --> 01:13:41,310
+An air force pilot would hardly be assigned
+to duty on an island without an airstrip.
+
+757
+01:13:41,393 --> 01:13:46,398
+And as you know, Kevlock is the only island
+indicated by name in this entire chain.
+
+758
+01:13:46,482 --> 01:13:49,902
+It appears to be due north
+of our present position.
+
+759
+01:13:50,945 --> 01:13:52,905
+And what do you suggest we do about it?
+
+760
+01:13:52,988 --> 01:13:55,741
+It seems to me our course is obvious.
+
+761
+01:13:55,824 --> 01:13:59,203
+- Not in my book, Doc.
+- What do you mean?
+
+762
+01:13:59,286 --> 01:14:03,791
+I mean you said once that each man's
+got his own reason for living
+
+763
+01:14:03,874 --> 01:14:06,377
+and his own price for dying.
+
+764
+01:14:06,460 --> 01:14:08,587
+Well, my reason for living is 50 grand.
+
+765
+01:14:08,671 --> 01:14:10,547
+I'm not sticking my neck out again.
+
+766
+01:14:10,631 --> 01:14:14,301
+- Is one neck that important, Captain?
+- It is when it's mine.
+
+767
+01:14:14,385 --> 01:14:15,803
+What kind of man are you?
+
+768
+01:14:15,886 --> 01:14:18,430
+Hold it. Hold it.
+
+769
+01:14:18,514 --> 01:14:21,642
+Let's not gang up
+with a lot of double-talk.
+
+770
+01:14:21,725 --> 01:14:23,644
+I'm a businessman.
+
+771
+01:14:23,727 --> 01:14:27,648
+Maybe to a couple of flag-wavers like you,
+I'm a mercenary. All right.
+
+772
+01:14:27,731 --> 01:14:30,609
+But I lived up to my part of the contract.
+
+773
+01:14:30,693 --> 01:14:32,903
+The deal was to tail
+the freighter to the island,
+
+774
+01:14:32,987 --> 01:14:34,947
+put you ashore and get you back to Tokyo.
+
+775
+01:14:35,030 --> 01:14:38,075
+Nobody said anything
+about a second island.
+
+776
+01:14:38,158 --> 01:14:41,912
+So as far as I'm concerned,
+mission completed. We're going home.
+
+777
+01:14:41,996 --> 01:14:43,956
+Any objections?
+
+778
+01:14:47,543 --> 01:14:49,753
+Yes.
+
+779
+01:14:49,837 --> 01:14:52,673
+I hate to use authority,
+
+780
+01:14:52,756 --> 01:14:55,342
+but if I have to, I will.
+
+781
+01:14:55,426 --> 01:14:57,511
+I didn't want it to come to this.
+
+782
+01:14:58,846 --> 01:15:01,432
+But as long as you have
+mentioned the contract,
+
+783
+01:15:01,515 --> 01:15:03,517
+study it closely, Captain.
+
+784
+01:15:03,600 --> 01:15:06,854
+You will find a paragraph stating that I,
+
+785
+01:15:06,937 --> 01:15:09,189
+and I alone,
+
+786
+01:15:09,273 --> 01:15:12,693
+shall determine when
+the mission is finished.
+
+787
+01:15:12,776 --> 01:15:14,945
+And in my book, Captain,
+
+788
+01:15:15,029 --> 01:15:19,450
+the mission will be finished
+after I am taken to Kevlock,
+
+789
+01:15:19,533 --> 01:15:22,453
+given the chance to examine the island
+
+790
+01:15:22,536 --> 01:15:24,580
+and returned to Tokyo.
+
+791
+01:15:31,045 --> 01:15:32,963
+- Joto.
+- <i>Yes, sir.</i>
+
+792
+01:15:33,047 --> 01:15:35,007
+- Head due north.
+<i>- Did you say north?</i>
+
+793
+01:15:35,090 --> 01:15:38,260
+You heard me.
+Set a new course for Kevlock Island.
+
+794
+01:15:38,343 --> 01:15:40,554
+- It's on your chart.
+- <i>Yes, sir.</i>
+
+795
+01:16:46,078 --> 01:16:48,080
+Okay, Doc, let's go.
+
+796
+01:16:51,708 --> 01:16:54,461
+What's the matter?
+
+797
+01:16:54,545 --> 01:16:56,463
+My knee.
+
+798
+01:16:56,547 --> 01:16:59,174
+- I thought you said it was okay this morning.
+- It was.
+
+799
+01:16:59,258 --> 01:17:02,362
+- I'll manage in a few moments.
+- Not a chance. You'd just be in the way.
+
+800
+01:17:02,386 --> 01:17:04,864
+- It will improve by tomorrow. I'm sure of it.
+- Sorry, Doc.
+
+801
+01:17:04,888 --> 01:17:07,888
+We're not hanging around these waters
+that long. This is a powder keg.
+
+802
+01:17:20,612 --> 01:17:24,158
+Wait. Wait a minute. Wait a minute. What's
+going on? What are you talking about?
+
+803
+01:17:26,827 --> 01:17:28,745
+Captain Jones,
+
+804
+01:17:28,829 --> 01:17:31,999
+my assistant will accompany you.
+
+805
+01:17:32,082 --> 01:17:32,916
+What?
+
+806
+01:17:33,000 --> 01:17:35,294
+She has sufficient training
+to compute figures,
+
+807
+01:17:35,377 --> 01:17:38,213
+determine strength and identify elements
+
+808
+01:17:38,297 --> 01:17:40,257
+if there are any on this island.
+
+809
+01:17:40,340 --> 01:17:42,259
+You mean you'd... you'd let her go?
+
+810
+01:17:42,342 --> 01:17:44,136
+With the exception of me,
+
+811
+01:17:44,219 --> 01:17:47,264
+Professor Gerard
+is the only member of this expedition
+
+812
+01:17:47,347 --> 01:17:49,308
+capable of performing this task.
+
+813
+01:17:49,391 --> 01:17:52,728
+- Oh, you're both crazy.
+- You will take her ashore
+
+814
+01:17:52,811 --> 01:17:56,523
+and follow her instructions
+as you would have followed mine.
+
+815
+01:17:56,607 --> 01:17:59,026
+She is not going, and that's final.
+
+816
+01:17:59,109 --> 01:18:03,614
+You still cannot take an order,
+can you, Captain Jones?
+
+817
+01:18:03,697 --> 01:18:05,616
+And what's behind that crack?
+
+818
+01:18:05,699 --> 01:18:07,659
+Exactly what you think is behind it.
+
+819
+01:18:31,058 --> 01:18:33,018
+Ski, you stay here. Keep your eyes open.
+
+820
+01:18:33,101 --> 01:18:35,020
+What about her?
+I could carry her equipment.
+
+821
+01:18:35,103 --> 01:18:37,231
+She can take care of her own equipment.
+
+822
+01:19:40,961 --> 01:19:42,838
+Take a look down there.
+
+823
+01:19:43,714 --> 01:19:45,841
+Looks like a bunch of doors.
+
+824
+01:19:52,014 --> 01:19:54,725
+I'm afraid we have found
+what we are looking for.
+
+825
+01:20:15,162 --> 01:20:18,790
+A Geiger counter reaction like this
+can mean only one thing.
+
+826
+01:20:18,874 --> 01:20:21,668
+These figures...
+
+827
+01:20:33,388 --> 01:20:35,599
+What are they saying?
+
+828
+01:20:35,682 --> 01:20:39,394
+They are looking for Lumfong,
+a missing soldier.
+
+829
+01:20:44,858 --> 01:20:47,611
+We gotta stay put
+till they move out. Come on.
+
+830
+01:21:07,297 --> 01:21:11,134
+What did you mean when you said
+I still can't take an order?
+
+831
+01:21:11,218 --> 01:21:13,178
+Your record, Captain.
+
+832
+01:21:13,261 --> 01:21:16,306
+In the war you were a very good officer,
+except for one thing.
+
+833
+01:21:16,390 --> 01:21:19,142
+Go on. I'm fascinated.
+
+834
+01:21:19,226 --> 01:21:23,855
+You could give orders,
+but you couldn't take them.
+
+835
+01:21:25,065 --> 01:21:27,150
+Now look, I...
+
+836
+01:21:27,234 --> 01:21:29,236
+I know what you're talking about.
+
+837
+01:21:29,319 --> 01:21:31,696
+But if you want to know
+what makes a guy tick,
+
+838
+01:21:31,780 --> 01:21:33,657
+you've got to look beyond the record.
+
+839
+01:21:33,740 --> 01:21:36,052
+Those Philippine guerrillas
+were cut off and surrounded.
+
+840
+01:21:36,076 --> 01:21:38,161
+They had to have ammunition and supplies.
+
+841
+01:21:38,245 --> 01:21:41,289
+I couldn't just sit there
+on my can and let 'em die.
+
+842
+01:21:41,373 --> 01:21:43,166
+I knew the waters were mined,
+
+843
+01:21:43,250 --> 01:21:46,670
+but I figured I could get in,
+get out without a scratch.
+
+844
+01:21:46,753 --> 01:21:48,755
+So I wrote my own orders.
+
+845
+01:21:50,298 --> 01:21:53,927
+I lost my sub and 26 men.
+
+846
+01:21:55,720 --> 01:21:58,181
+And if I had to, I'd do it again.
+
+847
+01:22:19,161 --> 01:22:20,662
+I'm sorry...
+
+848
+01:22:21,788 --> 01:22:23,790
+very sorry.
+
+849
+01:22:25,125 --> 01:22:27,836
+It was wrong of me even to mention it.
+
+850
+01:22:29,296 --> 01:22:31,590
+Forget it. It's all over.
+
+851
+01:22:42,309 --> 01:22:44,728
+- You all right?
+- Fine.
+
+852
+01:22:49,441 --> 01:22:53,653
+When this is over, if we get back,
+
+853
+01:22:53,737 --> 01:22:55,697
+what gives with you?
+
+854
+01:22:55,780 --> 01:23:00,285
+- Gives?
+- I mean, what are you gonna do?
+
+855
+01:23:00,368 --> 01:23:03,246
+Go back to Paris, I suppose?
+
+856
+01:23:03,330 --> 01:23:05,624
+- Paris is my home.
+- Yeah.
+
+857
+01:23:08,001 --> 01:23:09,920
+And you?
+
+858
+01:23:10,003 --> 01:23:13,006
+When this is over, what gives with you?
+
+859
+01:23:13,089 --> 01:23:15,008
+I don't know.
+
+860
+01:23:17,719 --> 01:23:20,263
+Have you ever been in Paris?
+
+861
+01:23:20,347 --> 01:23:22,349
+No, never.
+
+862
+01:23:23,517 --> 01:23:25,977
+You would love it.
+
+863
+01:23:26,061 --> 01:23:28,355
+Americans always do.
+
+864
+01:23:35,695 --> 01:23:38,198
+Well, we can't stay here.
+
+865
+01:23:38,281 --> 01:23:41,409
+If they hold us up till morning,
+we might never get back.
+
+866
+01:23:42,786 --> 01:23:45,914
+I'm gonna see if there's
+another way out of here. Come on.
+
+867
+01:23:53,463 --> 01:23:56,007
+You stay here. I'll be right back.
+
+868
+01:24:03,223 --> 01:24:05,141
+Here.
+
+869
+01:24:05,225 --> 01:24:08,770
+You won't need this, but sometimes
+the sight of it's a comfort.
+
+870
+01:24:08,853 --> 01:24:10,855
+I'll be back in a minute.
+
+871
+01:25:09,039 --> 01:25:10,957
+Lumfong!
+
+872
+01:25:20,300 --> 01:25:22,302
+Lumfong!
+
+873
+01:26:14,562 --> 01:26:16,398
+Denise!
+
+874
+01:26:18,983 --> 01:26:21,945
+Give me that. Come on.
+Let's get out of here.
+
+875
+01:26:26,157 --> 01:26:28,159
+Come on.
+
+876
+01:26:38,378 --> 01:26:40,380
+Hurry up. Come on.
+
+877
+01:26:51,391 --> 01:26:52,684
+Come on.
+
+878
+01:26:54,060 --> 01:26:56,020
+Let's go.
+
+879
+01:27:32,932 --> 01:27:36,019
+This confirms our worst fears.
+
+880
+01:27:36,102 --> 01:27:38,521
+The atomic reaction is unmistakable.
+
+881
+01:27:38,605 --> 01:27:40,523
+I don't get it.
+
+882
+01:27:40,607 --> 01:27:43,943
+I mean, I can't figure out
+why that bomber was on the runway.
+
+883
+01:27:44,027 --> 01:27:47,906
+What would a B-29
+be doing on a Red air base?
+
+884
+01:27:48,907 --> 01:27:50,909
+It just doesn't make sense.
+
+885
+01:27:52,076 --> 01:27:54,204
+Say, didn't you tell me
+that that Red officer
+
+886
+01:27:54,287 --> 01:27:56,348
+we picked up on the other island
+was in the air force?
+
+887
+01:27:56,372 --> 01:27:57,582
+Yes. A major.
+
+888
+01:27:57,665 --> 01:27:59,685
+- Were you ever able to question him?
+- Impossible.
+
+889
+01:27:59,709 --> 01:28:02,378
+- I tried, but he would not say a word.
+- Oh.
+
+890
+01:28:02,462 --> 01:28:04,380
+Oh, thanks.
+
+891
+01:28:04,464 --> 01:28:06,725
+Hey, did you talk to that
+Chinese prisoner, Chin Lee?
+
+892
+01:28:13,181 --> 01:28:15,183
+He has not seen the prisoner.
+
+893
+01:28:15,266 --> 01:28:18,061
+The prisoner has not seen him.
+
+894
+01:28:18,144 --> 01:28:22,607
+Holter, dig up that portable microphone
+and plant it in the torpedo room.
+
+895
+01:28:22,690 --> 01:28:26,128
+Then get the prisoner and lock him in there.
+Make sure he doesn't see the microphone.
+
+896
+01:28:26,152 --> 01:28:28,071
+- Right.
+- Give him a hand, Ski.
+
+897
+01:28:28,154 --> 01:28:30,740
+Come on. Let's get into some dry clothes.
+We got work to do.
+
+898
+01:28:30,824 --> 01:28:33,743
+- You have a plan?
+- I'm gonna find out what this is all about.
+
+899
+01:28:33,827 --> 01:28:36,454
+Come on, Chin Lee.
+We got a job for you. Let's go.
+
+900
+01:28:39,958 --> 01:28:41,918
+- You guys got everything set?
+- Yep.
+
+901
+01:28:42,001 --> 01:28:43,920
+Okay.
+
+902
+01:28:44,003 --> 01:28:47,298
+Now, you're sure Chin Lee understands
+exactly what he's supposed to say?
+
+903
+01:28:51,010 --> 01:28:54,430
+- What'd he say?
+- He says he would do anything for you.
+
+904
+01:28:58,852 --> 01:29:01,271
+He wants you to strike him in the face
+
+905
+01:29:01,354 --> 01:29:03,398
+to make it look more real.
+
+906
+01:29:06,109 --> 01:29:09,028
+Holter.
+
+907
+01:29:10,196 --> 01:29:12,323
+He wants you to do it.
+
+908
+01:29:13,366 --> 01:29:15,910
+He says it will not hurt if you do it.
+
+909
+01:29:26,421 --> 01:29:29,173
+You all right, boy? You okay?
+
+910
+01:29:30,174 --> 01:29:34,679
+What's he saying?
+
+911
+01:29:35,722 --> 01:29:36,973
+He says...
+
+912
+01:29:38,141 --> 01:29:42,520
+the prisoner is very intelligent
+and must be fooled.
+
+913
+01:29:49,110 --> 01:29:52,447
+He wants you to hit him... harder.
+
+914
+01:30:00,246 --> 01:30:02,206
+I'm sorry, pal.
+
+915
+01:30:09,505 --> 01:30:11,758
+All right, get him out. Let's go.
+
+916
+01:30:18,806 --> 01:30:21,267
+Here. Come on. Take 'em.
+
+917
+01:31:53,317 --> 01:31:55,236
+This is incredible.
+
+918
+01:31:55,319 --> 01:31:57,780
+What's it all about, Skipper?
+
+919
+01:31:57,864 --> 01:32:00,867
+This is the screwball plot of all time.
+
+920
+01:32:00,950 --> 01:32:05,329
+They're gonna drop an atomic bomb
+on Korea or Manchuria and blame it on us.
+
+921
+01:32:07,874 --> 01:32:11,085
+They're taking off tomorrow at dawn
+in that made-over bomber.
+
+922
+01:32:22,847 --> 01:32:24,891
+He found him out!
+
+923
+01:34:22,091 --> 01:34:24,093
+Now listen to me.
+
+924
+01:34:27,180 --> 01:34:30,099
+I'm shoving off for the island alone.
+
+925
+01:34:30,183 --> 01:34:34,020
+I'll park myself right here,
+around the mouth of this cave.
+
+926
+01:34:34,103 --> 01:34:37,398
+You'll submerge half a mile
+beyond the runway, right around here,
+
+927
+01:34:37,481 --> 01:34:40,276
+so you'll be able to spot my signal.
+
+928
+01:34:40,359 --> 01:34:43,863
+Now a heavy load of fuel's
+gonna bring that bomber out low.
+
+929
+01:34:43,946 --> 01:34:47,450
+So when I give you the signal...
+two short, two long, two short...
+
+930
+01:34:47,533 --> 01:34:49,577
+that'll mean the plane's taking off.
+
+931
+01:34:49,660 --> 01:34:53,039
+That'll give you just time
+enough to surface and fire.
+
+932
+01:34:55,124 --> 01:34:57,877
+I want every gun in action.
+
+933
+01:34:57,960 --> 01:35:00,338
+That means everybody.
+
+934
+01:35:00,421 --> 01:35:04,133
+That plane has to be
+knocked out of the sky.
+
+935
+01:35:04,217 --> 01:35:07,345
+Now the minute you hit it,
+crash dive to the bottom and stay there,
+
+936
+01:35:07,428 --> 01:35:11,265
+because everything's gonna break loose
+when that bomber hits.
+
+937
+01:35:11,349 --> 01:35:14,685
+There's a cove at the north end,
+right here. That's where I'll hide.
+
+938
+01:35:14,769 --> 01:35:17,372
+Tomorrow night at 10:00 sharp,
+I'll give you three short blinkers.
+
+939
+01:35:17,396 --> 01:35:19,315
+Pick me up.
+
+940
+01:35:19,398 --> 01:35:23,569
+If I don't show up,
+shove off, head for home.
+
+941
+01:35:24,987 --> 01:35:26,989
+Any questions?
+
+942
+01:35:28,282 --> 01:35:30,409
+I forbid this insanity.
+
+943
+01:35:30,493 --> 01:35:33,537
+Forbid all you want to, Professor.
+That plane is not gonna make it.
+
+944
+01:35:33,621 --> 01:35:36,582
+It is dreadful enough to bring back
+the terrifying report
+
+945
+01:35:36,666 --> 01:35:39,835
+that our suspicions are confirmed.
+
+946
+01:35:39,919 --> 01:35:44,382
+But we cannot take it upon ourselves
+to commit an act of war,
+
+947
+01:35:44,465 --> 01:35:46,842
+no matter how we feel.
+
+948
+01:35:46,926 --> 01:35:49,387
+We are civilians!
+
+949
+01:35:49,470 --> 01:35:52,598
+I am responsible for this expedition.
+
+950
+01:35:52,682 --> 01:35:55,726
+I order you to take this submarine
+back to Tokyo!
+
+951
+01:35:55,810 --> 01:35:57,728
+I don't care about you
+and your expedition.
+
+952
+01:35:57,812 --> 01:36:00,707
+There's an enemy bomber out there
+made up to look like an American bomber.
+
+953
+01:36:00,731 --> 01:36:04,360
+It's gonna drop the biggest egg in history,
+and we're gonna take the rap for it.
+
+954
+01:36:04,443 --> 01:36:06,696
+I don't like that.
+
+955
+01:36:06,779 --> 01:36:08,990
+So from now on, Professor,
+
+956
+01:36:09,073 --> 01:36:11,409
+this is my expedition.
+
+957
+01:36:24,046 --> 01:36:25,965
+Skipper!
+
+958
+01:36:26,048 --> 01:36:27,967
+The boat's gone!
+
+959
+01:36:28,050 --> 01:36:30,219
+- What?
+- The boat's gone. Montel took it.
+
+960
+01:36:30,303 --> 01:36:32,930
+- Well, why didn't you stop him?
+- We didn't get the chance.
+
+961
+01:36:33,014 --> 01:36:35,826
+He was on deck with her. Before we knew
+what happened, he was in the boat and gone.
+
+962
+01:36:35,850 --> 01:36:37,768
+- Where's the girl?
+- On the bridge.
+
+963
+01:36:44,150 --> 01:36:46,235
+Please. He doesn't want you to stop him.
+
+964
+01:36:46,319 --> 01:36:48,738
+Why didn't you stop him?
+All you had to do was yell.
+
+965
+01:36:48,821 --> 01:36:51,699
+He knows your plan.
+He'll carry it out. That's his orders.
+
+966
+01:36:51,782 --> 01:36:54,261
+That's the trouble with you geniuses...
+full of big ideas.
+
+967
+01:36:54,327 --> 01:36:56,370
+Now you're fouling up the whole works.
+
+968
+01:36:56,454 --> 01:36:59,749
+- You know that island's crawling with soldiers.
+- He knows that too.
+
+969
+01:36:59,832 --> 01:37:03,711
+Then why'd you let a nice old guy like that
+take a shortcut to the cemetery?
+
+970
+01:37:03,794 --> 01:37:05,796
+He's no ordinary two-bit professor,
+you know.
+
+971
+01:37:05,880 --> 01:37:08,007
+He's Montel, top man in his field.
+
+972
+01:37:08,090 --> 01:37:11,028
+But he's old and helpless... doesn't
+know his way outside of a test tube.
+
+973
+01:37:11,052 --> 01:37:13,155
+You oughta know that.
+You work close enough with him.
+
+974
+01:37:13,179 --> 01:37:15,097
+- What kind of a woman are you?
+- Stop!
+
+975
+01:37:15,181 --> 01:37:17,183
+- Haven't you got any feelings?
+- Stop!
+
+976
+01:37:17,266 --> 01:37:19,185
+He's my father.
+
+977
+01:37:20,978 --> 01:37:22,980
+What?
+
+978
+01:37:24,440 --> 01:37:26,359
+My father.
+
+979
+01:37:27,693 --> 01:37:30,529
+Oh, I'm sorry, Denise.
+
+980
+01:37:30,613 --> 01:37:32,698
+I'm sorry. Forgive me.
+
+981
+01:37:32,782 --> 01:37:36,702
+He said it was his place to go...
+
+982
+01:37:38,329 --> 01:37:40,331
+not yours.
+
+983
+01:37:42,875 --> 01:37:44,877
+I'm sorry.
+
+984
+01:37:54,261 --> 01:37:56,305
+She's sure got a lot of guts.
+
+985
+01:37:56,389 --> 01:37:58,808
+Only thing I can't figure out
+is why the big mystery?
+
+986
+01:37:58,891 --> 01:38:01,018
+Why didn't she let us know
+he's her old man?
+
+987
+01:38:01,102 --> 01:38:05,272
+Well, that's what you have to pay
+for having a famous father.
+
+988
+01:38:05,356 --> 01:38:07,858
+She's been on a spot all her life.
+
+989
+01:38:07,942 --> 01:38:11,487
+Wanted to make good
+on her own, and she did.
+
+990
+01:38:11,570 --> 01:38:13,906
+And he was proud because she did.
+
+991
+01:38:22,665 --> 01:38:24,625
+Any sign of him at all?
+
+992
+01:38:28,129 --> 01:38:30,923
+No, not yet.
+
+993
+01:38:35,511 --> 01:38:37,471
+There he is.
+
+994
+01:38:38,931 --> 01:38:40,933
+And there's his signal.
+
+995
+01:38:43,352 --> 01:38:46,105
+Battle surface! Gun action! Down scope!
+
+996
+01:38:46,188 --> 01:38:48,107
+- You'd better get below.
+- Please.
+
+997
+01:38:48,190 --> 01:38:49,191
+Okay.
+
+998
+01:39:05,374 --> 01:39:07,710
+All right, Ski. Let's go.
+
+999
+01:39:11,297 --> 01:39:14,133
+Come on, Willie. Joto, get up here.
+
+1000
+01:39:27,646 --> 01:39:29,648
+Hurry it up. Hurry it up.
+
+1001
+01:39:36,197 --> 01:39:37,865
+Fire!
+
+1002
+01:40:58,904 --> 01:41:00,531
+You all right?
+
+1003
+01:41:01,574 --> 01:41:04,243
+- Oh.
+- The bomb must have gone off under us.
+
+1004
+01:41:04,326 --> 01:41:06,245
+Bring her back on course.
+
+1005
+01:41:06,328 --> 01:41:08,247
+Take her up to periscope depth.
+
+1006
+01:41:08,330 --> 01:41:10,332
+Periscope depth.
+
+1007
+01:41:14,253 --> 01:41:17,298
+All compartments,
+report damage and casualties.
+
+1008
+01:41:49,622 --> 01:41:52,124
+The bomber didn't crash in the ocean.
+
+1009
+01:41:54,752 --> 01:41:56,879
+It hit the island.
+
+1010
+01:42:38,295 --> 01:42:40,297
+Head for home.
+
+1011
+01:42:48,013 --> 01:42:51,558
+<i>Each man
+has his own reason for living, Mr. Jones,</i>
+
+1012
+01:42:51,642 --> 01:42:54,019
+<i>and his own price for dying.</i>
+

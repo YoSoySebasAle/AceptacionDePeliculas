@@ -1,0 +1,1468 @@
+﻿1
+00:00:15,017 --> 00:00:17,977
+Soon after its premiere,
+the film Metropolis
+
+2
+00:00:18,097 --> 00:00:21,177
+was severely truncated
+and alterations were made.
+
+3
+00:00:21,297 --> 00:00:24,337
+From that time onward,
+more than a quarter of the film
+
+4
+00:00:24,457 --> 00:00:27,537
+was assumed to have been lost.
+
+5
+00:00:27,657 --> 00:00:30,738
+Then, in 2008, a virtually complete
+version of the film
+
+6
+00:00:30,857 --> 00:00:33,977
+was discovered in Buenos Aires.
+What had been preserved
+
+7
+00:00:34,097 --> 00:00:37,177
+was, however, a heavily damaged
+copy of the film
+
+8
+00:00:37,297 --> 00:00:40,337
+that had been printed to 16mm
+film stock,
+
+9
+00:00:40,457 --> 00:00:44,617
+lacking the full frame
+of the picture’s original aspect ratio.
+
+10
+00:00:45,217 --> 00:00:49,137
+A considerable amount of the film
+reconstruction was able to be completed
+
+11
+00:00:49,257 --> 00:00:51,618
+and the correct sequence
+of its editing
+
+12
+00:00:51,737 --> 00:00:54,536
+established by means
+of this Argentinian material.
+
+13
+00:00:54,657 --> 00:00:57,657
+Spanish intertitles have been translated
+into German
+
+14
+00:00:57,777 --> 00:00:59,778
+with the aid of the censor-cards.
+
+15
+00:00:59,937 --> 00:01:03,817
+In order to display in their correct
+position on the image
+
+16
+00:01:03,977 --> 00:01:06,737
+the cropped elements taken
+from the 16mm negative,
+
+17
+00:01:06,857 --> 00:01:09,697
+the missing portion of the frame
+has been marked by black.
+
+18
+00:01:10,497 --> 00:01:14,257
+The intertitles appear
+with their original graphic treatment.
+
+19
+00:01:14,377 --> 00:01:18,217
+Those titles which appear in a different
+typeface (like the one used here)
+
+20
+00:01:18,337 --> 00:01:21,777
+have been added to summarise
+the content of still-missing scenes
+
+21
+00:01:21,937 --> 00:01:23,737
+as far as is necessary
+to facilitate
+
+22
+00:01:23,857 --> 00:01:26,137
+an adequate understanding
+of the storyline.
+
+23
+00:01:26,257 --> 00:01:29,377
+Shorter gaps are indicated
+by small segments of black leader.
+
+24
+00:01:29,657 --> 00:01:36,697
+This film was produced by Ufa
+and is distributed courtesy of Parufamet.
+
+25
+00:01:37,017 --> 00:01:42,378
+Direction: Fritz Lang.
+Scenario: Thea Von Harbou.
+
+26
+00:01:42,657 --> 00:01:46,297
+Production Design: Otto Hunte,
+Erich Kettelhut, Karl Vollbrecht.
+
+27
+00:01:46,417 --> 00:01:50,137
+At the Camera:
+Karl Freund, Gunther Rittau.
+
+28
+00:01:50,417 --> 00:01:56,216
+Music: Gottfried Huppertz.
+Sculptor: Walter Schultze-Mittendorf.
+
+29
+00:01:56,497 --> 00:01:58,817
+Metropolis, a novel
+by Thea Von Harbou,
+
+30
+00:01:58,977 --> 00:02:02,058
+appeared in the publication
+illustriertes Blatt, Frankfurt,
+
+31
+00:02:02,177 --> 00:02:04,777
+and in book form
+from August Scherl Verlag G.m.b.H.
+
+32
+00:02:05,097 --> 00:02:07,938
+The personages in the film:
+
+33
+00:02:08,057 --> 00:02:10,856
+joh Fredersen — Alfred Abel
+
+34
+00:02:11,017 --> 00:02:14,417
+Freder, joh Fredersen’s son —
+Gustav Fröhlich
+
+35
+00:02:14,537 --> 00:02:17,977
+Rotwang, the inventor
+— Rudolf Klein-Rogge
+
+36
+00:02:18,097 --> 00:02:21,497
+The Thin Man — Fritz Rasp
+Josaphat — Theodor Loos
+
+37
+00:02:21,617 --> 00:02:24,457
+11811 — Erwin Biswanger
+
+38
+00:02:24,577 --> 00:02:28,017
+Grot, the guardian of the Heart-Machine —
+Hem rich George
+
+39
+00:02:28,137 --> 00:02:31,857
+The Creative Man
+The Machine-Man
+
+40
+00:02:32,017 --> 00:02:35,737
+Death
+The Seven Deadly Sins
+
+41
+00:02:35,857 --> 00:02:39,737
+Maria — Brigitte Helm
+
+42
+00:02:40,057 --> 00:02:42,617
+Epigraph:
+
+43
+00:02:42,737 --> 00:02:48,337
+THE MEDIATOR BETWEEN HEAD AND HANDS
+MUST BE THE HEART!
+
+44
+00:03:55,417 --> 00:03:58,697
+Shift change.
+
+45
+00:05:16,617 --> 00:05:19,737
+Deep beneath
+
+46
+00:05:19,857 --> 00:05:23,418
+the earth lay the
+
+47
+00:05:23,537 --> 00:05:27,617
+City of the Workers.
+
+48
+00:06:37,337 --> 00:06:42,937
+As deep beneath the earth
+as the City of the Workers lay,
+
+49
+00:06:43,057 --> 00:06:48,657
+so high above it towered the complex
+known as the “Sons’ Club”,
+
+50
+00:06:48,777 --> 00:06:54,378
+with its lecture halls and libraries,
+its theatres and stadiums.
+
+51
+00:07:27,457 --> 00:07:31,777
+Fathers, for whom every revolution
+of a mechanical wheel meant gold,
+
+52
+00:07:31,937 --> 00:07:36,656
+had bestowed upon their sons
+the wonder of the Eternal Gardens.
+
+53
+00:07:56,257 --> 00:07:59,577
+Which of you ladies shall today
+
+54
+00:07:59,697 --> 00:08:04,537
+have the honour of entertaining Master Freder,
+joh Fredersen’s son?
+
+55
+00:10:43,697 --> 00:10:47,816
+Look! These are your brothers!
+
+56
+00:10:50,417 --> 00:10:53,257
+Look —
+
+57
+00:11:00,497 --> 00:11:03,776
+These are your brothers!
+
+58
+00:12:33,297 --> 00:12:36,577
+Who — was that?
+
+59
+00:13:25,737 --> 00:13:28,177
+But this was what happened to Freder —
+
+60
+00:13:28,297 --> 00:13:31,737
+the son of joh Fredersen,
+the master of Metropolis —
+
+61
+00:13:31,857 --> 00:13:34,537
+as he sought out the girl:
+
+62
+00:17:41,257 --> 00:17:45,377
+To the new Tower of Babel —
+to my father —
+
+63
+00:21:35,497 --> 00:21:40,937
+Why is it, Josaphat, that I learn of this explosion
+from my son, and not from you —
+
+64
+00:21:48,857 --> 00:21:52,177
+Details —
+
+65
+00:23:04,497 --> 00:23:09,858
+What were you looking for
+in the Machine-Halls, Freder?
+
+66
+00:23:12,577 --> 00:23:19,217
+I wanted to look into the faces of the people
+whose little children are my brothers, my sisters...
+
+67
+00:23:45,937 --> 00:23:48,257
+Your magnificent city, Father —
+
+68
+00:23:48,377 --> 00:23:52,537
+and you the brain of this city —
+and all of us within the light of this city... —
+
+69
+00:24:19,817 --> 00:24:23,977
+...and where are the people, Father,
+whose hands built your city — ?
+
+70
+00:24:29,817 --> 00:24:33,978
+Off where they belong...
+
+71
+00:24:40,817 --> 00:24:43,777
+...off where they belong...?
+
+72
+00:24:48,817 --> 00:24:52,377
+...in the Depths...?
+
+73
+00:25:27,697 --> 00:25:32,657
+And if those in the Depths
+one day rise against you?
+
+74
+00:26:04,657 --> 00:26:09,617
+The chief foreman of the Heart-Machine, Grot, —
+with an important message...
+
+75
+00:26:30,577 --> 00:26:35,537
+There were two more copies
+of those damnable plans, Herr Fredersen...
+
+76
+00:27:16,537 --> 00:27:21,497
+...in the pockets of two men who met
+with an accident today at the M-Machine...
+
+77
+00:27:35,617 --> 00:27:42,257
+How is it, Josaphat, that these plans
+were brought to me by Grot, rather than by you?
+
+78
+00:28:06,577 --> 00:28:11,537
+Apply to the G-Bank
+for your remaining wages...
+
+79
+00:29:16,537 --> 00:29:20,577
+Father, do you know what it means
+to be dismissed by you? —
+
+80
+00:29:20,697 --> 00:29:24,817
+It means: To be sent below! —
+Father — below! Into the Depths —
+
+81
+00:30:37,537 --> 00:30:44,177
+Do you know what it means to be dismissed
+like that by joh Fredersen?
+
+82
+00:31:02,577 --> 00:31:06,697
+Would you like to come with me,
+Josaphat?
+
+83
+00:31:47,257 --> 00:31:55,537
+Go home, Josaphat, and wait for me...
+I still have a long way to go tonight...
+
+84
+00:32:06,817 --> 00:32:11,777
+Into the Depths, —
+to my brothers...
+
+85
+00:32:20,177 --> 00:32:26,777
+From today on I wish to be kept precisely informed
+of my son’s every move...
+
+86
+00:33:42,177 --> 00:33:44,217
+Brother...
+
+87
+00:33:54,577 --> 00:33:59,577
+...the Machine! There needs
+to be someone at the Machine!
+
+88
+00:34:05,097 --> 00:34:10,057
+There will be someone at the machine...
+
+89
+00:34:10,177 --> 00:34:12,137
+ME.
+
+90
+00:34:23,857 --> 00:34:28,817
+Listen to me...
+I want to trade my life with you...
+
+91
+00:35:00,617 --> 00:35:05,537
+Josaphat.
+99th Block. House 7, 7th Floor.
+
+92
+00:35:11,017 --> 00:35:15,137
+Wait for me —
+both of you...
+
+93
+00:35:45,977 --> 00:35:50,497
+Josaphat.
+99th Block. House 7, 7th Floor.
+
+94
+00:36:02,617 --> 00:36:06,377
+Josaphat.
+99th Block. House 7, 7th Floor.
+
+95
+00:37:58,777 --> 00:38:01,297
+In the middle of Metropolis,
+
+96
+00:38:01,417 --> 00:38:05,937
+there stands a strange house
+that the centuries had overlooked.
+
+97
+00:38:12,457 --> 00:38:17,817
+The man who dwelled within
+was Rotwang, the inventor.
+
+98
+00:39:36,337 --> 00:39:38,337
+Hel
+
+99
+00:39:38,457 --> 00:39:42,937
+Born to bring me happiness
+and a benediction to all mankind.
+
+100
+00:39:43,057 --> 00:39:47,537
+Lost to joh Fredersen.
+Died giving life to Freder, joh Fredersen’s son.
+
+101
+00:40:13,777 --> 00:40:18,457
+A mind like yours, Rotwang,
+should be able to forget...
+
+102
+00:40:23,497 --> 00:40:30,137
+Only one time in life did I forget something:
+that Hel was a woman — and you a man...
+
+103
+00:40:36,137 --> 00:40:41,096
+Let the dead lie, Rotwang...
+She’s dead for you as she is for me...
+
+104
+00:40:48,777 --> 00:40:53,737
+For me she isn’t dead, joh Fredersen —
+for me she lives —
+
+105
+00:41:03,497 --> 00:41:11,777
+Do you think the loss of a hand
+is too high a price for recreating Hel — ?!
+
+106
+00:41:18,377 --> 00:41:21,656
+Do you wish to see her — ?!
+
+107
+00:43:23,457 --> 00:43:26,257
+Now, joh Fredersen —?!
+
+108
+00:43:26,377 --> 00:43:30,337
+Isn’t it worth losing a hand
+to have created the man of the future —
+
+109
+00:43:30,457 --> 00:43:32,537
+the Machine-Man —?!
+
+110
+00:43:40,137 --> 00:43:43,977
+24 more hours of work —
+
+111
+00:43:44,097 --> 00:43:49,257
+and no man, joh Fredersen, will be able
+to differentiate the Machine-Man from a mortal —
+
+112
+00:44:09,297 --> 00:44:14,778
+The woman is mine, joh Fredersen!
+Hel’s son was yours!
+
+113
+00:44:41,977 --> 00:44:46,937
+And what brings you my way,
+joh Fredersen?
+
+114
+00:44:57,617 --> 00:45:04,256
+I need your advice —
+as usual, when all my experts fail me...
+
+115
+00:45:17,577 --> 00:45:20,497
+Can you decipher for me these plans
+
+116
+00:45:20,617 --> 00:45:25,857
+that for months have been getting discovered
+in the pockets of my workers?
+
+117
+00:46:01,297 --> 00:46:06,257
+...at two... once my shift ends!
+She has summoned us again...
+
+118
+00:47:32,697 --> 00:47:39,337
+Father — ! Father —
+Will ten hours never come to an end — ??!!
+
+119
+00:48:09,937 --> 00:48:13,977
+— it’s a blueprint
+of the two-thousand-year-old catacombs
+
+120
+00:48:14,097 --> 00:48:18,217
+deep below the lowest levels
+of your Metropolis...
+
+121
+00:48:53,457 --> 00:49:01,617
+I should like to glean what my workers
+are doing exactly in those catacombs...
+
+122
+00:52:25,617 --> 00:52:28,057
+Today I shall tell you
+
+123
+00:52:28,177 --> 00:52:32,337
+the legend of THE CONSTRUCTION
+OF THE TOWER OF BABEL...
+
+124
+00:52:32,457 --> 00:52:38,137
+The Legend of THE CONSTRUCTION
+OF THE TOWER OF BABEL
+
+125
+00:52:48,137 --> 00:52:54,337
+Come! Let us build a tower
+whose zenith shall reach unto the stars!
+
+126
+00:52:57,577 --> 00:53:01,177
+And at the tower’s zenith we shall write:
+
+127
+00:53:01,297 --> 00:53:05,857
+Great is the world and its Maker!
+And great is Man!
+
+128
+00:53:25,977 --> 00:53:29,097
+...but those who had conceived
+of the Tower of Babel
+
+129
+00:53:29,217 --> 00:53:31,497
+could not build the Tower of Babel.
+
+130
+00:53:31,617 --> 00:53:36,297
+The task was too great.
+So they paid wages to outside hands...
+
+131
+00:53:53,577 --> 00:53:58,657
+But the hands that built the Tower of Babel
+knew nothing of the dream
+
+132
+00:53:58,777 --> 00:54:03,977
+of which the head that had conceived it
+had been fantasising.
+
+133
+00:54:32,177 --> 00:54:36,776
+The hymns of praise of one man
+became the curses of others.
+
+134
+00:54:50,057 --> 00:54:56,257
+The same language was spoken,
+but these men did not understand one another...
+
+135
+00:55:04,097 --> 00:55:11,936
+Great is the world and its Maker
+and great is Man
+
+136
+00:55:27,577 --> 00:55:31,697
+HEAD and HANDS require a Mediator.
+
+137
+00:55:34,177 --> 00:55:40,377
+THE MEDIATOR BETWEEN HEAD AND HANDS
+MUST BE THE HEART!
+
+138
+00:56:09,457 --> 00:56:14,417
+And where is our Mediator,
+Maria — ?
+
+139
+00:56:34,657 --> 00:56:39,617
+Wait for him!
+He will surely come!
+
+140
+00:56:55,017 --> 00:56:59,977
+We will wait, Maria...!
+But not for much longer —
+
+141
+00:58:48,937 --> 00:58:53,857
+Oh Mediator,
+have you finally come...
+
+142
+00:58:56,657 --> 00:59:01,616
+You summoned me —
+here I am!
+
+143
+00:59:32,457 --> 00:59:39,097
+Rotwang, give the Machine-Man
+the likeness of this woman...
+
+144
+00:59:48,217 --> 00:59:52,257
+I shall sow discord
+between them and her!
+
+145
+00:59:52,377 --> 00:59:56,497
+I shall destroy their belief
+in this woman —
+
+146
+01:00:23,777 --> 01:00:30,416
+Leave me alone now, joh Fredersen...
+You’ll find the way back without me...
+
+147
+01:00:56,377 --> 01:01:01,057
+You fool! Now you shall also lose
+the last remaining thing you still had from Hel...
+
+148
+01:01:01,177 --> 01:01:04,657
+your son...
+
+149
+01:01:27,577 --> 01:01:31,737
+Until tomorrow, in the cathedral!
+
+150
+01:06:03,577 --> 01:06:07,697
+END OF THE PRELUDE
+
+151
+01:06:12,257 --> 01:06:16,057
+INTERMEZZO
+
+152
+01:06:53,617 --> 01:06:57,457
+Freder witnesses a monk at the pulpit
+who preaches:
+
+153
+01:06:57,577 --> 01:07:02,457
+“Verily, I say unto you: the days
+of which the Apocalypse speaks draw nigh!”
+
+154
+01:07:02,817 --> 01:07:06,858
+The monk’s hand points to the Bible,
+in which it is written:
+
+155
+01:07:07,057 --> 01:07:10,817
+“And I saw a woman sit upon a scarlet coloured
+beast, full of names of blasphemy,
+
+156
+01:07:10,977 --> 01:07:13,137
+having seven heads and ten horns.
+
+157
+01:07:13,257 --> 01:07:16,938
+And the woman was arrayed
+in purple and scarlet colour,
+
+158
+01:07:17,057 --> 01:07:19,217
+having a golden cup in her hand.
+
+159
+01:07:19,337 --> 01:07:23,017
+And upon her forehead was a name
+written, a mystery:
+
+160
+01:07:23,137 --> 01:07:26,617
+BABYLON THE GREAT, the Mother
+of Abominations of the Earth.
+
+161
+01:07:26,737 --> 01:07:30,097
+And I saw the woman drunken
+with the blood of the Saints.”
+
+162
+01:07:45,977 --> 01:07:51,737
+You will annihilate joh Fredersen —
+him and his city and his son —
+
+163
+01:08:36,857 --> 01:08:38,537
+GLUTTONY
+
+164
+01:08:38,697 --> 01:08:40,377
+AVARICE
+
+165
+01:08:40,497 --> 01:08:42,258
+PRIDE
+
+166
+01:08:42,377 --> 01:08:43,616
+LUST
+
+167
+01:08:43,777 --> 01:08:45,457
+ENVY
+
+168
+01:08:45,617 --> 01:08:46,937
+ANGER
+
+169
+01:08:47,097 --> 01:08:48,217
+SLOTH
+
+170
+01:09:03,857 --> 01:09:07,937
+Had you come earlier,
+you wouldn’t have frightened me...
+
+171
+01:09:08,057 --> 01:09:12,176
+I now beg of you: stay away from me
+and my beloved...!
+
+172
+01:10:17,097 --> 01:10:21,498
+Where is the one whose clothes
+you are wearing?
+
+173
+01:10:35,617 --> 01:10:41,457
+Josaphat.
+99th Block. House 7, 7th Floor.
+
+174
+01:11:15,497 --> 01:11:18,817
+Would you please wake Georgy up?
+
+175
+01:11:18,977 --> 01:11:22,817
+He must lead me
+to the Workers’ City at once...
+
+176
+01:11:41,977 --> 01:11:49,537
+No. 11811, get back to the Machine
+and forget that you ever left it — understood?
+
+177
+01:12:10,497 --> 01:12:14,217
+I have to have someone
+who’s faithful to me, Josaphat, —
+
+178
+01:12:14,337 --> 01:12:18,177
+otherwise, how shall I attain the end-goal
+of my path — ?!
+
+179
+01:12:44,777 --> 01:12:48,536
+I must go on, Josaphat, —
+must now, on my own,
+
+180
+01:12:48,657 --> 01:12:52,458
+seek out the person to whom Georgy
+was supposed to lead me...
+
+181
+01:12:55,857 --> 01:13:01,057
+Tonight, Josaphat —
+tonight when I come back...
+
+182
+01:14:48,497 --> 01:14:54,056
+Josaphat.
+99th Block. House 7, 7th Floor.
+
+183
+01:15:31,497 --> 01:15:39,138
+So, what price are you demanding
+for leaving this residence tonight?
+
+184
+01:16:25,337 --> 01:16:30,457
+You still don’t seem to have grasped
+who sent me here...
+
+185
+01:16:33,977 --> 01:16:35,177
+CENTRAL BANK OF METROPOLIS
+
+186
+01:16:37,137 --> 01:16:43,297
+This man doesn’t want his son
+to find you still here tonight!
+
+187
+01:17:35,537 --> 01:17:41,137
+In three hours’ time
+I shall be calling for you!
+
+188
+01:18:37,177 --> 01:18:43,737
+Come! It is time to give the Man-Machine
+your face!
+
+189
+01:26:28,337 --> 01:26:32,417
+Where is Maria — ?!
+
+190
+01:26:40,777 --> 01:26:45,697
+She’s with your father...
+
+191
+01:27:02,537 --> 01:27:07,457
+I’m telling you,
+she is with your father —
+
+192
+01:27:09,217 --> 01:27:13,217
+“She is the most perfect and most obedient tool
+that a man has ever possessed!
+
+193
+01:27:13,337 --> 01:27:17,336
+Tonight you shall see how she holds up
+before the eyes of the upper hundred.
+
+194
+01:27:17,457 --> 01:27:21,577
+You shall see her dance, and if only one single
+person recognises the machine in her,
+
+195
+01:27:21,697 --> 01:27:25,697
+I will call myself a bungler
+who never succeeded at anything!
+
+196
+01:27:25,817 --> 01:27:28,856
+C. Rotwang”
+
+197
+01:27:29,017 --> 01:27:33,777
+“C. A. Rotwang requests Herr Joh Fredersen
+to be his guest this evening.”
+
+198
+01:28:06,457 --> 01:28:13,057
+I want you to go to those in the Depths
+in order to annihilate the work of your prototype!
+
+199
+01:30:04,657 --> 01:30:07,697
+“C. A. Rotwang requests Herr Joh Fredersen
+to be his guest this evening.”
+
+200
+01:32:01,377 --> 01:32:08,697
+Verily, I say unto you: the days
+of which the Apocalypse speaks draw nigh...!
+
+201
+01:33:19,537 --> 01:33:24,457
+All Seven Deadly Sins,
+on her behalf —
+
+202
+01:34:10,217 --> 01:34:15,137
+Death overtakes the City —
+
+203
+01:34:27,017 --> 01:34:31,937
+END OF THE INTERMEZZO
+
+204
+01:34:47,137 --> 01:34:55,377
+The Revelation of St. John
+Avalun Publishing, Hellerau
+
+205
+01:35:13,497 --> 01:35:17,937
+I escaped from the Thin Man
+wearing this attire...
+
+206
+01:35:18,057 --> 01:35:22,578
+But for ten days your father’s bloodhound
+has been making the Workers’ City unsafe...
+
+207
+01:35:32,417 --> 01:35:35,497
+The only thing keeping the workers in check
+
+208
+01:35:35,617 --> 01:35:39,817
+is their expectation for the Mediator
+promised unto them...
+
+209
+01:36:04,817 --> 01:36:10,136
+Even stranger things
+have been happening, Freder...
+
+210
+01:36:20,617 --> 01:36:25,217
+On that evening when you fell ill...
+
+211
+01:36:35,857 --> 01:36:40,817
+...once the best of friends...
+because of that woman...
+
+212
+01:36:46,537 --> 01:36:51,457
+...the other man...
+on that same evening...
+
+213
+01:36:59,457 --> 01:37:06,057
+...the Eternal Gardens lie abandoned...
+but night after night in Yoshiwara...
+
+214
+01:37:41,937 --> 01:37:48,498
+And this woman,
+at whose feet all sins are heaped...
+
+215
+01:37:48,817 --> 01:37:53,537
+...is also called Maria...
+
+216
+01:38:01,817 --> 01:38:08,417
+That same woman that those in the Depths
+regard as a saint — ?!
+
+217
+01:38:22,937 --> 01:38:26,257
+Many now go to the City of the Dead,
+
+218
+01:38:26,377 --> 01:38:31,217
+to a woman they have judged
+to be as true as gold.
+
+219
+01:38:37,017 --> 01:38:41,418
+The Mediator is not likely
+to miss that occasion...
+
+220
+01:39:04,257 --> 01:39:07,578
+Whatever happens tonight:
+
+221
+01:39:07,697 --> 01:39:11,816
+it is my express order to allow the workers
+to do as they please...
+
+222
+01:39:22,817 --> 01:39:28,136
+joh Fredersen wants to let those in the Depths
+use force and do wrong
+
+223
+01:39:28,257 --> 01:39:33,577
+so that he can claim the right
+to use force against them...
+
+224
+01:39:51,177 --> 01:39:56,418
+When you spoke to your poor brothers,
+you talked about peace, Maria...
+
+225
+01:39:56,537 --> 01:40:01,937
+today a mouthpiece of joh Fredersen
+incites them to rebel against him...
+
+226
+01:40:25,337 --> 01:40:30,257
+She will destroy their belief
+in the Mediator!
+
+227
+01:41:08,537 --> 01:41:15,137
+You know I’ve always talked about peace...
+but your Mediator hasn’t come...
+
+228
+01:41:27,097 --> 01:41:32,017
+You’ve waited long enough!
+Your time has come —
+
+229
+01:41:38,697 --> 01:41:42,457
+...but I’ve tricked joh Fredersen!
+
+230
+01:41:42,577 --> 01:41:46,977
+Your clone does not obey his will —
+only mine alone!
+
+231
+01:41:56,057 --> 01:42:02,657
+Who is the living fodder
+for the machines for Metropolis — ?!
+
+232
+01:42:07,257 --> 01:42:13,818
+Who smears the machine-joints
+with their own marrow — ?!
+
+233
+01:42:28,737 --> 01:42:33,657
+Who feeds the machines
+with their own flesh — ?!
+
+234
+01:42:40,457 --> 01:42:47,057
+Let the machines starve, you fools —
+Finish them off —
+
+235
+01:42:50,377 --> 01:42:55,297
+Do them in —
+these machines —
+
+236
+01:43:11,657 --> 01:43:14,497
+You aren’t Maria — !!!
+
+237
+01:43:18,137 --> 01:43:20,456
+YOU ARE NOT MARIA—!
+
+238
+01:43:35,017 --> 01:43:39,937
+Maria talks of peace, not murder —
+This is not Maria —
+
+239
+01:43:43,777 --> 01:43:48,737
+joh Fredersen’s son —
+
+240
+01:43:51,257 --> 01:43:57,817
+Do him in, the dog,
+in his white silken hide —
+
+241
+01:44:28,937 --> 01:44:32,977
+Get your women, your sons,
+out of the Workers’ City!
+
+242
+01:44:33,097 --> 01:44:37,177
+Let no-one stay behind!
+Death to the machines — !!!
+
+243
+01:44:47,697 --> 01:44:49,857
+In the attic of his home,
+
+244
+01:44:50,017 --> 01:44:53,577
+Rotwang displays
+for Maria his ever-growing intoxication
+
+245
+01:44:53,697 --> 01:44:55,777
+with his triumph over Fredersen:
+
+246
+01:44:56,097 --> 01:44:58,297
+— and twice over did I trick joh Fredersen —
+
+247
+01:44:58,417 --> 01:45:02,337
+For I concealed from him that his son
+wants to be the Mediator of your brothers —
+
+248
+01:45:02,457 --> 01:45:04,338
+and is in love with you —
+
+249
+01:45:04,617 --> 01:45:07,137
+Maria isn’t the only one listening to Rotwang.
+
+250
+01:45:07,257 --> 01:45:11,257
+On the other side of the attic’s window,
+joh Fredersen was eavesdropping...
+
+251
+01:45:11,697 --> 01:45:16,537
+joh Fredersen breaks into Rotwang’s attic.
+He wrestles with his old rival and overtakes him.
+
+252
+01:45:16,657 --> 01:45:20,017
+Maria is free.
+
+253
+01:45:46,417 --> 01:45:50,497
+...faithful after all...
+
+254
+01:46:09,537 --> 01:46:12,738
+Come, Freder!
+We still have to go through the Workers’ City.
+
+255
+01:46:47,417 --> 01:46:50,096
+Women and men,
+let no-one miss out on today —
+
+256
+01:46:50,217 --> 01:46:52,338
+Death to the machines —
+
+257
+01:49:01,137 --> 01:49:06,057
+Not one man —
+not one woman has stayed behind —
+
+258
+01:49:46,657 --> 01:49:53,977
+Leave the machines —
+Let them race to their death —
+
+259
+01:50:02,457 --> 01:50:05,298
+To the Heart-Machine —
+
+260
+01:50:15,657 --> 01:50:18,378
+DANGER
+
+261
+01:51:39,737 --> 01:51:42,056
+Open the gates!
+
+262
+01:51:49,177 --> 01:51:53,057
+You have to open the gates!
+
+263
+01:51:55,577 --> 01:51:58,297
+If the Heart-Machine perishes,
+
+264
+01:51:58,417 --> 01:52:02,177
+nothing in the Machine-District
+will be left standing —
+
+265
+01:52:50,297 --> 01:52:53,816
+Have you lost your minds —??
+
+266
+01:52:53,977 --> 01:52:59,417
+If the Heart-Machine perishes,
+the entire Workers’ City will be laid to waste —
+
+267
+01:58:50,017 --> 01:58:54,577
+Where are your fathers,
+your mothers?
+
+268
+01:59:47,177 --> 01:59:52,097
+Do you have any idea that your son
+is amongst the workers?!
+
+269
+02:01:29,937 --> 02:01:34,818
+Yes — you! You’re Maria —
+
+270
+02:01:45,657 --> 02:01:52,257
+To the air shafts — quickly! Quickly!
+The reservoirs have burst! The city is drowning —
+
+271
+02:06:27,217 --> 02:06:32,137
+We’ll take the children
+to the Sons’ Club!
+
+272
+02:06:43,497 --> 02:06:48,457
+Why are all the lights out?
+
+273
+02:07:11,297 --> 02:07:16,217
+I need to know —
+Where is my son?!!!
+
+274
+02:07:19,377 --> 02:07:23,097
+Tomorrow thousands
+will ask in fury and desperation:
+
+275
+02:07:23,217 --> 02:07:25,977
+joh Fredersen,
+where is my son — ?!
+
+276
+02:08:10,777 --> 02:08:14,857
+Where are your children??!
+
+277
+02:08:23,417 --> 02:08:30,017
+The city is drowned,
+the shafts are totally flooded —
+
+278
+02:08:36,817 --> 02:08:45,937
+Who bade you attack the machines,
+without which you’re finished, you idiots — ??!
+
+279
+02:08:52,177 --> 02:08:55,737
+It’s the witch’s fault — I
+
+280
+02:09:05,777 --> 02:09:10,136
+We’ll be looking on
+as the world goes to the devil —
+
+281
+02:09:51,297 --> 02:09:57,858
+Find the witch; this is all her fault —
+Strike her dead —
+
+282
+02:11:12,257 --> 02:11:17,177
+Now I’m going to take you home,
+my Hel —
+
+283
+02:12:30,537 --> 02:12:37,137
+The witch — the witch —
+There she is — there she is —
+
+284
+02:12:40,337 --> 02:12:46,937
+Where are our children,
+you witch, you — ??!
+
+285
+02:12:52,497 --> 02:12:59,097
+Burn the witch. —
+To the stake with her!!!
+
+286
+02:14:53,297 --> 02:14:56,537
+To the stake with her—!!
+
+287
+02:17:22,377 --> 02:17:27,337
+Hel — ! My Hel —
+
+288
+02:21:15,817 --> 02:21:20,737
+Your children.., saved — !!!
+
+289
+02:25:23,137 --> 02:25:28,177
+Head and hands want to join together,
+but they don’t have the heart to do it...
+
+290
+02:25:28,337 --> 02:25:32,216
+Oh Mediator,
+show them the way to one another...
+
+291
+02:26:11,977 --> 02:26:21,057
+THE MEDIATOR BETWEEN HEAD AND HANDS
+MUST BE THE HEART!
+
+292
+02:26:26,217 --> 02:26:31,218
+Restoration: F. W. Murnau Stiftung, Wiesbaden
+jointly with Deutsche Kinemathek —
+
+293
+02:26:31,337 --> 02:26:35,336
+Museum für Film und Fernsehen, Berlin
+
+294
+02:26:35,457 --> 02:26:40,818
+in co-operation with Museo Del Cine Pablo
+C. Ducros Hicken, Buenos Aires
+
+295
+02:26:41,137 --> 02:26:46,137
+Supported by:
+
+296
+02:26:56,337 --> 02:27:01,338
+Contributors of material and guidance:
+
+297
+02:28:16,977 --> 02:28:21,978
+Special Thanks:
+
+298
+02:29:27,817 --> 02:29:29,497
+Reconstruction and synchronisation
+
+299
+02:29:29,617 --> 02:29:31,177
+of the original music
+by Gottfried Huppertz:
+
+300
+02:29:31,297 --> 02:29:32,777
+Frank Strobel
+
+301
+02:29:32,857 --> 02:29:34,577
+Instrumentation of the missing parts
+of the score:
+
+302
+02:29:34,697 --> 02:29:36,217
+Marco Jovic
+
+303
+02:29:36,337 --> 02:29:37,777
+Musical notation:
+
+304
+02:29:37,897 --> 02:29:39,577
+Jörg Peltzer
+
+305
+02:29:39,697 --> 02:29:41,217
+Edition on behalf of ZDF/ARTE:
+
+306
+02:29:41,337 --> 02:29:42,817
+Europäische Filmphilharmonie —
+Die Film Philharmonie GmbH
+
+307
+02:29:43,817 --> 02:29:45,617
+Performed by the:
+Rundfunk-Sinfonieorchester Berlin
+
+308
+02:29:45,737 --> 02:29:47,537
+an ensemble of the
+Rundfunk Orchester und Chore GmbH
+
+309
+02:29:47,657 --> 02:29:49,417
+Musical direction:
+
+310
+02:29:49,537 --> 02:29:51,337
+Frank Strobel
+
+311
+02:29:51,417 --> 02:29:53,217
+Music production:
+
+312
+02:29:53,337 --> 02:29:55,098
+Nina Goslar, ZDF/ARTE
+
+313
+02:29:55,217 --> 02:29:56,977
+Stefan Lang,
+Deutschlandradio Kultur
+
+314
+02:29:57,097 --> 02:29:58,817
+Christian Schwalbe, ZDF
+

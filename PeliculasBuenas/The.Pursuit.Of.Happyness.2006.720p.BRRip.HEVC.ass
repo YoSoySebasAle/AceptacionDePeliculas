@@ -1,0 +1,212 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Normal,Helvetica CE,38,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,2.0,2,10,10,20,1
+Style: High,Helvetica CE,38,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,2.0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:07.59,0:01:10.05,Normal,,0,0,0,,[DOOR OPENS]
+Dialogue: 0,0:01:13.46,0:01:16.09,Normal,,0,0,0,,[PANTING]
+Dialogue: 0,0:01:51.15,0:01:52.64,Normal,,0,0,0,,You'll be fine, Lucy.
+Dialogue: 0,0:01:52.69,0:01:55.56,Normal,,0,0,0,,This heat's wiping me out.
+Dialogue: 0,0:01:55.59,0:01:57.49,Normal,,0,0,0,,Well, wind the window\Ndown, if you like.
+Dialogue: 0,0:01:57.53,0:01:59.76,Normal,,0,0,0,,Forget it.\NIt's even hotter outside.
+Dialogue: 0,0:02:01.26,0:02:03.96,Normal,,0,0,0,,At least there's not much traffic.
+Dialogue: 0,0:02:04.00,0:02:05.43,Normal,,0,0,0,,I'm not surprised.
+Dialogue: 0,0:02:05.47,0:02:07.70,Normal,,0,0,0,,Who would want to go out\Non a day like this?
+Dialogue: 0,0:02:07.74,0:02:09.70,Normal,,0,0,0,,Aw, come on, don't be like that.
+Dialogue: 0,0:02:12.14,0:02:13.84,Normal,,0,0,0,,Have you still got your headache?
+Dialogue: 0,0:02:15.74,0:02:19.81,Normal,,0,0,0,,Yeah. It keeps coming and going\Nand won't get out.
+Dialogue: 0,0:02:19.85,0:02:21.61,High,,0,0,0,,Smoking's not gonna help it.
+Dialogue: 0,0:02:22.82,0:02:25.69,High,,0,0,0,,Cigarettes are\Nthe only thing that eases it a bit.
+Dialogue: 0,0:02:33.13,0:02:35.71,Normal,,0,0,0,,[MUSIC PLAYING ON RADIO]
+Dialogue: 0,0:02:39.13,0:02:41.86,Normal,,0,0,0,,♪ There is a war\Nbetween the rich and poor... ♪
+Dialogue: 0,0:02:41.90,0:02:45.07,Normal,,0,0,0,,Don't worry so much about me.\NAll I need is a good night's sleep.
+Dialogue: 0,0:02:45.11,0:02:46.37,Normal,,0,0,0,,That's all.
+Dialogue: 0,0:02:47.61,0:02:49.20,High,,0,0,0,,Could you pass me\None of those cigarettes, please?
+Dialogue: 0,0:02:49.24,0:02:51.37,High,,0,0,0,,♪ Between the ones\Nwho say there is a war ♪
+Dialogue: 0,0:02:51.41,0:02:53.64,High,,0,0,0,,♪ And the ones\Nwho say that there isn't ♪
+Dialogue: 0,0:02:56.42,0:02:59.55,Normal,,0,0,0,,♪ Why don't you come on\Nback to the war? ♪
+Dialogue: 0,0:02:59.59,0:03:01.92,Normal,,0,0,0,,♪ That's right, get in it ♪
+Dialogue: 0,0:03:04.76,0:03:07.56,Normal,,0,0,0,,♪ Why don't you come on\Nback to the war? ♪
+Dialogue: 0,0:03:07.60,0:03:10.16,Normal,,0,0,0,,♪ It's just beginning ♪
+Dialogue: 0,0:03:13.10,0:03:15.57,Normal,,0,0,0,,♪ Well, I live here\Nwith a woman and a child ♪
+Dialogue: 0,0:03:15.60,0:03:18.97,Normal,,0,0,0,,♪ The situation\Nmakes me kind of nervous ♪
+Dialogue: 0,0:03:21.54,0:03:23.07,Normal,,0,0,0,,♪ As I rise up, pull her arm ♪
+Dialogue: 0,0:03:23.11,0:03:25.41,Normal,,0,0,0,,♪ She says, ''I guess\Nyou call this love'' ♪
+Dialogue: 0,0:03:25.45,0:03:27.18,Normal,,0,0,0,,♪ I call it service ♪
+Dialogue: 0,0:03:29.58,0:03:32.85,Normal,,0,0,0,,♪ Why don't you\Ncome on back to the war? ♪
+Dialogue: 0,0:03:32.89,0:03:35.12,Normal,,0,0,0,,♪ Don't be a tourist ♪
+Dialogue: 0,0:03:37.79,0:03:41.25,Normal,,0,0,0,,♪ Why don't you\Ncome on back to the war ♪
+Dialogue: 0,0:03:41.30,0:03:43.46,Normal,,0,0,0,,♪ Before it hurts us? ♪
+Dialogue: 0,0:03:45.97,0:03:49.23,Normal,,0,0,0,,♪ Why don't you\Ncome on back to the war? ♪
+Dialogue: 0,0:03:49.27,0:03:51.67,Normal,,0,0,0,,♪ Let's all get nervous ♪
+Dialogue: 0,0:03:54.38,0:03:56.61,High,,0,0,0,,♪ You cannot stand\Nwhat I've become ♪
+Dialogue: 0,0:03:56.65,0:03:59.98,High,,0,0,0,,♪ You much prefer\Nthe gentleman I was before ♪
+Dialogue: 0,0:04:02.45,0:04:07.12,Normal,,0,0,0,,♪ I was so easy to defeat,\NI was so easy to control ♪
+Dialogue: 0,0:04:07.16,0:04:10.82,Normal,,0,0,0,,♪ I didn't even know\Nthere was a war ♪
+Dialogue: 0,0:04:12.83,0:04:15.96,Normal,,0,0,0,,♪ Why don't you\Ncome on back to the war? ♪
+Dialogue: 0,0:04:16.00,0:04:18.33,Normal,,0,0,0,,♪ Don't be embarrassed ♪
+Dialogue: 0,0:04:20.84,0:04:23.96,Normal,,0,0,0,,♪ Why don't you\Ncome on back to the war? ♪
+Dialogue: 0,0:04:24.01,0:04:26.34,Normal,,0,0,0,,♪ You can still get married ♪
+Dialogue: 0,0:04:29.31,0:04:31.68,Normal,,0,0,0,,♪ There is a war\Nbetween the rich and poor ♪
+Dialogue: 0,0:04:31.71,0:04:35.11,Normal,,0,0,0,,♪ A war between\Nthe man and the woman ♪
+Dialogue: 0,0:04:37.15,0:04:39.99,High,,0,0,0,,♪ There is a war between\Nthe left and right ♪
+Dialogue: 0,0:04:40.02,0:04:42.05,High,,0,0,0,,♪ A war between\Nthe black and white ♪
+Dialogue: 0,0:04:42.09,0:04:44.99,Normal,,0,0,0,,♪ A war between\Nthe odd and the even ♪
+Dialogue: 0,0:04:47.53,0:04:50.90,Normal,,0,0,0,,♪ Why don't you\Ncome on back to the war... ♪
+Dialogue: 0,0:04:50.98,0:04:53.52,Normal,,0,0,0,,[DOG BARKING]
+Dialogue: 0,0:04:55.67,0:04:58.13,Normal,,0,0,0,,[RADIO STOPS]
+Dialogue: 0,0:04:58.51,0:05:00.70,Normal,,0,0,0,,Soak up the peace and quiet.
+Dialogue: 0,0:05:07.05,0:05:08.35,Normal,,0,0,0,,Pit stop.
+Dialogue: 0,0:05:08.38,0:05:11.72,Normal,,0,0,0,,Last hint of civilization\Nwe'll see for a couple of days.
+Dialogue: 0,0:05:11.75,0:05:13.98,Normal,,0,0,0,,Let's see you stretching your legs.
+Dialogue: 0,0:05:15.16,0:05:17.02,Normal,,0,0,0,,Yeah, yeah, good idea.
+Dialogue: 0,0:05:17.06,0:05:18.12,Normal,,0,0,0,,You coming?
+Dialogue: 0,0:05:18.16,0:05:21.19,Normal,,0,0,0,,No, thanks.\NI'm sick of following him.
+Dialogue: 0,0:05:21.23,0:05:22.25,Normal,,0,0,0,,You sure?
+Dialogue: 0,0:05:22.30,0:05:24.20,Normal,,0,0,0,,Yeah. Go ahead.\NI'll be fine.
+Dialogue: 0,0:05:24.23,0:05:25.56,Normal,,0,0,0,,OK.
+Dialogue: 0,0:05:27.75,0:05:29.80,Normal,,0,0,0,,[BARKING]
+Dialogue: 0,0:05:31.34,0:05:32.64,Normal,,0,0,0,,So what is this place?
+Dialogue: 0,0:05:32.67,0:05:35.01,Normal,,0,0,0,,I don't know.\NNever stopped here before.
+Dialogue: 0,0:05:35.04,0:05:38.14,Normal,,0,0,0,,- You all right?\N- Yeah, yeah, fine.
+Dialogue: 0,0:05:39.75,0:05:43.52,Normal,,0,0,0,,- [TAPS ON CAR DOOR]\NAre you coming?\N- I'm shattered.
+Dialogue: 0,0:05:43.55,0:05:46.49,Normal,,0,0,0,,The less we get caught up,\Nthe sooner we'll get there.
+Dialogue: 0,0:05:46.52,0:05:47.99,Normal,,0,0,0,,OK.
+Dialogue: 0,0:05:49.26,0:05:52.16,Normal,,0,0,0,,Glad to see you're all enthusiastic.
+Dialogue: 0,0:05:52.19,0:05:54.75,Normal,,0,0,0,,- Yours isn't coming either?\N- Nope.
+Dialogue: 0,0:05:59.47,0:06:01.20,Normal,,0,0,0,,Well, a little bit better.
+Dialogue: 0,0:06:01.24,0:06:03.80,Normal,,0,0,0,,- How about a couple glasses of vino?\N- [BARKING]
+Dialogue: 0,0:06:04.64,0:06:07.07,Normal,,0,0,0,,Oh, that's all\Nwe fucking need. Lester!
+Dialogue: 0,0:06:07.11,0:06:09.77,Normal,,0,0,0,,Hey, come on, come on,\Ncome on. Here.
+Dialogue: 0,0:06:17.75,0:06:19.92,Normal,,0,0,0,,[MURMURING]
+Dialogue: 0,0:06:21.34,0:06:23.50,Normal,,0,0,0,,[MURMURING STOPS]
+Dialogue: 0,0:06:49.25,0:06:51.25,Normal,,0,0,0,,[LAUGHTER]
+Dialogue: 0,0:08:15.46,0:08:17.34,Normal,,0,0,0,,[TURNS ON AND OFF\NTAPE PLAYER]
+Dialogue: 0,0:08:34.26,0:08:36.09,Normal,,0,0,0,,What's wrong?
+Dialogue: 0,0:09:24.11,0:09:26.50,Normal,,0,0,0,,[SPEAKING SPANISH]
+Dialogue: 0,0:10:14.21,0:10:17.92,Normal,,0,0,0,,[SILENCE]
+Dialogue: 0,0:10:29.97,0:10:31.44,Normal,,0,0,0,,Come on, I think\Nwe should get going.
+Dialogue: 0,0:10:31.47,0:10:33.57,High,,0,0,0,,- It's getting late.\N- Yeah.
+Dialogue: 0,0:10:41.15,0:10:44.38,Normal,,0,0,0,,Oh, no.\NI'll... pay this time.
+Dialogue: 0,0:11:15.15,0:11:17.41,Normal,,0,0,0,,You were taking forever.
+Dialogue: 0,0:11:20.42,0:11:22.62,Normal,,0,0,0,,The old boy thinks\Nwe should all go in my car.
+Dialogue: 0,0:11:22.66,0:11:24.85,Normal,,0,0,0,,He says this one might not make it\Nalong the track.
+Dialogue: 0,0:11:24.89,0:11:27.09,Normal,,0,0,0,,I'm not leaving this here. No way.
+Dialogue: 0,0:11:27.13,0:11:28.19,Normal,,0,0,0,,I’d listen to him.
+Dialogue: 0,0:11:28.23,0:11:31.26,Normal,,0,0,0,,They have good instincts\Nabout stuff like that.
+Dialogue: 0,0:11:36.40,0:11:39.10,Normal,,0,0,0,,The car will be fine.\NLet's just go.
+Dialogue: 0,0:11:39.14,0:11:40.77,Normal,,0,0,0,,All right.
+Dialogue: 0,0:11:43.34,0:11:45.71,Normal,,0,0,0,,I hope it's still there\Nwhen I get back.
+Dialogue: 0,0:11:45.75,0:11:47.94,Normal,,0,0,0,,Who's gonna steal it out here?
+Dialogue: 0,0:11:47.98,0:11:50.64,Normal,,0,0,0,,- It's safe enough.\N- It better be.
+Dialogue: 0,0:11:52.49,0:11:55.15,Normal,,0,0,0,,You ought to get yourself\None of these.
+Dialogue: 0,0:11:55.19,0:11:56.95,Normal,,0,0,0,,Take you anywhere you want.
+Dialogue: 0,0:11:56.99,0:11:59.36,Normal,,0,0,0,,Built like a tank, safe as houses.
+Dialogue: 0,0:11:59.39,0:12:01.09,Normal,,0,0,0,,You want kids?\NPlenty of room for the kids.
+Dialogue: 0,0:12:08.47,0:12:09.83,Normal,,0,0,0,,We're almost there.
+Dialogue: 0,0:12:10.71,0:12:13.97,Normal,,0,0,0,,See the river? Down there.
+Dialogue: 0,0:12:44.57,0:12:46.56,Normal,,0,0,0,,- What do you think?\N- I think it's great.
+Dialogue: 0,0:12:46.61,0:12:48.63,Normal,,0,0,0,,- Yeah?\N- Yeah.
+Dialogue: 0,0:12:48.68,0:12:51.67,Normal,,0,0,0,,Yeah. Yeah, I try and work on it\Nevery chance I can.
+Dialogue: 0,0:12:53.48,0:12:55.01,Normal,,0,0,0,,What about this location?
+Dialogue: 0,0:12:55.21,0:12:58.98,Normal,,0,0,0,,[BREATHS DEEPLY] Feel you can...\NYou can really breathe.
+Dialogue: 0,0:12:59.02,0:13:02.28,Normal,,0,0,0,,WOMAN: Why don't you open the door?\NWe can show them the inside.
+Dialogue: 0,0:13:02.32,0:13:03.55,Normal,,0,0,0,,OTHER WOMAN:\NGood idea.
+Dialogue: 0,0:13:04.56,0:13:07.23,Normal,,0,0,0,,You're incapable of enjoying nature,\Neven for a minute, aren't you?
+Dialogue: 0,0:13:07.33,0:13:12.36,Normal,,0,0,0,,WOMAN: Thank you.\NI think we're going to get sick of it.
+Dialogue: 0,0:13:24.08,0:13:26.44,Normal,,0,0,0,,Here, take it. Won't bite.
+Dialogue: 0,0:13:31.39,0:13:33.08,Normal,,0,0,0,,Look at this beauty.
+Dialogue: 0,0:13:33.12,0:13:35.21,Normal,,0,0,0,,I got this last year.
+Dialogue: 0,0:13:35.26,0:13:36.28,Normal,,0,0,0,,Feel how smooth that is.
+Dialogue: 0,0:13:36.32,0:13:37.42,Normal,,0,0,0,,If you two aren't going to help...
+Dialogue: 0,0:13:37.46,0:13:39.89,Normal,,0,0,0,,you can at least\Nget out of the way.
+Dialogue: 0,0:13:47.20,0:13:49.97,Normal,,0,0,0,,So, what do you think\Nof the sitting room?
+Dialogue: 0,0:13:50.00,0:13:50.97,Normal,,0,0,0,,You converted this?
+Dialogue: 0,0:13:51.01,0:13:55.07,Normal,,0,0,0,,Yeah. Yeah,\Nit used to be the stables.
+Dialogue: 0,0:13:56.74,0:13:59.74,Normal,,0,0,0,,You still think this is a crazy idea?
+Dialogue: 0,0:14:01.38,0:14:03.32,Normal,,0,0,0,,I'm telling you,\Nwe should come and live here.
+Dialogue: 0,0:14:03.35,0:14:05.41,Normal,,0,0,0,,We could start a company again\Nlike we did in London.
+Dialogue: 0,0:14:05.45,0:14:08.62,Normal,,0,0,0,,Oh, are you going to\Nstart talking about work again?
+Dialogue: 0,0:14:08.66,0:14:11.52,Normal,,0,0,0,,You've been going on\Nabout that all week.
+Dialogue: 0,0:14:13.26,0:14:15.56,Normal,,0,0,0,,Well, if it's bothering him...
+Dialogue: 0,0:14:15.60,0:14:18.26,Normal,,0,0,0,,then he should say something,\Nshouldn't he?
+Dialogue: 0,0:14:19.33,0:14:21.46,Normal,,0,0,0,,I'm not bothered. I'm...
+Dialogue: 0,0:14:21.50,0:14:23.37,Normal,,0,0,0,,Did I miss something?
+Dialogue: 0,0:14:23.40,0:14:26.60,Normal,,0,0,0,,I was about to finally\Nconvince your husband...
+Dialogue: 0,0:14:27.98,0:14:29.41,Normal,,0,0,0,,that you should move here.
+Dialogue: 0,0:14:29.44,0:14:32.38,Normal,,0,0,0,,Oh. Thank you,\Nbut I think I prefer civilization.
+Dialogue: 0,0:14:32.41,0:14:36.41,Normal,,0,0,0,,Oh, you, too?\NI support the motion.
+Dialogue: 0,0:14:36.45,0:14:38.01,Normal,,0,0,0,,You don't want\Nto end up like the family...
+Dialogue: 0,0:14:38.05,0:14:41.45,Normal,,0,0,0,,in the little house\Non the prairie, do you?
+Dialogue: 0,0:14:41.49,0:14:43.58,Normal,,0,0,0,,Oh, no. God forbid.\NGive me that.
+Dialogue: 0,0:14:43.62,0:14:47.89,High,,0,0,0,,Oh, don't say my darling\NMichael Landon has got angry.
+Dialogue: 0,0:14:47.93,0:14:50.96,High,,0,0,0,,[GLASS BREAKS]
+Dialogue: 0,0:14:58.96,0:15:02.96,Normal,,0,0,0,,[CRICKETS CHIRPING,\NOWL HOOTS]
+Dialogue: 0,0:15:10.25,0:15:13.84,Normal,,0,0,0,,[DOOR OPENS AND CLOSES]
+Dialogue: 0,0:15:14.26,0:15:16.22,Normal,,0,0,0,,It's freezing in here.
+Dialogue: 0,0:15:16.26,0:15:18.49,Normal,,0,0,0,,Come on, get in here quick.
+Dialogue: 0,0:15:21.23,0:15:23.32,Normal,,0,0,0,,I feel awful.
+Dialogue: 0,0:15:23.36,0:15:26.66,Normal,,0,0,0,,- Completely exhausted.\N- Yeah, too many kilometers.
+Dialogue: 0,0:15:26.70,0:15:28.46,Normal,,0,0,0,,Too much Paul.
+Dialogue: 0,0:15:28.50,0:15:31.87,Normal,,0,0,0,,- And she's so nice.\N- Don't be like that.
+Dialogue: 0,0:15:31.91,0:15:34.53,Normal,,0,0,0,,You know he's invested\Na lot in this place.
+Dialogue: 0,0:15:36.81,0:15:38.68,Normal,,0,0,0,,Oh, that's better.
+Dialogue: 0,0:15:38.71,0:15:42.13,Normal,,0,0,0,,- It feels so good laying down.\N- [DISTANT SOUNDS OF LOVEMAKING]
+Dialogue: 0,0:15:42.58,0:15:44.92,Normal,,0,0,0,,Sounds like they've made it up.
+Dialogue: 0,0:15:44.95,0:15:46.18,Normal,,0,0,0,,Just as well.
+Dialogue: 0,0:15:46.22,0:15:48.75,Normal,,0,0,0,,I couldn't take\Nanother supper like that one.
+Dialogue: 0,0:15:48.79,0:15:51.32,Normal,,0,0,0,,- Shall we turn off the light?\N- Yeah.
+Dialogue: 0,0:15:55.83,0:15:58.44,Normal,,0,0,0,,Things will be a bit better\Nwhen we get some time on our own.
+Dialogue: 0,0:16:00.70,0:16:03.23,Normal,,0,0,0,,We've been traveling by car\Nfor a week.
+Dialogue: 0,0:16:03.27,0:16:06.04,Normal,,0,0,0,,I don't know\Nif I can take any more driving.
+Dialogue: 0,0:16:06.07,0:16:07.94,Normal,,0,0,0,,Do you really not feel like it?
+Dialogue: 0,0:16:07.98,0:16:10.77,Normal,,0,0,0,,No, it's not that\NI don't feel like it, but...
+Dialogue: 0,0:16:10.81,0:16:12.18,Normal,,0,0,0,,Look, I can't think right now.
+Dialogue: 0,0:16:12.21,0:16:14.44,Normal,,0,0,0,,Let's talk about it tomorrow, OK?
+Dialogue: 0,0:16:14.48,0:16:16.04,Normal,,0,0,0,,Yeah.
+Dialogue: 0,0:16:16.88,0:16:19.92,Normal,,0,0,0,,- [WOMAN LAUGHING]\N- Listen to that.
+Dialogue: 0,0:16:20.30,0:16:22.00,Normal,,0,0,0,,[MAN MOANS]
+Dialogue: 0,0:16:22.66,0:16:26.32,Normal,,0,0,0,,- Don't. They'll hear us.\N- So tomorrow I can't tell?
+Dialogue: 0,0:16:26.84,0:16:30.05,Normal,,0,0,0,,[BOTH LAUGH]
+Dialogue: 0,0:16:48.68,0:16:51.98,Normal,,0,0,0,,Oh, I am tired.\NI still have an awful headache.
+Dialogue: 0,0:16:57.46,0:17:00.02,Normal,,0,0,0,,What's wrong?
+Dialogue: 0,0:17:00.06,0:17:03.12,Normal,,0,0,0,,I don't know.\NI feel uncomfortable.
+Dialogue: 0,0:17:15.18,0:17:17.11,Normal,,0,0,0,,Shh, Norman, I said no!
+Dialogue: 0,0:17:20.62,0:17:23.95,Normal,,0,0,0,,A change of air\Nwill do us both good.
+Dialogue: 0,0:17:23.99,0:17:26.51,High,,0,0,0,,Do you think that things are different\Nbecause we're here?
+Dialogue: 0,0:17:26.55,0:17:30.25,High,,0,0,0,,Do you feel different?\NBecause I don't.
+Dialogue: 0,0:17:30.29,0:17:34.23,Normal,,0,0,0,,- What do you feel?\N- You know how I feel.
+Dialogue: 0,0:17:34.26,0:17:36.82,Normal,,0,0,0,,No, I don't.\NI don't know anything.
+Dialogue: 0,0:17:48.08,0:17:50.54,Normal,,0,0,0,,Why did you walk in like that?
+Dialogue: 0,0:17:50.58,0:17:52.31,Normal,,0,0,0,,What?
+Dialogue: 0,0:17:52.35,0:17:55.08,Normal,,0,0,0,,In the bar.\NWhy did you walk in like that?
+Dialogue: 0,0:17:55.12,0:17:57.18,Normal,,0,0,0,,What do you mean?
+Dialogue: 0,0:17:58.19,0:17:59.45,Normal,,0,0,0,,You knew that\Nif you walked in like that...
+Dialogue: 0,0:17:59.49,0:18:02.62,Normal,,0,0,0,,everyone would look\Nat you and I’d see.
+Dialogue: 0,0:18:02.66,0:18:04.32,Normal,,0,0,0,,You did it to fuck with me.
+Dialogue: 0,0:18:04.36,0:18:05.85,Normal,,0,0,0,,Are you serious?
+Dialogue: 0,0:18:12.00,0:18:15.34,Normal,,0,0,0,,[DOOR OPENS AND CLOSES]
+Dialogue: 0,0:18:59.31,0:19:02.68,Normal,,0,0,0,,- What time is it?\N- 6:30. Go back to sleep.
+Dialogue: 0,0:19:02.72,0:19:04.69,Normal,,0,0,0,,What are you doing up\Nat this time, Norman?
+Dialogue: 0,0:19:04.72,0:19:06.45,Normal,,0,0,0,,I'm going hunting with Paul.
+Dialogue: 0,0:19:06.49,0:19:08.54,Normal,,0,0,0,,- Hunting? You?\N- [KNOCK ON DOOR]
+Dialogue: 0,0:19:08.64,0:19:11.95,Normal,,0,0,0,,PAUL: Norman, it'll be getting\Ndark again soon. Come on.
+Dialogue: 0,0:19:11.99,0:19:13.32,Normal,,0,0,0,,I'm coming.
+Dialogue: 0,0:19:19.67,0:19:21.96,Normal,,0,0,0,,[DOOR OPENS]
+Dialogue: 0,0:19:24.05,0:19:26.42,Normal,,0,0,0,,[DOOR CLOSES]
+Dialogue: 0,0:19:40.75,0:19:43.79,Normal,,0,0,0,,PAUL: How you getting on\Nwith that shotgun?
+Dialogue: 0,0:19:43.82,0:19:45.29,Normal,,0,0,0,,Heavy.
+Dialogue: 0,0:19:45.33,0:19:47.06,Normal,,0,0,0,,Ah, it's good to feel the weight.
+Dialogue: 0,0:19:47.09,0:19:48.62,Normal,,0,0,0,,Lets you know it's there.
+Dialogue: 0,0:19:48.66,0:19:50.36,Normal,,0,0,0,,You use it when you need it.
+Dialogue: 0,0:19:50.40,0:19:52.03,Normal,,0,0,0,,You sound like a proper hunter.
+Dialogue: 0,0:19:52.07,0:19:54.43,Normal,,0,0,0,,I am 

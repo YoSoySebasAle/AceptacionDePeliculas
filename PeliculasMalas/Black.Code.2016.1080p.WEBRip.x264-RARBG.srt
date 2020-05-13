@@ -1,0 +1,5607 @@
+1
+00:00:24,111 --> 00:00:28,724
+[clock ticking]
+
+2
+00:00:31,074 --> 00:00:31,727
+[typing]
+
+3
+00:00:34,512 --> 00:00:37,602
+[man] We are going through
+the most profound change
+
+4
+00:00:37,689 --> 00:00:41,302
+in communication technologies
+in all of human history
+right now.
+
+5
+00:00:43,304 --> 00:00:45,828
+[chattering]
+
+6
+00:00:45,915 --> 00:00:50,441
+Printing press,
+radio, telegraph, television.
+All very important.
+
+7
+00:00:50,528 --> 00:00:54,228
+But I believe we're going
+through the most transformative,
+
+8
+00:00:54,315 --> 00:00:57,579
+purely on the basis
+of three technologies.
+
+9
+00:00:57,666 --> 00:01:00,669
+Mobile, social media
+and cloud computing.
+
+10
+00:01:07,937 --> 00:01:10,505
+They share one
+very important characteristic.
+
+11
+00:01:10,592 --> 00:01:14,291
+And that's the amount
+of private information.
+
+12
+00:01:14,378 --> 00:01:17,903
+Information that used to
+be in our desktops
+or filing cabinets,
+
+13
+00:01:17,990 --> 00:01:19,514
+even in our heads,
+
+14
+00:01:19,601 --> 00:01:22,430
+that we now
+entrust to third parties.
+
+15
+00:01:22,517 --> 00:01:24,910
+[whirring]
+
+16
+00:01:24,997 --> 00:01:28,653
+Data that we are conscious of,
+and deliberate about,
+
+17
+00:01:28,740 --> 00:01:31,743
+like the e-mails we send
+and the tweets we post.
+
+18
+00:01:31,830 --> 00:01:34,398
+But it also includes
+a lot of information
+
+19
+00:01:34,485 --> 00:01:37,358
+that we're completely,
+or mostly, unconscious about.
+
+20
+00:01:38,663 --> 00:01:40,622
+So if you take my mobile phone,
+
+21
+00:01:40,709 --> 00:01:44,060
+even when I'm not using it,
+it's emitting a pulse,
+
+22
+00:01:44,147 --> 00:01:47,846
+trying to locate
+the nearest Wi-Fi router
+or cell phone exchange,
+
+23
+00:01:47,933 --> 00:01:50,719
+and within that beacon is
+the make and model of the phone,
+
+24
+00:01:51,763 --> 00:01:53,461
+the fact that it's my phone,
+
+25
+00:01:53,548 --> 00:01:56,507
+because my name is attached
+to the operating system,
+
+26
+00:01:56,594 --> 00:01:59,423
+and most importantly,
+the geolocation of the phone.
+
+27
+00:01:59,510 --> 00:02:02,557
+[drone humming]
+
+28
+00:02:02,644 --> 00:02:04,385
+[man speaking Portuguese]
+
+29
+00:02:10,086 --> 00:02:12,915
+[Deibert continues]
+We are leaving
+this digital exhaust
+
+30
+00:02:13,002 --> 00:02:17,876
+that contains
+extraordinarily precise
+information about our lives,
+
+31
+00:02:17,963 --> 00:02:22,446
+our social relationships
+reduced to
+trillions of data points
+
+32
+00:02:22,533 --> 00:02:27,234
+that form now
+this new ethereal layer
+around the planet
+
+33
+00:02:27,321 --> 00:02:29,845
+that's only growing
+in all directions.
+
+34
+00:02:29,932 --> 00:02:34,719
+[ticking]
+
+35
+00:02:34,806 --> 00:02:38,419
+Capabilities are being put
+in the hands of policy makers,
+
+36
+00:02:38,506 --> 00:02:42,162
+five years ago,
+they'd never imagine
+that they would have.
+
+37
+00:02:42,249 --> 00:02:45,991
+This is where big
+data meets Big Brother.
+
+38
+00:02:46,905 --> 00:02:50,257
+[ticking]
+
+39
+00:02:56,524 --> 00:03:00,832
+[buzzing]
+
+40
+00:03:04,836 --> 00:03:07,274
+-[folk music]
+-[chuckles]
+
+41
+00:03:07,361 --> 00:03:08,318
+[man with accent]
+Should be here.
+
+42
+00:03:10,625 --> 00:03:12,540
+[American man]
+It is kind of in a rock,
+I think.
+
+43
+00:03:12,627 --> 00:03:14,498
+[American man #2]
+Yeah, the entrance is in a rock.
+
+44
+00:03:14,585 --> 00:03:16,500
+-[speaking over each other]
+-Or a bunker.
+
+45
+00:03:16,587 --> 00:03:18,546
+Oh, yeah, the bunker.
+It is down there!
+
+46
+00:03:21,897 --> 00:03:23,507
+[driver]
+There is a bunker
+under here.
+
+47
+00:03:23,594 --> 00:03:27,032
+-[man] Yeah.
+-It is between 33 and 39.
+
+48
+00:03:27,119 --> 00:03:28,338
+[Deibert] Right there.
+Look at that door.
+
+49
+00:03:28,425 --> 00:03:29,600
+[driver] Yeah.[Deibert] Yeah, this is it.
+
+50
+00:03:29,687 --> 00:03:31,559
+Bahnhof.[driver] Okay.
+
+51
+00:03:42,265 --> 00:03:43,527
+[beeps]
+
+52
+00:03:54,016 --> 00:03:55,844
+[door squeaks]Hey, I guess we just go in.
+
+53
+00:04:00,849 --> 00:04:04,592
+[electronica music]
+
+54
+00:04:16,038 --> 00:04:19,520
+[servers whirring]
+
+55
+00:04:21,391 --> 00:04:24,525
+[electronica continues]
+
+56
+00:04:26,788 --> 00:04:28,790
+What's your favorite
+part of the building?
+
+57
+00:04:28,877 --> 00:04:30,835
+I think it's here.
+I mean, I love it.
+
+58
+00:04:30,922 --> 00:04:33,316
+Yeah.[loud whirring]
+
+59
+00:04:33,403 --> 00:04:35,797
+All the energy down here.
+The noise and stuff
+like that.
+
+60
+00:04:35,884 --> 00:04:38,495
+It's kind of a...It's like being in a hive.
+
+61
+00:04:38,582 --> 00:04:39,583
+Yeah.Yeah, exactly.
+
+62
+00:04:55,730 --> 00:05:00,256
+Many people believe that
+you have this cloud services
+that are floating around.
+
+63
+00:05:00,343 --> 00:05:02,519
+People think, "Okay,
+it's a cloud server."
+
+64
+00:05:02,606 --> 00:05:06,044
+But this is
+the actual physical location
+of the Internet.
+
+65
+00:05:06,131 --> 00:05:09,004
+[whirring, clicking]
+
+66
+00:05:14,488 --> 00:05:17,795
+[Karlung continues]
+It's a constant struggle
+to protect data.
+
+67
+00:05:17,882 --> 00:05:22,322
+[voices echo]
+
+68
+00:05:22,409 --> 00:05:26,674
+The Swedish Security Police
+wanted to install tools
+
+69
+00:05:26,761 --> 00:05:32,027
+to automatically
+log in to our data
+and get out the information.
+
+70
+00:05:33,202 --> 00:05:35,204
+So I invited them
+to our facility,
+
+71
+00:05:35,291 --> 00:05:37,511
+and then I had a microphone
+
+72
+00:05:37,598 --> 00:05:42,777
+which I was provided
+by the Swedish Public Service,
+national radio.
+
+73
+00:05:46,737 --> 00:05:51,568
+[speaking Swedish]
+
+74
+00:05:57,313 --> 00:06:00,447
+I taped this conversation,
+and they were so angry.
+
+75
+00:06:00,534 --> 00:06:03,493
+And they also wanted us
+to sign a paper
+
+76
+00:06:03,580 --> 00:06:06,975
+where they said that
+we could not say
+anything about it.
+
+77
+00:06:07,062 --> 00:06:08,933
+It should be total secrecy.
+
+78
+00:06:09,020 --> 00:06:13,373
+They said,
+"If a terrorist attack happens,
+it's your fault."
+
+79
+00:06:13,460 --> 00:06:14,765
+[click, buzz]
+
+80
+00:06:14,852 --> 00:06:20,641
+[man speaks Swedish]
+
+81
+00:06:28,300 --> 00:06:30,564
+[Karlung]
+It's, like, a creepy feeling.
+
+82
+00:06:30,651 --> 00:06:34,219
+Nobody can say that
+any facility is safe.
+
+83
+00:06:34,306 --> 00:06:39,181
+There are always possibilities
+to go in and find data
+and take it out.
+
+84
+00:06:42,793 --> 00:06:46,275
+People say that,
+"Oh, I don't have
+anything to hide.
+
+85
+00:06:46,362 --> 00:06:48,059
+They can read my mail.
+I don't have anything."
+
+86
+00:06:48,146 --> 00:06:51,193
+But it's not that
+which is this problem.
+
+87
+00:06:51,280 --> 00:06:55,676
+The problem is, without secrecy,
+there can be no democracy.
+
+88
+00:06:55,763 --> 00:06:58,505
+Without secrecy,
+there can be no market economy.
+
+89
+00:06:59,331 --> 00:07:00,855
+Right.
+
+90
+00:07:00,942 --> 00:07:03,597
+There is an obvious candidate
+for the Nobel Peace Prize.
+
+91
+00:07:03,684 --> 00:07:06,034
+Really?And that is Edward Snowden.
+
+92
+00:07:06,121 --> 00:07:07,514
+I mean, yeah.
+
+93
+00:07:21,571 --> 00:07:28,186
+Does the public enjoy
+the same right to privacy
+that we have in the past?
+
+94
+00:07:28,273 --> 00:07:30,972
+Are we still private citizens,
+
+95
+00:07:31,059 --> 00:07:34,584
+and then public officials,
+where the government knows
+very little about us,
+
+96
+00:07:34,671 --> 00:07:36,107
+but we know
+everything about them?
+
+97
+00:07:36,194 --> 00:07:39,197
+Why are we, the public,
+becoming disempowered
+
+98
+00:07:39,284 --> 00:07:42,026
+at the same time
+that governments
+around the world,
+
+99
+00:07:42,113 --> 00:07:47,336
+corporations around the world,
+institutions around the world,
+
+100
+00:07:47,423 --> 00:07:52,210
+are gaining greater
+and greater leverage over
+the range of our activities,
+
+101
+00:07:52,297 --> 00:07:54,430
+their knowledge of what we do?
+
+102
+00:08:08,139 --> 00:08:10,228
+[Deibert] The Citizen Lab
+is an unusual place.
+
+103
+00:08:10,315 --> 00:08:13,449
+[cell phones ringing]
+
+104
+00:08:13,536 --> 00:08:16,583
+We're a research unit
+at the University of Toronto.
+
+105
+00:08:18,846 --> 00:08:22,371
+We combine the skills
+of engineers,
+computer scientists
+
+106
+00:08:22,458 --> 00:08:24,155
+with social scientists.
+
+107
+00:08:24,242 --> 00:08:26,810
+We collaborate with people
+from all over the world
+
+108
+00:08:26,897 --> 00:08:29,073
+to do the field research
+that we do.
+
+109
+00:08:29,160 --> 00:08:32,512
+And we do this
+to advance research
+on global security,
+
+110
+00:08:32,599 --> 00:08:34,514
+cyberspace
+and human rights.
+
+111
+00:08:37,386 --> 00:08:39,214
+The world is
+a very dangerous place
+
+112
+00:08:39,301 --> 00:08:42,522
+as we saw recently in...
+in tragic incidents
+in Paris,
+
+113
+00:08:42,609 --> 00:08:47,265
+and you want to
+have security agencies
+be well adept at discerning
+
+114
+00:08:47,352 --> 00:08:49,703
+what those threats
+are over our horizon.
+
+115
+00:08:49,790 --> 00:08:55,099
+But is it okay
+that the government sets up
+a giant digital X-ray machine
+
+116
+00:08:55,186 --> 00:08:56,971
+over everything that we do?
+
+117
+00:08:57,058 --> 00:08:59,147
+Because that's effectively
+where we're headed right now.
+
+118
+00:08:59,234 --> 00:09:00,540
+[typing]
+
+119
+00:09:02,716 --> 00:09:05,762
+[continues]
+We've been a kind of
+digital early warning system,
+
+120
+00:09:05,849 --> 00:09:07,982
+scanning the horizon.
+
+121
+00:09:08,069 --> 00:09:10,898
+And what we've seen, frankly,
+has been really disturbing.
+
+122
+00:09:10,985 --> 00:09:13,161
+[digital chirping]
+
+123
+00:09:14,771 --> 00:09:16,338
+[typing]
+
+124
+00:09:23,214 --> 00:09:26,130
+[praying, chanting]
+
+125
+00:09:30,961 --> 00:09:33,007
+[chanting in Tibetan]
+
+126
+00:09:37,185 --> 00:09:39,796
+[man, in Tibetan]
+It was around 4:30.
+We had just finished praying.
+
+127
+00:09:43,974 --> 00:09:49,197
+Sixty or 70 police arrived along
+with 300 or 400 soldiers.
+
+128
+00:09:51,155 --> 00:09:52,940
+They forced their
+way into the monastery.
+
+129
+00:10:01,078 --> 00:10:03,559
+[chimes playing]
+
+130
+00:10:15,571 --> 00:10:19,488
+[Golog, in Tibetan]
+They started ransacking
+the monastery.
+
+131
+00:10:19,575 --> 00:10:23,797
+All the monks were asking,
+"Why are they here?
+What are they doing here?"
+
+132
+00:10:23,884 --> 00:10:26,626
+Everyone was nervous.
+I had a sinking feeling.
+
+133
+00:10:26,713 --> 00:10:30,107
+One of the monastery's artists
+was arguing with the police,
+and I tried to intercede.
+
+134
+00:10:30,194 --> 00:10:33,545
+Suddenly my phone rang,
+so I quickly switched it off.
+
+135
+00:10:33,633 --> 00:10:36,897
+I switched off my phone.
+
+136
+00:10:43,555 --> 00:10:47,472
+We could hear the police outside
+talking in Chinese
+on walkie-talkies.
+
+137
+00:10:47,559 --> 00:10:49,910
+Then the police searching inside
+were called out.
+
+138
+00:10:51,476 --> 00:10:53,957
+I could see one of them
+looking closely at a photo.
+
+139
+00:10:54,044 --> 00:10:56,307
+But I couldn't see
+if it was a photo of me or not.
+
+140
+00:10:56,394 --> 00:11:00,224
+Then they came back in
+and pointed a gun
+to each of our heads,
+
+141
+00:11:00,311 --> 00:11:04,359
+and we were told to put
+our phones down on the ground
+in front of them...
+
+142
+00:11:05,534 --> 00:11:08,580
+as they kept us all at gunpoint.
+
+143
+00:11:08,668 --> 00:11:14,630
+So I switched my phone back on
+
+144
+00:11:14,717 --> 00:11:17,981
+and put it down
+in front of them.
+
+145
+00:11:23,421 --> 00:11:28,557
+[vibrates]
+
+146
+00:11:28,644 --> 00:11:30,994
+Just after I switched it
+back on, my phone rang.
+
+147
+00:11:37,000 --> 00:11:39,394
+The police asked, "Whose phone
+is this?" I said, "It's mine."
+
+148
+00:11:40,787 --> 00:11:45,182
+-[shouts]
+-[blows landing]
+
+149
+00:11:45,269 --> 00:11:47,619
+They started beating me
+with their rifles,
+
+150
+00:11:47,707 --> 00:11:49,796
+striking me with the points
+and the butts of their guns.
+
+151
+00:11:52,059 --> 00:11:55,018
+-[shouting in Tibetan]
+-[blows landing]
+
+152
+00:11:55,105 --> 00:11:57,412
+Then a bunch of them grabbed me,
+and dragged me away.
+
+153
+00:11:59,849 --> 00:12:02,722
+[beating continues]
+
+154
+00:12:04,767 --> 00:12:09,685
+[stops]
+
+155
+00:12:13,167 --> 00:12:19,695
+[Golog]
+They had complete records
+of all our phone conversations.
+
+156
+00:12:20,696 --> 00:12:23,743
+They knew everything.
+
+157
+00:12:23,830 --> 00:12:27,703
+[vehicle horns honking]
+
+158
+00:12:33,840 --> 00:12:37,495
+[woman, in English]
+Tibetans are watched from every
+angle and from every corner.
+
+159
+00:12:37,582 --> 00:12:41,282
+It's in their homes,
+it's in their offices,
+it's in the streets.
+
+160
+00:12:41,369 --> 00:12:43,240
+In Tibet,
+certainly in central Tibet
+
+161
+00:12:43,327 --> 00:12:45,765
+and around
+the capital city of Lhasa,
+
+162
+00:12:45,852 --> 00:12:49,246
+Chinese authorities,
+together with
+Chinese corporations,
+
+163
+00:12:49,333 --> 00:12:51,509
+telecommunications companies,
+
+164
+00:12:51,596 --> 00:12:56,210
+they've integrated
+the ability to spy on people
+via their mobile phone,
+
+165
+00:12:56,297 --> 00:12:59,213
+via the last communications they
+may have had over the Internet.
+
+166
+00:12:59,300 --> 00:13:02,477
+Down to the closed circuit
+television camera
+on the streets.
+
+167
+00:13:04,131 --> 00:13:07,134
+The Chinese so strictly
+control access to Tibet,
+
+168
+00:13:07,221 --> 00:13:09,092
+it's just like a black hole
+
+169
+00:13:09,179 --> 00:13:12,400
+for media,
+for independent observers,
+
+170
+00:13:12,487 --> 00:13:14,097
+for international agencies,
+for anything.
+
+171
+00:13:21,017 --> 00:13:23,454
+[Golog, in Tibetan]
+Ever since I started being
+politically active,
+
+172
+00:13:23,541 --> 00:13:27,589
+I never gave a thought
+to my own security.
+
+173
+00:13:27,676 --> 00:13:33,421
+I just see it
+as a responsibility
+that comes with being Tibetan.
+
+174
+00:13:40,950 --> 00:13:42,909
+[woman speaks in Tibetan]
+
+175
+00:13:44,388 --> 00:13:49,089
+[Golog]
+How I escaped is a secret.
+
+176
+00:13:49,176 --> 00:13:51,091
+[light music]
+
+177
+00:14:07,977 --> 00:14:10,371
+[Tethong]
+People
+are incredibly courageous.
+
+178
+00:14:10,458 --> 00:14:13,635
+People inside Tibet will
+send out news and information.
+
+179
+00:14:13,722 --> 00:14:16,681
+And they'll say,
+"I want this story to be told."
+
+180
+00:14:17,813 --> 00:14:19,119
+They could be imprisoned.
+
+181
+00:14:19,206 --> 00:14:20,598
+They could be tortured.
+
+182
+00:14:20,685 --> 00:14:22,209
+Their family
+could pay the price.
+
+183
+00:14:22,296 --> 00:14:23,558
+[music continues]
+
+184
+00:14:23,645 --> 00:14:25,777
+We on the outside have to decide
+
+185
+00:14:25,865 --> 00:14:31,348
+how to walk this very,
+sort of, fine line between
+protecting people's security
+
+186
+00:14:31,435 --> 00:14:35,048
+and honoring their wishes
+about getting news
+and information out.
+
+187
+00:14:35,135 --> 00:14:39,530
+And we know for a fact,
+thanks to Citizen Lab's report,
+
+188
+00:14:39,617 --> 00:14:42,620
+that we are being
+successfully targeted.
+
+189
+00:14:42,707 --> 00:14:44,666
+[music stops]
+
+190
+00:14:44,753 --> 00:14:49,236
+A new report has been released
+from a group
+of digital detectives.
+
+191
+00:14:49,323 --> 00:14:53,153
+From their computers in Toronto,
+they've tracked
+a high-tech spy ring
+
+192
+00:14:53,240 --> 00:14:54,545
+that reaches around the world.
+
+193
+00:14:55,372 --> 00:14:57,505
+[typewriter clicks]
+
+194
+00:14:59,246 --> 00:15:00,638
+[reporter] For the past ten months,
+
+195
+00:15:00,725 --> 00:15:03,728
+these computer experts have been working as cyber sleuths
+
+196
+00:15:03,815 --> 00:15:07,036
+hot on the trail of a massive electronic spy network.
+
+197
+00:15:07,123 --> 00:15:11,388
+They say it has taken control of nearly 1,300 high-level computers
+
+198
+00:15:11,475 --> 00:15:13,608
+in more than 100 countries.
+
+199
+00:15:13,695 --> 00:15:17,133
+A discovery that could have major political implications.
+
+200
+00:15:17,220 --> 00:15:19,788
+They can extract any
+document they wanted.
+
+201
+00:15:19,875 --> 00:15:23,748
+They could turn on web cameras,
+turn on audio devices,
+
+202
+00:15:23,835 --> 00:15:25,794
+so that they could,
+in effect, use the computers
+
+203
+00:15:25,881 --> 00:15:27,839
+as a listening device
+in the offices.
+
+204
+00:15:27,927 --> 00:15:30,494
+[reporter] The web of intrigue started with the Dalai Lama
+
+205
+00:15:30,581 --> 00:15:32,279
+who thought his computer had been hacked.
+
+206
+00:15:36,631 --> 00:15:41,244
+Up until about 2007 or 2008,
+I'd never really heard
+of malware.
+
+207
+00:15:41,331 --> 00:15:43,681
+You know, I'd heard
+of viruses, obviously,
+
+208
+00:15:43,768 --> 00:15:46,641
+but I hadn't really heard
+about targeted malware attacks
+
+209
+00:15:46,728 --> 00:15:48,251
+affecting
+the human rights community.
+
+210
+00:15:48,338 --> 00:15:49,557
+[clicking]
+
+211
+00:15:53,822 --> 00:15:57,130
+First time I heard about it was
+in the context of the Tibetans.
+
+212
+00:15:57,217 --> 00:16:01,699
+Gradually
+we started piecing together,
+they are under surveillance.
+
+213
+00:16:01,786 --> 00:16:05,877
+The surveillance comes
+from groups within China.
+
+214
+00:16:05,965 --> 00:16:10,970
+They're using malicious software
+and socially-engineered e-mails.
+
+215
+00:16:11,057 --> 00:16:13,581
+E-mails that are crafted
+to get them to open it up
+
+216
+00:16:13,668 --> 00:16:15,409
+to get inside their devices.
+
+217
+00:16:16,932 --> 00:16:18,978
+[reporter] Nart Villeneuve, a computer wiz,
+
+218
+00:16:19,065 --> 00:16:21,197
+figured out how the operation worked
+
+219
+00:16:21,284 --> 00:16:24,026
+by getting the attackers to hack into his computer.
+
+220
+00:16:24,113 --> 00:16:25,723
+We're monitoring these groups
+
+221
+00:16:25,810 --> 00:16:27,943
+for long periods of time,
+
+222
+00:16:28,030 --> 00:16:30,859
+and you're essentially waiting
+for them to screw up, right?
+
+223
+00:16:30,946 --> 00:16:32,904
+And when they do,
+you take advantage of that.
+
+224
+00:16:32,992 --> 00:16:35,081
+Sometimes it takes a long time.
+
+225
+00:16:35,168 --> 00:16:38,127
+You could be monitoring a group
+for a year and get nothing.
+
+226
+00:16:38,214 --> 00:16:42,697
+Then one day,
+they just use a server
+that they don't lock down
+
+227
+00:16:42,784 --> 00:16:44,438
+and all the data's
+just sitting there.
+
+228
+00:16:46,396 --> 00:16:48,964
+I was at home.
+It was pretty late.
+
+229
+00:16:49,660 --> 00:16:51,575
+[typing]
+
+230
+00:17:20,387 --> 00:17:21,823
+[Deibert]
+Nart was scouring through it,
+
+231
+00:17:21,910 --> 00:17:24,565
+trying to figure out
+what actor is responsible
+
+232
+00:17:24,652 --> 00:17:26,828
+for getting inside
+the Dalai Lama's office.
+
+233
+00:17:26,915 --> 00:17:30,919
+And there was
+a 22 or 24 character string
+that kept coming up
+
+234
+00:17:31,006 --> 00:17:33,574
+that he couldn't figure out,
+"What is the meaning of this?"
+
+235
+00:17:33,661 --> 00:17:37,926
+So on a whim, he just copied
+and pasted it into Google.
+
+236
+00:17:38,013 --> 00:17:41,147
+One website came up,
+and it was Chinese characters.
+
+237
+00:17:44,889 --> 00:17:46,369
+So he clicked on it.
+
+238
+00:17:46,456 --> 00:17:47,414
+[mouse clicks]
+
+239
+00:17:49,024 --> 00:17:52,854
+To my surprise,
+what came back
+was the actual page
+
+240
+00:17:52,941 --> 00:17:57,163
+that the attackers used
+to interface
+with the compromised systems.
+
+241
+00:17:57,250 --> 00:18:01,123
+So they set up a website
+where they could monitor
+their victims.
+
+242
+00:18:01,210 --> 00:18:03,256
+But they didn't
+password protect it!
+
+243
+00:18:03,343 --> 00:18:06,172
+So it was like a window
+into everything they were doing.
+
+244
+00:18:07,695 --> 00:18:10,176
+[electronic music]
+
+245
+00:18:16,965 --> 00:18:20,186
+[Nart]
+This wasn't just targeted
+at Tibetan organizations
+
+246
+00:18:20,273 --> 00:18:22,536
+or human rights organizations.
+
+247
+00:18:22,623 --> 00:18:26,627
+This was global,
+a pretty wide range
+of institutions
+
+248
+00:18:26,714 --> 00:18:29,586
+that showed that
+these attackers were...
+were quite busy.
+
+249
+00:18:29,673 --> 00:18:32,111
+There was huge pickup
+in the media.
+It was all over the world.
+
+250
+00:18:38,726 --> 00:18:42,382
+And it put us on
+a different kind of footing
+in terms of our credibility.
+
+251
+00:18:45,820 --> 00:18:49,563
+In the cyber security community,
+we were novices at that time.
+
+252
+00:18:49,650 --> 00:18:50,564
+We were kind of outsiders.
+
+253
+00:18:51,782 --> 00:18:53,175
+[no audible dialogue]
+
+254
+00:18:53,262 --> 00:18:56,091
+So we were kind of
+calling it on the fly.
+
+255
+00:18:56,178 --> 00:18:57,962
+Like, what do we do?
+What's the right thing to do?
+
+256
+00:18:58,049 --> 00:18:59,442
+Who do we notify?
+
+257
+00:18:59,529 --> 00:19:02,010
+I knew that publishing it
+was important.
+
+258
+00:19:02,097 --> 00:19:04,534
+We had to redact
+a lot of the information
+to protect people.
+
+259
+00:19:04,621 --> 00:19:06,971
+Should we notify the government?
+
+260
+00:19:07,058 --> 00:19:08,886
+Should we notify
+the Canadian government?
+
+261
+00:19:08,973 --> 00:19:12,847
+How do we notify
+other governments
+that are being victimized?
+
+262
+00:19:12,934 --> 00:19:14,631
+At the time, you know,
+
+263
+00:19:14,718 --> 00:19:17,417
+we didn't want
+to completely disclose
+everything that we had done,
+
+264
+00:19:17,504 --> 00:19:19,419
+because we
+wanted to do it again.
+
+265
+00:19:19,506 --> 00:19:22,900
+[Deibert]
+In some of the communities
+I mentioned, they loved it.
+
+266
+00:19:22,987 --> 00:19:26,252
+But I got the feeling from,
+certainly inside
+my own government,
+
+267
+00:19:26,339 --> 00:19:28,079
+there was a lot of weirdness.
+
+268
+00:19:28,167 --> 00:19:31,474
+[interviewer]
+Are we allowed to speculate?Well, I think now we know
+
+269
+00:19:31,561 --> 00:19:36,175
+because there's
+a Snowden disclosure that
+explicitly references the fact
+
+270
+00:19:36,262 --> 00:19:38,655
+that the Canadians
+and the Americans,
+
+271
+00:19:38,742 --> 00:19:40,701
+our signal's
+intelligence agencies,
+
+272
+00:19:40,788 --> 00:19:43,791
+were piggybacking
+off the GhostNet network.
+
+273
+00:19:43,878 --> 00:19:47,447
+So, in publishing the report,
+we basically broke up
+their party.
+
+274
+00:19:55,933 --> 00:19:59,459
+From our initial samples from
+the office of the Dalai Lama,
+
+275
+00:19:59,546 --> 00:20:02,375
+they were actually compromised
+by two distinct groups.
+
+276
+00:20:02,462 --> 00:20:05,552
+The GhostNet group obviously
+got the most attention.
+
+277
+00:20:05,639 --> 00:20:08,424
+But there was another group
+that was also active.
+
+278
+00:20:08,511 --> 00:20:10,905
+The GhostNet group
+shut down their operations,
+
+279
+00:20:10,992 --> 00:20:14,822
+but the other group, um,
+they're still going.
+
+280
+00:20:14,909 --> 00:20:17,041
+[birds tweeting]
+
+281
+00:20:23,309 --> 00:20:27,574
+[Tibetan horns]
+
+282
+00:20:27,661 --> 00:20:30,925
+[chattering]
+
+283
+00:20:51,293 --> 00:20:52,512
+[horns continue]
+
+284
+00:20:55,732 --> 00:20:58,866
+[gong rings]
+
+285
+00:21:04,480 --> 00:21:08,832
+[chanting in
+Tibetan through megaphone]
+
+286
+00:21:13,968 --> 00:21:19,713
+The vast majority of Tibetans
+inside of Tibet use WeChat.
+
+287
+00:21:19,800 --> 00:21:24,587
+But it's both
+a blessing and a curse.
+
+288
+00:21:26,676 --> 00:21:28,591
+[woman speaking Tibetan]
+
+289
+00:21:30,289 --> 00:21:35,555
+[Golog]
+QQ is Chinese-made.
+WeChat is Chinese-made.
+
+290
+00:21:39,820 --> 00:21:42,083
+All these social media apps
+come from China.
+
+291
+00:21:42,170 --> 00:21:46,914
+If someone in Lhasa
+or Nagchu were to post a photo
+of His Holiness on WeChat,
+
+292
+00:21:48,045 --> 00:21:53,094
+they would be caught
+immediately.
+
+293
+00:21:58,578 --> 00:22:01,755
+In our research,
+what we see are acts of war
+
+294
+00:22:01,842 --> 00:22:05,106
+that take place
+against citizens,
+
+295
+00:22:05,193 --> 00:22:07,108
+using these very technologies.
+
+296
+00:22:07,195 --> 00:22:10,154
+Getting inside
+the computers of Tibetans
+and then arresting them,
+
+297
+00:22:10,241 --> 00:22:14,071
+and possibly executing them,
+is a kind of act of war.
+
+298
+00:22:14,158 --> 00:22:16,204
+[speaking Tibetan]
+
+299
+00:22:16,291 --> 00:22:19,076
+[Deibert]
+We see this sort of thing
+every week, right?
+
+300
+00:22:19,163 --> 00:22:21,427
+Minor to major versions of it.
+
+301
+00:22:24,125 --> 00:22:28,042
+Everything on the site
+is correct except this.
+
+302
+00:22:28,129 --> 00:22:32,089
+So this... The last log-in on
+the C panel was from Korea.
+
+303
+00:22:32,176 --> 00:22:34,440
+Mm-hmm.Do you guys have any work
+in Korea?
+
+304
+00:22:34,527 --> 00:22:36,398
+Is there any...No, no...
+
+305
+00:22:36,485 --> 00:22:39,358
+So who actually accesses
+the website to update it
+and all that sort of thing?
+
+306
+00:22:39,445 --> 00:22:41,621
+It must be
+someone unauthorized.Yeah.
+
+307
+00:22:48,410 --> 00:22:52,066
+[bell ringing]
+
+308
+00:22:55,809 --> 00:22:59,987
+[ringing rapidly]
+
+309
+00:23:02,598 --> 00:23:04,948
+[stops]
+
+310
+00:23:05,035 --> 00:23:11,085
+[chanting]
+
+311
+00:23:24,533 --> 00:23:28,189
+[speaking Tibetan]
+For me, Tibet is a memory.
+
+312
+00:23:28,276 --> 00:23:31,105
+It's like a reoccurring dream.
+
+313
+00:23:33,107 --> 00:23:34,587
+This photo is full of memories.
+
+314
+00:23:34,674 --> 00:23:36,937
+If I close my eyes,
+I can see it all vividly.
+
+315
+00:23:37,024 --> 00:23:41,115
+This is the hall where
+we prayed and made offerings.
+
+316
+00:23:42,856 --> 00:23:48,122
+On this side are
+all of my classmates.
+
+317
+00:23:49,210 --> 00:23:52,431
+This is one of my best friends.
+
+318
+00:23:56,217 --> 00:23:58,872
+[in English] One, two, three,
+
+319
+00:23:59,916 --> 00:24:04,660
+four, five, six,
+
+320
+00:24:05,531 --> 00:24:07,489
+seven.
+
+321
+00:24:07,576 --> 00:24:14,235
+[in Tibetan]
+I use these different phones to
+contact Tibetans inside Tibet.
+
+322
+00:24:14,322 --> 00:24:17,499
+I don't use my personal phone.
+
+323
+00:24:17,586 --> 00:24:20,415
+I'm constantly switching
+the number that I use.
+
+324
+00:24:20,502 --> 00:24:25,638
+If you call too many times
+from the same number,
+it will get blacklisted.
+
+325
+00:24:25,725 --> 00:24:31,513
+Then, when they catch you using
+a blacklisted number,
+they'll investigate.
+
+326
+00:24:31,600 --> 00:24:34,385
+Who's calling?
+And who are they calling to?
+
+327
+00:24:40,609 --> 00:24:44,700
+Since 2008, I've kept contacts
+in Tibet so I can find out
+what's happening there.
+
+328
+00:24:44,787 --> 00:24:49,052
+Most of the news I receive
+regards peoples' suffering.
+
+329
+00:24:49,139 --> 00:24:52,795
+For example,
+people being killed,
+arrested, disappearing.
+
+330
+00:24:52,882 --> 00:24:56,277
+Children being separated
+from their parents.
+
+331
+00:24:56,364 --> 00:24:59,759
+When the parents of
+a child are arrested,
+
+332
+00:24:59,846 --> 00:25:02,936
+often the children are left
+with no one to care for them.
+
+333
+00:25:03,893 --> 00:25:09,725
+[Tibetan horn]
+
+334
+00:25:15,339 --> 00:25:19,430
+[horn continues]
+
+335
+00:25:22,433 --> 00:25:26,350
+When somebody self-immolates,
+communicating
+is even more dangerous.
+
+336
+00:25:26,437 --> 00:25:29,092
+Even though it makes me uneasy,
+I have to ask for details.
+
+337
+00:25:29,179 --> 00:25:33,009
+If I don't get
+the whole story out,
+it's a great loss.
+
+338
+00:25:34,881 --> 00:25:39,494
+[horn resumes]
+
+339
+00:25:49,330 --> 00:25:51,985
+This video was received by
+a friend of mine through WeChat.
+
+340
+00:25:52,072 --> 00:25:53,769
+[screaming]
+
+341
+00:25:53,856 --> 00:25:56,032
+[shout][gunshot]
+
+342
+00:26:01,603 --> 00:26:03,562
+[screaming continues]
+
+343
+00:26:13,354 --> 00:26:15,356
+[man shouts]
+
+344
+00:26:21,101 --> 00:26:23,146
+[screaming continues]
+
+345
+00:26:25,975 --> 00:26:27,542
+[stops]
+
+346
+00:26:27,629 --> 00:26:29,718
+[indistinct]Hmm.
+
+347
+00:26:29,805 --> 00:26:34,331
+This video was aired
+by BBC and Al Jazeera.
+
+348
+00:26:34,418 --> 00:26:37,770
+A lot of news agencies aired it.
+It's only a few seconds,
+
+349
+00:26:37,857 --> 00:26:44,559
+but it proves that
+many of the things we've been
+reporting are a reality.
+
+350
+00:26:44,646 --> 00:26:49,520
+And now it's documented.
+You can Google it
+and find photos.
+
+351
+00:26:49,608 --> 00:26:51,218
+It's everywhere.
+There's no risk of losing it.
+
+352
+00:26:51,305 --> 00:26:54,047
+[typing]
+
+353
+00:27:17,418 --> 00:27:20,595
+[talking, quiet]
+
+354
+00:27:32,433 --> 00:27:35,741
+Not that long ago,
+the government of Pakistan
+put out this tender
+
+355
+00:27:35,828 --> 00:27:40,136
+for proposals for a nationwide
+Internet filtering system.
+
+356
+00:27:40,223 --> 00:27:43,444
+They wanted to solicit proposals
+from companies to build,
+
+357
+00:27:43,531 --> 00:27:46,316
+effectively,
+the Great Firewall of Pakistan.
+
+358
+00:27:52,540 --> 00:27:56,065
+Today if you visit Pakistan
+and you get online
+
+359
+00:27:56,152 --> 00:27:59,808
+and you try to access YouTube,
+this is what you'll see,
+
+360
+00:28:00,896 --> 00:28:02,158
+a blocked page like this.
+
+361
+00:28:07,163 --> 00:28:09,296
+I'm in Islamabad,
+putting in a SIM card.
+
+362
+00:28:13,517 --> 00:28:16,259
+First and foremost,
+I'm really excited
+to see Shahzad.
+
+363
+00:28:16,346 --> 00:28:20,611
+I first met Shahzad and
+the organization Bytes for All,
+
+364
+00:28:20,699 --> 00:28:21,917
+eight years ago, I think?
+
+365
+00:28:22,004 --> 00:28:24,746
+And he's been involved,
+in one way or another,
+
+366
+00:28:24,833 --> 00:28:26,661
+in Citizen Lab research
+ever since.
+
+367
+00:28:28,576 --> 00:28:30,317
+[mouse clicks]
+
+368
+00:28:36,497 --> 00:28:39,761
+[chattering]
+
+369
+00:28:39,848 --> 00:28:42,808
+-Hi, Shahzad.
+-Hello!
+
+370
+00:28:44,461 --> 00:28:48,030
+So great to see you.Here we are.
+Here we are.
+
+371
+00:28:48,117 --> 00:28:49,945
+[both chuckling]
+
+372
+00:28:50,032 --> 00:28:52,252
+[Deibert]
+Bytes for All does what they do,
+
+373
+00:28:52,339 --> 00:28:56,430
+fight for Internet rights
+and advocacy-based
+approach to Internet freedom
+
+374
+00:28:56,517 --> 00:28:58,998
+under extreme duress.
+
+375
+00:28:59,085 --> 00:29:01,609
+So they're operating
+in a country that,
+
+376
+00:29:01,696 --> 00:29:04,438
+specifically around media
+and free expression,
+
+377
+00:29:04,525 --> 00:29:06,701
+has got to be one of
+the worst places in the world.
+
+378
+00:29:06,788 --> 00:29:10,270
+Uh, journalists are
+routinely kidnapped, murdered,
+
+379
+00:29:10,357 --> 00:29:13,055
+uh, offices firebombed,
+et cetera,
+
+380
+00:29:13,142 --> 00:29:15,318
+and they've experienced
+all of that.
+
+381
+00:29:16,842 --> 00:29:20,019
+Death threats,
+staff members kidnapped,
+
+382
+00:29:20,106 --> 00:29:24,023
+his own son beat up and
+thrown to the side of the road
+
+383
+00:29:24,110 --> 00:29:27,113
+as a warning to Shahzad
+not to do what he's doing.
+
+384
+00:29:31,247 --> 00:29:33,597
+In my opinion,
+
+385
+00:29:33,684 --> 00:29:37,863
+Internet has opened up
+so many opportunities...
+
+386
+00:29:39,081 --> 00:29:40,779
+for the people to express,
+
+387
+00:29:40,866 --> 00:29:45,044
+and that is the sole reason
+that we are fighting
+for open Internet.
+
+388
+00:29:45,131 --> 00:29:48,743
+They lost their public spaces.
+
+389
+00:29:48,830 --> 00:29:52,529
+They lost their ability
+to go out freely.
+
+390
+00:29:52,616 --> 00:29:56,490
+So, as they are putting controls
+and curbs on physical spaces,
+
+391
+00:29:56,577 --> 00:30:00,537
+they are doing exactly the same
+in online spaces as well.
+
+392
+00:30:00,624 --> 00:30:04,411
+So precisely the reason
+we are standing out there
+to reclaim those spaces.
+
+393
+00:30:04,498 --> 00:30:06,021
+And we have to at some point,
+
+394
+00:30:06,108 --> 00:30:07,806
+and we'll continue to do that.
+
+395
+00:30:09,111 --> 00:30:11,722
+Oh, my God. [sighs]
+
+396
+00:30:11,810 --> 00:30:15,248
+The government has the ability
+to ban specific pages.
+
+397
+00:30:15,335 --> 00:30:17,380
+[speaking foreign language]
+
+398
+00:30:17,467 --> 00:30:19,643
+[in English]
+You ban all of Facebook,
+businesses are suffering,
+
+399
+00:30:19,730 --> 00:30:20,819
+people communicate.
+
+400
+00:30:20,906 --> 00:30:23,647
+I mean, you can
+laugh and joke and say,
+
+401
+00:30:23,734 --> 00:30:26,346
+"For a few days people
+won't play FarmVille,"
+but it's not about that.
+
+402
+00:30:26,433 --> 00:30:29,740
+It's about your fundamental
+rights being snatched from you
+
+403
+00:30:29,828 --> 00:30:33,179
+and no government,
+in my opinion, should have
+the ability to do that.
+
+404
+00:30:33,266 --> 00:30:34,702
+[woman] Right.
+
+405
+00:30:34,789 --> 00:30:37,836
+Not only that, they banned
+Wikipedia for a little while.
+
+406
+00:30:37,923 --> 00:30:39,315
+-Yes, mm-hmm.
+-YouTube.
+
+407
+00:30:39,402 --> 00:30:42,710
+Uh, about several thousand
+websites were affected.
+
+408
+00:30:42,797 --> 00:30:46,235
+I think the Internet is
+this vast, unregulated,
+
+409
+00:30:46,322 --> 00:30:48,890
+wonderful, democratizing space
+
+410
+00:30:48,977 --> 00:30:51,545
+and no matter what anyone does,
+people will find a way.
+
+411
+00:30:51,632 --> 00:30:54,156
+[sitar music]
+
+412
+00:30:54,243 --> 00:30:56,463
+[typing]
+
+413
+00:30:57,768 --> 00:31:01,642
+[music continues]
+
+414
+00:31:43,858 --> 00:31:46,948
+Hi, I'm Sabeen Mahmud,
+and I'm the director
+of Peace Nation,
+
+415
+00:31:47,035 --> 00:31:49,037
+a non-profit organization.
+
+416
+00:31:49,124 --> 00:31:52,040
+I've always believed
+that technology is
+always the driver of change,
+
+417
+00:31:52,127 --> 00:31:55,130
+not business, not government,
+but technology.
+
+418
+00:31:55,217 --> 00:32:00,222
+And gender-based violence
+has always existed
+
+419
+00:32:00,309 --> 00:32:03,834
+but with the advent
+of the Internet and the number
+of social networking tools,
+
+420
+00:32:03,922 --> 00:32:06,750
+I think it's
+a great mobilization platform.
+
+421
+00:32:06,837 --> 00:32:07,882
+[mouse clicks]
+
+422
+00:32:07,969 --> 00:32:10,189
+[sitar music]
+
+423
+00:32:26,074 --> 00:32:28,685
+[anchor] Sabeen Mahmud
+was leaving a Karachi restaurant
+
+424
+00:32:28,772 --> 00:32:31,340
+when the gunman
+attacked her in her car.
+
+425
+00:32:31,427 --> 00:32:34,561
+Her mother who was also
+accompanying her was wounded
+
+426
+00:32:34,648 --> 00:32:36,780
+and now is in a critical
+condition.
+
+427
+00:32:36,867 --> 00:32:40,132
+Mahmud was taken to a hospital
+where she was pronounced dead.
+
+428
+00:32:40,219 --> 00:32:41,437
+[sitar music continues]
+
+429
+00:32:52,318 --> 00:32:56,583
+[inaudible]
+
+430
+00:32:56,670 --> 00:33:01,762
+When she spoke
+in physical spaces,
+nothing happened.
+
+431
+00:33:01,849 --> 00:33:05,461
+When she was
+carrying on her campaign,
+she was not targeted.
+
+432
+00:33:05,548 --> 00:33:07,550
+People were amused or they
+ignored her,
+
+433
+00:33:07,637 --> 00:33:09,813
+or they just walked past.
+
+434
+00:33:09,900 --> 00:33:14,166
+But when this whole, sort of,
+campaign
+
+435
+00:33:14,253 --> 00:33:16,516
+hit the Internet
+and the social media,
+
+436
+00:33:16,603 --> 00:33:18,735
+that's when
+the lynch mobs gathered.
+
+437
+00:33:18,822 --> 00:33:21,347
+And one of
+the reasons I find is,
+
+438
+00:33:21,434 --> 00:33:27,396
+that speech
+in a physical space lasts
+only as long as you're speaking.
+
+439
+00:33:27,483 --> 00:33:33,750
+But once it is uploaded onto
+the Internet on any platform,
+it is there forever.
+
+440
+00:33:33,837 --> 00:33:38,320
+And then your attackers or
+you know, whoever opposes you,
+
+441
+00:33:38,407 --> 00:33:40,627
+they gather,
+and then they spread it further
+
+442
+00:33:40,714 --> 00:33:44,065
+and more and more
+people join that group
+
+443
+00:33:44,152 --> 00:33:47,634
+of people who are attacking and
+it takes on a life of its own.
+
+444
+00:33:56,817 --> 00:33:58,949
+[chattering]
+
+445
+00:34:07,610 --> 00:34:10,396
+[Deibert] We're going through
+a demographic revolution.
+
+446
+00:34:10,483 --> 00:34:15,314
+The center of gravity
+of cyberspace is shifting
+right before our eyes.
+
+447
+00:34:15,401 --> 00:34:18,752
+From the north
+and the west of the planet,
+where it was invented,
+
+448
+00:34:18,839 --> 00:34:21,320
+to the South and the East.
+
+449
+00:34:21,407 --> 00:34:25,498
+The vast majority of Internet
+users today and into the future
+
+450
+00:34:25,585 --> 00:34:27,543
+are coming
+from the developing world,
+
+451
+00:34:27,630 --> 00:34:30,938
+for whom these technologies
+are empowering.
+
+452
+00:34:31,025 --> 00:34:35,986
+What should we expect then from
+these next billion digital users
+
+453
+00:34:36,074 --> 00:34:38,685
+as they come online
+in the post-Snowden era?
+
+454
+00:34:38,772 --> 00:34:42,515
+[inaudible]
+
+455
+00:34:47,476 --> 00:34:52,568
+-[cheering]
+-[horns blowing]
+
+456
+00:34:52,655 --> 00:34:54,092
+[siren wails]
+
+457
+00:34:54,179 --> 00:34:57,051
+[shouting in Portuguese]
+
+458
+00:34:57,138 --> 00:35:00,359
+[screaming]
+
+459
+00:35:02,187 --> 00:35:06,278
+[cheering]
+
+460
+00:35:06,365 --> 00:35:10,369
+[man on PA]
+
+461
+00:35:12,762 --> 00:35:16,026
+[shouting in Portuguese]
+
+462
+00:35:16,114 --> 00:35:18,638
+[in Portuguese]
+This is a Midia Ninja
+transmission.
+
+463
+00:35:18,725 --> 00:35:25,210
+Midia Ninja
+will cover the World Cup
+and the protests in the streets,
+
+464
+00:35:25,297 --> 00:35:30,911
+and we'll bring you interviews
+with people we encounter.
+
+465
+00:35:33,566 --> 00:35:39,137
+I'm sure that FIFA
+has been bad for Rio de Janeiro.
+
+466
+00:35:39,224 --> 00:35:44,272
+There's no education,
+no public health,
+
+467
+00:35:44,359 --> 00:35:47,710
+and people are dying
+at hospital doors.
+
+468
+00:35:47,797 --> 00:35:51,671
+For 250,000 families
+who were displaced,
+there is no World Cup.
+
+469
+00:35:51,758 --> 00:35:54,717
+For 190,000 without electricity,
+there is no World Cup.
+
+470
+00:35:54,804 --> 00:36:00,114
+[shouting]
+
+471
+00:36:00,201 --> 00:36:05,598
+TwitCasting, live transmission,
+enables us to communicate
+in real time
+
+472
+00:36:05,685 --> 00:36:11,343
+in a very honest way with people
+
+473
+00:36:11,430 --> 00:36:13,780
+who are following the events
+from their computer.
+
+474
+00:36:24,747 --> 00:36:31,189
+Midia Ninja emerged
+from this new "digital culture."
+
+475
+00:36:31,276 --> 00:36:36,194
+YouTube and other
+social media networks
+
+476
+00:36:36,281 --> 00:36:42,765
+facilitate a shift to,
+"We are the media.
+The media is us."
+
+477
+00:36:42,852 --> 00:36:46,552
+[speaking Portuguese]
+
+478
+00:36:47,988 --> 00:36:50,512
+[in English] Once we started
+with Midia Ninja,
+
+479
+00:36:50,599 --> 00:36:54,429
+and we went to the streets
+and tried to do live streaming.
+
+480
+00:36:54,516 --> 00:36:58,259
+There was a mobile station
+with an electric generator
+
+481
+00:36:58,346 --> 00:37:00,653
+using gasoline, you know,
+
+482
+00:37:00,740 --> 00:37:05,614
+a 4G modem, a laptop,
+a camera, a video switcher and--
+
+483
+00:37:05,701 --> 00:37:10,793
+-[imitating vibrating machine]
+-[synthesized music]
+
+484
+00:37:14,797 --> 00:37:18,845
+It was impossible to
+push a 100-pound cart
+
+485
+00:37:18,932 --> 00:37:22,544
+with a potential bomb
+between your knees.
+
+486
+00:37:26,809 --> 00:37:29,377
+[Silva] It was good
+in the first two or three times
+
+487
+00:37:29,464 --> 00:37:31,814
+in more calm demonstrations.
+
+488
+00:37:31,901 --> 00:37:34,295
+I remember
+there was a discussion,
+and then Carioca said,
+
+489
+00:37:34,382 --> 00:37:37,994
+"No, I found an app.
+
+490
+00:37:38,081 --> 00:37:40,823
+Its name is TwitCasting
+and maybe we can try it."
+
+491
+00:37:40,910 --> 00:37:43,130
+[electropop]
+
+492
+00:37:43,217 --> 00:37:48,744
+It was a Japanese free app
+used by teenagers to hang out,
+you know.
+
+493
+00:37:51,225 --> 00:37:53,096
+[in Portuguese]
+It was a low-quality image,
+
+494
+00:37:53,183 --> 00:37:55,882
+but it could be transmitted
+nonstop.
+
+495
+00:37:55,969 --> 00:37:58,493
+That's why TwitCasting
+was perfect.
+
+496
+00:38:00,321 --> 00:38:02,889
+[chanting][speaks Portuguese]
+
+497
+00:38:02,976 --> 00:38:05,587
+It's a very delicate moment here
+in the Saens Peña square.
+
+498
+00:38:05,674 --> 00:38:10,026
+People being prohibited
+from walking to
+or to leave the square.
+
+499
+00:38:10,113 --> 00:38:12,333
+This image we are seeing here,
+
+500
+00:38:12,420 --> 00:38:15,597
+a corridor of police
+encircling the protest.
+
+501
+00:38:15,684 --> 00:38:20,036
+[singing in Portuguese][indistinct]
+
+502
+00:38:20,123 --> 00:38:23,910
+Looking at Brazil,
+this is one of those cases
+where you have
+
+503
+00:38:23,997 --> 00:38:26,129
+a sporting event, in this case,
+
+504
+00:38:26,216 --> 00:38:31,265
+which triggers all sorts of
+extra concern around security
+
+505
+00:38:31,352 --> 00:38:34,486
+and the control of information,
+much of it legitimate.
+
+506
+00:38:34,573 --> 00:38:39,317
+But what often happens is that
+the layering of surveillance,
+
+507
+00:38:39,404 --> 00:38:42,581
+extra-legal measures that
+happens leading up to
+
+508
+00:38:42,668 --> 00:38:45,758
+and during these events
+doesn't just disappear.
+
+509
+00:38:45,845 --> 00:38:48,195
+It becomes part of
+the permanent architecture.
+
+510
+00:38:48,282 --> 00:38:51,416
+[chanting in Portuguese]
+
+511
+00:38:57,683 --> 00:38:59,467
+Can you tell me
+what this is?
+
+512
+00:38:59,554 --> 00:39:02,427
+No, I can't.Why not?
+
+513
+00:39:02,514 --> 00:39:09,695
+It transmits live video
+to the central command.
+
+514
+00:39:09,782 --> 00:39:11,914
+That's all I know
+about this equipment.
+
+515
+00:39:12,001 --> 00:39:16,397
+[chanting in Portuguese]
+
+516
+00:39:16,484 --> 00:39:19,661
+[Deibert]
+Mobile phones are prevalent.
+Everyone has one in their hands.
+
+517
+00:39:19,748 --> 00:39:22,925
+And the police
+now use a technique
+
+518
+00:39:23,012 --> 00:39:27,843
+where they set up fake
+cell phone towers that captures
+everyone within the vicinity
+
+519
+00:39:27,930 --> 00:39:31,978
+and gathers up
+identifying information that's
+emitted by the cell phones,
+
+520
+00:39:32,065 --> 00:39:34,110
+which they then
+use to track people
+
+521
+00:39:34,197 --> 00:39:36,461
+and associate them
+with each other
+
+522
+00:39:36,548 --> 00:39:39,899
+and being at specific
+physical events like a protest
+
+523
+00:39:39,986 --> 00:39:42,423
+and the government
+can go back in time
+
+524
+00:39:42,510 --> 00:39:47,341
+and recreate
+every facet of your life
+on that particular day and hour.
+
+525
+00:39:47,428 --> 00:39:49,648
+With whom
+you were communicating.
+
+526
+00:39:49,735 --> 00:39:52,564
+Not only
+what you're broadcasting
+but what you're saying privately
+
+527
+00:39:52,651 --> 00:39:55,349
+and use this to incriminate you
+down the road.
+
+528
+00:39:59,745 --> 00:40:04,271
+[in Portuguese]
+Nineteen people accused
+of planning acts of vandalism
+
+529
+00:40:04,358 --> 00:40:06,839
+were arrested today in Rio.
+
+530
+00:40:06,926 --> 00:40:08,754
+[woman] It was just dawn
+
+531
+00:40:08,841 --> 00:40:14,542
+when 30 police left to serve search and seizure warrants in Rio.
+
+532
+00:40:14,629 --> 00:40:18,328
+They confiscated computers, cell phones,
+
+533
+00:40:18,416 --> 00:40:22,768
+gas masks and one piece of wood with nails and other objects.
+
+534
+00:40:26,772 --> 00:40:32,038
+Inside the police station here,
+there's a new operational unit,
+
+535
+00:40:32,125 --> 00:40:37,304
+which is
+the Internet Crimes Unit.
+
+536
+00:40:37,391 --> 00:40:42,962
+They attempt to transform
+our youth, who want to see
+a different country,
+
+537
+00:40:43,049 --> 00:40:46,792
+into a gang
+of marginalized criminals.
+
+538
+00:40:46,879 --> 00:40:51,057
+Surveillance of the Internet,
+mobile phones,
+
+539
+00:40:51,144 --> 00:40:53,538
+manipulation of evidence.
+
+540
+00:40:58,978 --> 00:41:02,285
+They are monitored,
+phone-tapped and followed.
+
+541
+00:41:02,372 --> 00:41:04,331
+Including the Ninjas.
+
+542
+00:41:04,418 --> 00:41:07,813
+You can be sure their phones
+are all tapped.
+
+543
+00:41:07,900 --> 00:41:10,729
+That includes us as well.
+
+544
+00:41:10,816 --> 00:41:13,993
+This surveillance,
+this espionage,
+
+545
+00:41:14,080 --> 00:41:18,650
+this paranoia
+that's been imposed.
+
+546
+00:41:18,737 --> 00:41:21,348
+People realize there's
+some hidden mechanism of power
+
+547
+00:41:21,435 --> 00:41:23,959
+going on through surveillance.
+
+548
+00:41:24,046 --> 00:41:27,746
+And you begin to suspect, maybe,
+this device you can't trust.
+
+549
+00:41:27,833 --> 00:41:30,923
+Maybe the state's in here
+or it's in my mobile phone or...
+
+550
+00:41:31,010 --> 00:41:33,534
+And as that kind of
+seeps out there,
+
+551
+00:41:33,621 --> 00:41:37,059
+people become much more
+unwilling to take risks.
+
+552
+00:41:37,146 --> 00:41:38,452
+You know, even in our own work,
+
+553
+00:41:38,539 --> 00:41:41,629
+we're much more cautious
+about what we say over e-mail,
+
+554
+00:41:41,716 --> 00:41:43,936
+worried that
+somebody's listening and so on.
+
+555
+00:41:44,023 --> 00:41:47,635
+It's like sand in the machinery.
+It kind of slows things down
+
+556
+00:41:47,722 --> 00:41:50,725
+and everything becomes
+much more complicated,
+
+557
+00:41:50,812 --> 00:41:53,554
+just to communicate
+basic instructions.
+
+558
+00:41:53,641 --> 00:41:55,861
+You're like, "Oh,
+first I have to encrypt it."
+
+559
+00:41:57,689 --> 00:42:00,866
+All these technologies too,
+cryptography things,
+
+560
+00:42:00,953 --> 00:42:02,824
+they might be getting cheap,
+
+561
+00:42:02,911 --> 00:42:08,003
+but if we consider
+in terms of time,
+they are expensive.
+
+562
+00:42:08,090 --> 00:42:11,616
+You know,
+people are being murdered
+every day in the favelas.
+
+563
+00:42:11,703 --> 00:42:14,662
+The military police
+are still running.
+
+564
+00:42:14,749 --> 00:42:18,057
+So it's complicated now
+to stop the machines
+
+565
+00:42:18,144 --> 00:42:21,321
+and adapt our system
+to a more safe mode.
+
+566
+00:42:25,717 --> 00:42:30,548
+[crowd booing]
+
+567
+00:42:34,203 --> 00:42:37,555
+[in Portuguese] These days
+the media can police more
+than the police themselves...
+
+568
+00:42:40,470 --> 00:42:43,169
+by reproducing this idea
+of the protester as enemy.
+
+569
+00:42:47,216 --> 00:42:50,350
+The truth is tough to swallow!
+
+570
+00:42:50,437 --> 00:42:52,918
+Globo supported
+the dictatorship!
+
+571
+00:42:55,050 --> 00:43:00,926
+[Bentes] History of O Globo,
+started during
+the military dictatorship,
+
+572
+00:43:01,013 --> 00:43:05,104
+it was the media arm
+of the dictatorship,
+
+573
+00:43:05,191 --> 00:43:09,848
+and they think
+they're as powerful
+as the government.
+
+574
+00:43:09,935 --> 00:43:13,852
+We say if you hate the media,
+then become the media.
+
+575
+00:43:17,290 --> 00:43:21,686
+♪ Oh, my, oh  I'll go for what you know♪
+
+576
+00:43:21,773 --> 00:43:26,908
+♪ Who I owe  Why own when you can just♪
+
+577
+00:43:26,995 --> 00:43:27,866
+♪ Sell it♪
+
+578
+00:43:36,396 --> 00:43:38,485
+[in Portuguese]
+We've just had many bombs
+explode.
+
+579
+00:43:38,572 --> 00:43:42,097
+There were many aggressions
+we just witnessed,
+
+580
+00:43:42,184 --> 00:43:45,405
+many rubber bullets shot
+one on top of the other.
+
+581
+00:43:45,492 --> 00:43:48,887
+As soon as the bomb exploded,
+the arbitrariness commenced,
+
+582
+00:43:48,974 --> 00:43:51,193
+the physical aggressions
+during searches.
+
+583
+00:43:51,280 --> 00:43:54,936
+No one is being aggressive.
+No, you are talking smack!
+
+584
+00:43:55,023 --> 00:43:58,461
+-No one was
+physically aggressive here!
+-Let me report what I've seen.
+
+585
+00:43:58,548 --> 00:44:00,594
+You've already unleashed
+such a shitload of violence.
+
+586
+00:44:00,681 --> 00:44:03,989
+And you're not going to
+revoke my right
+to free expression,
+
+587
+00:44:04,076 --> 00:44:08,123
+my right to do my job
+as the free media,
+the media activist that I am.
+
+588
+00:44:08,210 --> 00:44:09,908
+My name is Felipe Pecanha
+if you want to know.
+
+589
+00:44:14,434 --> 00:44:17,524
+[man]
+♪ Those gloves  Just take 'em off♪
+
+590
+00:44:17,611 --> 00:44:19,569
+♪ Move before  The city moves to us♪
+
+591
+00:44:19,657 --> 00:44:24,357
+There behind me, yet another
+situation of pandemonium,
+people screaming.
+
+592
+00:44:25,793 --> 00:44:27,447
+♪ To us, to us♪
+
+593
+00:44:30,406 --> 00:44:33,018
+[explosion]
+
+594
+00:44:33,105 --> 00:44:38,023
+-[horns playing]
+-[helicopter flying over]
+
+595
+00:44:38,110 --> 00:44:42,114
+[shouting]
+
+596
+00:44:44,072 --> 00:44:48,381
+[shouting in Portuguese,
+indistinct]
+
+597
+00:44:52,907 --> 00:44:54,692
+What are they doing downstairs?
+
+598
+00:44:54,779 --> 00:44:56,694
+I got beat up down there!
+
+599
+00:44:56,781 --> 00:44:58,260
+[woman] Open! Open!
+
+600
+00:45:01,829 --> 00:45:04,919
+What's happening
+in there?They are beating up everyone.
+
+601
+00:45:10,664 --> 00:45:12,622
+Don't touch me!
+
+602
+00:45:13,928 --> 00:45:17,149
+Sit down!
+
+603
+00:45:18,498 --> 00:45:19,934
+Did they beat you?
+
+604
+00:45:20,021 --> 00:45:23,851
+Yes, a lot!
+I was trying to protect myself.
+
+605
+00:45:31,467 --> 00:45:37,996
+The police have no shame.
+No shame, committing
+these savage acts.
+
+606
+00:45:46,352 --> 00:45:51,183
+Whoa, don't take me.
+Whoa, brother.
+What's going on?
+
+607
+00:45:53,272 --> 00:45:55,187
+They're arresting me!
+
+608
+00:45:56,014 --> 00:45:58,407
+They're kicking me!
+
+609
+00:46:00,670 --> 00:46:01,759
+They're kicking me!
+
+610
+00:46:01,846 --> 00:46:07,199
+They're crushing my phone!
+What is this?
+
+611
+00:46:14,075 --> 00:46:16,512
+I was just attacked by
+eight of you, ten of you,
+
+612
+00:46:16,599 --> 00:46:19,820
+big, armed men in uniform.
+
+613
+00:46:19,907 --> 00:46:23,215
+I didn't do anything wrong
+to any of you!
+
+614
+00:46:23,302 --> 00:46:26,305
+I am transmitting live
+on the Internet
+with a cell phone.
+
+615
+00:46:26,392 --> 00:46:29,787
+This is not
+any kind of violence.
+This is not a crime.
+
+616
+00:46:29,874 --> 00:46:33,660
+This is a constitutional right
+of the citizen.
+
+617
+00:46:33,747 --> 00:46:36,750
+The military police here in Rio
+are a disgrace.
+
+618
+00:46:38,534 --> 00:46:41,189
+[crowd applauding]
+
+619
+00:46:41,276 --> 00:46:44,062
+[Deibert]
+So at the same time
+that you have so many people
+
+620
+00:46:44,149 --> 00:46:48,631
+able to communicate to
+a global audience at an instant,
+
+621
+00:46:48,718 --> 00:46:53,288
+governments, in ways that
+they weren't 20 years ago,
+
+622
+00:46:53,375 --> 00:46:58,511
+are really ramping up
+information controls
+because they see...
+
+623
+00:46:58,598 --> 00:47:01,383
+And when we say "governments,"
+we're really talking about
+entrenched powers,
+
+624
+00:47:01,470 --> 00:47:06,345
+institutionalized, uh, you know,
+forms of capitalism in the state
+
+625
+00:47:06,432 --> 00:47:09,348
+that see, you know,
+
+626
+00:47:09,435 --> 00:47:13,787
+this type of
+unpredictable citizen activism
+as a threat to their interests
+
+627
+00:47:13,874 --> 00:47:16,094
+and are developing ways
+to counter it.
+
+628
+00:47:18,618 --> 00:47:20,663
+[announcer] You have new challenges today.
+
+629
+00:47:22,491 --> 00:47:26,104
+Sensitive data is transmitted over encrypted channels.
+
+630
+00:47:27,192 --> 00:47:29,890
+You need more.
+
+631
+00:47:29,977 --> 00:47:32,675
+You want to look through your target's eyes.
+
+632
+00:47:35,026 --> 00:47:36,941
+You have to hack your target.
+
+633
+00:47:42,990 --> 00:47:47,212
+You have to overcome encryption and capture relevant data.
+
+634
+00:47:48,996 --> 00:47:51,781
+Being stealth and untraceable.
+
+635
+00:47:55,133 --> 00:47:57,091
+Exactly what we do.
+
+636
+00:48:02,662 --> 00:48:07,319
+The vendors of
+these products and services
+market them to governments,
+
+637
+00:48:07,406 --> 00:48:09,277
+usually at trade shows
+
+638
+00:48:09,364 --> 00:48:13,325
+that are only open
+to accredited law enforcement
+and intelligence agencies.
+
+639
+00:48:13,412 --> 00:48:17,068
+Actually, I've got
+a big binder that I can...
+
+640
+00:48:17,155 --> 00:48:19,766
+So, if you ignore the bag,
+actually which...
+
+641
+00:48:19,853 --> 00:48:21,246
+[chuckling]
+
+642
+00:48:21,333 --> 00:48:25,467
+...someone, uh, deposited
+these in as a gift to me,
+
+643
+00:48:25,554 --> 00:48:29,428
+but I think
+was hoping to disguise it
+in the kindergarten bag.
+
+644
+00:48:29,515 --> 00:48:35,303
+These are brochures
+from the type of trade shows
+that we're talking about,
+
+645
+00:48:35,390 --> 00:48:39,481
+products and services that allow
+cell phone detection,
+
+646
+00:48:39,568 --> 00:48:41,875
+uh, insertion of malware...
+
+647
+00:48:44,138 --> 00:48:47,185
+tracking,
+social media monitoring.
+
+648
+00:48:47,272 --> 00:48:50,188
+In many ways, the way to
+think about this market
+
+649
+00:48:50,275 --> 00:48:53,800
+is that it's
+the commercialization
+of cyber crime.
+
+650
+00:48:53,887 --> 00:48:57,673
+You trick somebody into
+installing a software program
+
+651
+00:48:57,760 --> 00:48:59,806
+that contains malicious code
+
+652
+00:48:59,893 --> 00:49:02,374
+that exploits some vulnerability
+in the system,
+
+653
+00:49:02,461 --> 00:49:06,378
+which then allows the attacker
+to do anything they want.
+
+654
+00:49:06,465 --> 00:49:09,859
+Turn on the webcam,
+listen in on the microphone,
+
+655
+00:49:09,947 --> 00:49:14,081
+record keystrokes,
+record the location,
+the movement.
+
+656
+00:49:14,168 --> 00:49:16,605
+It operates without
+much accountability,
+
+657
+00:49:16,692 --> 00:49:20,174
+certainly no corporate
+social responsibility,
+
+658
+00:49:20,261 --> 00:49:23,264
+ripe for abuse in a place
+like Sudan or Ethiopia.
+
+659
+00:49:23,351 --> 00:49:25,788
+We've seen in one
+case after another,
+
+660
+00:49:25,875 --> 00:49:28,878
+how this ends up being used
+to target civil society.
+
+661
+00:49:28,966 --> 00:49:29,967
+Aha.
+
+662
+00:49:31,533 --> 00:49:33,100
+Gamma Group.
+
+663
+00:49:33,187 --> 00:49:36,060
+Maker of the notorious
+FinFisher spyware.
+
+664
+00:49:36,147 --> 00:49:37,931
+[cars honking]
+
+665
+00:49:56,732 --> 00:49:59,822
+The whole history...
+
+666
+00:49:59,909 --> 00:50:02,216
+my personal history,
+my family history
+
+667
+00:50:02,303 --> 00:50:05,654
+and my organization's history
+is written with surveillance.
+
+668
+00:50:18,580 --> 00:50:20,974
+In Ethiopia,
+there is only one server.
+
+669
+00:50:21,061 --> 00:50:23,629
+Every telecommunication
+connection
+
+670
+00:50:23,716 --> 00:50:27,111
+passes through
+the Ethiopian
+telecommunications server.
+
+671
+00:50:27,198 --> 00:50:32,246
+And that server is
+highly controlled.
+
+672
+00:50:32,333 --> 00:50:35,380
+When you talk to a friend,
+you know that somebody
+is hearing.
+
+673
+00:50:35,467 --> 00:50:37,817
+When you write an e-mail,
+
+674
+00:50:37,904 --> 00:50:40,254
+you suspect that somebody
+might have read it
+
+675
+00:50:40,341 --> 00:50:43,170
+and that somebody
+wants to hunt you down.
+
+676
+00:51:02,015 --> 00:51:05,497
+And when I came to the UK,
+
+677
+00:51:05,584 --> 00:51:09,153
+there was a total liberation
+of that stress.
+
+678
+00:51:09,240 --> 00:51:12,591
+I felt,
+"I am living in a free country
+
+679
+00:51:12,678 --> 00:51:15,028
+where the privacy of individuals
+is respected
+
+680
+00:51:16,203 --> 00:51:18,423
+and my privacy is
+also respected."
+
+681
+00:51:19,206 --> 00:51:20,642
+But I was wrong.
+
+682
+00:51:24,255 --> 00:51:27,040
+Sometime in 2013,
+
+683
+00:51:27,127 --> 00:51:32,437
+we started to find
+some of the things that we
+discussed among a small circle
+
+684
+00:51:32,524 --> 00:51:37,181
+in open media
+and in unfriendly medias
+of the Ethiopian government.
+
+685
+00:51:40,488 --> 00:51:43,230
+You don't want to
+suspect your friend,
+but you have to.
+
+686
+00:51:45,319 --> 00:51:48,757
+And we keep on wondering
+how they could find out.
+
+687
+00:51:51,586 --> 00:51:55,634
+We got the answer
+from a totally unexpected area.
+
+688
+00:51:55,721 --> 00:51:59,899
+A certain group of people
+goes to Citizen Lab.
+
+689
+00:51:59,986 --> 00:52:03,555
+And they published a report.
+
+690
+00:52:03,642 --> 00:52:07,472
+And in that report
+there was my photograph,
+
+691
+00:52:07,559 --> 00:52:12,651
+and they used it
+to attach with the spyware
+
+692
+00:52:12,738 --> 00:52:15,132
+and distribute it
+among the Ethiopian community.
+
+693
+00:52:19,005 --> 00:52:23,836
+The attacker has to socially
+engineer or convince the target
+
+694
+00:52:23,923 --> 00:52:28,580
+to open a file or to,
+you know, click through
+some security warning,
+
+695
+00:52:28,667 --> 00:52:31,148
+um, in order to become infected.
+
+696
+00:52:31,235 --> 00:52:36,370
+We had found a document
+that had pictures of Ethiopian
+opposition leaders in it,
+
+697
+00:52:36,457 --> 00:52:38,851
+and it looked like
+it was targeted
+and designed to appeal
+
+698
+00:52:38,938 --> 00:52:41,245
+to members of
+the Ethiopian diaspora.
+
+699
+00:52:41,332 --> 00:52:44,030
+Uh, but in fact,
+the file was cleverly disguised
+
+700
+00:52:44,117 --> 00:52:46,728
+to look like a document
+that's actually
+a computer program,
+
+701
+00:52:46,815 --> 00:52:48,426
+an executable file.
+
+702
+00:52:48,513 --> 00:52:50,732
+So when you run this,
+it will install software
+on your computer
+
+703
+00:52:50,819 --> 00:52:53,387
+even though, you know, they
+changed the icon and everything
+
+704
+00:52:53,474 --> 00:52:56,521
+to make it look like
+this is a document
+or a picture.
+
+705
+00:52:56,608 --> 00:52:57,783
+This is actually a program.
+
+706
+00:53:01,700 --> 00:53:03,963
+After that,
+I just tried to scan...
+
+707
+00:53:05,617 --> 00:53:09,098
+people who were arrested
+after my departure.
+
+708
+00:53:10,839 --> 00:53:14,887
+I had a friend in Saudi Arabia
+who was sent back to Ethiopia,
+
+709
+00:53:14,974 --> 00:53:17,629
+and arrested and
+sentenced to 18 years.
+
+710
+00:53:17,716 --> 00:53:20,632
+And I started to question,
+probably it was because of me.
+
+711
+00:53:23,722 --> 00:53:25,027
+And he's not the only person.
+
+712
+00:53:32,121 --> 00:53:35,255
+I was able to look at the memory
+of an infected computer.
+
+713
+00:53:35,342 --> 00:53:38,171
+In other words,
+what's going on inside
+the computer when it's infected.
+
+714
+00:53:38,258 --> 00:53:42,480
+And I was able to identify
+several interesting artifacts
+in the memory,
+
+715
+00:53:42,567 --> 00:53:45,700
+including a bunch of strings
+that said "FinFisher," "FinSpy,"
+
+716
+00:53:45,787 --> 00:53:48,137
+very clearly attributing this
+to the company.
+
+717
+00:53:51,402 --> 00:53:55,057
+Ethiopia is
+one of the poorest countries
+in the world.
+
+718
+00:53:55,144 --> 00:54:00,498
+Internet users in Ethiopia
+are less than two percent.
+
+719
+00:54:00,585 --> 00:54:03,152
+It is the lowest in the world.
+
+720
+00:54:03,240 --> 00:54:09,115
+But they spend
+millions of dollars
+for FinFisher.
+
+721
+00:54:09,202 --> 00:54:14,729
+For spying on people like me,
+who are trying to do...
+
+722
+00:54:14,816 --> 00:54:19,168
+to bring a better future
+to Ethiopia.
+
+723
+00:54:24,130 --> 00:54:27,960
+You don't have to be the NSA to
+get inside somebody's computer.
+
+724
+00:54:28,047 --> 00:54:31,355
+Um, instead you can
+exploit their curiosity,
+
+725
+00:54:31,442 --> 00:54:35,228
+their, um, need to communicate.
+
+726
+00:54:35,315 --> 00:54:38,753
+And of course,
+journalists, at the very heart
+of what they do,
+
+727
+00:54:38,840 --> 00:54:42,757
+is engage in communication
+with a lot of people
+
+728
+00:54:42,844 --> 00:54:45,630
+and a lot of people that
+they don't know and trust
+necessarily.
+
+729
+00:54:45,717 --> 00:54:49,024
+Because they're engaged
+in outreach and communicating
+constantly with sources.
+
+730
+00:54:49,111 --> 00:54:51,288
+[crowd shouting]
+
+731
+00:54:57,729 --> 00:55:00,079
+[cheering, whistling]
+
+732
+00:55:02,647 --> 00:55:06,477
+Fifty years ago,
+nobody would have known
+what happened in Syria.
+
+733
+00:55:06,564 --> 00:55:10,611
+But in 2011, when it started,
+everybody had Facebook.
+
+734
+00:55:10,698 --> 00:55:16,313
+Everybody has e-mails
+and everybody has WhatsApp
+and Viber.
+
+735
+00:55:17,618 --> 00:55:19,490
+So you just can't stop people
+
+736
+00:55:19,577 --> 00:55:22,362
+from telling
+what is happening to them.
+
+737
+00:55:22,449 --> 00:55:25,365
+So when they besieged Daraa
+at the beginning,
+
+738
+00:55:25,452 --> 00:55:30,065
+they shut down communication,
+Internet, land lines
+and even electricity.
+
+739
+00:55:30,152 --> 00:55:34,331
+But they did not know that
+in the 21st century,
+people have their ways.
+
+740
+00:55:34,418 --> 00:55:37,464
+People were charging
+their mobiles from their cars
+or generators,
+
+741
+00:55:37,551 --> 00:55:40,989
+hand generators,
+um, manual generators.
+
+742
+00:55:41,076 --> 00:55:44,993
+And people were using
+satellite connections.
+
+743
+00:55:45,080 --> 00:55:49,694
+You don't need to use
+the country, uh, Internet
+to be connected to the Internet.
+
+744
+00:55:49,781 --> 00:55:51,217
+You can use anything.
+
+745
+00:55:51,304 --> 00:55:55,221
+And they were able to tell
+what was happening to them.
+
+746
+00:55:55,308 --> 00:56:00,922
+Um, so the story got around.
+
+747
+00:56:01,009 --> 00:56:02,968
+[man speaking foreign language]
+
+748
+00:56:03,055 --> 00:56:05,144
+[sirens blaring]
+
+749
+00:56:09,453 --> 00:56:13,239
+A few years ago many of us
+celebrated the Arab Spring
+
+750
+00:56:13,326 --> 00:56:16,416
+as the paradigm of what
+these technologies could do.
+
+751
+00:56:16,503 --> 00:56:19,637
+Remember
+we called it at the time
+"liberation technology."
+
+752
+00:56:19,724 --> 00:56:21,813
+It would bring about the end
+of authoritarian rule.
+
+753
+00:56:21,900 --> 00:56:23,728
+[man speaking Arabic]
+
+754
+00:56:29,777 --> 00:56:35,522
+Unfortunately,
+Syria has become the
+Arab Spring's dark aftermath.
+
+755
+00:56:35,609 --> 00:56:36,784
+[explosion]
+
+756
+00:56:36,871 --> 00:56:40,658
+[boy shouting in Arabic]
+
+757
+00:56:42,660 --> 00:56:45,924
+As groups
+sympathetic to the Assad regime
+
+758
+00:56:46,011 --> 00:56:50,276
+have employed
+off-the-shelf malware crime kits
+to infiltrate social networks,
+
+759
+00:56:50,363 --> 00:56:53,671
+arrest, torture and
+murder opposition groups
+
+760
+00:56:53,758 --> 00:56:55,673
+and even target
+their air strikes.
+
+761
+00:57:03,463 --> 00:57:04,377
+[rifles cocking]
+
+762
+00:57:10,165 --> 00:57:11,036
+[shouting]
+
+763
+00:57:19,871 --> 00:57:21,220
+[gunshot]
+
+764
+00:57:24,919 --> 00:57:28,619
+[man] From the beginning,
+we believed that the camera
+is the most powerful weapon,
+
+765
+00:57:28,706 --> 00:57:31,012
+and it was actually
+the only weapon we have
+
+766
+00:57:31,099 --> 00:57:33,014
+to deliver our own message
+to the whole world.
+
+767
+00:57:41,109 --> 00:57:42,763
+This is interesting.
+
+768
+00:57:42,850 --> 00:57:44,548
+Baraa?
+
+769
+00:57:44,635 --> 00:57:45,766
+[speaking Arabic]
+
+770
+00:57:49,248 --> 00:57:54,079
+It's a pleasure for me
+to introduce
+one of my best friends,
+
+771
+00:57:54,166 --> 00:57:59,563
+Mr. Baraa,
+he's one of the most activist
+people inside Syria.
+
+772
+00:57:59,650 --> 00:58:02,783
+He came a few days ago
+'cause he has...
+
+773
+00:58:02,870 --> 00:58:08,180
+He has... many broken
+bones on his body.
+
+774
+00:58:08,267 --> 00:58:10,704
+[gunfire]
+
+775
+00:58:10,791 --> 00:58:13,838
+He was there and covered
+the battle in Daraa City.
+
+776
+00:58:17,406 --> 00:58:20,279
+And in the afternoon,
+they get a tank shell.
+
+777
+00:58:20,366 --> 00:58:21,585
+[explosion]
+
+778
+00:58:23,238 --> 00:58:26,807
+He was with his friend,
+whom has this camera.
+
+779
+00:58:28,374 --> 00:58:30,463
+And that good guy, you know,
+he gets killed
+
+780
+00:58:30,550 --> 00:58:33,858
+by one tank shell
+from the regime's side.
+
+781
+00:58:33,945 --> 00:58:35,163
+[gunfire]
+
+782
+00:58:36,861 --> 00:58:38,558
+This video, you will see now,
+
+783
+00:58:38,645 --> 00:58:42,954
+a remote control car and
+it exploded, a huge explosion.
+
+784
+00:58:44,651 --> 00:58:46,218
+It was filmed
+by this camera.
+
+785
+00:58:48,307 --> 00:58:49,308
+[explosion]
+
+786
+00:58:50,962 --> 00:58:51,963
+After that,
+
+787
+00:58:52,050 --> 00:58:54,226
+the rocket launchers
+
+788
+00:58:54,313 --> 00:58:56,228
+started to hit the place
+from the regime's side.
+
+789
+00:58:57,534 --> 00:59:01,233
+So our activist, this media guy,
+
+790
+00:59:01,320 --> 00:59:04,584
+he gets killed in here
+in this exact... this place.
+
+791
+00:59:04,671 --> 00:59:07,413
+Now here.
+He was standing here.
+
+792
+00:59:07,500 --> 00:59:10,242
+And people found
+the camera with him.
+
+793
+00:59:10,329 --> 00:59:12,766
+We took out the memory card,
+and we post this...
+
+794
+00:59:14,072 --> 00:59:16,553
+as, you know,
+in memory of Hussain.
+
+795
+00:59:20,295 --> 00:59:22,776
+[wreckage clattering]
+
+796
+00:59:31,916 --> 00:59:35,963
+So now, Mr. Baraa here,
+just a few days just to heal.
+
+797
+00:59:36,050 --> 00:59:40,446
+He paid a visit
+to some hospitals
+to check out himself,
+
+798
+00:59:40,533 --> 00:59:44,276
+then he will go back into Syria
+to keep working.
+
+799
+00:59:46,147 --> 00:59:48,802
+There is a war on Facebook.
+
+800
+00:59:48,889 --> 00:59:54,242
+Uh, every side is using Facebook
+to promote themselves.
+
+801
+00:59:54,329 --> 00:59:58,246
+They say on Facebook
+that the army now controls
+a certain area.
+
+802
+00:59:58,333 --> 01:00:01,902
+So the rebels all go to that
+certain area. Even though
+it's still rebel-controlled.
+
+803
+01:00:01,989 --> 01:00:04,339
+They start bombing it, even
+though it's under their control.
+
+804
+01:00:04,426 --> 01:00:05,819
+Then they withdraw from it.
+
+805
+01:00:05,906 --> 01:00:09,127
+The other way around,
+the regime will say,
+
+806
+01:00:09,214 --> 01:00:13,087
+"We will occupy this area.
+We will take over this area."
+
+807
+01:00:13,174 --> 01:00:16,177
+Then the FSA would leave because
+they're afraid of bombardment.
+
+808
+01:00:16,264 --> 01:00:17,265
+It's just a game.
+
+809
+01:00:18,353 --> 01:00:19,616
+Facebook is a game.
+
+810
+01:00:29,016 --> 01:00:30,409
+[Wjd]
+It was just a silly joke I made.
+
+811
+01:00:31,889 --> 01:00:35,501
+I didn't hurt anybody.
+I didn't insult anyone.
+
+812
+01:00:35,588 --> 01:00:39,548
+It was not political.
+It was not racist.
+
+813
+01:00:39,636 --> 01:00:42,464
+There is nothing
+that they could hold against me
+
+814
+01:00:42,551 --> 01:00:44,423
+with a thing that
+I wrote on Facebook.
+
+815
+01:00:46,468 --> 01:00:50,124
+But still,
+at a time of war...
+
+816
+01:00:52,344 --> 01:00:53,432
+people get crazy.
+
+817
+01:01:02,006 --> 01:01:06,358
+They did not drag me
+in the street or kidnap me.
+
+818
+01:01:06,445 --> 01:01:09,578
+They just asked me to come
+to ask me a few questions.
+
+819
+01:01:09,666 --> 01:01:12,451
+This is what they said,
+so I signed the paper
+that I'm coming.
+
+820
+01:01:12,538 --> 01:01:18,631
+I went
+the next morning at 11:30,
+to the detention center.
+
+821
+01:01:20,241 --> 01:01:22,243
+The security guy came to me.
+
+822
+01:01:22,330 --> 01:01:25,769
+He's like...
+He's like half of my height.
+
+823
+01:01:25,856 --> 01:01:28,075
+He blindfolded me,
+and I was like,
+
+824
+01:01:28,162 --> 01:01:31,513
+I was okay with that
+because I thought, it's some...
+
+825
+01:01:31,600 --> 01:01:37,302
+it's confidential secrets
+of the country
+that they don't want me to see.
+
+826
+01:01:37,389 --> 01:01:41,959
+And then I was presented
+to the detective
+or the interrogator.
+
+827
+01:01:42,829 --> 01:01:43,787
+I never saw him.
+
+828
+01:01:46,877 --> 01:01:51,229
+He told me,
+"You're a computer engineer.
+Please be seated."
+
+829
+01:01:51,316 --> 01:01:55,929
+And I sat next to him
+and he started reading
+all my Facebook posts.
+
+830
+01:01:56,016 --> 01:01:57,017
+I was like, "Oh."
+
+831
+01:02:08,899 --> 01:02:11,075
+One of the posts
+that I wrote was,
+
+832
+01:02:11,162 --> 01:02:14,165
+"No praying, no fasting
+until the regime falls,"
+
+833
+01:02:14,252 --> 01:02:15,949
+which was actually
+making fun of both sides.
+
+834
+01:02:16,907 --> 01:02:18,299
+And I laughed and he's like,
+
+835
+01:02:18,386 --> 01:02:21,085
+"I'm not kidding with you.
+I'm not joking with you."
+
+836
+01:02:24,523 --> 01:02:26,786
+He kicked me on my chest
+
+837
+01:02:26,873 --> 01:02:31,922
+and then he requested
+the same short guy,
+
+838
+01:02:32,009 --> 01:02:33,880
+because he was
+there in the room,
+
+839
+01:02:33,967 --> 01:02:35,839
+to bring something called
+the "flying carpet,"
+
+840
+01:02:35,926 --> 01:02:37,579
+which is a torturing machine.
+
+841
+01:02:37,666 --> 01:02:42,280
+It's a wooden board,
+like the door,
+
+842
+01:02:42,367 --> 01:02:45,413
+but it has joints in the middle
+that can flip.
+
+843
+01:02:46,327 --> 01:02:50,462
+And I had to lay on it.
+
+844
+01:02:50,549 --> 01:02:54,858
+They tied my wrists and
+they tied me from the middle,
+they tied my legs.
+
+845
+01:02:54,945 --> 01:02:59,601
+And they just closed it
+so my knees touched my chest.
+
+846
+01:02:59,688 --> 01:03:01,995
+He took off my shoes
+and my socks
+
+847
+01:03:02,082 --> 01:03:07,566
+and started beating me
+with a metal,
+uh, with a metal whip.
+
+848
+01:03:10,134 --> 01:03:14,051
+The pain is unbelievable.
+
+849
+01:03:15,139 --> 01:03:16,662
+You just can't take it anymore.
+
+850
+01:03:16,749 --> 01:03:20,709
+You just can't endure
+this amount of agony.
+
+851
+01:03:29,240 --> 01:03:32,591
+What we saw in Syria
+was a lot of use of, say,
+
+852
+01:03:32,678 --> 01:03:34,898
+off-the-shelf remote access
+tools.
+
+853
+01:03:34,985 --> 01:03:38,466
+So this is sort of software
+that you can get from
+underground message boards
+
+854
+01:03:38,553 --> 01:03:40,947
+or maybe purchased
+for not so much money.
+
+855
+01:03:41,034 --> 01:03:44,995
+Maybe $200-300 that
+give you the ability
+
+856
+01:03:45,082 --> 01:03:47,911
+to record someone's keystrokes,
+read their e-mails,
+
+857
+01:03:47,998 --> 01:03:51,131
+even look at them
+through their webcam.
+
+858
+01:03:51,218 --> 01:03:53,699
+Record via
+the computer's microphone,
+
+859
+01:03:53,786 --> 01:03:56,528
+conversations that are being had
+around the target's computer.
+
+860
+01:03:57,834 --> 01:04:00,227
+Frequently what you would see
+
+861
+01:04:00,314 --> 01:04:03,013
+is it would be bundled
+with some type of lured document
+
+862
+01:04:03,100 --> 01:04:07,321
+which showed
+a deep understanding
+
+863
+01:04:07,408 --> 01:04:10,150
+of the psychology of the people
+they were trying to target.
+
+864
+01:04:10,237 --> 01:04:15,025
+For instance, one of
+the documents that was sent out
+that I keenly recall
+
+865
+01:04:15,112 --> 01:04:17,462
+was a list.
+
+866
+01:04:17,549 --> 01:04:23,468
+A purported list
+of insurgents identified
+by the Syrian government.
+
+867
+01:04:23,555 --> 01:04:28,429
+So of course what happened was
+that this was promptly passed
+around
+
+868
+01:04:28,516 --> 01:04:31,606
+to all sorts of very
+interesting groups in Syria
+
+869
+01:04:31,693 --> 01:04:34,609
+because everyone wanted to know
+if they were on this list
+or not.
+
+870
+01:04:34,696 --> 01:04:40,311
+So the actual spyware
+payload itself wasn't
+particularly sophisticated
+
+871
+01:04:40,398 --> 01:04:43,444
+but the social...
+
+872
+01:04:43,531 --> 01:04:46,752
+the social
+and social engineering side
+of that operation,
+
+873
+01:04:46,839 --> 01:04:48,885
+um, was quite smart.
+
+874
+01:04:55,326 --> 01:04:58,851
+Internet entered almost
+all countries in the region
+
+875
+01:04:59,896 --> 01:05:01,245
+before it entered Syria.
+
+876
+01:05:02,507 --> 01:05:03,464
+Yes.
+
+877
+01:05:03,551 --> 01:05:05,902
+Government in Syria,
+
+878
+01:05:05,989 --> 01:05:08,252
+we are not as developed
+as Canada, for example,
+
+879
+01:05:08,339 --> 01:05:10,341
+or not as developed
+as United States.
+
+880
+01:05:10,428 --> 01:05:13,431
+In Canada
+they can monitor people
+and control people
+
+881
+01:05:13,518 --> 01:05:16,260
+and spy people in
+a very intelligent way.
+
+882
+01:05:16,347 --> 01:05:18,871
+And even they don't
+feel that they are...
+
+883
+01:05:21,700 --> 01:05:23,093
+spied on.
+
+884
+01:05:23,180 --> 01:05:27,924
+But in Syria,
+of course you go to old ways.
+
+885
+01:05:34,669 --> 01:05:37,455
+They untie me and then I was...
+
+886
+01:05:37,542 --> 01:05:40,153
+and then he asked me to
+sit next to him, and he said,
+
+887
+01:05:40,240 --> 01:05:41,198
+"Let's start talking."
+
+888
+01:05:43,156 --> 01:05:46,551
+And I told him,
+"I don't want to
+talk to you anymore."
+
+889
+01:05:46,638 --> 01:05:52,949
+He said, "I want you
+to admit you work with the Free
+Syrian Electronic Army."
+
+890
+01:05:53,036 --> 01:05:55,516
+I was like,
+"I don't know what that is."
+
+891
+01:05:55,603 --> 01:05:58,911
+He said, "You like their page.
+You like their page
+on Facebook."
+
+892
+01:06:00,260 --> 01:06:02,219
+I told him,
+"I like their page on Facebook,
+
+893
+01:06:02,306 --> 01:06:05,309
+but there are too many pages
+on Facebook that you can like.
+
+894
+01:06:05,396 --> 01:06:07,920
+I also like Assad's page
+on Facebook."
+
+895
+01:06:09,530 --> 01:06:12,011
+Well, that did not convince him.
+
+896
+01:06:12,098 --> 01:06:17,190
+So his boss came
+and he told him,
+"What is going on?"
+
+897
+01:06:17,277 --> 01:06:21,586
+He told him,
+"This is the Facebook guy,
+and he's not cooperating."
+
+898
+01:06:21,673 --> 01:06:25,938
+So then his boss told him to,
+"Send him down to the basement,
+
+899
+01:06:26,025 --> 01:06:29,942
+peel his skin off and just
+remind me of him after a month."
+
+900
+01:06:30,029 --> 01:06:32,466
+And I was like, "Can we go
+back to the flying carpet?"
+
+901
+01:06:32,553 --> 01:06:33,424
+[chuckles]
+
+902
+01:06:36,035 --> 01:06:37,819
+I stayed there
+for almost a month,
+
+903
+01:06:37,906 --> 01:06:41,301
+and then I was released
+with a presidential amnesty.
+
+904
+01:06:43,477 --> 01:06:46,263
+So I went in a taxi,
+
+905
+01:06:46,350 --> 01:06:50,441
+covered with dust,
+dirt, shit and blood,
+
+906
+01:06:50,528 --> 01:06:53,966
+all over my face,
+my clothes.
+
+907
+01:06:54,053 --> 01:06:58,144
+And then the taxi driver
+felt pity for me,
+and he gave me a cigarette.
+
+908
+01:06:58,231 --> 01:07:00,233
+I remember
+that was the first time I cried.
+
+909
+01:07:03,497 --> 01:07:07,501
+And I went to my flat in Latakia
+where I used to study,
+
+910
+01:07:07,588 --> 01:07:09,373
+and my roommates
+were shocked
+to see me alive.
+
+911
+01:07:11,244 --> 01:07:15,118
+And then, like,
+two weeks after that
+I fled the country.
+
+912
+01:07:16,467 --> 01:07:17,990
+I came to Jordan.
+
+913
+01:07:18,077 --> 01:07:19,122
+I am a journalist now.
+
+914
+01:07:32,570 --> 01:07:36,139
+[man] With Syria,
+a lot of the bad things
+that are happening
+
+915
+01:07:36,226 --> 01:07:39,359
+are happening to people
+who don't look
+like Westerners.
+
+916
+01:07:39,446 --> 01:07:43,059
+The bad things happening to
+these people through technology,
+
+917
+01:07:43,146 --> 01:07:46,410
+through the risks
+inherent in technology,
+
+918
+01:07:46,497 --> 01:07:49,500
+are not different
+than the kinds of risks
+that we may face,
+
+919
+01:07:49,587 --> 01:07:51,806
+um, although they look
+different.
+
+920
+01:07:51,893 --> 01:07:53,199
+We see in the news
+almost every day,
+
+921
+01:07:53,286 --> 01:07:56,855
+a report of a breach,
+some kind of a large hack.
+
+922
+01:07:56,942 --> 01:07:59,292
+Data being exploited somewhere.
+
+923
+01:07:59,379 --> 01:08:02,121
+It's the same problem,
+but in Syria,
+it looks very different
+
+924
+01:08:02,208 --> 01:08:04,776
+and because there are
+dark skinned people,
+
+925
+01:08:04,863 --> 01:08:07,431
+uh, and there are guns
+and a foreign language,
+
+926
+01:08:07,518 --> 01:08:10,434
+it feels, I think to many,
+exotic and different,
+
+927
+01:08:10,521 --> 01:08:12,044
+and it couldn't happen here.
+
+928
+01:08:12,131 --> 01:08:14,568
+And I think, in fact,
+what you're seeing in Syria
+
+929
+01:08:14,655 --> 01:08:17,571
+is this is what happens
+when the risks get higher
+
+930
+01:08:17,658 --> 01:08:19,182
+but the technology is the same.
+
+931
+01:08:20,618 --> 01:08:22,010
+They're using the same Facebook
+that we are.
+
+932
+01:08:24,056 --> 01:08:25,362
+[chattering]
+
+933
+01:08:32,064 --> 01:08:34,284
+[in Portuguese]
+My name is Bruno,
+for those who don't know me.
+
+934
+01:08:34,371 --> 01:08:38,679
+[man beat boxing]
+
+935
+01:08:38,766 --> 01:08:43,989
+I'd been attending protests
+for a month,
+a month full of protests.
+
+936
+01:08:44,076 --> 01:08:48,733
+It's good to have protection,
+in case police repression
+is very strong.
+
+937
+01:08:50,604 --> 01:08:53,129
+When the professor asked
+the class what they thought,
+
+938
+01:08:53,216 --> 01:08:55,827
+people were
+against the protestors.
+
+939
+01:08:55,914 --> 01:08:59,700
+I improvised a chest protector
+with aluminum.
+
+940
+01:09:02,486 --> 01:09:05,619
+I said, "Whoa, you didn't
+even go to the protests.
+
+941
+01:09:05,706 --> 01:09:07,273
+It's not like you describe it."
+
+942
+01:09:08,361 --> 01:09:10,842
+So I decided to make a video,
+
+943
+01:09:10,929 --> 01:09:15,151
+to document a protest
+for those who didn't attend.
+
+944
+01:09:20,895 --> 01:09:23,985
+[chattering]
+
+945
+01:09:27,641 --> 01:09:29,600
+I'm arriving now
+at Largo do Machado.
+
+946
+01:09:29,687 --> 01:09:31,384
+[woman shouting in Portuguese]
+
+947
+01:09:31,471 --> 01:09:32,820
+Lot's of different people here.
+
+948
+01:09:36,389 --> 01:09:38,304
+[singing in foreign language]
+
+949
+01:09:41,394 --> 01:09:43,744
+[shouting on microphone]
+
+950
+01:09:47,748 --> 01:09:49,881
+[man shouting in Portuguese]
+
+951
+01:09:54,494 --> 01:09:57,628
+They have shut down
+all the lights
+to intimidate the crowd,
+
+952
+01:09:57,715 --> 01:09:59,020
+but we're not going to leave.
+
+953
+01:10:00,370 --> 01:10:02,676
+Only when the people become one!
+
+954
+01:10:03,547 --> 01:10:05,679
+And not two peoples...
+
+955
+01:10:05,766 --> 01:10:10,467
+where the rich
+use the poor against the poor.
+
+956
+01:10:11,903 --> 01:10:15,689
+Because we are strong!
+We are not weak!
+
+957
+01:10:15,776 --> 01:10:17,300
+[upbeat intro]
+
+958
+01:10:18,301 --> 01:10:19,650
+♪ Satisfied♪
+
+959
+01:10:19,737 --> 01:10:21,478
+♪ Satisfied♪
+
+960
+01:10:21,565 --> 01:10:23,175
+♪ Satisfied♪
+
+961
+01:10:26,787 --> 01:10:28,006
+[gunshot]
+
+962
+01:10:29,268 --> 01:10:30,878
+[man singing]
+
+963
+01:10:30,965 --> 01:10:32,489
+[glass shattering]
+
+964
+01:10:35,883 --> 01:10:37,842
+[all shouting]
+
+965
+01:10:41,367 --> 01:10:42,890
+[screaming]
+
+966
+01:10:45,850 --> 01:10:47,852
+[sirens chirping]
+
+967
+01:10:55,033 --> 01:10:59,690
+[Teles] I hadn't done anything,
+but police pursued me.
+
+968
+01:11:01,518 --> 01:11:03,259
+I'm a pacifist.
+I don't like violence.
+
+969
+01:11:04,782 --> 01:11:08,786
+But I'll defend myself
+if I have to. So I ran.
+
+970
+01:11:08,873 --> 01:11:11,571
+[woman speaking Portuguese]
+What is this? This is surreal.
+
+971
+01:11:11,658 --> 01:11:13,530
+[singing continues]
+
+972
+01:11:14,444 --> 01:11:17,534
+[clapping rhythmically]
+
+973
+01:11:17,621 --> 01:11:20,537
+[singing continues, indistinct]
+
+974
+01:11:24,367 --> 01:11:29,763
+♪ Satisfied♪
+
+975
+01:11:30,634 --> 01:11:31,983
+[shouting]
+
+976
+01:11:33,898 --> 01:11:35,073
+[shouting in Portuguese]
+
+977
+01:11:39,773 --> 01:11:41,949
+-[shouting]
+-[shutters clicking]
+
+978
+01:11:53,831 --> 01:11:55,354
+[news intro]
+
+979
+01:11:55,441 --> 01:11:56,921
+[in Portuguese]
+The protest took place
+
+980
+01:11:57,008 --> 01:11:58,314
+outside
+the governor's palace.
+
+981
+01:11:58,401 --> 01:12:01,708
+It started peacefully
+but ended in confrontation.
+
+982
+01:12:01,795 --> 01:12:04,276
+[man] A battle began. On one side, rocks being thrown,
+
+983
+01:12:04,363 --> 01:12:06,409
+on the other side, rubber bullets.
+
+984
+01:12:06,496 --> 01:12:10,413
+The masked bandits threw Molotov cocktails at the police.
+
+985
+01:12:11,675 --> 01:12:13,764
+One policeman was hit by the fire.
+
+986
+01:12:13,851 --> 01:12:19,117
+The military police found a bag with Molotov cocktails.
+
+987
+01:12:19,204 --> 01:12:20,945
+-[police officer]
+You should film this.
+-[reporter] What is it?
+
+988
+01:12:21,032 --> 01:12:23,600
+Molotov cocktails.
+These kill cops.
+
+989
+01:12:23,687 --> 01:12:25,689
+[shouting]
+
+990
+01:12:27,952 --> 01:12:32,565
+He threw the first
+Molotov cocktail! He threw
+the first Molotov cocktail!
+
+991
+01:12:32,652 --> 01:12:34,175
+I wasn't even there!
+
+992
+01:12:34,262 --> 01:12:37,962
+I wasn't carrying a backpack.
+Someone attacked me.
+
+993
+01:12:38,049 --> 01:12:41,661
+Don't say anything else,
+my friend.
+
+994
+01:12:41,748 --> 01:12:43,315
+[sirens wailing]
+
+995
+01:12:50,278 --> 01:12:51,976
+[shouting]
+
+996
+01:12:52,063 --> 01:12:54,674
+[in English]
+Lots of people were there,
+by 7:00 in the night,
+
+997
+01:12:55,675 --> 01:12:58,374
+and we were live.
+
+998
+01:12:58,461 --> 01:13:02,900
+[Carioca] We are here
+transmitting live to 5,000
+viewers with a mobile phone.
+
+999
+01:13:02,987 --> 01:13:07,252
+[Silva]
+Suddenly a man came to Carioca,
+and he asked to interview him.
+
+1000
+01:13:07,339 --> 01:13:10,995
+[Carioca]
+Whoa! Can I speak here?
+What is this?
+
+1001
+01:13:11,082 --> 01:13:15,303
+[Silva] And then
+the military police came
+to Carioca, searched his bag.
+
+1002
+01:13:15,391 --> 01:13:19,786
+And then they said
+he should be taken to jail
+
+1003
+01:13:19,873 --> 01:13:24,530
+as a preventive arrestment,
+to be searched and inquired.
+
+1004
+01:13:24,617 --> 01:13:29,666
+[Carioca]
+They're taking me away.
+I don't have anything in my bag.
+
+1005
+01:13:29,753 --> 01:13:34,279
+How this information
+was being virilized
+was really amazing.
+
+1006
+01:13:34,366 --> 01:13:36,803
+Like sharing, sharing, sharing,
+tweets, tweets, tweets,
+
+1007
+01:13:36,890 --> 01:13:38,239
+mention, mention, mention.
+
+1008
+01:13:38,326 --> 01:13:39,937
+"The Ninja is being arrested."
+
+1009
+01:13:40,024 --> 01:13:42,418
+And suddenly there was,
+like, a small crowd.
+
+1010
+01:13:42,505 --> 01:13:44,637
+Like 5,000 people.
+
+1011
+01:13:44,724 --> 01:13:47,814
+And all of them was
+screaming together,
+
+1012
+01:13:47,901 --> 01:13:51,209
+[in Portuguese]
+"Hey, police,
+where is the Midia Ninja?"
+
+1013
+01:13:51,296 --> 01:13:57,084
+[chanting] Hey, police,
+where is the Midia Ninja?
+
+1014
+01:13:57,171 --> 01:13:59,260
+At the police station,
+
+1015
+01:13:59,347 --> 01:14:04,875
+there were some lawyers
+to help us, some activists.
+
+1016
+01:14:04,962 --> 01:14:06,442
+That's where I met Bruno Teles.
+
+1017
+01:14:07,660 --> 01:14:09,053
+[man speaking in Portuguese]
+
+1018
+01:14:11,751 --> 01:14:13,536
+[woman speaking Portuguese]
+
+1019
+01:14:13,623 --> 01:14:16,321
+-What's your name?
+-My name is
+Bruno Ferreira Teles.
+
+1020
+01:14:16,408 --> 01:14:20,194
+[Teles]
+The Midia Ninjas appeared
+right when I needed to speak.
+
+1021
+01:14:20,281 --> 01:14:22,501
+They gave me a voice.
+They asked me if I wanted
+to give them an interview.
+
+1022
+01:14:22,588 --> 01:14:25,722
+I said I want to. I need to!
+
+1023
+01:14:25,809 --> 01:14:28,638
+As we interviewed Bruno,
+
+1024
+01:14:28,725 --> 01:14:33,164
+Globo broadcast that
+he threw the Molotov
+
+1025
+01:14:33,251 --> 01:14:37,777
+and had been arrested.
+
+1026
+01:14:37,864 --> 01:14:42,869
+It was Bruno Ferreira
+who was caught with a backpack
+full of Molotov cocktails.
+
+1027
+01:14:42,956 --> 01:14:44,871
+The police officer who was hit
+with the Molotov cocktail
+
+1028
+01:14:44,958 --> 01:14:47,439
+suffered burns to the thorax.
+
+1029
+01:14:50,355 --> 01:14:55,316
+The big media in general
+were all against me.
+
+1030
+01:14:55,403 --> 01:14:58,494
+They associated me
+with vandalism,
+with violence.
+
+1031
+01:14:58,581 --> 01:14:59,973
+[shouting]
+
+1032
+01:15:00,060 --> 01:15:04,282
+I want to ask you
+to help me to find the video
+
+1033
+01:15:04,369 --> 01:15:07,154
+of the moment
+where I ran from police.
+
+1034
+01:15:07,894 --> 01:15:10,331
+They took me in,
+
+1035
+01:15:10,418 --> 01:15:12,986
+and they are saying
+I was there with bottles
+of Molotov cocktails,
+
+1036
+01:15:13,073 --> 01:15:14,901
+and I was not.
+
+1037
+01:15:14,988 --> 01:15:18,601
+That's all I'm asking,
+that you search out these videos
+and collaborate.
+
+1038
+01:15:18,688 --> 01:15:21,734
+[Silva, in English]
+Then we posted this video from
+the mobile, like, real time,
+
+1039
+01:15:21,821 --> 01:15:23,606
+and it virilized very fast.
+
+1040
+01:15:28,132 --> 01:15:30,569
+[Carioca, in Portuguese]
+Our in-box exploded.
+
+1041
+01:15:30,656 --> 01:15:33,441
+5,000 e-mails in 24 hours.
+
+1042
+01:15:33,529 --> 01:15:36,532
+A ton of images and video
+
+1043
+01:15:36,619 --> 01:15:40,448
+that showed Bruno's innocence.
+
+1044
+01:16:09,477 --> 01:16:10,348
+[glass shattering]
+
+1045
+01:16:14,265 --> 01:16:16,354
+[vocalizing]
+
+1046
+01:16:17,877 --> 01:16:19,531
+[video sound distorted]
+
+1047
+01:16:28,540 --> 01:16:31,412
+[vocalizing continues]
+
+1048
+01:16:34,764 --> 01:16:35,591
+[glass shattering]
+
+1049
+01:17:02,922 --> 01:17:05,185
+[woman] What is this, people?
+This is surreal.
+
+1050
+01:17:05,925 --> 01:17:10,713
+[woman vocalizing]
+
+1051
+01:17:20,113 --> 01:17:22,289
+[vocalizing]
+
+1052
+01:17:25,379 --> 01:17:26,859
+[shouting]
+
+1053
+01:17:38,392 --> 01:17:40,612
+[music distorting]
+
+1054
+01:17:49,273 --> 01:17:50,666
+[gunshot muffled]
+
+1055
+01:17:55,061 --> 01:17:56,584
+[electrical crackling]
+
+1056
+01:18:04,201 --> 01:18:05,376
+[crackling continues]
+
+1057
+01:18:16,822 --> 01:18:20,043
+The video was just getting
+bigger in the social media.
+
+1058
+01:18:20,130 --> 01:18:22,001
+Bruno Teles became a character.
+
+1059
+01:18:22,088 --> 01:18:24,047
+[crowd shouting]
+
+1060
+01:18:26,353 --> 01:18:31,707
+Within a day,
+Globo reversed their position.
+
+1061
+01:18:31,794 --> 01:18:35,145
+They said I was a student,
+a good kid.
+
+1062
+01:18:36,015 --> 01:18:40,150
+Everyone likes him.
+
+1063
+01:18:40,237 --> 01:18:46,069
+Contrary to information
+released by the military
+and civil police,
+
+1064
+01:18:46,156 --> 01:18:51,074
+the student Bruno Teles
+did not possess explosives
+at the time of his arrest.
+
+1065
+01:18:51,161 --> 01:18:53,554
+[Silva] They said
+that Bruno was innocent,
+
+1066
+01:18:53,641 --> 01:18:58,168
+and they used Midia Ninja image.
+
+1067
+01:18:58,255 --> 01:19:00,474
+And they credited Midia Ninja.
+
+1068
+01:19:00,561 --> 01:19:03,913
+It was the first
+time that we were seeing
+
+1069
+01:19:04,000 --> 01:19:08,395
+Globo recognizing
+a free media collective
+
+1070
+01:19:08,482 --> 01:19:12,922
+as a legitimate player
+in the communication game.
+
+1071
+01:19:13,009 --> 01:19:15,707
+It was a next step.
+
+1072
+01:19:17,361 --> 01:19:19,363
+[crowd shouting]
+
+1073
+01:19:22,322 --> 01:19:23,410
+[gunshot]
+
+1074
+01:19:28,546 --> 01:19:30,026
+[explosion]
+
+1075
+01:19:42,038 --> 01:19:43,082
+[glass shattering]
+
+1076
+01:19:46,738 --> 01:19:52,135
+[woman]
+Oh, he's changing his shirt.
+
+1077
+01:19:56,052 --> 01:19:57,575
+[shouting]
+
+1078
+01:20:00,404 --> 01:20:03,407
+[woman vocalizing]
+
+1079
+01:20:12,851 --> 01:20:15,854
+[Orlando]
+This is an old strategy.
+
+1080
+01:20:15,941 --> 01:20:20,816
+When police infiltrate groups
+and appear as activists,
+
+1081
+01:20:20,903 --> 01:20:23,819
+they legitimize
+the police violence.
+
+1082
+01:20:27,866 --> 01:20:29,563
+[explosion]
+
+1083
+01:20:29,650 --> 01:20:33,524
+For the population,
+if the protestors
+are launching explosions,
+
+1084
+01:20:33,611 --> 01:20:37,354
+the police must do
+whatever is necessary,
+even on the margins of the law.
+
+1085
+01:20:37,441 --> 01:20:40,618
+[Bentes]
+The best form of security today
+
+1086
+01:20:40,705 --> 01:20:44,491
+is to live stream everything.
+
+1087
+01:20:44,578 --> 01:20:49,235
+If everyone knows where you are,
+then you're safe.
+
+1088
+01:20:49,322 --> 01:20:54,893
+The French word "surveillance"
+implies watching from above.
+
+1089
+01:20:54,980 --> 01:20:57,722
+In this case "sub-veillance"
+is more accurate.
+
+1090
+01:20:57,809 --> 01:21:03,859
+Bottom-up. The crowd
+surveils from all angles.
+
+1091
+01:21:03,946 --> 01:21:09,299
+[crowd chanting in Portuguese]
+Hey, undercover cops,
+go fuck yourself!
+
+1092
+01:21:12,345 --> 01:21:16,349
+Are you an undercover cop?I'm a protestor, idiot!
+
+1093
+01:21:18,525 --> 01:21:20,788
+[shouting continues]
+
+1094
+01:21:22,007 --> 01:21:23,226
+[crowd booing]
+
+1095
+01:21:26,969 --> 01:21:33,540
+It took only
+the time for the video
+to circulate online and on TV,
+
+1096
+01:21:33,627 --> 01:21:36,500
+then habeas corpus was filed,
+and he was released.
+
+1097
+01:21:37,457 --> 01:21:39,546
+[woman] Bruno! Come here!
+
+1098
+01:21:42,462 --> 01:21:43,681
+[woman crying]
+
+1099
+01:21:55,040 --> 01:21:56,607
+[Orlando]
+What if we didn't have
+these images?
+
+1100
+01:21:56,694 --> 01:21:59,392
+[shouting]
+
+1101
+01:21:59,479 --> 01:22:03,875
+How many others
+don't have the good fortune
+of being filmed?
+
+1102
+01:22:05,485 --> 01:22:10,621
+[crowd chanting]
+Ninja! Ninja! Ninja!
+
+1103
+01:22:10,708 --> 01:22:12,928
+Ten people are still inside,
+some of them Ninjas.
+
+1104
+01:22:13,015 --> 01:22:17,715
+[crowd repeating]
+
+1105
+01:22:17,802 --> 01:22:19,673
+And we will not leave...
+
+1106
+01:22:19,760 --> 01:22:22,546
+[crowd repeating]
+
+1107
+01:22:22,633 --> 01:22:24,852
+...until they are all released.
+
+1108
+01:22:24,940 --> 01:22:26,767
+[cheering]
+
+1109
+01:22:29,596 --> 01:22:30,510
+[crowd] Ninja!
+
+1110
+01:22:33,557 --> 01:22:37,604
+[crowd chanting]
+
+1111
+01:22:44,307 --> 01:22:47,440
+[digital pop music playing]
+
+1112
+01:22:59,670 --> 01:23:03,152
+I've always been a fan
+of the terms "hacking"
+and "hacktivism."
+
+1113
+01:23:03,239 --> 01:23:04,718
+Especially "hacktivism"
+
+1114
+01:23:04,805 --> 01:23:08,200
+which is the combination of
+hacking and political activism.
+
+1115
+01:23:08,287 --> 01:23:13,031
+And those combined
+are pretty powerful to me.
+
+1116
+01:23:13,118 --> 01:23:17,775
+It's about encouraging people
+not to accept technology
+at face value.
+
+1117
+01:23:19,255 --> 01:23:20,996
+We need to encourage people
+to think about
+
+1118
+01:23:21,083 --> 01:23:23,911
+what it is that surrounds them,
+
+1119
+01:23:23,999 --> 01:23:26,305
+to question authority
+
+1120
+01:23:26,392 --> 01:23:30,527
+in a sense of the authority
+being the technological
+environment around them
+
+1121
+01:23:30,614 --> 01:23:35,967
+and to realize that
+when you start pulling back
+the layers of all of this,
+
+1122
+01:23:36,054 --> 01:23:38,230
+that's where
+the exercise of power is.
+
+1123
+01:23:38,317 --> 01:23:41,538
+So if we want liberal democracy
+to flourish,
+
+1124
+01:23:41,625 --> 01:23:44,541
+we need people
+to start lifting back the layers
+
+1125
+01:23:44,628 --> 01:23:46,021
+and understanding
+what's going on.
+
+1126
+01:23:55,117 --> 01:23:58,946
+[clicking]
+
+1127
+01:24:01,688 --> 01:24:05,562
+[Snowden] I think ultimately
+it comes down to understanding
+what your values are,
+
+1128
+01:24:05,649 --> 01:24:08,173
+because how do you
+develop your thoughts, right?
+
+1129
+01:24:08,260 --> 01:24:10,262
+How do you determine
+what it is that
+you truly believe?
+
+1130
+01:24:10,349 --> 01:24:13,700
+How do you determine what
+it is you really want to say,
+
+1131
+01:24:13,787 --> 01:24:15,833
+if you can't even
+keep notes safely?
+
+1132
+01:24:15,920 --> 01:24:19,924
+If you can't
+have some private space,
+some space for thought,
+
+1133
+01:24:20,011 --> 01:24:22,753
+some space to enjoy the product
+of your own intellect,
+
+1134
+01:24:22,840 --> 01:24:25,277
+to share that with people
+close to you who you trust.
+
+1135
+01:24:25,364 --> 01:24:28,063
+Whether they're family,
+whether they're colleagues,
+whether they're compatriots.
+
+1136
+01:24:37,159 --> 01:24:42,512
+[Deibert] One thing
+that I see a lot is, this idea
+of technology as a solution.
+
+1137
+01:24:42,599 --> 01:24:45,123
+It's a natural thing.
+Okay, technology
+is under threat.
+
+1138
+01:24:45,210 --> 01:24:47,082
+Let's find
+a technological solution.
+
+1139
+01:24:48,605 --> 01:24:50,302
+There are so many projects now
+
+1140
+01:24:50,389 --> 01:24:54,219
+around secure communications,
+platforms, chats,
+instant messaging.
+
+1141
+01:24:54,306 --> 01:24:58,354
+But it's only one component
+of a solution set.
+
+1142
+01:24:58,441 --> 01:25:02,401
+And I think often overlooked
+are the legal and political
+dimensions.
+
+1143
+01:25:03,620 --> 01:25:04,708
+If we're talking about
+
+1144
+01:25:04,795 --> 01:25:06,884
+protecting and preserving
+all of this,
+
+1145
+01:25:06,971 --> 01:25:10,931
+as a secure and open
+communication space,
+
+1146
+01:25:11,018 --> 01:25:12,846
+that means holding governments
+accountable.
+
+1147
+01:25:12,933 --> 01:25:14,892
+It means holding
+companies accountable.
+
+1148
+01:25:14,979 --> 01:25:17,416
+Putting in place rules and laws
+
+1149
+01:25:17,503 --> 01:25:22,465
+that ensures they can't
+do things that infringe
+on our freedoms and rights.
+
+1150
+01:25:22,552 --> 01:25:25,642
+That to me is, uh,
+
+1151
+01:25:25,729 --> 01:25:29,733
+such a critical foundation
+of a digital democracy today.
+

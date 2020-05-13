@@ -1,0 +1,5016 @@
+1
+00:03:17,490 --> 00:03:21,120
+<b>It's me, Peter Parker.
+Your friendly neighborhood...</b>
+
+2
+00:03:21,245 --> 00:03:22,246
+<b>... you know.</b>
+
+3
+00:03:22,371 --> 00:03:25,498
+<b>I've come a long way from being
+the boy who was bit by a spider.</b>
+
+4
+00:03:25,582 --> 00:03:28,502
+<b>Back then, nothing seemed
+to go right for me. Now...</b>
+
+5
+00:03:28,627 --> 00:03:30,087
+<b>Wow, look, it's Spider-Man!</b>
+
+6
+00:03:30,170 --> 00:03:31,839
+<b>- Super cool!
+- Spider-man!</b>
+
+7
+00:03:31,964 --> 00:03:34,049
+<b>... people really like me.</b>
+
+8
+00:03:34,258 --> 00:03:36,969
+<b>Stick around. It's gonna start again
+in a couple minutes.</b>
+
+9
+00:03:37,094 --> 00:03:39,763
+<b>That's okay.</b>
+
+10
+00:03:40,931 --> 00:03:42,683
+<b>The city is safe and sound.</b>
+
+11
+00:03:42,808 --> 00:03:44,768
+<b>I guess I've had something
+to do with that.</b>
+
+12
+00:03:44,893 --> 00:03:46,770
+<b>My Uncle Ben would be proud.</b>
+
+13
+00:03:52,609 --> 00:03:54,695
+<b>I still get to school. Top of my class.</b>
+
+14
+00:03:54,778 --> 00:03:56,655
+<b>Now, the Hamiltonian shows us...</b>
+
+15
+00:03:56,864 --> 00:04:01,243
+<b>...that the energy levels
+are perturbed by the electric field.</b>
+
+16
+00:04:03,662 --> 00:04:08,250
+<b>From the form of this matrix,
+we can see?</b>
+
+17
+00:04:08,250 --> 00:04:10,335
+<b>Miss Stacy?</b>
+
+18
+00:04:10,461 --> 00:04:13,756
+<b>That only the "m equals zero
+quantum states" are affected.</b>
+
+19
+00:04:13,797 --> 00:04:17,009
+<b>Correct. Good work, Miss Stacy.</b>
+
+20
+00:04:20,888 --> 00:04:24,391
+<b>Parker? You got something to add?</b>
+
+21
+00:04:25,142 --> 00:04:26,894
+<b>No, sir.</b>
+
+22
+00:04:29,229 --> 00:04:33,484
+<b>And I'm in love
+with the girl of my dreams.</b>
+
+23
+00:04:48,290 --> 00:04:50,250
+<b>Hi.</b>
+
+24
+00:04:50,375 --> 00:04:54,963
+<b>Miss Watson left a ticket for me.
+Peter Parker.</b>
+
+25
+00:04:55,798 --> 00:04:57,341
+<b>Excuse me. Sorry.</b>
+
+26
+00:04:57,466 --> 00:04:59,968
+<b>Thank you. Sorry.</b>
+
+27
+00:05:05,599 --> 00:05:08,394
+<b>I'm so nervous.</b>
+
+28
+00:05:32,209 --> 00:05:34,461
+<b>That's my girlfriend.</b>
+
+29
+00:06:48,535 --> 00:06:51,121
+<b>- I thought she was good.
+- Yeah.</b>
+
+30
+00:06:52,581 --> 00:06:53,832
+<b>Harry?</b>
+
+31
+00:06:54,041 --> 00:06:55,501
+<b>Harry!</b>
+
+32
+00:06:55,626 --> 00:06:57,669
+<b>I need to talk to you.</b>
+
+33
+00:06:58,212 --> 00:06:59,963
+<b>Explain things.</b>
+
+34
+00:07:01,965 --> 00:07:05,719
+<b>Tell it to my father.
+Raise him from the dead.</b>
+
+35
+00:07:07,388 --> 00:07:11,225
+<b>I'm your friend, Harry.
+I cared about your father.</b>
+
+36
+00:07:20,317 --> 00:07:21,235
+<b>M. J!</b>
+
+37
+00:07:21,485 --> 00:07:23,737
+<b>- Peter!
+- Congrats!</b>
+
+38
+00:07:23,862 --> 00:07:26,240
+<b>- Was I good?
+- Good? You were great.</b>
+
+39
+00:07:26,365 --> 00:07:28,742
+<b>- You were...
+- You said great.</b>
+
+40
+00:07:28,867 --> 00:07:32,496
+<b>I love my flowers, they're beautiful.
+And those are from Harry.</b>
+
+41
+00:07:32,621 --> 00:07:36,583
+<b>- Was he here tonight?
+- Yeah, I ran into him outside.</b>
+
+42
+00:07:36,667 --> 00:07:39,920
+<b>- What's with you guys anyway?
+- It's complicated.</b>
+
+43
+00:07:40,003 --> 00:07:42,089
+<b>Tell me again. Was I really good?</b>
+
+44
+00:07:42,214 --> 00:07:44,591
+<b>I was so nervous.
+My knees were shaking.</b>
+
+45
+00:07:44,717 --> 00:07:47,302
+<b>- Your knees were fine.
+- The applause wasn't very loud.</b>
+
+46
+00:07:47,428 --> 00:07:49,304
+<b>Yes, it was. Well, it's the acoustics.</b>
+
+47
+00:07:49,513 --> 00:07:52,725
+<b>It's all about diffusion. It keeps
+the sound waves from grouping.</b>
+
+48
+00:07:52,850 --> 00:07:55,769
+<b>When the sound waves,
+they propagate, then it's like an...</b>
+
+49
+00:07:55,769 --> 00:07:57,855
+<b>You are such a nerd.</b>
+
+50
+00:08:50,616 --> 00:08:52,493
+<b>Did you see that one?</b>
+
+51
+00:09:01,752 --> 00:09:03,545
+<b>You know what?</b>
+
+52
+00:09:05,089 --> 00:09:08,634
+<b>I'd like to sing on-stage
+for the rest of my life...</b>
+
+53
+00:09:08,675 --> 00:09:11,136
+<b>...with you in the first row.</b>
+
+54
+00:09:12,429 --> 00:09:14,390
+<b>I'll be there.</b>
+
+55
+00:09:16,266 --> 00:09:18,560
+<b>Tell me you love me.</b>
+
+56
+00:09:20,646 --> 00:09:22,731
+<b>I love you.</b>
+
+57
+00:09:23,023 --> 00:09:25,317
+<b>I love you so much.</b>
+
+58
+00:09:26,610 --> 00:09:28,153
+<b>I always have.</b>
+
+59
+00:10:15,909 --> 00:10:17,369
+<b>- Ready?
+- Yep.</b>
+
+60
+00:12:13,026 --> 00:12:15,404
+<b>You can't hide here, Flint.</b>
+
+61
+00:12:15,821 --> 00:12:19,992
+<b>- I'm just here to see my daughter.
+- You are an escaped convict.</b>
+
+62
+00:12:20,117 --> 00:12:23,954
+<b>The cops are looking for you.
+You're not getting near her.</b>
+
+63
+00:12:24,288 --> 00:12:27,583
+<b>You're nothing but a common thief.</b>
+
+64
+00:12:27,708 --> 00:12:31,253
+<b>- You maybe even killed a man?
+- It wasn't like that.</b>
+
+65
+00:12:31,962 --> 00:12:33,756
+<b>It wasn't.</b>
+
+66
+00:12:33,881 --> 00:12:36,050
+<b>I had good reason
+for what I was doing.</b>
+
+67
+00:12:36,133 --> 00:12:37,384
+<b>And that's the truth.</b>
+
+68
+00:12:37,634 --> 00:12:41,972
+<b>You and the truth, sitting in prison,
+having three meals a day together.</b>
+
+69
+00:12:41,972 --> 00:12:44,600
+<b>I live in the presence of great truth...</b>
+
+70
+00:12:44,600 --> 00:12:47,102
+<b>...and that is the truth
+that you left behind...</b>
+
+71
+00:12:47,227 --> 00:12:50,105
+<b>...right there in that bedroom.</b>
+
+72
+00:13:03,160 --> 00:13:04,912
+<b>Penny.</b>
+
+73
+00:13:05,871 --> 00:13:07,539
+<b>I missed you.</b>
+
+74
+00:13:08,791 --> 00:13:11,377
+<b>I miss you too, Daddy.</b>
+
+75
+00:13:22,262 --> 00:13:25,891
+<b>I promise I'll make you healthy again.</b>
+
+76
+00:13:26,016 --> 00:13:29,019
+<b>Whatever it takes, I'll get the money.</b>
+
+77
+00:13:29,019 --> 00:13:32,356
+<b>You get out of here. Now.</b>
+
+78
+00:13:43,409 --> 00:13:45,494
+<b>I'm not a bad person.</b>
+
+79
+00:13:47,287 --> 00:13:49,456
+<b>Just had bad luck.</b>
+
+80
+00:14:07,307 --> 00:14:08,934
+<b>Peter, what is it?</b>
+
+81
+00:14:10,811 --> 00:14:12,479
+<b>It's M. J.</b>
+
+82
+00:14:13,313 --> 00:14:16,859
+<b>- I'm gonna ask her to marry me.
+- Oh, Peter.</b>
+
+83
+00:14:18,861 --> 00:14:23,741
+<b>The day your Uncle Ben asked me
+to marry him, we were so scared.</b>
+
+84
+00:14:23,741 --> 00:14:25,617
+<b>And excited.</b>
+
+85
+00:14:25,743 --> 00:14:27,494
+<b>And very young.</b>
+
+86
+00:14:27,619 --> 00:14:30,748
+<b>And I loved him so fiercely.</b>
+
+87
+00:14:30,748 --> 00:14:32,833
+<b>- And you said yes, right?
+- No.</b>
+
+88
+00:14:33,042 --> 00:14:35,419
+<b>I wanted to say yes, but I said no.</b>
+
+89
+00:14:35,544 --> 00:14:38,338
+<b>I wasn't ready. Neither was he.</b>
+
+90
+00:14:38,464 --> 00:14:40,841
+<b>So we took our time.</b>
+
+91
+00:14:40,966 --> 00:14:43,469
+<b>Looked forward to it.</b>
+
+92
+00:14:43,594 --> 00:14:47,222
+<b>Didn't want to run into something
+with nothing to count on but love.</b>
+
+93
+00:14:48,599 --> 00:14:51,477
+<b>A man has to be understanding...</b>
+
+94
+00:14:51,602 --> 00:14:54,730
+<b>...and put his wife before himself.</b>
+
+95
+00:14:55,439 --> 00:14:57,941
+<b>Can you do that, Peter?</b>
+
+96
+00:14:59,526 --> 00:15:02,321
+<b>Yeah, I think I can.</b>
+
+97
+00:15:02,446 --> 00:15:05,866
+<b>Then you have my blessing.</b>
+
+98
+00:15:07,951 --> 00:15:11,080
+<b>I hope you've considered
+a proper proposal.</b>
+
+99
+00:15:11,205 --> 00:15:14,541
+<b>Your uncle had it all planned.</b>
+
+100
+00:15:14,625 --> 00:15:16,627
+<b>He took me to the beach
+one Sunday.</b>
+
+101
+00:15:16,710 --> 00:15:19,630
+<b>Oh, he was a knockout
+in his bathing suit.</b>
+
+102
+00:15:19,755 --> 00:15:22,341
+<b>And I didn't look too bad myself.</b>
+
+103
+00:15:22,466 --> 00:15:24,426
+<b>We were very good swimmers.</b>
+
+104
+00:15:24,551 --> 00:15:27,137
+<b>And it was a beautiful day
+and he said:</b>
+
+105
+00:15:27,262 --> 00:15:29,223
+<b>"Let's swim to the island."</b>
+
+106
+00:15:29,348 --> 00:15:34,978
+<b>And at the island, we found
+a perfect spot by an old tree...</b>
+
+107
+00:15:34,978 --> 00:15:38,607
+<b>...and we lay down
+and looked up at the sky.</b>
+
+108
+00:15:38,649 --> 00:15:42,069
+<b>And then he said,
+"Close your eyes, May."</b>
+
+109
+00:15:42,152 --> 00:15:44,988
+<b>And I did.
+And then he said, "Open them."</b>
+
+110
+00:15:44,988 --> 00:15:46,865
+<b>And I did.</b>
+
+111
+00:15:47,074 --> 00:15:49,993
+<b>And he was holding this ring.</b>
+
+112
+00:15:51,245 --> 00:15:52,704
+<b>Dazzling...</b>
+
+113
+00:15:52,830 --> 00:15:54,581
+<b>...in front of me.</b>
+
+114
+00:15:57,000 --> 00:15:59,461
+<b>I thought it was the sun.</b>
+
+115
+00:16:01,755 --> 00:16:04,675
+<b>We'd be married 50 years...</b>
+
+116
+00:16:05,509 --> 00:16:08,429
+<b>...come August if...</b>
+
+117
+00:16:15,018 --> 00:16:16,478
+<b>So...</b>
+
+118
+00:16:18,021 --> 00:16:23,569
+<b>...I hope you'll make it very special
+for Mary Jane.</b>
+
+119
+00:16:24,194 --> 00:16:27,322
+<b>Do something she'll never forget.</b>
+
+120
+00:16:30,242 --> 00:16:31,910
+<b>Give her this.</b>
+
+121
+00:16:33,704 --> 00:16:36,373
+<b>Go on. Take it.</b>
+
+122
+00:17:53,534 --> 00:17:56,036
+<b>- Harry.
+- You knew this was coming, Pete.</b>
+
+123
+00:17:59,623 --> 00:18:02,209
+<b>Listen to me. I didn't kill your father.</b>
+
+124
+00:18:04,086 --> 00:18:06,046
+<b>He was trying to kill me.
+He killed himself.</b>
+
+125
+00:18:06,171 --> 00:18:07,923
+<b>Shut up!</b>
+
+126
+00:19:49,900 --> 00:19:52,319
+<b>I'm still here, Peter.</b>
+
+127
+00:20:16,510 --> 00:20:18,387
+<b>Hate those things.</b>
+
+128
+00:21:16,987 --> 00:21:18,655
+<b>Harry?</b>
+
+129
+00:21:22,493 --> 00:21:23,952
+<b>Harry.</b>
+
+130
+00:21:24,912 --> 00:21:26,455
+<b>Harry.</b>
+
+131
+00:21:31,377 --> 00:21:33,253
+<b>Oh, my God.</b>
+
+132
+00:21:39,510 --> 00:21:41,470
+<b>Harry!</b>
+
+133
+00:21:43,347 --> 00:21:45,224
+<b>Come on!</b>
+
+134
+00:21:47,935 --> 00:21:49,603
+<b>God.</b>
+
+135
+00:21:53,190 --> 00:21:54,525
+<b>- Defib.
+- Two hundred.</b>
+
+136
+00:21:54,650 --> 00:21:56,402
+<b>And clear.</b>
+
+137
+00:21:56,610 --> 00:21:57,861
+<b>No response.</b>
+
+138
+00:21:57,945 --> 00:21:59,738
+<b>- Recharge, let's go again.
+- Go ahead.</b>
+
+139
+00:21:59,863 --> 00:22:02,324
+<b>- Charging.
+- And clear.</b>
+
+140
+00:22:02,449 --> 00:22:03,492
+<b>No response.</b>
+
+141
+00:22:03,617 --> 00:22:06,912
+<b>Let's recharge and do it
+one more time. And clear.</b>
+
+142
+00:22:12,543 --> 00:22:14,128
+<b>Captain Stacy.</b>
+
+143
+00:22:14,837 --> 00:22:16,088
+<b>- What's this?
+- Flint Marko.</b>
+
+144
+00:22:16,296 --> 00:22:18,382
+<b>The guy we tied
+to the Ben Parker homicide.</b>
+
+145
+00:22:18,507 --> 00:22:20,384
+<b>- What about him?
+- Broke out of Rikers.</b>
+
+146
+00:22:20,592 --> 00:22:21,844
+<b>- And?
+- He's on the run.</b>
+
+147
+00:22:22,052 --> 00:22:24,221
+<b>He's in the marshlands.
+I think we got him.</b>
+
+148
+00:22:28,517 --> 00:22:30,185
+<b>There he is.</b>
+
+149
+00:22:48,829 --> 00:22:51,874
+<b>You two, take the west side.
+Tommy, take the east.</b>
+
+150
+00:22:56,170 --> 00:22:57,921
+<b>Where did he go?</b>
+
+151
+00:23:19,943 --> 00:23:21,570
+<b>- Capacitors charged.
+- Right.</b>
+
+152
+00:23:21,695 --> 00:23:23,781
+<b>Donnie, we got a little fluctuation
+on one.</b>
+
+153
+00:23:23,989 --> 00:23:27,743
+<b>- There's a change in the silicon mass.
+- It's probably a bird. It'll fly away.</b>
+
+154
+00:23:27,868 --> 00:23:29,703
+<b>Initiating demolecularization.</b>
+
+155
+00:24:59,626 --> 00:25:01,670
+<b>- How is he?
+- He's gonna be okay.</b>
+
+156
+00:25:01,795 --> 00:25:04,298
+<b>But there's been
+some memory impairment.</b>
+
+157
+00:25:04,381 --> 00:25:06,050
+<b>Particularly his short-term memory.</b>
+
+158
+00:25:06,175 --> 00:25:08,260
+<b>Right now he can't
+remember the accident...</b>
+
+159
+00:25:08,469 --> 00:25:10,637
+<b>...or anything that happened
+to him recently.</b>
+
+160
+00:25:10,763 --> 00:25:12,014
+<b>Is it permanent?</b>
+
+161
+00:25:12,139 --> 00:25:15,225
+<b>It could be. Only time will tell.</b>
+
+162
+00:25:15,559 --> 00:25:17,853
+<b>He's awake if you wanna see him.</b>
+
+163
+00:25:17,978 --> 00:25:19,313
+<b>Maybe I should wait.</b>
+
+164
+00:25:19,396 --> 00:25:22,858
+<b>No, it's fine. Just keep it brief.
+I want him to rest.</b>
+
+165
+00:25:41,919 --> 00:25:43,170
+<b>Hey, buddy.</b>
+
+166
+00:25:43,837 --> 00:25:45,255
+<b>Hey.</b>
+
+167
+00:25:46,006 --> 00:25:47,549
+<b>Hit my head.</b>
+
+168
+00:25:47,674 --> 00:25:49,218
+<b>Yeah.</b>
+
+169
+00:25:49,551 --> 00:25:51,845
+<b>Doctor said I was in an accident.</b>
+
+170
+00:25:51,929 --> 00:25:53,097
+<b>Hit-and-run.</b>
+
+171
+00:25:53,722 --> 00:25:56,308
+<b>I don't remember much of anything.</b>
+
+172
+00:25:57,768 --> 00:25:59,436
+<b>My father...</b>
+
+173
+00:25:59,978 --> 00:26:01,647
+<b>...he died, right?</b>
+
+174
+00:26:03,857 --> 00:26:06,318
+<b>This is all so weird.</b>
+
+175
+00:26:07,486 --> 00:26:11,115
+<b>Hi. I got here as fast as I could.</b>
+
+176
+00:26:11,240 --> 00:26:12,282
+<b>I know that face.</b>
+
+177
+00:26:12,699 --> 00:26:13,826
+<b>How you doing?</b>
+
+178
+00:26:14,159 --> 00:26:15,619
+<b>I don't know.</b>
+
+179
+00:26:15,703 --> 00:26:17,788
+<b>Last thing I remember, I was fine.</b>
+
+180
+00:26:18,038 --> 00:26:19,164
+<b>Somewhere.</b>
+
+181
+00:26:19,790 --> 00:26:21,041
+<b>You're still fine.</b>
+
+182
+00:26:22,626 --> 00:26:24,461
+<b>We love you, Harry.</b>
+
+183
+00:26:25,129 --> 00:26:27,172
+<b>It feels like...</b>
+
+184
+00:26:28,048 --> 00:26:31,552
+<b>...somehow I've been gone
+for a really long time.</b>
+
+185
+00:26:33,053 --> 00:26:34,805
+<b>And now I'm back home.</b>
+
+186
+00:26:35,431 --> 00:26:37,599
+<b>It's good to have you back.</b>
+
+187
+00:26:38,559 --> 00:26:41,687
+<b>I'm sorry, I'm gonna have to ask
+you guys to scoot, okay?</b>
+
+188
+00:26:41,812 --> 00:26:44,189
+<b>- Okay.
+- All right. Thank you.</b>
+
+189
+00:26:44,314 --> 00:26:46,275
+<b>Well, I'll see you tomorrow.</b>
+
+190
+00:26:46,400 --> 00:26:48,444
+<b>Yeah. Great.</b>
+
+191
+00:26:49,194 --> 00:26:50,738
+<b>Get some sleep.</b>
+
+192
+00:26:54,324 --> 00:26:56,785
+<b>- I think he's gonna be fine.
+- I think so.</b>
+
+193
+00:26:56,910 --> 00:26:59,621
+<b>- And you guys seem great.
+- Yeah.</b>
+
+194
+00:27:02,750 --> 00:27:04,418
+<b>You have lovely friends.</b>
+
+195
+00:27:04,501 --> 00:27:06,712
+<b>My best friends.</b>
+
+196
+00:27:09,339 --> 00:27:11,508
+<b>I'd give my life for them.</b>
+
+197
+00:30:21,073 --> 00:30:23,367
+<b>- Yeah?
+- It's me.</b>
+
+198
+00:30:24,201 --> 00:30:25,661
+<b>Hey.</b>
+
+199
+00:30:25,953 --> 00:30:28,163
+<b>Peter, you know I can't open the door.</b>
+
+200
+00:30:28,372 --> 00:30:29,832
+<b>It's stuck again?</b>
+
+201
+00:30:30,374 --> 00:30:32,418
+<b>Just come on and help me.</b>
+
+202
+00:30:32,543 --> 00:30:34,211
+<b>I'm coming.</b>
+
+203
+00:30:40,259 --> 00:30:42,428
+<b>- Hey.
+- The review.</b>
+
+204
+00:30:43,303 --> 00:30:46,390
+<b>- They hated it. They hated me.
+- Well, they can't hate you.</b>
+
+205
+00:30:46,515 --> 00:30:48,892
+<b>"The young Miss Watson
+is a pretty girl...</b>
+
+206
+00:30:49,017 --> 00:30:51,186
+<b>...easy on the eyes,
+but not on the ears.</b>
+
+207
+00:30:51,311 --> 00:30:53,605
+<b>Her small voice didn't carry
+past the first row."</b>
+
+208
+00:30:53,731 --> 00:30:55,899
+<b>That's ridiculous, I was right there.</b>
+
+209
+00:30:55,983 --> 00:30:57,568
+<b>You were in the first row.</b>
+
+210
+00:30:57,776 --> 00:31:01,113
+<b>Yeah, this... Listen, you were great.</b>
+
+211
+00:31:01,530 --> 00:31:05,784
+<b>That's a critic. This is something
+you're gonna have to get used to.</b>
+
+212
+00:31:05,826 --> 00:31:09,455
+<b>Believe me, I know.
+Spider-Man gets attacked all the time.</b>
+
+213
+00:31:09,580 --> 00:31:13,625
+<b>This isn't about you. This is about me.
+It's about my career.</b>
+
+214
+00:31:13,751 --> 00:31:17,254
+<b>I know, and I'm just saying
+you can't let it bring you down.</b>
+
+215
+00:31:17,379 --> 00:31:20,090
+<b>You gotta believe in yourself
+and pull yourself together.</b>
+
+216
+00:31:20,174 --> 00:31:21,967
+<b>You get right back
+on the horse and...</b>
+
+217
+00:31:22,176 --> 00:31:24,053
+<b>Don't give me the horse thing.</b>
+
+218
+00:31:24,178 --> 00:31:26,638
+<b>Try and understand how I feel.</b>
+
+219
+00:31:31,560 --> 00:31:33,228
+<b>It's just...</b>
+
+220
+00:31:36,148 --> 00:31:38,233
+<b>...I look at these words...</b>
+
+221
+00:31:39,193 --> 00:31:41,570
+<b>...and it's like my father wrote them.</b>
+
+222
+00:31:42,613 --> 00:31:46,992
+<b>All cars. All cars in the vicinity of
+54th and Sixth Avenue, please report.</b>
+
+223
+00:31:46,992 --> 00:31:49,703
+<b>Crane out of control,
+approach with caution.</b>
+
+224
+00:31:52,956 --> 00:31:54,708
+<b>"Go get them, tiger"?</b>
+
+225
+00:31:56,877 --> 00:31:58,545
+<b>I'm sorry.</b>
+
+226
+00:32:31,620 --> 00:32:34,123
+<b>Oh, my God. 7-Adam to Central.</b>
+
+227
+00:32:34,248 --> 00:32:37,126
+<b>That crane job you sent us on?
+It's bigger than we thought.</b>
+
+228
+00:32:37,251 --> 00:32:40,587
+<b>We're gonna need
+a major mobilization right away.</b>
+
+229
+00:32:46,510 --> 00:32:50,389
+<b>Shut it down at the generator. Now!</b>
+
+230
+00:32:53,726 --> 00:32:57,146
+<b>Okay, Gwen, I've got a secret:
+It's my copier.</b>
+
+231
+00:33:00,190 --> 00:33:03,110
+<b>What is that thing
+doing in my background?</b>
+
+232
+00:33:28,761 --> 00:33:31,472
+<b>They got some kind of short.
+Can't shut down the crane.</b>
+
+233
+00:33:31,555 --> 00:33:34,475
+<b>Get Edison on the phone.
+Kill the power to the whole block.</b>
+
+234
+00:33:38,145 --> 00:33:39,188
+<b>Are you all right?</b>
+
+235
+00:33:39,396 --> 00:33:41,065
+<b>It's coming back.</b>
+
+236
+00:33:43,150 --> 00:33:44,193
+<b>Oh, no.</b>
+
+237
+00:34:07,966 --> 00:34:10,886
+<b>- Oh, my God. That's Gwen.
+- What?</b>
+
+238
+00:34:16,016 --> 00:34:17,434
+<b>What's she doing up there?</b>
+
+239
+00:34:17,559 --> 00:34:20,479
+<b>I just saw her last night.
+She said she had a modeling gig.</b>
+
+240
+00:34:20,479 --> 00:34:23,607
+<b>- Who are you?
+- It's Brock, sir. Edward Brock Jr.</b>
+
+241
+00:34:23,690 --> 00:34:25,484
+<b>And I work at the Daily Bugle.</b>
+
+242
+00:34:26,193 --> 00:34:28,612
+<b>And I'm dating your daughter.</b>
+
+243
+00:35:23,876 --> 00:35:25,210
+<b>You okay?</b>
+
+244
+00:35:25,335 --> 00:35:27,838
+<b>Yeah, I'm fine.</b>
+
+245
+00:35:28,047 --> 00:35:29,089
+<b>Thank you.</b>
+
+246
+00:35:29,173 --> 00:35:31,592
+<b>Hey, Spidey, hold on.
+Bugle needs a photo.</b>
+
+247
+00:35:31,675 --> 00:35:33,552
+<b>- Thank God you're okay.
+- Daddy.</b>
+
+248
+00:35:33,677 --> 00:35:35,637
+<b>Hey. I'm the new guy.</b>
+
+249
+00:35:35,763 --> 00:35:37,014
+<b>New guy?</b>
+
+250
+00:35:38,599 --> 00:35:39,600
+<b>You okay?</b>
+
+251
+00:35:39,725 --> 00:35:42,853
+<b>From now on, I am gonna be
+taking shots of you for the Bugle.</b>
+
+252
+00:35:42,853 --> 00:35:45,773
+<b>So smile. Are you smiling?
+Just kidding.</b>
+
+253
+00:35:45,856 --> 00:35:48,358
+<b>- They got a guy.
+- Who, Parker?</b>
+
+254
+00:35:48,776 --> 00:35:53,072
+<b>Yeah, look, just between you and me,
+guy's kind of an amateur.</b>
+
+255
+00:35:53,072 --> 00:35:55,866
+<b>Have you noticed his stuff
+makes you look a little bloated?</b>
+
+256
+00:35:55,991 --> 00:35:58,369
+<b>Just... Yeah, a little chunky.</b>
+
+257
+00:35:58,702 --> 00:36:00,371
+<b>Okay.</b>
+
+258
+00:36:00,996 --> 00:36:03,499
+<b>But you don't have to worry about that
+anymore, buddy.</b>
+
+259
+00:36:12,341 --> 00:36:13,300
+<b>Dazzle me.</b>
+
+260
+00:36:21,016 --> 00:36:24,019
+<b>Just something the boys in
+the Ad Department and I whipped up.</b>
+
+261
+00:36:24,144 --> 00:36:27,064
+<b>As you know, circulation at the Bugle's
+been pretty good.</b>
+
+262
+00:36:27,064 --> 00:36:29,024
+<b>Though not as good
+as The New York Times.</b>
+
+263
+00:36:29,149 --> 00:36:32,069
+<b>Or the Daily News, or the Post,
+or several other smaller...</b>
+
+264
+00:36:32,069 --> 00:36:34,154
+<b>Get on with it, you moron...!</b>
+
+265
+00:36:34,363 --> 00:36:36,240
+<b>- What?
+- Your blood pressure, Mr. Jameson.</b>
+
+266
+00:36:36,323 --> 00:36:39,660
+<b>- Your wife told you to watch the anger.
+- You tell my wife...</b>
+
+267
+00:36:43,122 --> 00:36:44,998
+<b>Thank you.</b>
+
+268
+00:36:46,875 --> 00:36:49,878
+<b>So I propose this campaign.</b>
+
+269
+00:36:50,129 --> 00:36:52,589
+<b>''Daily Bugle. " That's obvious.</b>
+
+270
+00:36:52,715 --> 00:36:55,926
+<b>"It's hip, it's now."
+I came up with that one.</b>
+
+271
+00:36:56,677 --> 00:36:59,471
+<b>"It's wow." That's actually Erickson.
+He goes crazy.</b>
+
+272
+00:36:59,596 --> 00:37:01,890
+<b>We gave him a couple lattes,
+it's like:</b>
+
+273
+00:37:02,182 --> 00:37:05,102
+<b>"And how." That's me again.</b>
+
+274
+00:37:05,519 --> 00:37:07,312
+<b>Time to take your pill.</b>
+
+275
+00:37:08,564 --> 00:37:10,232
+<b>Not that one.</b>
+
+276
+00:37:10,983 --> 00:37:12,735
+<b>Not that one.</b>
+
+277
+00:37:20,868 --> 00:37:23,245
+<b>Drink plenty of water.</b>
+
+278
+00:37:27,124 --> 00:37:28,584
+<b>Thank you.</b>
+
+279
+00:37:30,961 --> 00:37:31,920
+<b>Continue.</b>
+
+280
+00:37:35,466 --> 00:37:38,177
+<b>- He's busy.
+- I'm just here to talk to you, beautiful.</b>
+
+281
+00:37:38,302 --> 00:37:39,845
+<b>What's that smell?</b>
+
+282
+00:37:39,928 --> 00:37:43,390
+<b>That's a little something called
+Nice and Easy. What's on you?</b>
+
+283
+00:37:43,474 --> 00:37:45,142
+<b>It's called Go Away.</b>
+
+284
+00:37:45,267 --> 00:37:47,227
+<b>That is the dumbest idea
+you've ever had...</b>
+
+285
+00:37:47,352 --> 00:37:50,481
+<b>...and you have had some doozies.
+- Blood pressure.</b>
+
+286
+00:37:50,689 --> 00:37:52,441
+<b>Hey, where are you going?</b>
+
+287
+00:37:54,151 --> 00:37:56,737
+<b>- Who are you?
+- You hired him last week. Freelance.</b>
+
+288
+00:37:56,945 --> 00:37:59,865
+<b>- I did? What's that smell?
+- It's Brock, sir. Edward Brock Jr.</b>
+
+289
+00:37:59,865 --> 00:38:03,285
+<b>Can I just say I really like that shirt?
+It's the crane accident.</b>
+
+290
+00:38:03,410 --> 00:38:05,371
+<b>- Check out the light.
+- He likes my shirt.</b>
+
+291
+00:38:05,496 --> 00:38:06,622
+<b>- Hey, Betty.
+- Hey, Pete.</b>
+
+292
+00:38:06,747 --> 00:38:08,624
+<b>You better get in there. New guy.</b>
+
+293
+00:38:08,749 --> 00:38:11,627
+<b>He's trying to sell
+some Spidey photos.</b>
+
+294
+00:38:13,087 --> 00:38:14,671
+<b>Thanks.</b>
+
+295
+00:38:14,755 --> 00:38:17,800
+<b>Parker. You're late, maybe too late.
+Bruckner beat you to it.</b>
+
+296
+00:38:17,925 --> 00:38:19,551
+<b>It's Brock, sir. Edward Brock Jr.</b>
+
+297
+00:38:19,676 --> 00:38:22,054
+<b>- But I got you this.
+- But he got me this.</b>
+
+298
+00:38:22,179 --> 00:38:24,556
+<b>I didn't see you there.
+How'd you get that high?</b>
+
+299
+00:38:24,681 --> 00:38:27,601
+<b>- Climbed. Nearly fell off a flagpole.
+- A flagpole?</b>
+
+300
+00:38:27,684 --> 00:38:30,729
+<b>- Which one do we use?
+- I like Bernstein's.</b>
+
+301
+00:38:30,729 --> 00:38:31,980
+<b>- It's better.
+- Cheaper too.</b>
+
+302
+00:38:32,189 --> 00:38:34,900
+<b>Congratulations, we'll use yours.
+I'll pay you 50 bucks.</b>
+
+303
+00:38:35,025 --> 00:38:36,443
+<b>All right, J. J., I'm your man.</b>
+
+304
+00:38:36,568 --> 00:38:39,363
+<b>I know more about a good picture
+than any photographer.</b>
+
+305
+00:38:39,488 --> 00:38:43,325
+<b>See, photography, it's not just about,
+no offense, flagpoles or whatever.</b>
+
+306
+00:38:43,367 --> 00:38:45,619
+<b>It's about lighting.
+Composition. Drama.</b>
+
+307
+00:38:46,453 --> 00:38:47,913
+<b>I want a staff job, sir.</b>
+
+308
+00:38:48,038 --> 00:38:51,250
+<b>I have a girl that I intend to marry...</b>
+
+309
+00:38:51,375 --> 00:38:54,378
+<b>...and I guess, I don't know,
+I have this stupid little dream...</b>
+
+310
+00:38:54,503 --> 00:38:58,132
+<b>...of working with one of the greatest
+newspaper editors of our time.</b>
+
+311
+00:38:58,549 --> 00:38:59,925
+<b>J. Jonah Jameson.</b>
+
+312
+00:39:03,345 --> 00:39:06,181
+<b>Well, we do have an opening.
+Johnson quit, remember?</b>
+
+313
+00:39:06,306 --> 00:39:07,516
+<b>- You fired him.
+- Whatever.</b>
+
+314
+00:39:07,641 --> 00:39:10,644
+<b>I know what makes a good picture
+and I've been here a long time.</b>
+
+315
+00:39:10,769 --> 00:39:12,855
+<b>If there's a staff job,
+I think I deserve it.</b>
+
+316
+00:39:12,980 --> 00:39:16,900
+<b>He's right, Jonah. Peter's been with us
+for years. He's done a great job.</b>
+
+317
+00:39:17,025 --> 00:39:18,986
+<b>You want a staff job,
+you want a staff job.</b>
+
+318
+00:39:19,111 --> 00:39:20,988
+<b>- Anybody care about what I want?
+- I do.</b>
+
+319
+00:39:21,071 --> 00:39:22,948
+<b>Shut up. Get out.</b>
+
+320
+00:39:23,073 --> 00:39:26,618
+<b>I want the public to see Spider-Man
+for the two-bit criminal he really is.</b>
+
+321
+00:39:26,744 --> 00:39:30,998
+<b>He's a fake, he's full of stickum.
+Catch him in the act.</b>
+
+322
+00:39:31,081 --> 00:39:33,375
+<b>Spider-Man with his hand
+in a cookie jar.</b>
+
+323
+00:39:33,500 --> 00:39:35,586
+<b>Whoever brings me that photo
+gets a job.</b>
+
+324
+00:39:35,669 --> 00:39:37,546
+<b>What're you waiting for,
+Chinese New Year?</b>
+
+325
+00:39:37,671 --> 00:39:39,131
+<b>I'm on it, boss.</b>
+
+326
+00:39:40,591 --> 00:39:41,925
+<b>You'll never get that shot.</b>
+
+327
+00:39:42,051 --> 00:39:43,385
+<b>Oh, we'll see.</b>
+
+328
+00:39:57,900 --> 00:40:03,113
+<b>You know, I guess one person
+can make a difference.</b>
+
+329
+00:40:04,448 --> 00:40:06,241
+<b>Enough said.</b>
+
+330
+00:40:11,455 --> 00:40:13,957
+<b>Welcome home, Harry.</b>
+
+331
+00:40:14,792 --> 00:40:18,212
+<b>- Thank God you're all right.
+- Thanks, Bernard.</b>
+
+332
+00:40:18,337 --> 00:40:20,422
+<b>- Bernard.
+- Sir.</b>
+
+333
+00:40:22,383 --> 00:40:25,010
+<b>Got you a little homecoming present.</b>
+
+334
+00:40:25,969 --> 00:40:27,721
+<b>- It's your old ball.
+- Yeah.</b>
+
+335
+00:40:27,930 --> 00:40:28,972
+<b>Thanks, buddy.</b>
+
+336
+00:40:29,807 --> 00:40:32,101
+<b>We were pretty good
+in the backyard, weren't we?</b>
+
+337
+00:40:32,226 --> 00:40:35,938
+<b>We were terrible.
+And we tried out for the varsity team.</b>
+
+338
+00:40:35,979 --> 00:40:38,023
+<b>- For the cheerleaders.
+- Right.</b>
+
+339
+00:40:38,232 --> 00:40:40,859
+<b>- Hey, do I have any girlfriends?
+- I don't know.</b>
+
+340
+00:40:40,984 --> 00:40:42,111
+<b>You don't?</b>
+
+341
+00:40:42,736 --> 00:40:45,447
+<b>Hey, Bernard.
+Do I have any girlfriends?</b>
+
+342
+00:40:45,447 --> 00:40:48,033
+<b>Not that I know of, sir.</b>
+
+343
+00:40:53,497 --> 00:40:55,124
+<b>It's a pretty cool pad, huh?</b>
+
+344
+00:40:55,249 --> 00:40:57,000
+<b>It's okay.</b>
+
+345
+00:40:57,126 --> 00:41:00,254
+<b>- Looks like I'm not hurting for money.
+- No.</b>
+
+346
+00:41:00,254 --> 00:41:04,091
+<b>Well, maybe I can turn this
+no-girlfriend thing around.</b>
+
+347
+00:41:11,515 --> 00:41:16,729
+<b>You know, he always appreciated how
+you helped me through high school.</b>
+
+348
+00:41:17,146 --> 00:41:19,857
+<b>Just wish I could remember
+more about him.</b>
+
+349
+00:41:21,316 --> 00:41:24,862
+<b>Well, he loved you.
+That's the main thing.</b>
+
+350
+00:41:25,904 --> 00:41:30,492
+<b>Hey, let's watch a game in the kitchen.
+Get something to eat.</b>
+
+351
+00:41:30,492 --> 00:41:31,618
+<b>Okay.</b>
+
+352
+00:41:32,995 --> 00:41:34,121
+<b>Heads up.</b>
+
+353
+00:41:37,791 --> 00:41:38,834
+<b>Did you see that?</b>
+
+354
+00:41:39,543 --> 00:41:41,837
+<b>- Still got the moves.
+- Yeah.</b>
+
+355
+00:42:15,537 --> 00:42:16,580
+<b>Why are we stopping?</b>
+
+356
+00:42:20,751 --> 00:42:21,794
+<b>What is she doing here?</b>
+
+357
+00:42:22,002 --> 00:42:23,962
+<b>Well, Gary was supposed
+to call her agent.</b>
+
+358
+00:42:26,507 --> 00:42:29,176
+<b>Hi, honey. We tried to reach you.</b>
+
+359
+00:42:29,301 --> 00:42:30,844
+<b>I'm sorry.</b>
+
+360
+00:42:30,969 --> 00:42:32,096
+<b>One critic?</b>
+
+361
+00:42:32,221 --> 00:42:33,472
+<b>No, all the papers, dear.</b>
+
+362
+00:42:34,515 --> 00:42:37,017
+<b>Mary Jane, honey, sit down.
+Let us explain it to you.</b>
+
+363
+00:42:37,101 --> 00:42:39,812
+<b>Listen, if you'd like,
+we could say you became ill.</b>
+
+364
+00:42:50,656 --> 00:42:52,741
+<b>That was so poorly handled.</b>
+
+365
+00:42:52,866 --> 00:42:54,326
+<b>Yeah.</b>
+
+366
+00:42:54,827 --> 00:42:56,704
+<b>Let's just rehearse.</b>
+
+367
+00:43:02,376 --> 00:43:04,753
+<b>All right, Spidey.</b>
+
+368
+00:43:42,916 --> 00:43:45,002
+<b>Spidey! Spidey! Spidey!</b>
+
+369
+00:43:45,210 --> 00:43:48,839
+<b>Excuse me, miss? Could I please
+see that gorgeous smile?</b>
+
+370
+00:43:48,839 --> 00:43:50,716
+<b>Hi, Eddie.</b>
+
+371
+00:43:50,841 --> 00:43:54,053
+<b>You're so beautiful.
+This is front-page stuff.</b>
+
+372
+00:43:54,178 --> 00:43:55,721
+<b>I gotta practice. See you later.</b>
+
+373
+00:43:55,846 --> 00:43:57,806
+<b>- How about tonight?
+- Not tonight.</b>
+
+374
+00:43:57,931 --> 00:43:59,391
+<b>Why not?</b>
+
+375
+00:43:59,600 --> 00:44:03,645
+<b>What about that amazing,
+amazing night that we had?</b>
+
+376
+00:44:04,605 --> 00:44:07,816
+<b>We had a coffee, Eddie.</b>
+
+377
+00:44:07,816 --> 00:44:09,610
+<b>Hey, beautiful.</b>
+
+378
+00:44:10,235 --> 00:44:11,695
+<b>One more.</b>
+
+379
+00:44:14,948 --> 00:44:17,409
+<b>- Everything okay?
+- Yeah, I'm fine.</b>
+
+380
+00:44:17,534 --> 00:44:21,789
+<b>- You're not still mad at me, are you?
+- No, Peter, I'm proud of you.</b>
+
+381
+00:44:21,914 --> 00:44:23,999
+<b>Hey, I'm gonna be swinging in
+from over there.</b>
+
+382
+00:44:24,124 --> 00:44:26,293
+<b>- Oh, yeah?
+- So you know where to look.</b>
+
+383
+00:44:27,753 --> 00:44:29,088
+<b>Give them a good show.</b>
+
+384
+00:44:29,963 --> 00:44:31,382
+<b>Don't worry about that review.</b>
+
+385
+00:44:31,507 --> 00:44:35,052
+<b>We're gonna be laughing about it
+tomorrow night, I promise.</b>
+
+386
+00:44:35,177 --> 00:44:36,720
+<b>Yeah.</b>
+
+387
+00:44:53,404 --> 00:44:56,198
+<b>Isn't that that guy
+from that prison break?</b>
+
+388
+00:44:56,323 --> 00:44:57,783
+<b>He fits.</b>
+
+389
+00:44:57,991 --> 00:45:00,577
+<b>Hey, you. Halt.</b>
+
+390
+00:45:01,328 --> 00:45:02,996
+<b>Cover the back.</b>
+
+391
+00:45:06,458 --> 00:45:08,502
+<b>Hon, be careful.</b>
+
+392
+00:45:57,009 --> 00:45:58,135
+<b>He's in the truck.</b>
+
+393
+00:45:58,385 --> 00:46:00,345
+<b>Round the front.</b>
+
+394
+00:46:13,400 --> 00:46:14,943
+<b>Fire.</b>
+
+395
+00:46:39,009 --> 00:46:40,594
+<b>People of the city of New York...</b>
+
+396
+00:46:40,803 --> 00:46:44,348
+<b>...I am here today
+because I fell 62 stories...</b>
+
+397
+00:46:44,431 --> 00:46:46,016
+<b>...and someone caught me.</b>
+
+398
+00:46:46,225 --> 00:46:49,228
+<b>Someone who never asks
+for anything in return.</b>
+
+399
+00:46:49,353 --> 00:46:53,190
+<b>Someone who doesn't even want us
+to know who he is.</b>
+
+400
+00:46:53,315 --> 00:46:54,358
+<b>Hey, M. J.</b>
+
+401
+00:46:54,441 --> 00:46:56,860
+<b>- Harry.
+- Hey.</b>
+
+402
+00:46:56,944 --> 00:46:58,404
+<b>Where's Pete?</b>
+
+403
+00:46:59,279 --> 00:47:01,323
+<b>- Taking somebody's picture, I guess.
+- Right.</b>
+
+404
+00:47:01,448 --> 00:47:04,368
+<b>I'm so happy to see you.
+You look so good, Harry.</b>
+
+405
+00:47:04,451 --> 00:47:05,828
+<b>I've never felt better.</b>
+
+406
+00:47:05,953 --> 00:47:08,122
+<b>It's a weird feeling
+not knowing who you are.</b>
+
+407
+00:47:08,205 --> 00:47:11,041
+<b>Bump on the head,
+I'm as free as a bird.</b>
+
+408
+00:47:11,250 --> 00:47:13,544
+<b>Will you bump me on the head?</b>
+
+409
+00:47:15,629 --> 00:47:17,923
+<b>Hey, Pete said you're in a play.</b>
+
+410
+00:47:18,132 --> 00:47:20,843
+<b>You came. You sent me flowers.</b>
+
+411
+00:47:20,968 --> 00:47:23,554
+<b>I did? I'll come again tonight.</b>
+
+412
+00:47:24,054 --> 00:47:27,182
+<b>You can't. I was let go.</b>
+
+413
+00:47:27,307 --> 00:47:29,184
+<b>What happened?</b>
+
+414
+00:47:30,644 --> 00:47:32,187
+<b>I wasn't very good.</b>
+
+415
+00:47:33,647 --> 00:47:35,733
+<b>You know, this is embarrassing...</b>
+
+416
+00:47:35,858 --> 00:47:38,152
+<b>...but I once wrote you a play
+in high school.</b>
+
+417
+00:47:38,235 --> 00:47:40,029
+<b>- You wrote me a play?
+- Yeah.</b>
+
+418
+00:47:40,154 --> 00:47:41,697
+<b>Harry, that's the sweetest thing.</b>
+
+419
+00:47:41,905 --> 00:47:45,242
+<b>So I ask you: When you're dropping
+without a parachute...</b>
+
+420
+00:47:45,242 --> 00:47:48,787
+<b>...or your store's being robbed
+or your house is on fire...</b>
+
+421
+00:47:48,912 --> 00:47:50,956
+<b>...who is it that breaks your fall...</b>
+
+422
+00:47:51,081 --> 00:47:54,835
+<b>...puts out the flames
+and saves your children?</b>
+
+423
+00:47:54,918 --> 00:47:56,587
+<b>Spider-Man.</b>
+
+424
+00:47:56,712 --> 00:47:57,963
+<b>They love me.</b>
+
+425
+00:47:58,088 --> 00:48:01,508
+<b>Then let's hear it
+for your one and only...</b>
+
+426
+00:48:01,508 --> 00:48:06,096
+<b>...friendly neighborhood
+Spider-Man.</b>
+
+427
+00:48:18,108 --> 00:48:21,403
+<b>Hey. What's up? All right.
+How you doing?</b>
+
+428
+00:48:22,863 --> 00:48:24,865
+<b>Shazam!</b>
+
+429
+00:48:26,867 --> 00:48:27,868
+<b>Hey, guys.</b>
+
+430
+00:48:28,118 --> 00:48:29,745
+<b>Spider-Man. Spider-Man.</b>
+
+431
+00:48:29,870 --> 00:48:32,039
+<b>Hey there. Hi.</b>
+
+432
+00:48:33,832 --> 00:48:35,167
+<b>- Kiss him.
+- Kiss him.</b>
+
+433
+00:48:35,292 --> 00:48:38,212
+<b>Kiss him. Kiss him. Kiss him.</b>
+
+434
+00:48:39,129 --> 00:48:40,714
+<b>Go ahead, lay one on me.</b>
+
+435
+00:48:40,798 --> 00:48:42,591
+<b>- Really?
+- Yeah, they'll love it.</b>
+
+436
+00:48:42,800 --> 00:48:44,343
+<b>- Kiss her.
+- Kiss him.</b>
+
+437
+00:48:44,468 --> 00:48:45,719
+<b>No, Spider-Man, no.</b>
+
+438
+00:48:45,803 --> 00:48:47,805
+<b>All right.</b>
+
+439
+00:48:56,480 --> 00:48:59,274
+<b>Hope Pete's getting a shot of this.</b>
+
+440
+00:49:04,697 --> 00:49:06,782
+<b>Hey, hey, are you okay?</b>
+
+441
+00:49:06,907 --> 00:49:08,242
+<b>Yeah, I'm fine.</b>
+
+442
+00:49:54,121 --> 00:49:56,206
+<b>Hey, man,
+we got something on the roof.</b>
+
+443
+00:50:18,812 --> 00:50:19,980
+<b>Jig's up, pal.</b>
+
+444
+00:50:20,814 --> 00:50:23,609
+<b>I don't wanna hurt you. Leave now.</b>
+
+445
+00:50:23,734 --> 00:50:27,071
+<b>I guess you haven't heard.
+I'm the sheriff around these parts.</b>
+
+446
+00:50:27,154 --> 00:50:28,322
+<b>Okay.</b>
+
+447
+00:51:06,902 --> 00:51:08,362
+<b>Help!</b>
+
+448
+00:51:42,896 --> 00:51:45,482
+<b>Where do all these guys come from?</b>
+
+449
+00:52:38,869 --> 00:52:40,329
+<b>I'm sorry, I don't speak...</b>
+
+450
+00:52:40,454 --> 00:52:43,874
+<b>But this is a French restaurant, non?</b>
+
+451
+00:52:46,710 --> 00:52:49,797
+<b>- Name, please?
+- Parker, Peter.</b>
+
+452
+00:52:53,675 --> 00:52:54,927
+<b>Here we are.</b>
+
+453
+00:52:55,135 --> 00:52:57,304
+<b>Table for two. Parker.</b>
+
+454
+00:52:58,472 --> 00:53:02,643
+<b>- Parker.
+- That is what I said: Parker.</b>
+
+455
+00:53:05,562 --> 00:53:06,897
+<b>I have a request.</b>
+
+456
+00:53:07,022 --> 00:53:11,610
+<b>My girlfriend will be coming
+and I have this ring.</b>
+
+457
+00:53:16,740 --> 00:53:18,367
+<b>Hello.</b>
+
+458
+00:53:18,492 --> 00:53:21,412
+<b>Oh, so you want to
+pop the question tonight, huh?</b>
+
+459
+00:53:21,495 --> 00:53:24,415
+<b>Yes, and I wanna do something
+very special.</b>
+
+460
+00:53:24,665 --> 00:53:27,126
+<b>I love it. Romance.</b>
+
+461
+00:53:27,251 --> 00:53:28,794
+<b>I am French.</b>
+
+462
+00:53:30,796 --> 00:53:34,341
+<b>When I signal you, if you'd bring some
+champagne with the ring...</b>
+
+463
+00:53:34,550 --> 00:53:36,927
+<b>- In the bottom of her glass?
+- Perfect.</b>
+
+464
+00:53:37,886 --> 00:53:40,180
+<b>Also, I thought at the same time...</b>
+
+465
+00:53:40,264 --> 00:53:43,934
+<b>...if the musicians
+would play this song...</b>
+
+466
+00:53:44,852 --> 00:53:47,062
+<b>Their favorite.</b>
+
+467
+00:53:47,271 --> 00:53:49,773
+<b>And take good care of the ring.</b>
+
+468
+00:53:49,982 --> 00:53:52,568
+<b>Oui, with my life, monsieur.</b>
+
+469
+00:53:55,529 --> 00:53:57,156
+<b>I like you.</b>
+
+470
+00:54:00,284 --> 00:54:01,869
+<b>Thank you.</b>
+
+471
+00:54:13,130 --> 00:54:15,299
+<b>Okay, so...</b>
+
+472
+00:54:15,841 --> 00:54:18,218
+<b>Oh, would you like
+some champagne?</b>
+
+473
+00:54:21,889 --> 00:54:23,974
+<b>How'd that get in there?</b>
+
+474
+00:54:25,225 --> 00:54:27,519
+<b>Oh, don't cry.</b>
+
+475
+00:54:32,524 --> 00:54:33,650
+<b>Hi.</b>
+
+476
+00:54:34,735 --> 00:54:36,779
+<b>Look at you. Wow, beautiful.</b>
+
+477
+00:54:36,904 --> 00:54:38,447
+<b>Thanks.</b>
+
+478
+00:54:42,743 --> 00:54:44,411
+<b>This place in your budget?</b>
+
+479
+00:54:44,495 --> 00:54:46,705
+<b>Oh, well, it's a special occasion.</b>
+
+480
+00:54:47,414 --> 00:54:48,999
+<b>You're on Broadway.</b>
+
+481
+00:54:50,334 --> 00:54:52,336
+<b>I don't feel like
+much of a star tonight.</b>
+
+482
+00:54:52,419 --> 00:54:55,881
+<b>Well, you are a star.
+And you've earned it.</b>
+
+483
+00:54:56,298 --> 00:54:57,549
+<b>Peter...</b>
+
+484
+00:54:59,009 --> 00:55:01,095
+<b>...you have no idea
+how I feel right now.</b>
+
+485
+00:55:01,178 --> 00:55:04,306
+<b>Oh, no, I know exactly how you feel.</b>
+
+486
+00:55:04,848 --> 00:55:09,311
+<b>Listen, I have been through this.
+It happens to me all the time.</b>
+
+487
+00:55:09,353 --> 00:55:11,313
+<b>I see Spider-Man posters
+in the window...</b>
+
+488
+00:55:11,438 --> 00:55:13,816
+<b>...kids running around
+with me on their sweaters...</b>
+
+489
+00:55:13,941 --> 00:55:15,567
+<b>Big Halloween item.</b>
+
+490
+00:55:15,693 --> 00:55:18,612
+<b>I don't know, I guess I've become
+something of an icon.</b>
+
+491
+00:55:18,696 --> 00:55:23,617
+<b>Like yesterday, they kept screaming,
+"Spider-Man, Spider-Man."</b>
+
+492
+00:55:24,368 --> 00:55:27,788
+<b>I don't know, you know, I mean,
+I'm thinking to myself:</b>
+
+493
+00:55:27,788 --> 00:55:31,834
+<b>"I'm just a nerdy kid from Queens.
+Do I deserve this?"</b>
+
+494
+00:55:33,961 --> 00:55:35,170
+<b>Hi, Pete.</b>
+
+495
+00:55:35,629 --> 00:55:36,630
+<b>Hi.</b>
+
+496
+00:55:44,471 --> 00:55:47,599
+<b>Hi, my parents and I
+were just having dinner here.</b>
+
+497
+00:55:47,599 --> 00:55:50,310
+<b>- Hello. I'm Gwen Stacy.
+- Hi.</b>
+
+498
+00:55:50,519 --> 00:55:52,896
+<b>This is Mary Jane Watson.</b>
+
+499
+00:55:54,273 --> 00:55:58,444
+<b>Oh, it's so nice to finally meet you.
+Pete talks about you all the time.</b>
+
+500
+00:56:00,320 --> 00:56:04,491
+<b>Gwen is my lab partner
+in Dr. Connors' class.</b>
+
+501
+00:56:04,491 --> 00:56:07,828
+<b>Pete's something of a genius.
+I'd be completely lost without him.</b>
+
+502
+00:56:07,828 --> 00:56:09,788
+<b>Which actually reminds me...</b>
+
+503
+00:56:09,913 --> 00:56:13,125
+<b>...Pete, if you've got a picture
+of my kiss with Spider-Man...</b>
+
+504
+00:56:13,250 --> 00:56:15,544
+<b>...could you bring it to class?</b>
+
+505
+00:56:15,669 --> 00:56:20,007
+<b>I'd really love it. For my portfolio.</b>
+
+506
+00:56:20,007 --> 00:56:23,052
+<b>After all,
+who gets kissed by Spider-Man, right?</b>
+
+507
+00:56:23,677 --> 00:56:25,554
+<b>I can't imagine.</b>
+
+508
+00:56:26,597 --> 00:56:29,391
+<b>Well, it was lovely to meet you.</b>
+
+509
+00:56:30,267 --> 00:56:31,810
+<b>- Good night.
+- Good night.</b>
+
+510
+00:56:43,072 --> 00:56:44,948
+<b>Oh, she's in my science class.</b>
+
+511
+00:56:45,157 --> 00:56:47,117
+<b>It's not her best subject.</b>
+
+512
+00:56:49,536 --> 00:56:50,579
+<b>What?</b>
+
+513
+00:56:50,788 --> 00:56:53,082
+<b>How come
+you never mentioned her?</b>
+
+514
+00:56:54,458 --> 00:56:56,919
+<b>She's your lab partner?</b>
+
+515
+00:56:57,044 --> 00:56:59,213
+<b>You saved her life?</b>
+
+516
+00:56:59,338 --> 00:57:00,672
+<b>She thinks you're a genius...</b>
+
+517
+00:57:00,798 --> 00:57:04,218
+<b>...and she had her
+polished fingernails all over you?</b>
+
+518
+00:57:04,343 --> 00:57:05,886
+<b>Or didn't you notice?</b>
+
+519
+00:57:07,471 --> 00:57:10,599
+<b>And she gave Spider-Man
+the key to the city.</b>
+
+520
+00:57:11,850 --> 00:57:13,936
+<b>I'll never forget that.</b>
+
+521
+00:57:17,481 --> 00:57:18,941
+<b>She's just a girl in my class.</b>
+
+522
+00:57:19,149 --> 00:57:20,901
+<b>Let me ask you something.</b>
+
+523
+00:57:21,151 --> 00:57:23,112
+<b>When you kissed her...</b>
+
+524
+00:57:23,237 --> 00:57:25,698
+<b>...who was kissing her?</b>
+
+525
+00:57:25,823 --> 00:57:28,617
+<b>Spider-Man or Peter?</b>
+
+526
+00:57:28,742 --> 00:57:31,745
+<b>- What do you mean?
+- You know exactly what I mean.</b>
+
+527
+00:57:31,870 --> 00:57:34,164
+<b>That was our kiss.</b>
+
+528
+00:57:34,248 --> 00:57:35,833
+<b>Why would you do that?</b>
+
+529
+00:57:36,667 --> 00:57:40,003
+<b>You must have known
+how it'd make me feel.</b>
+
+530
+00:57:40,337 --> 00:57:43,966
+<b>- Do you wanna push me away?
+- Push you away?</b>
+
+531
+00:57:44,091 --> 00:57:46,677
+<b>Why would I wanna push you away?
+I love you.</b>
+
+532
+00:57:46,677 --> 00:57:50,848
+<b>You're my girlfriend.
+She's a girl in my class, M. J.</b>
+
+533
+00:57:52,182 --> 00:57:54,393
+<b>I don't feel well.
+I'm sorry, I have to go.</b>
+
+534
+00:57:54,518 --> 00:57:55,519
+<b>No, w...</b>
+
+535
+00:57:57,187 --> 00:58:00,232
+<b>- Where are you going?
+- Please, don't follow me.</b>
+
+536
+00:58:03,444 --> 00:58:05,029
+<b>Here we are.</b>
+
+537
+00:58:41,398 --> 00:58:44,526
+<b>Hi, it's M. J.
+Sing your song at the beep.</b>
+
+538
+00:58:45,903 --> 00:58:47,363
+<b>Hello.</b>
+
+539
+00:58:50,074 --> 00:58:53,827
+<b>I wish you'd pick up the phone.
+I don't know what's going on or...</b>
+
+540
+00:58:53,911 --> 00:58:56,955
+<b>I don't know if you
+got the messages or what.</b>
+
+541
+00:58:57,373 --> 00:58:58,499
+<b>But...</b>
+
+542
+00:58:59,875 --> 00:59:02,586
+<b>... I just wanna talk to you.</b>
+
+543
+00:59:03,837 --> 00:59:06,215
+<b>Okay, call me. Bye.</b>
+
+544
+00:59:17,518 --> 00:59:19,061
+<b>- Hello?
+- Mr. Parker?</b>
+
+545
+00:59:19,269 --> 00:59:20,312
+<b>Yeah?</b>
+
+546
+00:59:20,521 --> 00:59:23,023
+<b>This is Detective Neil Garrett
+from the 32nd Precinct.</b>
+
+547
+00:59:23,107 --> 00:59:24,983
+<b>I'm calling on behalf
+of Captain Stacy.</b>
+
+548
+00:59:25,109 --> 00:59:27,611
+<b>He would like you
+to come down to the station.</b>
+
+549
+00:59:27,695 --> 00:59:31,240
+<b>Originally, we thought that this man,
+Dennis Carradine...</b>
+
+550
+00:59:31,365 --> 00:59:33,325
+<b>...was your husband's killer.</b>
+
+551
+00:59:33,659 --> 00:59:35,327
+<b>We were wrong.</b>
+
+552
+00:59:35,869 --> 00:59:36,870
+<b>What?</b>
+
+553
+00:59:36,995 --> 00:59:39,915
+<b>Turns out Mr. Carradine
+was only an accomplice.</b>
+
+554
+00:59:40,040 --> 00:59:42,501
+<b>The actual killer is still at large.</b>
+
+555
+00:59:42,626 --> 00:59:44,378
+<b>What are you talking about?</b>
+
+556
+00:59:44,503 --> 00:59:47,005
+<b>This is the man
+who killed your husband.</b>
+
+557
+00:59:51,802 --> 00:59:53,053
+<b>His name is Flint Marko.</b>
+
+558
+00:59:53,262 --> 00:59:56,390
+<b>He's a small-time crook
+who's been in and out of prison.</b>
+
+559
+00:59:56,390 --> 00:59:57,850
+<b>You got this wrong.</b>
+
+560
+00:59:58,058 --> 00:59:59,309
+<b>Two days ago he escaped.</b>
+
+561
+01:00:00,144 --> 01:00:02,855
+<b>Evidently, he confessed his guilt
+to a cellmate...</b>
+
+562
+01:00:02,855 --> 01:00:06,817
+<b>...and we have a couple of witnesses
+who will corroborate the story.</b>
+
+563
+01:00:18,912 --> 01:00:21,498
+<b>No, wait, son.
+You don't wanna do this.</b>
+
+564
+01:00:24,752 --> 01:00:26,003
+<b>No!</b>
+
+565
+01:00:34,970 --> 01:00:37,681
+<b>Hey, get in! What are you doing?</b>
+
+566
+01:00:56,450 --> 01:00:58,327
+<b>Would you put these photos away,
+please?</b>
+
+567
+01:00:58,535 --> 01:01:00,913
+<b>I'm sorry, Mrs. Parker.
+I know this isn't easy...</b>
+
+568
+01:01:01,038 --> 01:01:03,540
+<b>...but, please, be patient with us.</b>
+
+569
+01:01:03,624 --> 01:01:05,501
+<b>We're doing our job.
+We will catch him.</b>
+
+570
+01:01:05,626 --> 01:01:07,294
+<b>No, you're not doing your job.</b>
+
+571
+01:01:07,378 --> 01:01:10,297
+<b>I watched my uncle die,
+and we chased down the wrong man.</b>
+
+572
+01:01:10,422 --> 01:01:13,550
+<b>Now you're telling me you had
+suspicions for two years? Witnesses?</b>
+
+573
+01:01:13,634 --> 01:01:15,844
+<b>- Why weren't we told about this?
+- Settle down.</b>
+
+574
+01:01:16,053 --> 01:01:17,721
+<b>I have no intention of settling down.</b>
+
+575
+01:01:17,930 --> 01:01:20,516
+<b>This man killed my uncle,
+and he's still out there!</b>
+
+576
+01:01:29,400 --> 01:01:30,943
+<b>L-20 Parkway.</b>
+
+577
+01:01:31,068 --> 01:01:33,570
+<b>All officers in the vicinity,
+please report.</b>
+
+578
+01:01:33,904 --> 01:01:35,447
+<b>We have an abandoned vehicle...</b>
+
+579
+01:01:35,656 --> 01:01:37,950
+<b>... and an elderly man
+in the middle of the street.</b>
+
+580
+01:01:38,075 --> 01:01:40,452
+<b>Sorry, Wabash Avenue.</b>
+
+581
+01:01:43,372 --> 01:01:44,623
+<b>Peter, it's M. J.</b>
+
+582
+01:01:45,999 --> 01:01:48,043
+<b>I'm not here about
+what happened at dinner.</b>
+
+583
+01:01:48,252 --> 01:01:49,420
+<b>Just please open up.</b>
+
+584
+01:01:57,010 --> 01:01:59,638
+<b>Aunt May called me.
+She told me about what happened.</b>
+
+585
+01:01:59,638 --> 01:02:01,306
+<b>She's worried about you.</b>
+
+586
+01:02:02,141 --> 01:02:03,600
+<b>I'm worried about you.</b>
+
+587
+01:02:03,684 --> 01:02:05,144
+<b>Don't be. I'm fine.</b>
+
+588
+01:02:05,769 --> 01:02:07,771
+<b>I don't want you
+to do something stupid.</b>
+
+589
+01:02:07,855 --> 01:02:10,357
+<b>Like try to find my uncle's killer?</b>
+
+590
+01:02:10,482 --> 01:02:12,985
+<b>And do something you'll regret.</b>
+
+591
+01:02:13,110 --> 01:02:16,113
+<b>Like with that other guy.</b>
+
+592
+01:02:16,739 --> 01:02:19,950
+<b>He had a gun on me. I made a move
+and he fell. I told you that.</b>
+
+593
+01:02:20,075 --> 01:02:23,287
+<b>- I'm not accusing you of anything.
+- 10-22, auto at 556...</b>
+
+594
+01:02:23,537 --> 01:02:27,583
+<b>- Will you turn that thing off?
+- Crossing 5-6 to 5-7.</b>
+
+595
+01:02:27,583 --> 01:02:32,588
+<b>Yeah, Central, this is Car 3-9
+responding to your Sixth Avenue call.</b>
+
+596
+01:02:32,588 --> 01:02:36,008
+<b>Peter, I'm here
+because I care about you.</b>
+
+597
+01:02:36,133 --> 01:02:39,762
+<b>And I know that you made a mistake
+and that you feel guilty...</b>
+
+598
+01:02:39,803 --> 01:02:43,432
+<b>...but I wanna be here for you.</b>
+
+599
+01:02:43,432 --> 01:02:46,769
+<b>Okay. I get it. Thank you.</b>
+
+600
+01:02:46,769 --> 01:02:49,480
+<b>But I'm fine. I...</b>
+
+601
+01:02:49,563 --> 01:02:51,440
+<b>I don't need your help.</b>
+
+602
+01:02:58,864 --> 01:03:01,784
+<b>Everybody needs help sometimes,
+Peter.</b>
+
+603
+01:03:01,909 --> 01:03:03,744
+<b>Even Spider-Man.</b>
+
+604
+01:03:12,002 --> 01:03:14,713
+<b>Ninety X-ray, 98.</b>
+
+605
+01:03:16,382 --> 01:03:21,261
+<b>Two-four King, respond to 1031
+at 642 Madison Ave.</b>
+
+606
+01:03:21,261 --> 01:03:26,392
+<b>One-three Thomas, respond to 1020
+at 540 East 107.</b>
+
+607
+01:03:26,392 --> 01:03:30,354
+<b>Male complainant inside apartment.
+May be on first floor.</b>
+
+608
+01:03:33,691 --> 01:03:37,653
+<b>Three Henry 10- 11,
+I have a residence. 73818...</b>
+
+609
+01:04:37,921 --> 01:04:39,673
+<b>Don't hurt me.
+Just give me a chance!</b>
+
+610
+01:04:39,798 --> 01:04:42,801
+<b>What about my uncle?
+Did you give him a chance?</b>
+
+611
+01:04:42,926 --> 01:04:44,053
+<b>Did you?</b>
+
+612
+01:04:56,190 --> 01:04:58,025
+<b>Where am I?</b>
+
+613
+01:05:14,291 --> 01:05:15,959
+<b>What is this?</b>
+
+614
+01:05:18,170 --> 01:05:19,838
+<b>I feel...</b>
+
+615
+01:05:24,426 --> 01:05:26,720
+<b>This feels good.</b>
+
+616
+01:05:38,732 --> 01:05:40,484
+<b>Yeah!</b>
+
+617
+01:05:56,667 --> 01:05:58,293
+<b>This is something else.</b>
+
+618
+01:06:00,421 --> 01:06:01,630
+<b>What do you think?</b>
+
+619
+01:06:01,755 --> 01:06:03,924
+<b>I've never seen anything like it.</b>
+
+620
+01:06:04,049 --> 01:06:05,926
+<b>I'm a physicist, not a biologist...</b>
+
+621
+01:06:06,135 --> 01:06:08,929
+<b>...but let me look at it in the morning.
+Run some tests.</b>
+
+622
+01:06:09,054 --> 01:06:10,097
+<b>Can we do that now?</b>
+
+623
+01:06:15,102 --> 01:06:17,396
+<b>It seems to like you.</b>
+
+624
+01:06:19,773 --> 01:06:22,484
+<b>- Don't let any of that get on you.
+- Why not?</b>
+
+625
+01:06:22,609 --> 01:06:25,195
+<b>It has the characteristics
+of a symbiote...</b>
+
+626
+01:06:25,320 --> 01:06:28,532
+<b>...which needs to bond
+to a host to survive.</b>
+
+627
+01:06:28,657 --> 01:06:32,411
+<b>And sometimes these things in nature,
+when they bind...</b>
+
+628
+01:06:32,411 --> 01:06:34,913
+<b>...they can be hard to unbind.</b>
+
+629
+01:06:36,165 --> 01:06:40,127
+<b>Bank robbery in progress,
+First Eastern Bank at 202 Bismark.</b>
+
+630
+01:06:40,210 --> 01:06:42,838
+<b>Another sandstorm
+is reported in the vicinity.</b>
+
+631
+01:06:42,838 --> 01:06:45,966
+<b>- All cars proceed with caution.
+- Marko.</b>
+
+632
+01:07:40,938 --> 01:07:43,315
+<b>Buddy, love the new outfit.</b>
+
+633
+01:07:43,440 --> 01:07:45,484
+<b>This is exactly what I need
+to scoop Parker.</b>
+
+634
+01:07:45,609 --> 01:07:47,486
+<b>Give some of that web action.</b>
+
+635
+01:07:49,154 --> 01:07:51,323
+<b>See you, chump.</b>
+
+636
+01:07:52,908 --> 01:07:54,660
+<b>What the hell?</b>
+
+637
+01:08:36,994 --> 01:08:38,162
+<b>Flint Marko.</b>
+
+638
+01:08:40,998 --> 01:08:44,001
+<b>- What do you want from me?
+- Remember Ben Parker?</b>
+
+639
+01:08:44,626 --> 01:08:47,755
+<b>The old man you shot down
+in cold blood?</b>
+
+640
+01:08:49,214 --> 01:08:50,883
+<b>What does it matter to you, anyway?</b>
+
+641
+01:08:52,676 --> 01:08:54,094
+<b>Everything!</b>
+
+642
+01:09:31,757 --> 01:09:34,134
+<b>It's time to pay, Marko!</b>
+
+643
+01:10:44,121 --> 01:10:46,206
+<b>Good riddance.</b>
+
+644
+01:11:06,977 --> 01:11:09,646
+<b>- Rent.
+- Not now.</b>
+
+645
+01:11:09,980 --> 01:11:12,691
+<b>Listen, it's a free country.
+It's not rent-free country.</b>
+
+646
+01:11:13,108 --> 01:11:15,069
+<b>- Leave me alone.
+- Give me rent.</b>
+
+647
+01:11:15,194 --> 01:11:18,197
+<b>You'll get your rent
+when you fix this damn door!</b>
+
+648
+01:11:29,249 --> 01:11:31,251
+<b>That wasn't cool.</b>
+
+649
+01:11:31,543 --> 01:11:35,714
+<b>He is a good boy.</b>
+
+650
+01:11:37,424 --> 01:11:39,385
+<b>He must be in some kind of trouble.</b>
+
+651
+01:12:27,349 --> 01:12:30,769
+<b>Flint Marko,
+the man who killed Uncle Ben...</b>
+
+652
+01:12:31,645 --> 01:12:34,106
+<b>...he was killed last night.</b>
+
+653
+01:12:34,231 --> 01:12:35,691
+<b>Oh, my.</b>
+
+654
+01:12:36,525 --> 01:12:37,443
+<b>What happened?</b>
+
+655
+01:12:38,193 --> 01:12:39,653
+<b>Spider-Man killed him.</b>
+
+656
+01:12:41,530 --> 01:12:42,656
+<b>Spider-Man?</b>
+
+657
+01:12:43,615 --> 01:12:45,701
+<b>I don't understand.</b>
+
+658
+01:12:45,826 --> 01:12:48,620
+<b>Spider-Man doesn't kill people.</b>
+
+659
+01:12:50,080 --> 01:12:52,041
+<b>What happened?</b>
+
+660
+01:12:54,668 --> 01:12:56,420
+<b>I...</b>
+
+661
+01:12:57,254 --> 01:12:58,630
+<b>He...</b>
+
+662
+01:12:59,256 --> 01:13:01,008
+<b>He was...</b>
+
+663
+01:13:05,095 --> 01:13:08,098
+<b>I thought that you'd feel...</b>
+
+664
+01:13:10,517 --> 01:13:12,478
+<b>He deserved it, didn't he?</b>
+
+665
+01:13:13,228 --> 01:13:14,897
+<b>I don't think it's for us to say...</b>
+
+666
+01:13:15,105 --> 01:13:19,276
+<b>...whether a person deserves
+to live or die.</b>
+
+667
+01:13:19,693 --> 01:13:22,488
+<b>But, Aunt May, he killed Uncle Ben.</b>
+
+668
+01:13:22,613 --> 01:13:25,115
+<b>Uncle Ben meant the world to us.</b>
+
+669
+01:13:25,199 --> 01:13:28,744
+<b>But he wouldn't want us living
+one second...</b>
+
+670
+01:13:28,869 --> 01:13:31,580
+<b>...with revenge in our hearts.</b>
+
+671
+01:13:33,999 --> 01:13:36,460
+<b>It's like a poison. It can...</b>
+
+672
+01:13:37,211 --> 01:13:39,296
+<b>It can take you over.</b>
+
+673
+01:13:41,173 --> 01:13:46,387
+<b>Before you know it,
+turn us into something ugly.</b>
+
+674
+01:14:00,150 --> 01:14:02,945
+<b>- He said it was a good idea.
+- Yeah.</b>
+
+675
+01:14:47,906 --> 01:14:49,033
+<b>Hello?</b>
+
+676
+01:14:49,158 --> 01:14:50,701
+<b>Hey, Harry, it's M. J.</b>
+
+677
+01:14:50,826 --> 01:14:52,077
+<b>Hi.</b>
+
+678
+01:14:52,202 --> 01:14:53,620
+<b>I need some company.</b>
+
+679
+01:14:53,746 --> 01:14:56,248
+<b>Are you doing anything?
+Can I stop by?</b>
+
+680
+01:14:56,373 --> 01:14:58,417
+<b>Yeah, sure, come on over.</b>
+
+681
+01:14:58,542 --> 01:15:00,919
+<b>Okay. Are you sure it's okay?</b>
+
+682
+01:15:01,045 --> 01:15:03,630
+<b>No, I'm not doing anything.
+Please, come over.</b>
+
+683
+01:15:03,881 --> 01:15:06,550
+<b>- Okay, I'll see you soon.
+- Great.</b>
+
+684
+01:15:06,675 --> 01:15:08,135
+<b>Bye.</b>
+
+685
+01:15:09,053 --> 01:15:11,346
+<b>- Bernard.
+- Yes, Mr. Osborn?</b>
+
+686
+01:15:11,472 --> 01:15:13,766
+<b>We're having a guest.
+Can you get some food?</b>
+
+687
+01:15:13,891 --> 01:15:16,060
+<b>- A guest?
+- Yeah, a guest.</b>
+
+688
+01:15:16,185 --> 01:15:19,688
+<b>- A "guest" guest?
+- Will you just get some food?</b>
+
+689
+01:15:19,813 --> 01:15:21,482
+<b>Right away, sir.</b>
+
+690
+01:15:38,248 --> 01:15:41,293
+<b>Hey, Mr. Ditkovitch.</b>
+
+691
+01:15:41,794 --> 01:15:44,713
+<b>- An orange?
+- No, thanks.</b>
+
+692
+01:15:44,838 --> 01:15:48,801
+<b>Listen, I'm really sorry
+for what happened earlier.</b>
+
+693
+01:15:48,801 --> 01:15:52,346
+<b>I shouldn't have yelled about that door.
+It was nothing to be angry about.</b>
+
+694
+01:15:52,429 --> 01:15:54,306
+<b>It's no big deal.</b>
+
+695
+01:15:54,515 --> 01:15:58,686
+<b>But if you feel that bad about it,
+you can buy me pizza sometime.</b>
+
+696
+01:15:58,811 --> 01:16:01,939
+<b>- Today's good.
+- Okay.</b>
+
+697
+01:16:02,064 --> 01:16:04,858
+<b>- Have problem with the phone?
+- No, no. I was just...</b>
+
+698
+01:16:04,942 --> 01:16:07,027
+<b>Well, I was trying
+to figure out what to say.</b>
+
+699
+01:16:07,152 --> 01:16:10,989
+<b>If it's a woman you're calling,
+then you say:</b>
+
+700
+01:16:10,989 --> 01:16:14,535
+<b>"You're a good woman.
+I am good man."</b>
+
+701
+01:16:19,540 --> 01:16:21,417
+<b>- Hi, Pete.
+- Hi.</b>
+
+702
+01:16:21,542 --> 01:16:22,793
+<b>He's calling a woman.</b>
+
+703
+01:16:23,001 --> 01:16:24,878
+<b>Mary Jane?
+I think that would be so good...</b>
+
+704
+01:16:25,087 --> 01:16:29,133
+<b>This is none of your business.
+Go. Go. Call.</b>
+
+705
+01:16:30,718 --> 01:16:33,429
+<b>- You should call.
+- Thanks.</b>
+
+706
+01:16:35,806 --> 01:16:38,100
+<b>- Bye.
+- Bye.</b>
+
+707
+01:16:51,905 --> 01:16:53,032
+<b>Hi.</b>
+
+708
+01:16:56,160 --> 01:16:58,662
+<b>- You hungry?
+- Yeah.</b>
+
+709
+01:16:59,705 --> 01:17:01,165
+<b>Come on.</b>
+
+710
+01:17:05,335 --> 01:17:07,713
+<b>- I hope you like peppers.
+- I love them.</b>
+
+711
+01:17:31,612 --> 01:17:33,489
+<b>No. Please.</b>
+
+712
+01:17:44,750 --> 01:17:46,835
+<b>Oh, the butter.</b>
+
+713
+01:17:56,970 --> 01:17:58,597
+<b>Beautiful.</b>
+
+714
+01:18:03,102 --> 01:18:04,853
+<b>Check this out.</b>
+
+715
+01:18:11,944 --> 01:18:14,363
+<b>Well, we can use that part.</b>
+
+716
+01:18:16,031 --> 01:18:18,117
+<b>You've been dreaming.</b>
+
+717
+01:18:18,200 --> 01:18:21,453
+<b>Nothing like a little self-deception
+to get you through the night.</b>
+
+718
+01:18:21,578 --> 01:18:24,456
+<b>- All right.
+- When did you write that?</b>
+
+719
+01:18:24,581 --> 01:18:27,501
+<b>- Twelfth grade.
+- It's intense.</b>
+
+720
+01:18:27,501 --> 01:18:31,338
+<b>- So you want the part?
+- I'd love to be in your play.</b>
+
+721
+01:18:31,463 --> 01:18:32,923
+<b>It's yours.</b>
+
+722
+01:18:35,008 --> 01:18:38,554
+<b>You know, there's not even a scar.</b>
+
+723
+01:18:40,014 --> 01:18:41,682
+<b>Barely.</b>
+
+724
+01:18:59,199 --> 01:19:00,659
+<b>- Sorry.
+- Me too.</b>
+
+725
+01:19:00,868 --> 01:19:05,039
+<b>- I didn't mean to do that.
+- No, it's okay. Please, forgive me.</b>
+
+726
+01:19:06,373 --> 01:19:08,042
+<b>Mary Jane.</b>
+
+727
+01:19:08,792 --> 01:19:10,669
+<b>Mary Jane.</b>
+
+728
+01:19:11,378 --> 01:19:14,214
+<b>- Mary Jane, please.
+- I'm sorry.</b>
+
+729
+01:19:14,506 --> 01:19:15,883
+<b>Just...</b>
+
+730
+01:19:27,978 --> 01:19:31,523
+<b>You've taken your eye off the ball.</b>
+
+731
+01:19:37,654 --> 01:19:39,114
+<b>Harry.</b>
+
+732
+01:19:52,169 --> 01:19:53,420
+<b>What have you done?</b>
+
+733
+01:19:56,131 --> 01:19:57,591
+<b>Avenge me!</b>
+
+734
+01:20:00,844 --> 01:20:04,973
+<b>- My father, he died, right?
+- Yeah.</b>
+
+735
+01:20:05,015 --> 01:20:07,267
+<b>Just wish I could remember
+more about him.</b>
+
+736
+01:20:07,393 --> 01:20:10,521
+<b>Well, he loved you.
+That's the main thing.</b>
+
+737
+01:20:10,604 --> 01:20:13,857
+<b>I swear on my father's grave,
+Spider-Man will pay.</b>
+
+738
+01:20:14,608 --> 01:20:16,360
+<b>Harry.</b>
+
+739
+01:20:18,028 --> 01:20:19,988
+<b>Remember me?</b>
+
+740
+01:20:21,782 --> 01:20:24,910
+<b>Yes, Father. I remember.</b>
+
+741
+01:20:24,910 --> 01:20:28,247
+<b>I was right about her. About Peter.</b>
+
+742
+01:20:28,372 --> 01:20:30,624
+<b>About everything.</b>
+
+743
+01:20:32,000 --> 01:20:35,963
+<b>You know what you must do.
+Make him suffer.</b>
+
+744
+01:20:35,963 --> 01:20:38,340
+<b>Make him wish he were dead.</b>
+
+745
+01:20:38,465 --> 01:20:42,511
+<b>First, we attack his heart.</b>
+
+746
+01:20:52,521 --> 01:20:55,649
+<b>Hi, it's me.
+Sing your song at the beep.</b>
+
+747
+01:20:55,774 --> 01:20:58,694
+<b>Hey, M. J. It's Peter.</b>
+
+748
+01:21:00,571 --> 01:21:03,490
+<b>I wanna talk to you about last night.</b>
+
+749
+01:21:04,241 --> 01:21:06,410
+<b>I don't know what I was thinking.</b>
+
+750
+01:21:06,535 --> 01:21:11,498
+<b>I know you were just there
+to help and I...</b>
+
+751
+01:21:11,498 --> 01:21:14,626
+<b>I don't know. I wanna see you.</b>
+
+752
+01:21:19,048 --> 01:21:22,885
+<b>If you want Peter to live,
+you're gonna do something for me.</b>
+
+753
+01:21:27,056 --> 01:21:28,599
+<b>- Yeah?
+- It's Ursula.</b>
+
+754
+01:21:28,724 --> 01:21:30,476
+<b>Come in.</b>
+
+755
+01:21:39,151 --> 01:21:40,903
+<b>- Hi, Pete.
+- Hi.</b>
+
+756
+01:21:41,028 --> 01:21:43,322
+<b>There's a phone call for you.</b>
+
+757
+01:21:44,573 --> 01:21:46,241
+<b>It's Mary Jane, she called back.</b>
+
+758
+01:21:46,533 --> 01:21:48,535
+<b>- Really?
+- Yeah.</b>
+
+759
+01:21:50,204 --> 01:21:55,834
+<b>- I put the phone on top of the thing.
+- Thanks. Okay.</b>
+
+760
+01:21:57,795 --> 01:21:59,380
+<b>- Hey.
+- Hi.</b>
+
+761
+01:21:59,588 --> 01:22:02,299
+<b>Oh, I'm so glad you called.
+I've been trying to...</b>
+
+762
+01:22:02,299 --> 01:22:05,219
+<b>- Can you meet me?
+- You bet.</b>
+
+763
+01:22:05,302 --> 01:22:07,805
+<b>- Now?
+- Okay. Where?</b>
+
+764
+01:22:07,930 --> 01:22:09,807
+<b>At the bridge in the park.</b>
+
+765
+01:22:09,890 --> 01:22:11,266
+<b>- On my way.
+- Okay.</b>
+
+766
+01:22:11,475 --> 01:22:14,478
+<b>Okay. Hey. I love you.</b>
+
+767
+01:22:33,789 --> 01:22:35,874
+<b>You look beautiful.</b>
+
+768
+01:22:37,126 --> 01:22:38,669
+<b>Peonies.</b>
+
+769
+01:22:41,088 --> 01:22:43,799
+<b>- You okay?
+- No.</b>
+
+770
+01:22:44,758 --> 01:22:46,802
+<b>There's something
+I have to tell you, Pete.</b>
+
+771
+01:22:47,344 --> 01:22:48,804
+<b>Okay.</b>
+
+772
+01:22:50,055 --> 01:22:51,724
+<b>It's not working.</b>
+
+773
+01:22:52,766 --> 01:22:54,435
+<b>You and me.</b>
+
+774
+01:22:55,561 --> 01:22:56,937
+<b>What?</b>
+
+775
+01:22:57,271 --> 01:22:59,648
+<b>I don't wanna see you anymore.</b>
+
+776
+01:23:00,190 --> 01:23:02,026
+<b>What are you talking about?</b>
+
+777
+01:23:02,151 --> 01:23:04,236
+<b>I don't know.</b>
+
+778
+01:23:06,947 --> 01:23:08,699
+<b>I'm lonely.</b>
+
+779
+01:23:09,950 --> 01:23:12,244
+<b>You aren't there for me.</b>
+
+780
+01:23:13,287 --> 01:23:15,789
+<b>I can't do this.</b>
+
+781
+01:23:15,914 --> 01:23:21,837
+<b>- It's over.
+- No. Please. Please don't say that.</b>
+
+782
+01:23:22,171 --> 01:23:25,090
+<b>I know I've been selfish,
+but I can do better. I can change.</b>
+
+783
+01:23:25,090 --> 01:23:28,927
+<b>- It's not that simple.
+- We love each other. I love you.</b>
+
+784
+01:23:29,053 --> 01:23:31,138
+<b>We have problems.
+When people have problems...</b>
+
+785
+01:23:31,347 --> 01:23:34,141
+<b>...they work it out.
+They talk to each other.</b>
+
+786
+01:23:39,146 --> 01:23:40,939
+<b>Look, you see?</b>
+
+787
+01:23:41,982 --> 01:23:44,068
+<b>You know what this is?</b>
+
+788
+01:23:45,319 --> 01:23:48,530
+<b>- You know what I want for us?
+- There's someone else.</b>
+
+789
+01:23:48,655 --> 01:23:51,575
+<b>I've fallen in love
+with someone else.</b>
+
+790
+01:24:13,180 --> 01:24:14,723
+<b>Bravo.</b>
+
+791
+01:24:24,733 --> 01:24:29,196
+<b>She says that she's lonely,
+that I'm not there for her.</b>
+
+792
+01:24:30,572 --> 01:24:32,866
+<b>There's another guy.</b>
+
+793
+01:24:35,786 --> 01:24:37,663
+<b>Well, how you holding up?</b>
+
+794
+01:24:38,288 --> 01:24:40,040
+<b>Not good.</b>
+
+795
+01:24:42,126 --> 01:24:45,045
+<b>Harry, I was gonna propose to her.</b>
+
+796
+01:24:45,587 --> 01:24:47,256
+<b>Really?</b>
+
+797
+01:24:49,466 --> 01:24:53,512
+<b>Well, she's been going through
+a tough time lately. Career.</b>
+
+798
+01:24:53,512 --> 01:24:56,432
+<b>I mean, a singing waitress
+at a jazz club?</b>
+
+799
+01:24:56,515 --> 01:24:59,643
+<b>It's not exactly
+what she had in mind for herself.</b>
+
+800
+01:24:59,768 --> 01:25:02,896
+<b>Singing waitress? What are you...?
+What are you talking about?</b>
+
+801
+01:25:02,980 --> 01:25:07,568
+<b>Well, she was fired from the show.
+Didn't she tell you?</b>
+
+802
+01:25:07,901 --> 01:25:09,236
+<b>She was fired?</b>
+
+803
+01:25:10,904 --> 01:25:16,243
+<b>She was fired and she told you?
+She didn't tell me?</b>
+
+804
+01:25:17,703 --> 01:25:20,205
+<b>Well, that's why
+I asked you here, Pete.</b>
+
+805
+01:25:21,457 --> 01:25:23,542
+<b>I'm the other guy.</b>
+
+806
+01:25:25,335 --> 01:25:27,087
+<b>What?</b>
+
+807
+01:25:27,212 --> 01:25:30,215
+<b>Look, she came to me
+one afternoon, troubled.</b>
+
+808
+01:25:30,340 --> 01:25:33,344
+<b>She needed someone
+and I was there for her.</b>
+
+809
+01:25:34,178 --> 01:25:37,306
+<b>I've always loved her, Pete.
+You know that.</b>
+
+810
+01:25:37,431 --> 01:25:39,183
+<b>It just...</b>
+
+811
+01:25:39,391 --> 01:25:41,477
+<b>...started.</b>
+
+812
+01:25:48,776 --> 01:25:52,112
+<b>I don't believe this.
+I don't... I don't believe you.</b>
+
+813
+01:25:52,237 --> 01:25:54,615
+<b>Look, I'm really sorry.</b>
+
+814
+01:25:56,075 --> 01:25:58,452
+<b>I just thought you should know.</b>
+
+815
+01:26:06,627 --> 01:26:10,130
+<b>- Can I warm you up?
+- Yes, please.</b>
+
+816
+01:26:11,715 --> 01:26:13,175
+<b>How's the pie?</b>
+
+817
+01:26:14,218 --> 01:26:15,886
+<b>So good.</b>
+
+818
+01:27:19,199 --> 01:27:21,035
+<b>Would you like a drink?</b>
+
+819
+01:27:23,871 --> 01:27:26,373
+<b>I'm sorry. What was I thinking?</b>
+
+820
+01:27:26,582 --> 01:27:29,293
+<b>Bad for the public image, right,
+Mr. Key-to-the-City?</b>
+
+821
+01:27:29,293 --> 01:27:30,544
+<b>What did you do to her?</b>
+
+822
+01:27:32,713 --> 01:27:35,549
+<b>I did what you failed to do.
+I was there for her.</b>
+
+823
+01:27:36,383 --> 01:27:38,469
+<b>Mary Jane and I,
+we understand each other.</b>
+
+824
+01:27:38,594 --> 01:27:43,766
+<b>- She doesn't know what you are.
+- Peter, she knows me very well.</b>
+
+825
+01:27:43,807 --> 01:27:48,062
+<b>And when she kissed me,
+it was just like she used to kiss me.</b>
+
+826
+01:27:48,395 --> 01:27:50,147
+<b>That taste...</b>
+
+827
+01:27:51,815 --> 01:27:53,067
+<b>Strawberries.</b>
+
+828
+01:28:28,727 --> 01:28:30,270
+<b>How'd you like that, Spidey?</b>
+
+829
+01:28:34,149 --> 01:28:35,401
+<b>That all you got?</b>
+
+830
+01:28:42,700 --> 01:28:45,285
+<b>- Stings, doesn't it?
+- I protected you in high school.</b>
+
+831
+01:28:45,411 --> 01:28:47,705
+<b>Now I'm gonna kick your little ass.</b>
+
+832
+01:29:34,918 --> 01:29:36,920
+<b>Gonna kill me
+like you killed my father?</b>
+
+833
+01:29:37,004 --> 01:29:39,214
+<b>I'm done trying to convince you.</b>
+
+834
+01:29:40,049 --> 01:29:43,594
+<b>You took him from me. He loved me.</b>
+
+835
+01:29:43,594 --> 01:29:47,639
+<b>No. He despised you.</b>
+
+836
+01:29:47,765 --> 01:29:50,059
+<b>You were an embarrassment to him.</b>
+
+837
+01:29:53,687 --> 01:29:57,649
+<b>Look at little Goblin Junior.
+Gonna cry?</b>
+
+838
+01:30:34,353 --> 01:30:36,647
+<b>Spider-Man used to
+make me feel safe.</b>
+
+839
+01:30:36,772 --> 01:30:38,857
+<b>Now I'm afraid
+to walk home from work.</b>
+
+840
+01:30:38,857 --> 01:30:42,611
+<b>- My son thought the world of this guy.
+- I have a daughter, loves Spider-Man.</b>
+
+841
+01:30:42,820 --> 01:30:46,156
+<b>- Who's she to look up to?
+- This is the guy they gave the key to?</b>
+
+842
+01:30:47,324 --> 01:30:50,202
+<b>I'm gonna put some dirt in your eye.</b>
+
+843
+01:30:52,204 --> 01:30:55,416
+<b>- Cheers to the new staff photographer.
+- Hey, I just got lucky.</b>
+
+844
+01:30:55,541 --> 01:30:57,209
+<b>This is so wonderful for you.</b>
+
+845
+01:30:57,418 --> 01:31:01,171
+<b>Well, you might wanna tell J. J.
+To make a little more wall space.</b>
+
+846
+01:31:06,176 --> 01:31:09,722
+<b>Wow, good morning.
+It's a beautiful day, huh?</b>
+
+847
+01:31:09,722 --> 01:31:12,307
+<b>What was it you said?
+I'll never get that picture?</b>
+
+848
+01:31:13,058 --> 01:31:14,810
+<b>There's your hero.</b>
+
+849
+01:31:16,270 --> 01:31:19,940
+<b>- I never thought he'd really do that.
+- See? Right there.</b>
+
+850
+01:31:19,940 --> 01:31:22,651
+<b>You made a judgment call.
+You gotta see it as it is.</b>
+
+851
+01:31:22,776 --> 01:31:24,111
+<b>Funny you should say that...</b>
+
+852
+01:31:24,319 --> 01:31:28,699
+<b>...because I was looking through
+some old photos and it looks very...</b>
+
+853
+01:31:28,699 --> 01:31:30,576
+<b>...similar.</b>
+
+854
+01:31:31,702 --> 01:31:34,747
+<b>Okay. Well, I gotta get back to work.</b>
+
+855
+01:31:35,789 --> 01:31:38,917
+<b>- You're trash, Brock.
+- Excuse me?</b>
+
+856
+01:31:39,043 --> 01:31:41,003
+<b>Your picture's a fake.</b>
+
+857
+01:31:42,880 --> 01:31:46,091
+<b>Oh, Parker,
+you are such a boy scout.</b>
+
+858
+01:31:46,216 --> 01:31:48,302
+<b>When are you gonna
+give a guy a break?</b>
+
+859
+01:31:50,304 --> 01:31:52,556
+<b>You want forgiveness? Get religion.</b>
+
+860
+01:31:52,681 --> 01:31:56,310
+<b>- What's going on here?
+- Are you guys all right?</b>
+
+861
+01:31:59,355 --> 01:32:03,108
+<b>Yeah. No, we...
+We're just horsing around.</b>
+
+862
+01:32:03,400 --> 01:32:07,571
+<b>Look, I'm begging you.
+If you do this, I will lose everything.</b>
+
+863
+01:32:07,571 --> 01:32:09,865
+<b>There's not a paper in town
+that will hire me.</b>
+
+864
+01:32:09,990 --> 01:32:12,368
+<b>You should've
+thought of that earlier.</b>
+
+865
+01:32:13,118 --> 01:32:15,412
+<b>What are you doing, Peter?</b>
+
+866
+01:32:15,496 --> 01:32:19,875
+<b>Show this to your editor.
+Tell him to check his source next time.</b>
+
+867
+01:32:25,923 --> 01:32:27,508
+<b>It's a fake.</b>
+
+868
+01:32:27,591 --> 01:32:31,762
+<b>Empire State
+Photographic Department confirms it.</b>
+
+869
+01:32:35,224 --> 01:32:37,184
+<b>Pack your things.
+Get out of my building.</b>
+
+870
+01:32:37,601 --> 01:32:39,812
+<b>- I was just trying...
+- You're fired.</b>
+
+871
+01:32:41,271 --> 01:32:43,649
+<b>We're gonna have to
+print a retraction now.</b>
+
+872
+01:32:43,774 --> 01:32:45,859
+<b>I haven't printed a retraction
+in 20 years.</b>
+
+873
+01:32:52,116 --> 01:32:54,702
+<b>- Hello.
+- Mr. Parker, Dr. Connors here.</b>
+
+874
+01:32:54,952 --> 01:32:59,206
+<b>Oh, Dr. Connors. How are you?</b>
+
+875
+01:32:59,206 --> 01:33:02,418
+<b>Quite a specimen
+you left me, Parker.</b>
+
+876
+01:33:02,751 --> 01:33:07,548
+<b>Its chemistry is not unlike
+the chondritic meteorites of the '70s.</b>
+
+877
+01:33:07,548 --> 01:33:08,590
+<b>Thanks.</b>
+
+878
+01:33:08,799 --> 01:33:11,385
+<b>- That's good.
+- You know what, Parker?</b>
+
+879
+01:33:13,303 --> 01:33:16,181
+<b>- Parker?
+- Get me some milk.</b>
+
+880
+01:33:16,932 --> 01:33:20,477
+<b>It amplifies characteristics
+of its host.</b>
+
+881
+01:33:20,561 --> 01:33:24,440
+<b>- Hey, give me another cookie.
+- Especially aggression.</b>
+
+882
+01:33:25,399 --> 01:33:27,234
+<b>This could be dangerous.</b>
+
+883
+01:33:27,359 --> 01:33:31,113
+<b>Peter, you didn't keep any, did you?</b>
+
+884
+01:33:31,113 --> 01:33:34,950
+<b>- You got any with nuts?
+- I have some nuts. I could make some.</b>
+
+885
+01:33:34,992 --> 01:33:36,618
+<b>- Go make me some.
+- Peter?</b>
+
+886
+01:33:36,744 --> 01:33:39,455
+<b>No, no, no. Course not.</b>
+
+887
+01:33:53,844 --> 01:33:55,721
+<b>These shots are so good.</b>
+
+888
+01:33:55,846 --> 01:33:58,432
+<b>I'd love to shoot you sometime.</b>
+
+889
+01:33:58,849 --> 01:34:02,269
+<b>Peter Parker. Peter.</b>
+
+890
+01:34:02,394 --> 01:34:06,857
+<b>Parker. Miss Brant, that's not
+the position I hired you for.</b>
+
+891
+01:34:06,857 --> 01:34:08,442
+<b>Black-suit Spider-Man.</b>
+
+892
+01:34:09,902 --> 01:34:12,071
+<b>Peter, these are incredible.</b>
+
+893
+01:34:12,196 --> 01:34:15,199
+<b>- We gotta have these, Jonah.
+- I'll pay you the usual rate.</b>
+
+894
+01:34:17,117 --> 01:34:19,787
+<b>If you want the shots,
+I'll take the staff job...</b>
+
+895
+01:34:19,912 --> 01:34:21,789
+<b>...double the money.</b>
+
+896
+01:35:46,790 --> 01:35:48,208
+<b>Penny.</b>
+
+897
+01:35:54,298 --> 01:35:56,967
+<b>You are really gonna dig this joint.</b>
+
+898
+01:35:58,344 --> 01:36:00,429
+<b>Do you think I'm...?
+I'm dressed all right?</b>
+
+899
+01:36:00,554 --> 01:36:02,097
+<b>Too fancy or too...</b>
+
+900
+01:36:02,222 --> 01:36:06,352
+<b>Are you kidding me?
+You're looking fine, babe.</b>
+
+901
+01:36:06,393 --> 01:36:10,230
+<b>- Thank you.
+- Love that little giggle.</b>
+
+902
+01:36:12,941 --> 01:36:14,818
+<b>Hey, keep it open there, pops.</b>
+
+903
+01:36:18,155 --> 01:36:21,700
+<b>Oh, this is so cool.</b>
+
+904
+01:36:21,825 --> 01:36:24,495
+<b>I have never been
+to a jazz club before.</b>
+
+905
+01:36:27,331 --> 01:36:30,667
+<b>Oh, I hope we can get a table.</b>
+
+906
+01:36:35,339 --> 01:36:37,841
+<b>Find us some shade.</b>
+
+907
+01:36:38,926 --> 01:36:41,095
+<b>Thanks, hot legs.</b>
+
+908
+01:36:41,428 --> 01:36:44,014
+<b>Right this way, sir.</b>
+
+909
+01:36:51,438 --> 01:36:53,482
+<b>Oh, why, thank you.</b>
+
+910
+01:36:58,696 --> 01:37:02,783
+<b>- I am so loving this.
+- Oh, me too.</b>
+
+911
+01:37:08,205 --> 01:37:11,750
+<b>- Isn't that your old girlfriend?
+- Yeah.</b>
+
+912
+01:37:11,750 --> 01:37:16,338
+<b>- Do you wanna go someplace else?
+- Oh, no, no. I'll... I'll be okay.</b>
+
+913
+01:37:16,338 --> 01:37:19,258
+<b>- Mary Jane, show us what you got.
+- I'll take that.</b>
+
+914
+01:37:24,888 --> 01:37:28,100
+<b>- I'll be right back.
+- All right.</b>
+
+915
+01:37:37,067 --> 01:37:38,235
+<b>Peter?</b>
+
+916
+01:37:41,238 --> 01:37:43,323
+<b>This is for you.</b>
+
+917
+01:37:48,871 --> 01:37:50,539
+<b>Double-time.</b>
+
+918
+01:37:55,753 --> 01:37:57,421
+<b>Thanks.</b>
+
+919
+01:38:24,114 --> 01:38:25,991
+<b>Now dig on this.</b>
+
+920
+01:38:27,242 --> 01:38:28,369
+<b>That is hot.</b>
+
+921
+01:39:09,576 --> 01:39:11,328
+<b>That was all for her?</b>
+
+922
+01:39:20,004 --> 01:39:21,547
+<b>I'm so sorry.</b>
+
+923
+01:39:33,976 --> 01:39:36,478
+<b>- You all right, Mary Jane?
+- I'm fine.</b>
+
+924
+01:39:36,603 --> 01:39:38,022
+<b>Okay.</b>
+
+925
+01:39:40,941 --> 01:39:42,401
+<b>Hey.</b>
+
+926
+01:39:44,611 --> 01:39:45,946
+<b>What's wrong with you?</b>
+
+927
+01:39:47,114 --> 01:39:48,574
+<b>You.</b>
+
+928
+01:39:49,116 --> 01:39:52,202
+<b>- Can I help you, sir?
+- No.</b>
+
+929
+01:39:52,327 --> 01:39:54,413
+<b>Is everything okay here, Paul?</b>
+
+930
+01:39:54,621 --> 01:39:56,915
+<b>Yeah, is everything okay here, Paul?</b>
+
+931
+01:39:56,915 --> 01:39:59,418
+<b>- Take him out of here.
+- Let's go, sir.</b>
+
+932
+01:39:59,543 --> 01:40:02,421
+<b>- Take your hand off of me.
+- Now.</b>
+
+933
+01:40:02,546 --> 01:40:06,091
+<b>- Okay.
+- Hey, get off. Let go.</b>
+
+934
+01:40:08,469 --> 01:40:10,137
+<b>Peter, stop it!</b>
+
+935
+01:40:21,732 --> 01:40:23,192
+<b>Who are you?</b>
+
+936
+01:40:25,569 --> 01:40:27,237
+<b>I don't know.</b>
+
+937
+01:41:59,830 --> 01:42:01,707
+<b>It's Brock, sir.</b>
+
+938
+01:42:01,832 --> 01:42:04,418
+<b>Edward Brock Jr.</b>
+
+939
+01:42:06,086 --> 01:42:08,797
+<b>I come before you today...</b>
+
+940
+01:42:10,174 --> 01:42:11,842
+<b>...humbled...</b>
+
+941
+01:42:13,719 --> 01:42:15,804
+<b>...and humiliated...</b>
+
+942
+01:42:18,724 --> 01:42:21,018
+<b>...to ask you for one thing.</b>
+
+943
+01:42:26,523 --> 01:42:28,400
+<b>I want you to kill Peter Parker.</b>
+
+944
+01:43:19,410 --> 01:43:20,452
+<b>Parker.</b>
+
+945
+01:45:04,515 --> 01:45:06,809
+<b>- Hi, Peter.
+- Hi.</b>
+
+946
+01:45:09,311 --> 01:45:13,691
+<b>You don't seem to have changed
+the room around very much.</b>
+
+947
+01:45:14,108 --> 01:45:18,487
+<b>Of course, there's not much
+you could do, is there?</b>
+
+948
+01:45:24,535 --> 01:45:26,829
+<b>When we spoke on the phone...</b>
+
+949
+01:45:26,954 --> 01:45:29,415
+<b>...I sensed that something
+was bothering you...</b>
+
+950
+01:45:30,165 --> 01:45:33,585
+<b>...so I thought I'd just come by.</b>
+
+951
+01:45:35,796 --> 01:45:38,382
+<b>How's Mary Jane?</b>
+
+952
+01:45:38,716 --> 01:45:40,384
+<b>I don't know.</b>
+
+953
+01:45:42,803 --> 01:45:45,389
+<b>I never heard from you.</b>
+
+954
+01:45:45,472 --> 01:45:48,100
+<b>Did you ever propose?</b>
+
+955
+01:45:51,979 --> 01:45:53,731
+<b>You said...</b>
+
+956
+01:45:54,648 --> 01:45:58,193
+<b>...a husband's gotta put a wife
+before himself.</b>
+
+957
+01:46:03,323 --> 01:46:05,409
+<b>I'm not ready.</b>
+
+958
+01:46:07,494 --> 01:46:09,788
+<b>But what happened?</b>
+
+959
+01:46:10,497 --> 01:46:13,125
+<b>You seemed so sure.</b>
+
+960
+01:46:14,376 --> 01:46:15,919
+<b>Yeah.</b>
+
+961
+01:46:17,296 --> 01:46:18,964
+<b>I...</b>
+
+962
+01:46:29,266 --> 01:46:31,685
+<b>I hurt her, Aunt May.</b>
+
+963
+01:46:32,936 --> 01:46:35,022
+<b>I don't know what to do.</b>
+
+964
+01:46:36,899 --> 01:46:40,652
+<b>Well, you start
+by doing the hardest thing:</b>
+
+965
+01:46:41,362 --> 01:46:44,490
+<b>You forgive yourself.</b>
+
+966
+01:46:47,534 --> 01:46:50,037
+<b>I believe in you, Peter.</b>
+
+967
+01:46:50,245 --> 01:46:53,165
+<b>You're a good person.</b>
+
+968
+01:46:54,124 --> 01:46:59,088
+<b>And I know you will find a way
+to put it right.</b>
+
+969
+01:47:06,720 --> 01:47:08,597
+<b>In time.</b>
+
+970
+01:47:26,657 --> 01:47:29,034
+<b>End of the line, Spider-Man.</b>
+
+971
+01:47:33,080 --> 01:47:35,499
+<b>I want him dead too, Flint.</b>
+
+972
+01:47:35,916 --> 01:47:38,210
+<b>That's why
+I've been looking for you.</b>
+
+973
+01:47:38,335 --> 01:47:41,755
+<b>Oh, yeah. I know all about you.</b>
+
+974
+01:47:41,839 --> 01:47:46,218
+<b>Like the fact that Spider-Man
+won't let you help your poor daughter.</b>
+
+975
+01:47:46,260 --> 01:47:49,555
+<b>It's just...
+That doesn't seem right to me.</b>
+
+976
+01:47:49,680 --> 01:47:54,893
+<b>Look, I wanna kill the spider,
+you wanna kill the spider.</b>
+
+977
+01:47:54,893 --> 01:47:58,230
+<b>Together, he doesn't stand a chance.</b>
+
+978
+01:47:59,189 --> 01:48:01,233
+<b>Interested?</b>
+
+979
+01:48:02,526 --> 01:48:04,069
+<b>Yeah.</b>
+
+980
+01:49:06,006 --> 01:49:06,924
+<b>So...</b>
+
+981
+01:49:08,509 --> 01:49:09,760
+<b>...where to?</b>
+
+982
+01:49:10,928 --> 01:49:12,680
+<b>All New York is holding its breath...</b>
+
+983
+01:49:12,888 --> 01:49:15,599
+<b>... as the hostage crisis
+continues to unfold.</b>
+
+984
+01:49:17,267 --> 01:49:18,519
+<b>Just 30 minutes ago...</b>
+
+985
+01:49:18,602 --> 01:49:20,813
+<b>... police came across
+this startling sight:</b>
+
+986
+01:49:20,938 --> 01:49:23,107
+<b>A young woman,
+held hostage in a taxi...</b>
+
+987
+01:49:23,315 --> 01:49:25,609
+<b>... suspended 80 stories
+above the ground...</b>
+
+988
+01:49:25,609 --> 01:49:28,612
+<b>... in what appears to be
+a giant web.</b>
+
+989
+01:49:28,737 --> 01:49:31,448
+<b>Every attempt by the police
+to rescue the hostage...</b>
+
+990
+01:49:31,532 --> 01:49:33,325
+<b>... has been thwarted
+by the Sandman.</b>
+
+991
+01:49:36,787 --> 01:49:38,122
+<b>Compounding the danger...</b>
+
+992
+01:49:38,205 --> 01:49:41,125
+<b>... is the appearance
+of a strange black-suited figure.</b>
+
+993
+01:49:41,250 --> 01:49:45,087
+<b>Early reports had believed him
+to be the black-suited Spider-Man...</b>
+
+994
+01:49:45,129 --> 01:49:48,757
+<b>... but he has now been identified
+as something entirely different.</b>
+
+995
+01:49:50,300 --> 01:49:53,971
+<b>The hostage has been identified
+as Mary Jane Watson...</b>
+
+996
+01:49:54,054 --> 01:49:58,225
+<b>... an actress recently seen
+in a brief stint on Broadway.</b>
+
+997
+01:50:23,792 --> 01:50:26,170
+<b>We're now going to take you
+live to the scene...</b>
+
+998
+01:50:26,295 --> 01:50:28,172
+<b>... with Jennifer Dugan. Jennifer?</b>
+
+999
+01:50:28,255 --> 01:50:30,883
+<b>We're only about
+100 feet away now, Hal, and...</b>
+
+1000
+01:50:30,883 --> 01:50:34,845
+<b>Wait. There seems to be
+some kind of activity in the web.</b>
+
+1001
+01:50:34,928 --> 01:50:38,599
+<b>They seem to be creating
+some kind of gigantic lettering.</b>
+
+1002
+01:50:41,518 --> 01:50:44,313
+<b>Spider-Man's being challenged
+to some sort of confrontation.</b>
+
+1003
+01:50:44,438 --> 01:50:46,190
+<b>And that raises serious questions...</b>
+
+1004
+01:50:46,315 --> 01:50:49,526
+<b>... about what kind of chance he'd
+stand against such overwhelming...</b>
+
+1005
+01:51:00,079 --> 01:51:01,330
+<b>Harry?</b>
+
+1006
+01:51:04,875 --> 01:51:06,960
+<b>I need your help.</b>
+
+1007
+01:51:07,378 --> 01:51:10,798
+<b>I can't take them both,
+not by myself.</b>
+
+1008
+01:51:17,304 --> 01:51:20,182
+<b>You don't deserve my help.</b>
+
+1009
+01:51:22,893 --> 01:51:24,353
+<b>Harry...</b>
+
+1010
+01:51:25,104 --> 01:51:27,189
+<b>...she needs us.</b>
+
+1011
+01:51:31,777 --> 01:51:33,320
+<b>Get out.</b>
+
+1012
+01:51:49,920 --> 01:51:52,214
+<b>If I may, sir?</b>
+
+1013
+01:51:52,923 --> 01:51:58,554
+<b>I've seen things in this house
+I've never spoken of.</b>
+
+1014
+01:51:58,887 --> 01:52:00,556
+<b>What are you trying to tell me?</b>
+
+1015
+01:52:01,265 --> 01:52:04,101
+<b>The night your father died...</b>
+
+1016
+01:52:04,184 --> 01:52:06,812
+<b>...I cleaned his wound.</b>
+
+1017
+01:52:08,272 --> 01:52:12,026
+<b>The blade that pierced his body...</b>
+
+1018
+01:52:12,026 --> 01:52:14,820
+<b>...came from his glider.</b>
+
+1019
+01:52:15,571 --> 01:52:20,576
+<b>I know you're trying to defend
+your father's honor...</b>
+
+1020
+01:52:20,576 --> 01:52:25,998
+<b>...but there's no question
+that he died by his own hand.</b>
+
+1021
+01:52:29,043 --> 01:52:31,503
+<b>I loved your father...</b>
+
+1022
+01:52:32,671 --> 01:52:35,799
+<b>...as I have loved you, Harry.</b>
+
+1023
+01:52:36,300 --> 01:52:39,219
+<b>As your friends love you.</b>
+
+1024
+01:53:26,266 --> 01:53:27,518
+<b>Look.</b>
+
+1025
+01:53:48,372 --> 01:53:52,001
+<b>Spider-Man! Spider-Man!
+Spider-Man!</b>
+
+1026
+01:53:57,464 --> 01:53:59,425
+<b>He seems to have
+come out of nowhere...</b>
+
+1027
+01:53:59,550 --> 01:54:01,593
+<b>.... to answer the prayers of the city...</b>
+
+1028
+01:54:01,719 --> 01:54:03,804
+<b>...just when all hope
+seemed to be lost.</b>
+
+1029
+01:54:09,727 --> 01:54:12,646
+<b>Peter. They're gonna kill us both.</b>
+
+1030
+01:54:12,771 --> 01:54:16,400
+<b>- I'm gonna get you out of this.
+- Watch out.</b>
+
+1031
+01:54:25,701 --> 01:54:27,161
+<b>Hey, Parker.</b>
+
+1032
+01:54:27,369 --> 01:54:28,620
+<b>My God. Eddie.</b>
+
+1033
+01:54:29,246 --> 01:54:30,998
+<b>My spider-sense is tingling...</b>
+
+1034
+01:54:32,583 --> 01:54:35,377
+<b>...if you know what I'm talking about.</b>
+
+1035
+01:54:54,480 --> 01:54:56,357
+<b>We can find a way to settle this.</b>
+
+1036
+01:54:56,565 --> 01:54:58,025
+<b>You're so right.</b>
+
+1037
+01:54:58,108 --> 01:55:01,653
+<b>I'm thinking humiliation.</b>
+
+1038
+01:55:02,279 --> 01:55:04,698
+<b>Kind of like how you humiliated me.</b>
+
+1039
+01:55:05,532 --> 01:55:07,284
+<b>Do you remember?</b>
+
+1040
+01:55:09,078 --> 01:55:11,997
+<b>Do you remember
+what you did to me?</b>
+
+1041
+01:55:27,304 --> 01:55:31,058
+<b>You made me lose my girl.
+Now I'm gonna make you lose yours.</b>
+
+1042
+01:55:32,851 --> 01:55:34,812
+<b>How's that sound, tiger?</b>
+
+1043
+01:56:34,705 --> 01:56:36,332
+<b>Hold on, Mary Jane!</b>
+
+1044
+01:57:06,487 --> 01:57:08,989
+<b>Mary Jane!</b>
+
+1045
+01:58:09,258 --> 01:58:13,220
+<b>It's hard to believe
+what's happening.</b>
+
+1046
+01:58:13,220 --> 01:58:15,597
+<b>The brutality of it.</b>
+
+1047
+01:58:16,348 --> 01:58:18,225
+<b>I don't know how
+he can take any more.</b>
+
+1048
+01:58:18,308 --> 01:58:21,979
+<b>This could be a tragic day
+for the people of New York.</b>
+
+1049
+01:58:21,979 --> 01:58:24,064
+<b>It could be the end of Spider-Man.</b>
+
+1050
+01:58:50,424 --> 01:58:52,718
+<b>- Awesome.
+- Wicked cool.</b>
+
+1051
+01:59:17,659 --> 01:59:19,119
+<b>You came.</b>
+
+1052
+01:59:27,044 --> 01:59:29,129
+<b>Looks like just in the nick of time.</b>
+
+1053
+01:59:29,338 --> 01:59:31,924
+<b>A couple minutes ago
+wouldn't have been so bad either.</b>
+
+1054
+01:59:32,049 --> 01:59:33,509
+<b>What are you gonna do?</b>
+
+1055
+01:59:37,054 --> 01:59:39,139
+<b>I may need some help over here.</b>
+
+1056
+01:59:39,223 --> 01:59:41,725
+<b>I'm a little busy right now.</b>
+
+1057
+01:59:42,685 --> 01:59:44,561
+<b>Give me your hand.</b>
+
+1058
+01:59:58,951 --> 02:00:01,954
+<b>Parker! Parker, where...?</b>
+
+1059
+02:00:02,079 --> 02:00:03,539
+<b>I need a photographer.</b>
+
+1060
+02:00:03,747 --> 02:00:05,082
+<b>Hey, kid, you want a job?</b>
+
+1061
+02:00:05,207 --> 02:00:08,627
+<b>Why would I want a job?
+I'm just a kid.</b>
+
+1062
+02:00:08,752 --> 02:00:11,755
+<b>- All right, how much for the camera?
+- One hundred bucks.</b>
+
+1063
+02:00:11,880 --> 02:00:13,340
+<b>A hundred bucks?</b>
+
+1064
+02:00:15,092 --> 02:00:18,971
+<b>All right, you little crook. Here.</b>
+
+1065
+02:00:20,639 --> 02:00:21,974
+<b>What the...?</b>
+
+1066
+02:00:23,851 --> 02:00:25,519
+<b>Film's extra.</b>
+
+1067
+02:00:31,358 --> 02:00:33,152
+<b>Gotcha.</b>
+
+1068
+02:00:41,201 --> 02:00:42,411
+<b>Pete, up top.</b>
+
+1069
+02:01:02,348 --> 02:01:04,433
+<b>Mary Jane.</b>
+
+1070
+02:01:06,518 --> 02:01:08,395
+<b>- This thing got any more?
+- Hang on.</b>
+
+1071
+02:01:08,479 --> 02:01:09,646
+<b>To what?</b>
+
+1072
+02:01:14,151 --> 02:01:15,903
+<b>- Go, buddy.
+- Got her.</b>
+
+1073
+02:01:27,164 --> 02:01:28,207
+<b>You okay?</b>
+
+1074
+02:01:30,417 --> 02:01:31,960
+<b>Yeah.</b>
+
+1075
+02:01:34,672 --> 02:01:37,174
+<b>- Good.
+- Hey, Pete.</b>
+
+1076
+02:01:39,468 --> 02:01:41,136
+<b>Am I interrupting?</b>
+
+1077
+02:02:57,463 --> 02:02:59,340
+<b>Never wound...</b>
+
+1078
+02:03:00,090 --> 02:03:02,134
+<b>...what you can't kill.</b>
+
+1079
+02:03:05,929 --> 02:03:09,558
+<b>Eddie, the suit,
+you gotta take it off.</b>
+
+1080
+02:03:09,558 --> 02:03:11,310
+<b>Oh, you'd like that, wouldn't you?</b>
+
+1081
+02:03:14,271 --> 02:03:16,106
+<b>I know what it feels like.</b>
+
+1082
+02:03:16,648 --> 02:03:18,317
+<b>It feels good.</b>
+
+1083
+02:03:18,442 --> 02:03:21,028
+<b>The power. Everything.</b>
+
+1084
+02:03:21,028 --> 02:03:23,739
+<b>But you'll lose yourself.</b>
+
+1085
+02:03:24,156 --> 02:03:26,033
+<b>Let it go.</b>
+
+1086
+02:03:26,241 --> 02:03:28,327
+<b>I like being bad.</b>
+
+1087
+02:03:29,370 --> 02:03:31,246
+<b>It makes me happy.</b>
+
+1088
+02:04:20,671 --> 02:04:21,714
+<b>Harry!</b>
+
+1089
+02:05:34,828 --> 02:05:37,206
+<b>Peter. What are you doing?</b>
+
+1090
+02:05:38,040 --> 02:05:39,917
+<b>No!</b>
+
+1091
+02:05:41,669 --> 02:05:42,711
+<b>Eddie!</b>
+
+1092
+02:06:02,231 --> 02:06:04,108
+<b>- Harry.
+- Mary Jane.</b>
+
+1093
+02:06:04,316 --> 02:06:06,193
+<b>- I'm gonna get help.
+- No.</b>
+
+1094
+02:06:07,027 --> 02:06:08,487
+<b>Stay.</b>
+
+1095
+02:06:17,246 --> 02:06:18,914
+<b>I didn't want this.</b>
+
+1096
+02:06:23,711 --> 02:06:26,005
+<b>But I had no choice.</b>
+
+1097
+02:06:29,633 --> 02:06:31,719
+<b>We always have a choice.</b>
+
+1098
+02:06:31,844 --> 02:06:34,138
+<b>You had a choice
+when you killed my uncle.</b>
+
+1099
+02:06:36,640 --> 02:06:38,726
+<b>My daughter was dying.</b>
+
+1100
+02:06:40,811 --> 02:06:42,771
+<b>I needed money.</b>
+
+1101
+02:06:47,484 --> 02:06:49,445
+<b>I was scared.</b>
+
+1102
+02:06:56,994 --> 02:07:00,080
+<b>I told your uncle
+all I wanted was the car.</b>
+
+1103
+02:07:00,205 --> 02:07:02,166
+<b>- What is it?
+- I need your car.</b>
+
+1104
+02:07:02,708 --> 02:07:05,210
+<b>He said to me:</b>
+
+1105
+02:07:05,336 --> 02:07:08,213
+<b>"Why don't you just put down the gun
+and go home?"</b>
+
+1106
+02:07:12,176 --> 02:07:15,220
+<b>I realize now
+he was just trying to help me.</b>
+
+1107
+02:07:21,894 --> 02:07:25,022
+<b>Then I saw my partner
+running over with the cash.</b>
+
+1108
+02:07:25,022 --> 02:07:27,524
+<b>And the gun was in my hand.</b>
+
+1109
+02:07:37,868 --> 02:07:39,286
+<b>Get in.</b>
+
+1110
+02:07:41,205 --> 02:07:43,582
+<b>Did a terrible thing to you...</b>
+
+1111
+02:07:44,833 --> 02:07:48,379
+<b>... and I spent a lot of nights
+wishing I could take it back.</b>
+
+1112
+02:07:53,592 --> 02:07:56,178
+<b>I'm not asking you to forgive me.</b>
+
+1113
+02:07:57,054 --> 02:07:59,431
+<b>I just want you to understand.</b>
+
+1114
+02:08:09,233 --> 02:08:11,944
+<b>I've done terrible things too.</b>
+
+1115
+02:08:28,210 --> 02:08:31,005
+<b>I didn't choose to be this.</b>
+
+1116
+02:08:39,680 --> 02:08:42,182
+<b>The only thing left of me now...</b>
+
+1117
+02:08:44,268 --> 02:08:46,228
+<b>...is my daughter.</b>
+
+1118
+02:08:58,449 --> 02:09:00,534
+<b>I forgive you.</b>
+
+1119
+02:09:43,827 --> 02:09:46,830
+<b>Hey, pal. How you doing?</b>
+
+1120
+02:09:46,830 --> 02:09:48,499
+<b>Been better.</b>
+
+1121
+02:09:50,084 --> 02:09:52,044
+<b>We'll get you through this.</b>
+
+1122
+02:09:55,673 --> 02:09:57,257
+<b>No.</b>
+
+1123
+02:10:04,848 --> 02:10:07,059
+<b>I should never have hurt you...</b>
+
+1124
+02:10:08,936 --> 02:10:11,230
+<b>...said those things.</b>
+
+1125
+02:10:12,898 --> 02:10:15,484
+<b>None of that matters, Peter.</b>
+
+1126
+02:10:17,486 --> 02:10:19,363
+<b>You're my friend.</b>
+
+1127
+02:10:23,951 --> 02:10:25,828
+<b>Best friend.</b>
+
+1128
+02:10:44,722 --> 02:10:46,348
+<b>Harry.</b>
+
+1129
+02:11:32,353 --> 02:11:34,521
+<b>Whatever comes our way...</b>
+
+1130
+02:11:35,606 --> 02:11:39,943
+<b>... whatever battle we have raging
+inside us, we always have a choice.</b>
+
+1131
+02:11:41,862 --> 02:11:44,031
+<b>My friend Harry taught me that.</b>
+
+1132
+02:11:44,239 --> 02:11:47,576
+<b>He chose to be the best of himself.</b>
+
+1133
+02:11:48,202 --> 02:11:51,330
+<b>It's the choices
+that make us who we are...</b>
+
+1134
+02:11:51,455 --> 02:11:54,958
+<b>... and we can always choose
+to do what's right.</b>
+ 

@@ -1,0 +1,24 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: may it be
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,1:35:31.88,1:35:44.28,Default,,0,0,0,,May it be an evening star\NShines down upon you
+Dialogue: 0,1:35:45.30,1:35:57.54,Default,,0,0,0,,May it be when darkness falls\NYour heart will be true
+Dialogue: 0,1:35:58.24,1:36:14.13,Default,,0,0,0,,You walk a lonely road\NOh how far you are from home
+Dialogue: 0,1:36:14.92,1:36:38.10,Default,,0,0,0,,Mornie utulie (Darkness has come)\NBelieve and you will find your way
+Dialogue: 0,1:36:38.98,1:37:05.14,Default,,0,0,0,,Mornie alantie (Darkness has fallen)\NA promise lives within you now
+Dialogue: 0,1:37:05.96,1:37:17.33,Default,,0,0,0,,May it be the shadow's call\NWill fly away
+Dialogue: 0,1:37:18.88,1:37:30.22,Default,,0,0,0,,May it be your journey on\NTo light the day
+Dialogue: 0,1:37:31.40,1:37:46.30,Default,,0,0,0,,When the night is overcome\NYou may rise to find the sun
+Dialogue: 0,1:37:47.62,1:38:10.36,Default,,0,0,0,,Mornie utulie (Darkness has come)\NBelieve and you will find your way
+Dialogue: 0,1:38:11.10,1:38:35.28,Default,,0,0,0,,Mornie alantie (Darkness has fallen)\NA promise lives within you now
+Dialogue: 0,1:38:35.28,1:38:53.53,Default,,0,0,0,,A promise lives within you now
