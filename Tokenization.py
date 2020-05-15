@@ -35,9 +35,12 @@ class Tokenization:
             tokens = []
             actualFile = open(self.dirname+'/'+file, encoding="utf8", errors="ignore")
             linesList = actualFile.readlines()
+            allSubtitlesInMovie = ""
             for line in linesList:
-                for word in line.split():
-                    tokens.append(word)
+                if(line == "-----NewMovie-----"):
+                    allSubtitlesInMovie = ""
+                    
+                    
             allTokens[file] = tokens
         return allTokens
 

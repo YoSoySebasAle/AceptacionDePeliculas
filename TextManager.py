@@ -49,13 +49,13 @@ def ProcessFiles(filesAllCategories):
     dirname, filename = os.path.split(os.path.abspath(__file__))
     for key in filesAllCategories:
 
-        tokensForCategory = []
         os.chdir(dirname+"/"+key)
 
         for fileName in filesAllCategories[key]:
             actualFile = open(fileName, encoding="utf8", errors="ignore")
             linesList = actualFile.readlines()
             linesForMovie = []
+            linesForMovie.append("-----NewMovie-----")
             for line in linesList:
                 line = line.lower()
                 line = line.rstrip()
@@ -84,11 +84,9 @@ def ProcessFiles(filesAllCategories):
                 line = line.strip()
                 if not line.isdigit() and not '-->' in line:
                     linesForMovie.append(line)
-                    for i in line.split():
-                        tokensForCategory.append(i)
 
             path=dirname + "\\" + key + "Result.txt"
-            with open(path, 'w+', encoding="utf8", errors="ignore") as f:
+            with open(path, 'a+', encoding="utf8", errors="ignore") as f:
                 for item in linesForMovie:
                     if item is not '':
                         f.write("%s\n" % item)
