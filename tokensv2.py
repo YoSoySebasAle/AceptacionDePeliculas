@@ -121,16 +121,16 @@ class Texto:
 
 	def matrizTFIDF(self, tf_matriz, idf_matriz):
 		tf_idf_matriz = {}
-		for (doc2, f_table1), (doc2, f_table2) in zip(tf_matriz.items(), idf_matriz.items()):
+		for (doc1, f_table1), (doc2, f_table2) in zip(tf_matriz.items(), idf_matriz.items()):
 			tf_idf_table = {}
 			for (word1, valor1), (word2, valor2) in zip(f_table1.items(), f_table2.items()):
 				tf_idf_table[word1] = float(valor1 * valor2)
-			tf_idf_matriz[doc2] = tf_idf_table
+			tf_idf_matriz[doc1] = tf_idf_table
 
 		nombreDic = list(tf_idf_matriz)
 		nombreDic = list(set(nombreDic))
 		#print("Nombre dic: ", nombreDic)
-		
+
 		#print("\nMatriz: ",tf_idf_matriz)
 
 		tf_idf_matriz2 ={}
@@ -151,7 +151,7 @@ class Texto:
 
 		print("TF: ",tf_matriz)
 		print("IDF: ",idf_matriz)
-		
+
 		filas = list(tf_matriz.keys()) + list(idf_matriz.keys())
 		filas = list(set(filas))
 
@@ -172,40 +172,40 @@ class TFIDF_global:
 		filas = list(bolsaA.keys()) + list(bolsaB.keys()) +  list(bolsaC.keys()) +  list(bolsaD.keys())
 		filas = list(set(filas))
 		filas.sort()
-		
+
 		#listas para cada idioma de coincidencias
 		filasMalas = []
 		filasRegulares = []
 		filasBuenas = []
 		filasExcelentes = []
-		
-		#Se itera sobre cada fila para saber si hay coincidencias 
+
+		#Se itera sobre cada fila para saber si hay coincidencias
 		for fila in filas:
-	
+
 			if fila in bolsaA.keys():
 				filasMalas.append(bolsaA[fila])
 			else:
 				filasMalas.append(0)
-			
+
 
 			if fila in bolsaB.keys():
 				filasRegulares.append(bolsaB[fila])
 			else:
 				filasRegulares.append(0)
-				
+
 
 			if fila in bolsaC.keys():
 				filasBuenas.append(bolsaC[fila])
 			else:
 				filasBuenas.append(0)
-				
-			
-		
+
+
+
 			if fila in bolsaD.keys():
 				filasExcelentes.append(bolsaD[fila])
 			else:
 				filasExcelentes.append(0)
-		
+
 		tabla = {'Malas': filasMalas, 'Regulares':filasRegulares, 'Buenas':filasBuenas, 'Excelentes':filasExcelentes }
 		tabla = pd.DataFrame(tabla)
 		tabla.index = filas
@@ -231,13 +231,13 @@ class main:
 		tabla3 = tk.PalabrasPorDocumentos(table)
 		#print("FRECUENCIAS: ",tabla3)
 		idfTabla = tk.matrizIDF(table, tabla3, len(tk.verTabla(tokens)))
-		
+
 		tfidfTabla= tk.matrizTFIDF(tfTabla, idfTabla)
-		
+
 		columnasDFIDF.append(tfidfTabla)
 
 
-	
+
 	print("\n\n\n\n")
 	print(columnasDFIDF[0])
 	print("\n\n\n\n")
