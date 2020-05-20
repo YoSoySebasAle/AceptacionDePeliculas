@@ -1,4 +1,7 @@
 import pandas as pd
+import os
+import math
+from aplicacion import Tokenization, Stemming
 
 class NaiveBayesClassifierWithTfIdf:
     def __init__(self):
@@ -15,11 +18,14 @@ class NaiveBayesClassifierWithTfIdf:
             read_CSV_toObtainTfIdfMatrix.
             probabiliesWordGivenClass: DataFrame con las probabilidades
             condicionales del clasificador
+            tfIdfSumOfClasses: suma del TF-IDF de todas las palabras de la
+            clase.
         """
         self.tf_idf_matrix = None
         self.priors = None
         self.VocabularyCount = None
         self.probabiliesWordGivenClass = None
+        self.tfIdfSumOfClasses = {}
 
     def read_CSV_toObtainTfIdfMatrix(self, filePath, indexBy):
         """
@@ -32,6 +38,9 @@ class NaiveBayesClassifierWithTfIdf:
         """
         # creación del dataframe
         self.tf_idf_matrix = pd.read_csv(filePath, delimiter=",", index_col=indexBy)
+
+        for label in self.tf_idf_matrix.columns:
+            self.tfIdfSumOfClasses[label] = self.tf_idf_matrix[label].sum()
         # Vocabulary count
         self.VocabularyCount = self.tf_idf_matrix.shape[0]
 
@@ -64,9 +73,9 @@ class NaiveBayesClassifierWithTfIdf:
         tfIdfValue = self.tf_idf_matrix.loc[[word], [label]]
         return (tfIdfValue.values[0])[0]
 
-    def getProbabilityOfWordForEachClass(self, word, label, TfIdfSumOfclass):
+    def calculateProbabilityOfWordForEachClass(self, word, label, TfIdfSumOfclass):
         """
-        Función para obtener La probabilidad condicional
+        Función para obtener la probabilidad condicional
         de una palabra dada la clase.
         Recordando, la probabilidad está definida cómo:
 
@@ -83,11 +92,15 @@ class NaiveBayesClassifierWithTfIdf:
         Returns:
             Probabilidaad de la palabra dada la clase.
         """
-        numerator = (self.get_TF_IDF_of_a_Word_By_label(word, label) + 1)
+
+        if word not in self.tf_idf_matrix.index:
+            numerator = 1
+        else:
+            numerator = (self.get_TF_IDF_of_a_Word_By_label(word, label) + 1)
 
         # print(numerator)
         denominator = (TfIdfSumOfclass + self.VocabularyCount)
-        return numerator / denominator
+        return math.log(numerator) - math.log(denominator)
 
     def buildClassifier(self):
         """
@@ -111,7 +124,7 @@ class NaiveBayesClassifierWithTfIdf:
             wordProbabilitiesForEachClass = dict()
             for label in classes:
                 wordProbabilitiesForEachClass[label] = \
-                self.getProbabilityOfWordForEachClass(word, label, tfIdfSumOfClasses[label])
+                self.calculateProbabilityOfWordForEachClass(word, label, tfIdfSumOfClasses[label])
             data.append(wordProbabilitiesForEachClass)
 
         self.probabiliesWordGivenClass = \
@@ -120,13 +133,83 @@ class NaiveBayesClassifierWithTfIdf:
 
         self.probabiliesWordGivenClass.to_csv("./Probabilidades.csv", header = True)
 
+
+    def read_CSV_toObtainClassifier(self, filePath, indexBy):
+        """
+        Función para crear un DataFrame que contiene la Matriz de probabilidades
+        condicionales.
+        Args:
+            filePath: Dirección del archivo a leer
+            indexBy: Columna por la que se va indexar el DataFrame, debe
+            ser el nombre de la columna dónde se encuentran las palabras.
+        """
+        # creación del dataframe
+        self.probabiliesWordGivenClass = pd.read_csv(filePath, delimiter=",", index_col=indexBy)
+
+    def getProbabilityOfWordForGivenClass(self, word, label):
+        """
+            Función para la obtención de la probabilidad condicional de
+            una palabra dada
+            Returns:
+            Probabilidad de la Palabra dada la clase
+        """
+        if word not in self.probabiliesWordGivenClass.index:
+            return self.calculateProbabilityOfWordForEachClass(word, label,
+                self.tfIdfSumOfClasses[label])
+
+        probabilityValue = self.probabiliesWordGivenClass.loc[[word], [label]]
+        return (probabilityValue.values[0])[0]
+
+    def getClassOfaMovie(self, filePath):
+        """
+            Método de para obtener la clase de un Documento.
+            Las clases son ['Malas', 'Regulares', 'Buenas', 'Excelentes'].
+
+            Args: ruta del archivo a evaluar
+        """
+
+        tk = Tokenization(filePath)
+        tokens = tk.CreateTokens()
+
+        st = Stemming(tokens)
+        datosStemming = st.doStemming()
+
+        words = list(datosStemming.values())[0]
+
+        classes = ['Malas', 'Regulares', 'Buenas', 'Excelentes']
+
+        probabilities = []
+
+        for probabilityForClass, label in zip(self.priors, classes):
+            probability = probabilityForClass
+            for word in words:
+                probability = probability + \
+                self.getProbabilityOfWordForGivenClass(word, label)
+
+            probabilities.append(probability)
+
+        # print(probabilities)
+        # print(max(probabilities))
+        print(classes[(probabilities.index(max(probabilities)))])
+
 def main():
     classifier = NaiveBayesClassifierWithTfIdf()
     classifier.read_CSV_toObtainTfIdfMatrix("tablaTFIDF.csv", "Unnamed: 0")
     # nuestro clasificador tiene 100 documentos por cada clase y
     # 400 documentos en total
     classifier.buildPriors([100 for i in range(4)], 400)
-    # creación de la matriz de probabilidades
+    # # creación de la matriz de probabilidades
     classifier.buildClassifier()
 
-main()
+def main1():
+    classifier = NaiveBayesClassifierWithTfIdf()
+    # matriz tf idf
+    classifier.read_CSV_toObtainTfIdfMatrix("tablaTFIDF.csv", "Unnamed: 0")
+    # probabilidades prior
+    classifier.buildPriors([100 for i in range(4)], 400)
+    # matriz de probabilidades condicionales
+    classifier.read_CSV_toObtainClassifier("Probabilidades.csv", "Unnamed: 0")
+    # pelicula a evuluar previamente limpiada
+    classifier.getClassOfaMovie("Subs ejemplo/NewSubs/Justice.League.Dark.Apokolips.War.2020.HDRip.XviD.AC3-EVO.srt")
+
+main1()

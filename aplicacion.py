@@ -2,14 +2,14 @@
 	Asignatura: Análisis y procesamiento digital de textos
 	Grupo: 1
 	Semestre: 2020-2
-	
+
 	Descripción:
 		El programa realiza  la tokenizacion,  stemming y matriz de frecuencias a partir de un conjunto de documentos
-    
-    Recibe: El nombre de los archivos 
+
+    Recibe: El nombre de los archivos
         Ejemplo
             C:/Users/{user}/Anaconda3/python.exe c:/Users/{user}/Documents/Textos/aplicacion.py PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt,PeliculasMalasResult.txt,PeliculasRegularesResult.txt
-		
+
 """
 
 
@@ -25,7 +25,7 @@ class Tokenization:
 
 	"""
         CreateTokens
-        Devuelve: Diccionario 
+        Devuelve: Diccionario
             Clave: Nombre del archivo a tokenizar
             Valor: Lista con todos los tokens del archivo
 	"""
@@ -74,8 +74,6 @@ class FrecuenciaPalabras:
 		for key in self.dicStemming.keys():
 			print(str(key),"\n",self.dicStemming[key],"\n\n\n\n")
 
-
-
 class main:
 	def prueba(self):
 		tk = Tokenization("PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt,PeliculasMalasResult.txt,PeliculasRegularesResult.txt")
@@ -90,5 +88,5 @@ class main:
 
 
 
-principal = main()
-principal.prueba()
+# principal = main()
+# principal.prueba()
