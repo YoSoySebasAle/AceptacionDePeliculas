@@ -168,6 +168,8 @@ class NaiveBayesClassifierWithTfIdf:
             Args: ruta del archivo a evaluar
         """
 
+        print(self.tfIdfSumOfClasses)
+
         tk = Tokenization(filePath)
         tokens = tk.CreateTokens()
 
@@ -210,6 +212,9 @@ def main1():
     # matriz de probabilidades condicionales
     classifier.read_CSV_toObtainClassifier("Probabilidades.csv", "Unnamed: 0")
     # pelicula a evuluar previamente limpiada
-    classifier.getClassOfaMovie("Subs ejemplo/NewSubs/Justice.League.Dark.Apokolips.War.2020.HDRip.XviD.AC3-EVO.srt")
+    classifier.getClassOfaMovie("EjemplosExternos/buenaResult/Jim Carrey - The Un-Natural Act (1991).srt")
+    classifier.getClassOfaMovie("EjemplosExternos/excelentResult/Marvels.The.Punisher.S02E13.WEB.x264-STRiFE.srt")
+    classifier.getClassOfaMovie("EjemplosExternos/malaResult/2_English.srt")
+    classifier.getClassOfaMovie("EjemplosExternos/regularResult/Splice.en.srt")
 
 main1()
