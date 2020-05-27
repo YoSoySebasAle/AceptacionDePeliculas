@@ -4,7 +4,10 @@ import glob, os
 import sys
 from nltk import sent_tokenize, word_tokenize, PorterStemmer
 from nltk.corpus import stopwords
-
+from sklearn.svm import SVC
+from sklearn.model_selection import train_test_split
+import numpy as np
+from sklearn.neighbors import KNeighborsClassifier
 
 
 
@@ -308,12 +311,16 @@ class Texto:
 
 
 class TFIDF_global:
-	def tablaDataFrame(self,bolsaA,bolsaB, bolsaC, bolsaD):
-		#Se obtienen valores únicos en las filas
-		filas = list(bolsaA.keys()) + list(bolsaB.keys()) +  list(bolsaC.keys()) +  list(bolsaD.keys())
-		filas = list(set(filas))
+	def tablaDataFrame(self,bolsaA,bolsaB, bolsaC, bolsaD,transpuesta, cargaFilas):
+		
+		if cargaFilas == None:
+			#Se obtienen valores únicos en las filas
+			filas = list(bolsaA.keys()) + list(bolsaB.keys()) +  list(bolsaC.keys()) +  list(bolsaD.keys())
+			filas = list(set(filas))
+			#filas.sort()
+		else:
+			filas = cargaFilas
 		filas.sort()
-
 		#listas para cada idioma de coincidencias
 		filasMalas = []
 		filasRegulares = []
@@ -350,6 +357,8 @@ class TFIDF_global:
 		tabla = {'Malas': filasMalas, 'Regulares':filasRegulares, 'Buenas':filasBuenas, 'Excelentes':filasExcelentes }
 		tabla = pd.DataFrame(tabla)
 		tabla.index = filas
+		if transpuesta == True:
+			tabla = tabla.transpose()
 		return tabla
 
 	def guardarTablaTFIDF(self, tabla,nombre):
@@ -685,6 +694,11 @@ class main:
 
 	print(len(tokens))
 	"""
+	
+	datos = pd.read_csv("tablaTFIDF.csv", index_col=0)
+
+
+
 	"""print("Se crearon los nuevos arhcivos de peliiculas")
 	#Creación de la tabla
 	archivos = ["PeliculasMalasResult.txt","PeliculasRegularesResult.txt", "PeliculasBuenasResult.txt","PeliculasExcelentesResult.txt"]
@@ -721,27 +735,30 @@ class main:
 		columnasDFIDF.append(tfidfTabla)
 	
 	tabla = TFIDF_global()
-		
-	columnas = tabla.tablaDataFrame(columnasDFIDF[0],columnasDFIDF[1],columnasDFIDF[2],columnasDFIDF[3])
-		
-	tabla.guardarTablaTFIDF(columnas, "tablaTFIDF")
 	
 
+	#print("dddd.",list(datos.keys()))
+
+	columnas = tabla.tablaDataFrame(columnasDFIDF[0],columnasDFIDF[1],columnasDFIDF[2],columnasDFIDF[3],True,list(datos.keys()))
+		
+	tabla.guardarTablaTFIDF(columnas, "pruebaPeliculas")
+	"""
+
 
 	
 
-
+	"""
 
 	filesPath = ["EjemplosExternos/buenaResult/Jim Carrey - The Un-Natural Act (1991).txt",
 			"EjemplosExternos/excelentResult/Marvels.The.Punisher.S02E13.WEB.x264-STRiFE.txt",
 			"EjemplosExternos/malaResult/2_English.txt",
 			"EjemplosExternos/regularResult/Splice.en.txt"]
-
+	"""
 	"""
 
 	tf_idf_matrix = pd.read_csv("tablaTFIDF.csv", index_col=0)
-
-	#Limpiar pelicula Individual
+	"""
+	"""#Limpiar pelicula Individual
 	limpiar = limpiadorTexto()
 	limpiar.limpiarPeliculaIndividual("C:/Users/Miguel/Desktop/proyTextos/EjemplosExternos/excelentResult", "Community S01E23 1080p WEB-DL DD+ 5.1 x264-TrollHD.srt")
 	#Medir pelicula
@@ -758,10 +775,60 @@ class main:
 		datosStemming = st.doStemming()
 
 		words = list(datosStemming.values())[0]
-		#print("DATOS: ", words,"\n\n\n")
+		
 		pelicula = Laplace(words, 1, 4, tf_idf_matrix, list(tf_idf_matrix.sum()))
 		print(pelicula.determinarPuntuacion())
-		
+	"""
+	"""
+	#print(tf_idf_matrix)
+	print(tf_idf_matrix["Resultado"])
+
+	#dataSet de entrenamiento
+	x = np.array(tf_idf_matrix.drop(["Resultado"],1))
+	y = np.array(tf_idf_matrix["Resultado"])
+
+	#separo los datos de entrenamien y prueba con el método de la biblioteca
+	x_train, x_test, y_train, y_test = train_test_split(x,y,test_size= 0.2)
+
+	#prueba del algoritmo SVC
+	svc = SVC(kernel="linear")
+	svc.fit(x_train,y_train)
+	y_pred = svc.predict(x_test)
+	print("Presicion del algoritmo: ", svc.score(x_train,y_train))
+	"""
+
+	
+	#y = datos.calificacion
+	#x = datos.drop('calificacion', axis=1)
+
+	#
+
+	#ALGORITMO  DE SVM
+	print(datos.keys())
+	x = datos.drop("Calificacion",axis =1)
+	y = datos["Calificacion"]
+
+	x_train, x_test, y_train, y_test = train_test_split(x,y,test_size= 0.1)
+	
+	#algoritmo
+	svc = SVC(kernel="linear")
+	svc.fit(x_train,y_train)
+	#y_pred = svc.predict(x_test)
+	#print("Presicion del algoritmo: ", svc.score(x_train,y_train))
+
+
+	peliculasAnalizar = pd.read_csv("pruebaPeliculas.csv", index_col=0)
+	x_prediccion = peliculasAnalizar.drop("Calificacion",axis =1)
+	
+
+	prediccion = svc.predict(x_prediccion)
+	print("SVC: ",prediccion)
+
+
+	#ALGORITMO  DE VECINOS MÁS CERCANOS
+	knn = KNeighborsClassifier(n_neighbors =3)
+	knn.fit(x_train,y_train)
+	print("KNN: ",knn.predict(x_prediccion))
 
 main()
 
