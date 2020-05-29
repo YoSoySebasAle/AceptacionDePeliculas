@@ -185,7 +185,6 @@ class Texto:
 		allTokens = {}
 		for file in self.files:
 			tokens = []
-			print("SSSS: ",self.dirname)
 			actualFile = open(self.dirname+'/'+file, encoding="utf8", errors="ignore")
 			linesList = actualFile.readlines()
 			allSubtitlesInMovie = ""
@@ -362,7 +361,7 @@ class TFIDF_global:
 		return tabla
 
 	def guardarTablaTFIDF(self, tabla,nombre):
-		guardaArc = tabla.to_csv(str(nombre + ".csv"), index = True, header = True)
+		guardaArc = tabla.to_csv(str(nombre), index = True, header = True)
 
 
 #Para procesar archivos a analizar
@@ -622,18 +621,76 @@ class NaiveBayesClassifierWithTfIdf:
 
 
 class Laplace:
-	def __init__(self, tokens,k,numclases,tabla,sumas):
-		self.tokens = tokens
-		self.k = k
-		self.x = numclases
-		self.tabla = tabla
-		self.sumas = sumas
 
-
-	def determinarPuntuacion (self):
+	def crearTablaEntrenamiento (self, nombresArchivosPeliculas, nombreArchivoTablaTFIDF):
 		"""
-			Calcula las probabilidades de que pertenezca a ese idioma el texto hecho n-gramas y devuelve cuál es
-			el idioma más probable del que se trate dicho texto.
+			El  método  crearTablaEntrenamiento  automatiza el proceso de creación de la tabla TF-IDF con 4 clasificaciones
+			(mala, regular, buena y excelente) y guarda la tabla TFDIF resultante en un archivo con extensión .csv.
+			El documento de salida tiene la siguiente estructura:
+									|	Malas 		 |		Regulares 		|		Buenas  	|		Excelentes
+							palabra1|    TF-IDF					TF-IDF				TF-IDF				TF-IDF	
+							palabra2|	 TF-IDF					TF-IDF				TF-IDF				TF-IDF
+							palabra3|		.						.					.					.
+							palabra4|		.						.					.					.
+							...	
+			
+			Parámetros de entrada:
+				nombresArchivosPeliculas: Es una palabra separada por comas donde  se mencionan los nombres de archivos
+										donde se encuentran todas las películas ya limpias. Debe colocar la extensión
+										Ejemplo:
+											"PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt"
+											Donde:
+												PeliculasMalasResult.txt contiene las 100 películas LIMPIAS listas para usarse para entrenar
+												PeliculasRegularesResult.txt contiene las 100 películas LIMPIAS listas para usarse para entrenar, etc
+
+			Parametros de salida:
+				nombreArchivoTablaTFIDF: Es el nombre .csv donde se guarda toda la tabla TF-IDF generada. NO colocar extensión			
+
+		"""
+		archivosPeliculas = nombresArchivosPeliculas.split(',')
+		columnasDFIDF = []
+		for archivo in archivosPeliculas:
+			tk = Texto(archivo)
+			tokens = tk.CreateTokens()
+			table = tk.matrizDeFrecuencias(tk.desempaquetaDiccionario(tokens))
+			tfTabla = tk.matrizTF(table)
+			tabla3 = tk.PalabrasPorDocumentos(table)
+			idfTabla = tk.matrizIDF(table, tabla3, len(tk.desempaquetaDiccionario(tokens)))
+			tfidfTabla= tk.matrizTFIDF(tfTabla, idfTabla)
+			columnasDFIDF.append(tfidfTabla)
+		tabla = TFIDF_global()
+		columnas = tabla.tablaDataFrame(columnasDFIDF[0],columnasDFIDF[1],columnasDFIDF[2],columnasDFIDF[3],False,None)
+		
+		tabla.guardarTablaTFIDF(columnas, nombreArchivoTablaTFIDF)
+	
+
+	def tokenizarPeliculaAAnalizar(self,ruta,nombrePelicula):
+		"""
+			Se obtiene  una lista con los tokens de la pelicula que se desea analizar para que posteriormente se pueda
+			utilizar en el método  "determinarPuntuación". Cabe destacar que el archivo debe estar libre de cualquier caracter
+			que no sea  una letra, por lo que PREVIAMENTE  A USAR ESTE MÉTODO se necesita usar  el método 
+			limpiarPeliculaIndividual(ruta, nombrePelicula) perteneciente a la clase limpiadorTexto
+
+			Entrada:
+					nombrePelicula: Es el archivo .txt de la pelicula que se desea analizar, ya preprocesada para que solo tenga texto
+										Debe colocar la extensión. Ejemplo: Batman.txt
+			salida:
+					Lista con los tokens
+		"""
+
+		tk = Tokenization(ruta,nombrePelicula)
+		tokens = tk.CreateTokens()
+
+		st = Stemming(tokens)
+		datosStemming = st.doStemming()
+
+		words = list(datosStemming.values())[0]
+		return words
+		
+
+	def determinarPuntuacion (self,tokens,k,x,tabla,sumas):
+		"""
+			Calcula la probabilidad  de que una película X, 
 			Para ello se emplea  Laplace y una escala logarítmica porque muchas veces las probabilidades
 			serán tan pequeñas que en otra escala podrían provocar pérdida de información, de esta forma se elimita ese problema.
 
@@ -646,24 +703,24 @@ class Laplace:
 
 		"""
 
-		prob_malas = math.log(self.tabla['Malas'].gt(0).sum()+self.k) - math.log(len(list(self.tabla.index))+self.k*self.x)
-		prob_regulares = math.log(self.tabla['Regulares'].gt(0).sum()+self.k) - math.log(len(list(self.tabla.index))+self.k*self.x)
-		prob_buenas = math.log(self.tabla['Buenas'].gt(0).sum()+self.k) - math.log(len(list(self.tabla.index))+self.k*self.x)
-		prob_excelentes = math.log(self.tabla['Excelentes'].gt(0).sum()+self.k)-math.log(len(list(self.tabla.index))+self.k*self.x)
+		prob_malas = math.log(tabla['Malas'].gt(0).sum()+k) - math.log(len(list(tabla.index))+k*x)
+		prob_regulares = math.log(tabla['Regulares'].gt(0).sum()+k) - math.log(len(list(tabla.index))+k*x)
+		prob_buenas = math.log(tabla['Buenas'].gt(0).sum()+k) - math.log(len(list(tabla.index))+k*x)
+		prob_excelentes = math.log(tabla['Excelentes'].gt(0).sum()+k)-math.log(len(list(tabla.index))+k*x)
 
 			
-		prob_malas = math.log(self.tabla['Malas'].gt(0).sum()+self.k)-math.log(len(list(self.tabla.index))+self.k*self.x)
-		prob_regulares = math.log(self.tabla['Regulares'].gt(0).sum()+self.k)-math.log(len(list(self.tabla.index))+self.k*self.x)
-		prob_buenas = math.log(self.tabla['Buenas'].gt(0).sum()+self.k)-math.log(len(list(self.tabla.index))+self.k*self.x)
-		prob_excelentes = math.log(self.tabla['Excelentes'].gt(0).sum()+self.k)-math.log(len(list(self.tabla.index))+self.k*self.x)
+		prob_malas = math.log(tabla['Malas'].gt(0).sum()+k)-math.log(len(list(tabla.index))+k*x)
+		prob_regulares = math.log(tabla['Regulares'].gt(0).sum()+k)-math.log(len(list(tabla.index))+k*x)
+		prob_buenas = math.log(tabla['Buenas'].gt(0).sum()+k)-math.log(len(list(tabla.index))+k*x)
+		prob_excelentes = math.log(tabla['Excelentes'].gt(0).sum()+k)-math.log(len(list(tabla.index))+k*x)
 		
 		
-		for grama in self.tokens:
-			if grama in list(self.tabla.index):
-				prob_malas += math.log(list(self.tabla.loc[grama])[0]+self.k)-math.log(self.sumas[0]+self.k*len(list(self.tabla.index)))
-				prob_regulares += math.log(list(self.tabla.loc[grama])[1]+self.k)-math.log(self.sumas[1]+self.k*len(list(self.tabla.index)))
-				prob_buenas += math.log(list(self.tabla.loc[grama])[2]+self.k)-math.log(self.sumas[2]+self.k*len(list(self.tabla.index)))
-				prob_excelentes  += math.log(list(self.tabla.loc[grama])[3]+self.k)-math.log(self.sumas[3]+self.k*len(list(self.tabla.index)))
+		for grama in tokens:
+			if grama in list(tabla.index):
+				prob_malas += math.log(list(tabla.loc[grama])[0]+k)-math.log(sumas[0]+k*len(list(tabla.index)))
+				prob_regulares += math.log(list(tabla.loc[grama])[1]+k)-math.log(sumas[1]+k*len(list(tabla.index)))
+				prob_buenas += math.log(list(tabla.loc[grama])[2]+k)-math.log(sumas[2]+k*len(list(tabla.index)))
+				prob_excelentes  += math.log(list(tabla.loc[grama])[3]+k)-math.log(sumas[3]+k*len(list(tabla.index)))
 
 		print([prob_malas, prob_regulares, prob_buenas, prob_excelentes])
 
@@ -678,6 +735,212 @@ class Laplace:
 			return 'Excelentes'
 
 
+
+class algoritmoSVM:
+
+	def construirTablaEntrenamiento(self, nombresArchivosPeliculas, nombreArchivoTablaTFIDF):
+		#
+		#	El  método  construirTablaEntrenamiento  automatiza el proceso de creación de la tabla TF-IDF con 4 clasificaciones
+		#	(mala, regular, buena y excelente) y guarda la tabla TFDIF resultante en un archivo con extensión .csv.
+		#	El documento de salida tiene la siguiente estructura:
+		#							|	palabra1 		 |		palabra2 		|		palabra3  	|		palabra4
+		#					  Malas |    TF-IDF					TF-IDF				TF-IDF				TF-IDF	
+		#					Regulres|	 TF-IDF					TF-IDF				TF-IDF				TF-IDF
+		#					Buenas  |		.						.					.					.
+		#				  Excelentes|		.						.					.					.
+		#					...	
+		#	
+		#	Parámetros de entrada:
+		#		nombresArchivosPeliculas: Es una palabra separada por comas donde  se mencionan los nombres de archivos
+		#								donde se encuentran todas las películas ya limpias. Debe colocar la extensión
+		#								Ejemplo:
+		#									"PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt"
+		#									Donde:
+		#										PeliculasMalasResult.txt contiene las 100 películas LIMPIAS listas para usarse para entrenar
+		#										PeliculasRegularesResult.txt contiene las 100 películas LIMPIAS listas para usarse para entrenar, etc
+		#
+		#	Parametros de salida:
+		#		nombreArchivoTablaTFIDF: Es el nombre .csv donde se guarda toda la tabla TF-IDF generada.
+		columnasDFIDF = []
+		archivos = nombresArchivosPeliculas.split(",")
+		for archivo in archivos:
+			tk = Texto(archivo)
+			tokens = tk.CreateTokens()
+			table = tk.matrizDeFrecuencias(tk.desempaquetaDiccionario(tokens))
+			tfTabla = tk.matrizTF(table)
+			tabla3 = tk.PalabrasPorDocumentos(table)
+			idfTabla = tk.matrizIDF(table, tabla3, len(tk.desempaquetaDiccionario(tokens)))
+			tfidfTabla= tk.matrizTFIDF(tfTabla, idfTabla)
+			columnasDFIDF.append(tfidfTabla)
+			tabla = TFIDF_global()
+
+		columnas = tabla.tablaDataFrame(columnasDFIDF[0],columnasDFIDF[1],columnasDFIDF[2],columnasDFIDF[3],True,None)
+		tabla.guardarTablaTFIDF(columnas, nombreArchivoTablaTFIDF)
+		tablaEntrenamiento = pd.read_csv(nombreArchivoTablaTFIDF, index_col=0)
+		tablaEntrenamiento["Calificacion"] = ["Mala","Regular", "Buena","Excelente"]
+		guardaArc = tablaEntrenamiento.to_csv(str(nombreArchivoTablaTFIDF), index = True, header = True)
+
+
+	def entrenarSistema(self, nombreTablaTFIDF, tipoKernel):
+		"""
+			El método entrenarSistema está diseñado para inicializar el algoritmo de Máquina de Vectores de Soporte (SVM).
+			Recibe los siguientes parámetros:
+				ENTRADA:
+					nombreTablaTFIDF: Nombre del archivo .csv creado con el método construirTablaEntrenamiento(nombresArchivosPeliculas, nombreArchivoTablaTFIDF)
+										de este mismo objeto
+					tipoKernel:  El algoritmo cuenta con varios tipos de kernel. Puede ser 'linear', 'poly', 'rbf', 'sigmoid', 'precomputed'
+		
+				SALIDA:
+					Instancia del algoritmo SVM ya entrenado
+		"""
+		datos = pd.read_csv(nombreTablaTFIDF, index_col=0)
+		x = datos.drop("Calificacion",axis =1)
+		y = datos["Calificacion"]
+		x_train, x_test, y_train, y_test = train_test_split(x,y,test_size= 0.1)
+	
+		#algoritmo
+		svc = SVC(kernel=tipoKernel)
+		return svc.fit(x_train,y_train)
+
+
+	def analizarPelicula(self,nombreTablaTFIDF, archivoPelicula, instanciaEntrenada):
+		"""
+			El método analizarPelicula, hace la predicción sobre los subtítulos de una película con el algoritmo SVM.
+			
+			ENTRADA:
+				nombreTablaTFIDF: Se coloca el mismo archivo con el que se entrenó el sistema
+				archivoPelicula: Nombre del archivo donde está la película LIMPIA (solo texto) que se va analizar.
+				instanciaEntrenada Instancia del algoritmo que ya fue entrenada previamente
+			SALIDA:
+				Texto con la predicción
+		"""
+		
+		datos = pd.read_csv(nombreTablaTFIDF, index_col=0)
+		
+		columnasDFIDF = []
+		tk = Texto(archivoPelicula)
+		tokens = tk.CreateTokens()
+		table = tk.matrizDeFrecuencias(tk.desempaquetaDiccionario(tokens))
+		tfTabla = tk.matrizTF(table)
+		tabla3 = tk.PalabrasPorDocumentos(table)
+		idfTabla = tk.matrizIDF(table, tabla3, len(tk.desempaquetaDiccionario(tokens)))
+		tfidfTabla= tk.matrizTFIDF(tfTabla, idfTabla)
+		columnasDFIDF.append(tfidfTabla)
+		tabla = TFIDF_global()
+		
+		columnas = tabla.tablaDataFrame(columnasDFIDF[0],{},{},{},True,list(datos.keys()))
+		
+		tabla.guardarTablaTFIDF(columnas, archivoPelicula +".csv")
+		svc = instanciaEntrenada
+		peliculasAnalizar = pd.read_csv(archivoPelicula +".csv", index_col=0)
+		x_prediccion = peliculasAnalizar.drop("Calificacion",axis =1)
+		prediccion = svc.predict(x_prediccion)
+		print("SVC: ",prediccion)
+
+
+
+
+class algoritmoKNeighbors:
+
+	def construirTablaEntrenamiento(self, nombresArchivosPeliculas, nombreArchivoTablaTFIDF):
+		#
+		#	El  método  construirTablaEntrenamiento  automatiza el proceso de creación de la tabla TF-IDF con 4 clasificaciones
+		#	(mala, regular, buena y excelente) y guarda la tabla TFDIF resultante en un archivo con extensión .csv.
+		#	El documento de salida tiene la siguiente estructura:
+		#							|	palabra1 		 |		palabra2 		|		palabra3  	|		palabra4
+		#					  Malas |    TF-IDF					TF-IDF				TF-IDF				TF-IDF	
+		#					Regulres|	 TF-IDF					TF-IDF				TF-IDF				TF-IDF
+		#					Buenas  |		.						.					.					.
+		#				  Excelentes|		.						.					.					.
+		#					...	
+		#	
+		#	Parámetros de entrada:
+		#		nombresArchivosPeliculas: Es una palabra separada por comas donde  se mencionan los nombres de archivos
+		#								donde se encuentran todas las películas ya limpias. Debe colocar la extensión
+		#								Ejemplo:
+		#									"PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt"
+		#									Donde:
+		#										PeliculasMalasResult.txt contiene las 100 películas LIMPIAS listas para usarse para entrenar
+		#										PeliculasRegularesResult.txt contiene las 100 películas LIMPIAS listas para usarse para entrenar, etc
+		#
+		#	Parametros de salida:
+		#		nombreArchivoTablaTFIDF: Es el nombre .csv donde se guarda toda la tabla TF-IDF generada.
+
+		archivos = nombresArchivosPeliculas.split(",")
+		columnasDFIDF = []
+		for archivo in archivos:
+			tk = Texto(archivo)
+			tokens = tk.CreateTokens()
+			table = tk.matrizDeFrecuencias(tk.desempaquetaDiccionario(tokens))
+			tfTabla = tk.matrizTF(table)
+			tabla3 = tk.PalabrasPorDocumentos(table)
+			idfTabla = tk.matrizIDF(table, tabla3, len(tk.desempaquetaDiccionario(tokens)))
+			tfidfTabla= tk.matrizTFIDF(tfTabla, idfTabla)
+			columnasDFIDF.append(tfidfTabla)
+			tabla = TFIDF_global()
+
+		columnas = tabla.tablaDataFrame(columnasDFIDF[0],columnasDFIDF[1],columnasDFIDF[2],columnasDFIDF[3],True,None)
+		tabla.guardarTablaTFIDF(columnas, nombreArchivoTablaTFIDF)
+		tablaEntrenamiento = pd.read_csv(nombreArchivoTablaTFIDF, index_col=0)
+		tablaEntrenamiento["Calificacion"] = ["Mala","Regular", "Buena","Excelente"]
+		guardaArc = tablaEntrenamiento.to_csv(str(nombreArchivoTablaTFIDF), index = True, header = True)
+
+
+	def entrenarSistema(self, nombreTablaTFIDF, n):
+		"""
+			El método entrenarSistema está diseñado para inicializar el algoritmo de Máquina de Vectores de Soporte (SVM).
+			Recibe los siguientes parámetros:
+				ENTRADA:
+					nombreTablaTFIDF: Nombre del archivo .csv creado con el método construirTablaEntrenamiento(nombresArchivosPeliculas, nombreArchivoTablaTFIDF)
+										de este mismo objeto
+					tipoKernel:  El algoritmo cuenta con varios tipos de kernel. Puede ser 'linear', 'poly', 'rbf', 'sigmoid', 'precomputed'
+					n: Numero de vecinos del algoritmo. Debe estar entre 1 y 3
+				SALIDA:
+					Instancia del algoritmo SVM ya entrenado
+		"""
+		datos = pd.read_csv(nombreTablaTFIDF, index_col=0)
+		x = datos.drop("Calificacion",axis =1)
+		y = datos["Calificacion"]
+		x_train, x_test, y_train, y_test = train_test_split(x,y,test_size= 0.1)
+	
+		#algoritmo
+		knn = KNeighborsClassifier(n_neighbors = 3)
+		return knn.fit(x_train,y_train)
+
+
+	def analizarPelicula(self,nombreTablaTFIDF, archivoPelicula, instanciaEntrenada):
+		"""
+			El método analizarPelicula, hace la predicción sobre los subtítulos de una película con el algoritmo SVM.
+			
+			ENTRADA:
+				nombreTablaTFIDF: Se coloca el mismo archivo con el que se entrenó el sistema
+				archivoPelicula: Nombre del archivo donde está la película LIMPIA (solo texto) que se va analizar.
+				instanciaEntrenada: Instancia del algoritmo que ya fue entrenada previamente
+
+			SALIDA:
+				Texto con la predicción
+		"""
+		
+		datos = pd.read_csv(nombreTablaTFIDF, index_col=0)
+		
+		columnasDFIDF = []
+		tk = Texto(archivoPelicula)
+		tokens = tk.CreateTokens()
+		table = tk.matrizDeFrecuencias(tk.desempaquetaDiccionario(tokens))
+		tfTabla = tk.matrizTF(table)
+		tabla3 = tk.PalabrasPorDocumentos(table)
+		idfTabla = tk.matrizIDF(table, tabla3, len(tk.desempaquetaDiccionario(tokens)))
+		tfidfTabla= tk.matrizTFIDF(tfTabla, idfTabla)
+		columnasDFIDF.append(tfidfTabla)
+		tabla = TFIDF_global()
+		
+		columnas = tabla.tablaDataFrame(columnasDFIDF[0],{},{},{},True,list(datos.keys()))
+		
+		tabla.guardarTablaTFIDF(columnas, archivoPelicula +".csv")
+		knn = instanciaEntrenada
+		peliculasAnalizar = pd.read_csv(archivoPelicula +".csv", index_col=0)
+		x_prediccion = peliculasAnalizar.drop("Calificacion",axis =1)
+		print("Prediccion por Knn: ",knn.predict(x_prediccion))
 
 
 class main:
@@ -695,7 +958,7 @@ class main:
 	print(len(tokens))
 	"""
 	
-	datos = pd.read_csv("tablaTFIDF.csv", index_col=0)
+	#datos = pd.read_csv("tablaTFIDF.csv", index_col=0)
 
 
 
@@ -804,7 +1067,7 @@ class main:
 	#
 
 	#ALGORITMO  DE SVM
-	print(datos.keys())
+	"""print(datos.keys())
 	x = datos.drop("Calificacion",axis =1)
 	y = datos["Calificacion"]
 
@@ -828,7 +1091,38 @@ class main:
 	#ALGORITMO  DE VECINOS MÁS CERCANOS
 	knn = KNeighborsClassifier(n_neighbors =3)
 	knn.fit(x_train,y_train)
-	print("KNN: ",knn.predict(x_prediccion))
+	print("KNN: ",knn.predict(x_prediccion))"""
+
+	########################################################################################################################33
+	
+	#LimpiarArchivos
+	limpiador = limpiadorTexto()
+	limpiador.ProcessFiles(limpiador.FindFiles("srt","PeliculasBuenas,PeliculasExcelentes,PeliculasMalas,PeliculasRegulares"))
+	
+	print("Limpia archivo a  analizar")
+	limpiador.ProcessFiles(limpiador.FindFiles("srt","peliPrueba"))
+
+	
+	print("\nALGORITMO DE LAPLACE")
+	laplace = Laplace()
+	laplace.crearTablaEntrenamiento("PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt,PeliculasMalasResult.txt,PeliculasRegularesResult.txt","TFIDF-Laplace.csv")
+	tokensPelicula = laplace.tokenizarPeliculaAAnalizar("C:/Users/Miguel/Desktop/proyTextos","peliPruebaResult.txt")
+	tablaEntrenamientoLaplace = pd.read_csv("TFIDF-Laplace.csv", index_col=0)
+	print(laplace.determinarPuntuacion(tokensPelicula,1,4,tablaEntrenamientoLaplace,list(tablaEntrenamientoLaplace.sum())))
+
+
+	print("Algoritmo de SVM")
+	svm_instancia = algoritmoSVM()
+	svm_instancia.construirTablaEntrenamiento("PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt,PeliculasMalasResult.txt,PeliculasRegularesResult.txt","TFIDF-SVM.csv")
+	svm_entrenado = svm_instancia.entrenarSistema("TFIDF-SVM.csv","linear")
+	svm_instancia.analizarPelicula("TFIDF-SVM.csv","peliPruebaResult.txt",svm_entrenado)
+
+
+	print("Algoritmo de N-Neighbors")
+	n_neighbors = algoritmoKNeighbors()
+	n_neighbors.construirTablaEntrenamiento("PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt,PeliculasMalasResult.txt,PeliculasRegularesResult.txt","TFIDF-Nneig.csv")
+	neighbors_entrenado = n_neighbors.entrenarSistema("TFIDF-Nneig.csv",3)
+	n_neighbors.analizarPelicula("TFIDF-Nneig.csv","peliPruebaResult.txt",neighbors_entrenado)
 
 main()
 
