@@ -15,18 +15,28 @@ from sklearn.neighbors import KNeighborsClassifier
 class  limpiadorTexto:
 	def __init__(self):
 		"""
-			Constructor para la clase Limpiador de texto. Los parámetros que recibe son:
-				-Extension: La extensión de los archivos que se desean buscar y limpiar
-				-Ruta: Ruta de la carpeta que contiene los archivos a limpiar
-				-Modo: Puede ser True o  False. Si se requiere limpiar todas las películas de la carpeta y meterlo todo 
-						en un solo archivo de texto con el separador "----NEWMOVIE----", entonces seleccione TRUE (ESTO ES 
-						PARA ENTRENAR EL SISTEMA), de lo contrario coloque FALSE y así se limpiarán cada uno de los 
-						archivos de dicha carpeta conservando su nombre original (ESTO ES PARA LA OPERACIÓN DEL SISTEMA)
+			Constructor para la clase Limpiador de texto
 		"""
 		self.dirname = ''
 
 
 	def FindFiles(self,extension,carpetas):
+		"""
+		El método FindFiles encuentra todos los archivos con una extensión en específica en una carpeta.
+
+		Los parámetros que recibe son:
+				-Extension [string]: La extensión de los archivos que se desean buscar y limpiar
+				-carpetas: [string]: Es el nombre de las carpetas donde se van a buscar los archivos. Van separadas por coma
+							y sin espacios
+		Parametros de saldia:
+				-diccionario con la siguiente estructura:
+						filesAllCategories = {
+												carpeta1: [nombreArchivo1, nombreArchivo2, nombreArchivo3...]
+												carpeta2: [nombreArchivo1, nombreArchivo2, nombreArchivo3...]
+												...
+						}	
+		"""
+
 		filesAllCategories = {}
 		folders = carpetas.split(",")
 		dirname, filename = os.path.split(os.path.abspath(__file__))
@@ -39,15 +49,25 @@ class  limpiadorTexto:
 			filesAllCategories[folder] = files
 		return filesAllCategories
 
-	"""
-		Process Files
 
-		Recibe: Diccionario
-			Clave: Nombre de la carpeta de los subtitulos
-			Valor: Lista con todos los nombres de los subtítulos en dicha carpeta
-		Devuleve: Crea un archivo para cada clave del diccionario. Este archivo contiene todos los subtitulos limpios de la categoria.
-	"""
 	def ProcessFiles(self,filesAllCategories):
+		"""
+			Este método hace la limpieza de todos los archivos de una carpeta (solo deja letras, elimita todo lo demás)
+			y crea UN SOLO documento donde las guarda a todas. Para diferenciar entre una película y otra se añade la 
+			leyenda "-----NewMovie-----".
+
+			Recibe:
+				filesAllCategories [diccionario]:  es un diccionario con la siguiente estructura
+								filesAllCategories = {
+																carpeta1: [nombreArchivo1, nombreArchivo2, nombreArchivo3...]
+																carpeta2: [nombreArchivo1, nombreArchivo2, nombreArchivo3...]
+																...
+										}
+			Salida
+				Archivo .txt: Archivo de texto plano con todas las películas. Se guarda en la misma carpeta donde está almacenado
+								este programa ejecutable. El nombre se construye con el nombre de la carpeta + "result.txt" 
+		"""
+
 		dirname, filename = os.path.split(os.path.abspath(__file__))
 		dirname = self.dirname
 		for key in filesAllCategories:
@@ -102,10 +122,19 @@ class  limpiadorTexto:
 
 
 	def limpiarPeliculaIndividual(self, ruta, nombrePelicula):
-		#dirname, filename = os.path.split(os.path.abspath(__file__))
-		#dirname = self.dirname
+		"""
+			El método hace la limpieza de un solo archivo a la vez (elimina todo caracter que no sea una letra) y lo guarda
+			en la misma carpeta donde está  almacenado esta aplicación.
+			
+			Entrada:
+				ruta [string]: Es la ruta donde está guardado el archivo .srt que se desea procesar
+				nombrePelicula [string]: Nombre del archivo .srt 
+
+			Salida:
+				Archivo [.txt]: Archivo de texto plano que contiene todos los subtitulos limpios
+
+		"""
 		dirname = ruta
-		#os.chdir(dirname+"/"+nombrePelicula)
 		print(dirname+"/"+nombrePelicula)
 		actualFile = open(dirname+"/"+nombrePelicula, encoding="utf8", errors="ignore")
 		linesList = actualFile.readlines()
@@ -155,13 +184,16 @@ class Texto:
 		La clase texto contiene los métodos necesarios para realizar el tokenizado, stemming, matriz TF,
 			matriz IDF y la matriz TF-IDF de un conjunto de datos provenientes de un archivo .txt. 
 			Cabe destacar que para utilizar  un objeto de esta clase de forma adecuada, es obligatorio
-			haber preprocesado el archivo para eliminar cualquier símbolo que no sea una letra.
+			haber preprocesado el archivo para eliminar cualquier símbolo que no sea una letra, para ello utilice
+			la clase limpiarTexto
 	"""
 
 	def __init__(self, files):
 		"""
 			Constructor de la clase Texto
-			Recibe: el nombre del archivo
+			Entrada:
+				files: Es el nombre del archivo o archivos a tokenizar. No debe haber espacios y se separan por comas.
+						Por ejemplo: archivo1,archivo2,archivo3...
 		"""
 		self.files = files.split(',')
 		self.dirname, self.filename = os.path.split(os.path.abspath(__file__))
@@ -174,9 +206,9 @@ class Texto:
 			Recibe: -
 			Salida: Diccionario de diccionarios, que siguen la siguiente estructura:
 					Salida = {
-						archivo1 = [texto completo de la pelicula...]
-						archivo2 = [texto completo de la pelicula...]
-						archivo3 = [texto completo de la pelicula...]
+						archivo1 = [subtitulo completo de la pelicula...]
+						archivo2 = [subtitulo completo de la pelicula...]
+						archivo3 = [subtitulo completo de la pelicula...]
 						.
 						.
 						.
@@ -223,6 +255,19 @@ class Texto:
 		return a
 
 	def matrizDeFrecuencias(self,docencia):
+		"""
+			El método hace todo el proceso para obtener la matriz de Frecuencias de un documento. En el proceso
+			obtiene las stopWords,  tokeniza el documento  y  a través del algoritmo de Porter, aplica el stemming
+			a cada una de las palabras para que posteriormente  se guarde un diccionario con todas las palabras y
+			frecuencias con la estructura: llave = palabra y valor = frecuencia.
+
+			ENTRADA:
+				docencia: Son los subtitulos de la película en un solo string
+
+			Salida:
+				Diccionario con la matriz de frecuencias, en donde las llaves son las palabras de cada uno de los textos
+				y los valores son las frecuencias
+		"""
 		MatrizFreq = {}
 		stopWords = set(stopwords.words("english"))
 		ps = PorterStemmer()
@@ -246,6 +291,15 @@ class Texto:
 		return MatrizFreq
 
 	def matrizTF(self, frecuenciasPal):
+		"""
+			El método obtiene la matriz TF de un documento. Para ello utiliza un diccionario con las frecuencias
+			de las palabras y divide  ese valor por la cantidad total de palabras en el documento.
+			Entrada:
+				frecuenciasPal [Diccionario]: Diccionario con las palabras y su frecuencia
+			Salida:
+				Diccionario con las frecuencias de término de cada una de las palabras del  documento
+
+		"""
 		tf_matriz = {}
 
 		for x, f_table in frecuenciasPal.items():
@@ -260,10 +314,16 @@ class Texto:
 		return tf_matriz
 
 	def PalabrasPorDocumentos(self, frecuenciasPal):
+		"""
+			Este método cuenta la cantidad de veces que se repite una palabra en todos los documentos de la colección.
+			Entrada:
+				frecuenciasPal [Diccionario]: Diccionario con todas las palabras del documento y sus frecuencias
+			Salida:
+				Diccionario con cada de una de las palabras como llave y como valor el número de veces que aparece en todos
+					los documentos
+		"""
 		palPorDoc = {}
 		for doc, f_table in frecuenciasPal.items():
-			#doc tiene el nombre de la pelicula
-			#f_table tiene la tabla de frecuencias de cada documento
 			for word, count in f_table.items():
 				if word in palPorDoc:
 					palPorDoc[word] += 1
@@ -273,6 +333,19 @@ class Texto:
 		return palPorDoc
 
 	def matrizIDF(self, frecuenciasPal, palPorDoc, total):
+		"""
+			Calcula la matriz IDF, para ello aplica la formula:
+											idf_palabra = (TotalDeDocumentos/NumVecesQueAparece)+1
+			El "+1" es un factor de corrección.
+
+			ENTRADA: 
+				frecuenciasPal: [Diccionario] con todas las palabras del documento y sus frecuencias
+				palPorDoc  [Diccionario] con todas las palabras del documento y el número de veces que aparece en todos lso documentos
+				total= Número de documentos  de esa categoría
+
+			SALIDA:
+				Diccionario con la matriz IDF. Las llaves son las palabras y los valores son los resultados de IDF
+		"""
 		idf_matriz = {}
 		for doc, f_table in frecuenciasPal.items():
 			idf_table = {}
@@ -284,43 +357,68 @@ class Texto:
 		return idf_matriz
 
 	def matrizTFIDF(self, tf_matriz, idf_matriz):
+		"""	
+			El método calcula la matriz de TF-IDF a través de la multiplicación  de cada una de las palabras.
+			La fórmula es TFIDF_palabra = TF_palabra*IDF_palabra
+			ENTRADA:
+				tf_matriz [Diccionario] con la matriz TF
+				idf_matriz [Diccionario] con la matriz TF
+			SALIDA:
+				Diccionario con la matriz TF_IDF. Las llaves son las palabras y los valores son los TFIDF calculados
+				para esa palabra
+		"""
 		tf_idf_matriz = {}
 		for (doc1, f_table1), (doc2, f_table2) in zip(tf_matriz.items(), idf_matriz.items()):
 			tf_idf_table = {}
 			for (word1, valor1), (word2, valor2) in zip(f_table1.items(), f_table2.items()):
 				tf_idf_table[word1] = float(valor1 * valor2)
 			tf_idf_matriz[doc1] = tf_idf_table
-
 		nombreDic = list(tf_idf_matriz)
 		nombreDic = list(set(nombreDic))
-		#print("Nombre dic: ", nombreDic)
-
-		#print("\nMatriz: ",tf_idf_matriz)
-
 		tf_idf_matriz2 ={}
 		for x in  nombreDic:
 			tf_idf_matriz2 = dict(tf_idf_matriz2, **tf_idf_matriz[x])
-		#	tf_idf_matriz2 = tf_idf_matriz2 + dict(tf_idf_matriz[nombreDic[0]])
 
 		return tf_idf_matriz2
 
 
 
 
-
-
 class TFIDF_global:
+	"""
+		Esta clase junta las 4 tablas TF-IDF generadas para cada una de las categorías de la clasificación (malas,
+		regulares, buenas, excelentes) y genera un archivo .csv  que posteriormente guarda para poder utilizarlo en
+		los algoritmos
+	"""
+
+
 	def tablaDataFrame(self,bolsaA,bolsaB, bolsaC, bolsaD,transpuesta, cargaFilas):
-		
+		"""
+			El método genera el dataframe con las 4 tablas TF-IDF  creadas para cada una de las categorías de la 
+			clasificación.
+
+			RECIBE
+				bolsaA: [Diccionario]  con la tabla TF-IDF de la categoría Malas
+				bolsaB: [Diccionario]  con la tabla TF-IDF de la categoría Regulares
+				bolsaC: [Diccionario]  con la tabla TF-IDF de la categoría Buenas
+				bolsaD: [Diccionario]  con la tabla TF-IDF de la categoría Excelentes
+				transpuesta [BOOLEANO]: utilizar True si se desea transponer la matriz resultante, False si no.
+				cargaFilas [DICCIONARIO]: Si son conocidas las filas de la matriz TF-IDF usada para entrenar el sistema,
+											se pueden cargar directamente con este parámetro. Esto sirve para que cuando
+											se evalúe una película, tenga todas las filas con las que se entrenó el sistema
+											y únicamente se llenen los valores que se usen, de lo contrario la tabla TF-IDF
+											de una película no tendrá la misma cantidad de filas que la del sistema completo
+											y provocaría un error al ejecutar los algoritmos.
+			SALIDA
+				[Dataframe de Pandas] 
+
+		"""
 		if cargaFilas == None:
-			#Se obtienen valores únicos en las filas
 			filas = list(bolsaA.keys()) + list(bolsaB.keys()) +  list(bolsaC.keys()) +  list(bolsaD.keys())
 			filas = list(set(filas))
-			#filas.sort()
 		else:
 			filas = cargaFilas
 		filas.sort()
-		#listas para cada idioma de coincidencias
 		filasMalas = []
 		filasRegulares = []
 		filasBuenas = []
@@ -361,26 +459,38 @@ class TFIDF_global:
 		return tabla
 
 	def guardarTablaTFIDF(self, tabla,nombre):
+		"""
+			Guarda el dataframe de pandas generado con el método  tablaDataFrame().
+			ENTRADA:
+				tabla [DATAFRAME de Pandas]
+				nombre [STRING]: Nombre con el que se guardará la tabla. Debe colocar la extensión .csv también
+		"""
 		guardaArc = tabla.to_csv(str(nombre), index = True, header = True)
 
 
-#Para procesar archivos a analizar
+
 
 class Tokenization:
 	def __init__(self, ruta,archivo):
-		#self.files = files.split(',')
+		"""
+			Constructor de la clase
+				ENTRADA:
+					ruta: Ruta del archivo a tokenizar
+					archivo: Nombre del archivo a tokenizar
+		"""
 		self.dirname, self.filename = os.path.split(os.path.abspath(__file__))
 		self.ruta = ruta
 		self.archivo = archivo
-	"""
-        CreateTokens
-        Devuelve: Diccionario
-            Clave: Nombre del archivo a tokenizar
-            Valor: Lista con todos los tokens del archivo
-	"""
+
+
 	def CreateTokens(self):
+			"""
+        	CreateTokens
+        	Devuelve: Diccionario
+            	Clave: Nombre del archivo a tokenizar
+            	Valor: Lista con todos los tokens del archivo
+		"""
 		allTokens = {}
-		#for file in self.files:
 		tokens = []
 		actualFile = open(self.ruta+'/'+self.archivo, encoding="utf8", errors="ignore")
 		linesList = actualFile.readlines()
@@ -393,9 +503,19 @@ class Tokenization:
 
 class  Stemming:
 	def __init__(self, dicTokens):
+		"""
+			Constructor de la clase
+				Entrada:
+					dicTokens [Diccionario] con los tokens de la película
+		"""
 		self.dicTokens = dicTokens
 
 	def doStemming(self):
+		"""
+			Hace el stemming de cada palabra del  un diccionario a través del algoritmo PoterStemmer
+
+			Salida: [Diccionario] de los tokens ya con stemming
+		"""
 		stemmer = PorterStemmer()
 		for  key in self.dicTokens.keys():
 			for  i in range(0,len(self.dicTokens[key])):
@@ -690,7 +810,7 @@ class Laplace:
 
 	def determinarPuntuacion (self,tokens,k,x,tabla,sumas):
 		"""
-			Calcula la probabilidad  de que una película X, 
+			Calcula la probabilidad  de que una película X sea Mala, regular, buena o excelente.
 			Para ello se emplea  Laplace y una escala logarítmica porque muchas veces las probabilidades
 			serán tan pequeñas que en otra escala podrían provocar pérdida de información, de esta forma se elimita ese problema.
 
@@ -944,156 +1064,6 @@ class algoritmoKNeighbors:
 
 
 class main:
-
-	#LimpiarArchivos
-	#limpiador = limpiadorTexto()
-	#limpiador.ProcessFiles(limpiador.FindFiles("srt","PeliculasBuenas,PeliculasExcelentes,PeliculasMalas,PeliculasRegulares"))
-
-
-	#Prueba para un solo archivo
-	"""archivos = []
-	tk = Texto("PeliculasExcelentesResult.txt")
-	tokens = tk.CreateTokens()
-
-	print(len(tokens))
-	"""
-	
-	#datos = pd.read_csv("tablaTFIDF.csv", index_col=0)
-
-
-
-	"""print("Se crearon los nuevos arhcivos de peliiculas")
-	#Creación de la tabla
-	archivos = ["PeliculasMalasResult.txt","PeliculasRegularesResult.txt", "PeliculasBuenasResult.txt","PeliculasExcelentesResult.txt"]
-	#archivos = ["PeliculasExcelentesResult.txt"]
-	columnasDFIDF = []
-	for archivo in archivos:
-		#Crea objeto de la clase texto
-		tk = Texto(archivo)
-		#Obtienen los tokens
-		tokens = tk.CreateTokens()
-		#print(tokens)
-		#print(tk.desempaquetaDiccionario(tokens))
-		#Se obtiene la matriz de Frecuencias
-		table = tk.matrizDeFrecuencias(tk.desempaquetaDiccionario(tokens))
-		#print(table)
-		#print("LEN FRECUENCIAS ", len(table))
-
-		#Obtiene la matriz TF
-		tfTabla = tk.matrizTF(table)
-		#print(tfTabla)
-		#print(len(tfTabla))
-	
-		#Se obtiene el número de documentos en los que aparece cada palabra
-		tabla3 = tk.PalabrasPorDocumentos(table)
-		#print("FRECUENCIAS POR DOCUMENTO: ",tabla3)
-		#print("FRECUENCIAS POR DOCUMENTO: ",len(tabla3))
-		#Crea matriz IDF
-		idfTabla = tk.matrizIDF(table, tabla3, len(tk.desempaquetaDiccionario(tokens)))
-
-		#Crea matriz TF-IDF
-		tfidfTabla= tk.matrizTFIDF(tfTabla, idfTabla)
-
-		#Se guarda esa columna para poder generar la tabla completa
-		columnasDFIDF.append(tfidfTabla)
-	
-	tabla = TFIDF_global()
-	
-
-	#print("dddd.",list(datos.keys()))
-
-	columnas = tabla.tablaDataFrame(columnasDFIDF[0],columnasDFIDF[1],columnasDFIDF[2],columnasDFIDF[3],True,list(datos.keys()))
-		
-	tabla.guardarTablaTFIDF(columnas, "pruebaPeliculas")
-	"""
-
-
-	
-
-	"""
-
-	filesPath = ["EjemplosExternos/buenaResult/Jim Carrey - The Un-Natural Act (1991).txt",
-			"EjemplosExternos/excelentResult/Marvels.The.Punisher.S02E13.WEB.x264-STRiFE.txt",
-			"EjemplosExternos/malaResult/2_English.txt",
-			"EjemplosExternos/regularResult/Splice.en.txt"]
-	"""
-	"""
-
-	tf_idf_matrix = pd.read_csv("tablaTFIDF.csv", index_col=0)
-	"""
-	"""#Limpiar pelicula Individual
-	limpiar = limpiadorTexto()
-	limpiar.limpiarPeliculaIndividual("C:/Users/Miguel/Desktop/proyTextos/EjemplosExternos/excelentResult", "Community S01E23 1080p WEB-DL DD+ 5.1 x264-TrollHD.srt")
-	#Medir pelicula
-	
-	
-	filesPath = [["C:/Users/Miguel/Desktop/proyTextos/EjemplosExternos/excelentResult","Community S01E23 1080p WEB-DL DD+ 5.1 x264-TrollHD.srt.txt"]]
-
-	for filePath in filesPath:	
-		print(filePath)
-		tk = Tokenization(filePath[0],filePath[1])
-		tokens = tk.CreateTokens()
-
-		st = Stemming(tokens)
-		datosStemming = st.doStemming()
-
-		words = list(datosStemming.values())[0]
-		
-		pelicula = Laplace(words, 1, 4, tf_idf_matrix, list(tf_idf_matrix.sum()))
-		print(pelicula.determinarPuntuacion())
-	"""
-	"""
-	#print(tf_idf_matrix)
-	print(tf_idf_matrix["Resultado"])
-
-	#dataSet de entrenamiento
-	x = np.array(tf_idf_matrix.drop(["Resultado"],1))
-	y = np.array(tf_idf_matrix["Resultado"])
-
-	#separo los datos de entrenamien y prueba con el método de la biblioteca
-	x_train, x_test, y_train, y_test = train_test_split(x,y,test_size= 0.2)
-
-	#prueba del algoritmo SVC
-	svc = SVC(kernel="linear")
-	svc.fit(x_train,y_train)
-	y_pred = svc.predict(x_test)
-	print("Presicion del algoritmo: ", svc.score(x_train,y_train))
-	"""
-
-	
-	#y = datos.calificacion
-	#x = datos.drop('calificacion', axis=1)
-
-	#
-
-	#ALGORITMO  DE SVM
-	"""print(datos.keys())
-	x = datos.drop("Calificacion",axis =1)
-	y = datos["Calificacion"]
-
-	x_train, x_test, y_train, y_test = train_test_split(x,y,test_size= 0.1)
-	
-	#algoritmo
-	svc = SVC(kernel="linear")
-	svc.fit(x_train,y_train)
-	#y_pred = svc.predict(x_test)
-	#print("Presicion del algoritmo: ", svc.score(x_train,y_train))
-
-
-	peliculasAnalizar = pd.read_csv("pruebaPeliculas.csv", index_col=0)
-	x_prediccion = peliculasAnalizar.drop("Calificacion",axis =1)
-	
-
-	prediccion = svc.predict(x_prediccion)
-	print("SVC: ",prediccion)
-
-
-	#ALGORITMO  DE VECINOS MÁS CERCANOS
-	knn = KNeighborsClassifier(n_neighbors =3)
-	knn.fit(x_train,y_train)
-	print("KNN: ",knn.predict(x_prediccion))"""
-
-	########################################################################################################################33
 	
 	#LimpiarArchivos
 	limpiador = limpiadorTexto()
