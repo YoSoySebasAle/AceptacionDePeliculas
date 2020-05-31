@@ -135,7 +135,6 @@ class  limpiadorTexto:
 
 		"""
 		dirname = ruta
-		print(dirname+"/"+nombrePelicula)
 		actualFile = open(dirname+"/"+nombrePelicula, encoding="utf8", errors="ignore")
 		linesList = actualFile.readlines()
 		linesForMovie = []
@@ -842,7 +841,7 @@ class Laplace:
 				prob_buenas += math.log(list(tabla.loc[grama])[2]+k)-math.log(sumas[2]+k*len(list(tabla.index)))
 				prob_excelentes  += math.log(list(tabla.loc[grama])[3]+k)-math.log(sumas[3]+k*len(list(tabla.index)))
 
-		print([prob_malas, prob_regulares, prob_buenas, prob_excelentes])
+		#print([prob_malas, prob_regulares, prob_buenas, prob_excelentes])
 
 		probaMax = max([prob_malas,prob_regulares,prob_buenas, prob_excelentes])
 		if probaMax ==  prob_malas:
@@ -1067,30 +1066,56 @@ def main():
 
 	#LimpiarArchivos
 	limpiador = limpiadorTexto()
-	limpiador.ProcessFiles(limpiador.FindFiles("srt","PeliculasBuenas,PeliculasExcelentes,PeliculasMalas,PeliculasRegulares"))
+	#limpiador.ProcessFiles(limpiador.FindFiles("srt","PeliculasBuenas,PeliculasExcelentes,PeliculasMalas,PeliculasRegulares"))
 
-	print("Limpia archivo a  analizar")
-	limpiador.ProcessFiles(limpiador.FindFiles("srt","EjemplosExternos"))
+	peliculas = [["./EjemplosExternos/buenaResult","Dunkirk.2017.1080p.BluRay.H264.AAC-RARBG.srt"],["./EjemplosExternos/buenaResult","Jim Carrey - The Un-Natural Act (1991).srt"], \
+	["./EjemplosExternos/excelentResult","Banking.On.Africa.The.Bitcoin.Revolution.2020.WEBRip.x264-ION10.srt"],["./EjemplosExternos/excelentResult","Marvels.The.Punisher.S02E13.WEB.x264-STRiFE.srt"],\
+	["./EjemplosExternos/malaResult","2_English.srt"],["./EjemplosExternos/malaResult","Skinned.2020.NORDiC.1080p.WEB-DL.H.264.DD5.1-TWA.sv.srt"],\
+	["./EjemplosExternos/regularResult","Splice.en.srt"],["./EjemplosExternos/regularResult","Stranded (2001).srt"]]
 
-	# print("\nALGORITMO DE LAPLACE")
-	# laplace = Laplace()
-	# laplace.crearTablaEntrenamiento("PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt,PeliculasMalasResult.txt,PeliculasRegularesResult.txt","TFIDF-Laplace.csv")
-	# tokensPelicula = laplace.tokenizarPeliculaAAnalizar("./EjemplosExternos/excelentResult", "Marvels.The.Punisher.S02E13.WEB.x264-STRiFE.srt")
-	# tablaEntrenamientoLaplace = pd.read_csv("TFIDF-Laplace.csv", index_col=0)
-	# print(laplace.determinarPuntuacion(tokensPelicula,1,4,tablaEntrenamientoLaplace,list(tablaEntrenamientoLaplace.sum())))
+
+	"""for ruta,pelicula in peliculas:
+		print("Limpiando actualmente: ", pelicula)
+		limpiador.limpiarPeliculaIndividual(ruta,pelicula)"""
+
+
+	laplace = Laplace()
+	#laplace.crearTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-Laplace.csv")
+	tablaEntrenamientoLaplace = pd.read_csv("TFIDF-Laplace.csv", index_col=0)
+
 
 	# print("Algoritmo de SVM")
 	svm_instancia = algoritmoSVM()
-	svm_instancia.construirTablaEntrenamiento("PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt,PeliculasMalasResult.txt,PeliculasRegularesResult.txt","TFIDF-SVM.csv")
+	#svm_instancia.construirTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-SVM.csv")
 	svm_entrenado = svm_instancia.entrenarSistema("TFIDF-SVM.csv","linear")
-	svm_instancia.analizarPelicula("TFIDF-SVM.csv",
-	"./EjemplosExternos/excelentResult/Marvels.The.Punisher.S02E13.WEB.x264-STRiFE.srt",svm_entrenado)
-
+	
 	# print("Algoritmo de N-Neighbors")
-	# n_neighbors = algoritmoKNeighbors()
-	# n_neighbors.construirTablaEntrenamiento("PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt,PeliculasMalasResult.txt,PeliculasRegularesResult.txt","TFIDF-Nneig.csv")
-	# neighbors_entrenado = n_neighbors.entrenarSistema("TFIDF-Nneig.csv",3)
-	# n_neighbors.analizarPelicula("TFIDF-Nneig.csv","peliPruebaResult.txt",neighbors_entrenado)
+	n_neighbors = algoritmoKNeighbors()
+	#n_neighbors.construirTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-Nneig.csv")
+	neighbors_entrenado = n_neighbors.entrenarSistema("TFIDF-Nneig.csv",3)
+	
+
+	for ruta,pelicula in peliculas:
+		print("------------------------------------------------------")
+		ruta = ruta.replace("./","")
+		#pelicula = pelicula.replace(".srt",".txt")
+		print ("ANALIZANDO PELICULA: ", pelicula[:len(pelicula)-3])
+		print("Laplace")
+		laplace.dirname =''
+		tokensPelicula = laplace.tokenizarPeliculaAAnalizar(ruta, pelicula)
+		print(laplace.determinarPuntuacion(tokensPelicula,1,4,tablaEntrenamientoLaplace,list(tablaEntrenamientoLaplace.sum())))
+
+		print("SVM")
+		svm_instancia.dirname = ''
+		svm_instancia.analizarPelicula("TFIDF-SVM.csv",ruta+'/'+pelicula,svm_entrenado)
+
+		print("N-Neighbors")
+		n_neighbors.dirname = ''
+		n_neighbors.analizarPelicula("TFIDF-Nneig.csv",ruta+'/'+pelicula,neighbors_entrenado)
+
+
+
+
 
 
 if __name__ == "__main__":
