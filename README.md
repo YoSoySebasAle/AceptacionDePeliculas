@@ -1,12 +1,12 @@
 # Sistema basado en procesamiento de textos para la predicción de la aceptación de películas a partir de su guión
 
-##Autores
+## Autores
 * Aco Guerrero Iván Rogelio
 * García Fernández Jesús Alejandro
 * Hernández Arrieta Carlos Alberto
 * Ramírez Castillo Miguel Ángel
 
-##Archivos del repositorio:
+## Archivos del repositorio:
 1. `clases-clasificador.py` contiene las clases necesarias para que operen los algoritmos de Laplace, SVM y N-neighbors
 
 1. `investigacion.pdf` Documento de texto sobre la investigación, experimentación y resultados.
