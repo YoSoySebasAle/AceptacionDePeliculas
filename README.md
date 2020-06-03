@@ -9,7 +9,7 @@
 ##Archivos del repositorio:
 1. `clases-clasificador.py` contiene las clases necesarias para que operen los algoritmos de Laplace, SVM y N-neighbors
 
-1. 'investigacion.pdf' Documento de texto sobre la investigación, experimentación y resultados.
+1. `investigacion.pdf` Documento de texto sobre la investigación, experimentación y resultados.
 
 
 
