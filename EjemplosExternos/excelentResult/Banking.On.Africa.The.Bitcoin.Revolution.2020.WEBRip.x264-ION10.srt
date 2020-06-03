@@ -1,4893 +1,1557 @@
-1
-00:00:00,411 --> 00:00:03,411
-(crickets chirping)
-
-2
-00:00:07,328 --> 00:00:10,299
-(lively music)
-
-3
-00:00:10,299 --> 00:00:11,263
-- [Director] How you feeling?
-
-4
-00:00:11,263 --> 00:00:12,193
-- Very excited.
-
-5
-00:00:14,160 --> 00:00:14,993
-Making history.
-
-6
-00:00:16,670 --> 00:00:17,670
-And also, there's gonna be a lot
-
-7
-00:00:17,670 --> 00:00:21,543
-of very pleased people at the school.
-
-8
-00:00:22,430 --> 00:00:23,533
-It's not just a tech thing.
-
-9
-00:00:23,533 --> 00:00:26,824
-It's not just a new invention.
-
-10
-00:00:26,824 --> 00:00:30,330
-It's something that can
-actually help real people.
-
-11
-00:00:30,330 --> 00:00:33,880
-So, it's fun to do that and exciting.
-
-12
-00:00:33,880 --> 00:00:37,543
-It gives it all meaning,
-not just interest.
-
-13
-00:00:53,410 --> 00:00:54,630
-- [Director] Living at
-the bottom of Africa
-
-14
-00:00:54,630 --> 00:00:56,690
+crickets chirping
+lively music
+director how you feeling
+very excited
+making history
+and also there gonna be a lot
+of very pleased people at the school
+it not just a tech thing
+it not just a new invention
+it something that can
+actually help real people
+so it fun to do that and exciting
+it gives it all meaning
+not just interest
+director living at
+the bottom of africa
 can really make world
 affairs feel like things
-
-15
-00:00:56,690 --> 00:00:58,573
-that just happen somewhere else.
-
-16
-00:00:59,710 --> 00:01:03,120
-So in 2014, when I heard the
-word Bitcoin for the first time
-
-17
-00:01:03,120 --> 00:01:04,350
-I made it my mission to find out
-
-18
-00:01:04,350 --> 00:01:06,353
+that just happen somewhere else
+so in  when i heard the
+word bitcoin for the first time
+i made it my mission to find out
 what is so wrong with the way things are
-
-19
-00:01:06,353 --> 00:01:07,340
 that people are trying
-
-20
-00:01:07,340 --> 00:01:10,073
 to change the financial
-system for everyone.
-
-21
-00:01:11,050 --> 00:01:13,200
-The thing about storytelling though,
-
-22
-00:01:13,200 --> 00:01:16,853
+system for everyone
+the thing about storytelling though
 the story you expect is
-never the one you find.
-
-23
-00:01:18,110 --> 00:01:19,580
-I reached out to friends to find out
-
-24
-00:01:19,580 --> 00:01:22,330
-who knew about this thing called Bitcoin
-
-25
-00:01:22,330 --> 00:01:25,940
-and I was pointed in the
-direction of Lorien Gamaroff.
-
-26
-00:01:25,940 --> 00:01:27,670
-Within four minutes of receiving my email
-
-27
-00:01:27,670 --> 00:01:29,930
-about being interviewed on Bitcoin,
-
-28
-00:01:29,930 --> 00:01:30,763
-Lorien responded, saying,
-
-29
-00:01:30,763 --> 00:01:33,677
-"Yes, I do believe that
+never the one you find
+i reached out to friends to find out
+who knew about this thing called bitcoin
+and i was pointed in the
+direction of lorien gamaroff
+within four minutes of receiving my email
+about being interviewed on bitcoin
+lorien responded saying
+yes i do believe that
 this will impact our lives
-
-30
-00:01:33,677 --> 00:01:35,487
-"as much as the internet has done."
-
-31
-00:01:37,580 --> 00:01:40,417
-So can you first explain to
-me what cryptocurrency is?
-
-32
-00:01:40,417 --> 00:01:44,080
-- All it is, essentially, is
+as much as the internet has done
+so can you first explain to
+me what cryptocurrency is
+all it is essentially is
 a mechanism for being able
-
-33
-00:01:44,080 --> 00:01:47,460
 to transfer digital assets
 without there having
-
-34
-00:01:47,460 --> 00:01:50,423
-to be a duplicate of that digital asset.
-
-35
-00:01:51,310 --> 00:01:52,143
-I'll give you an example.
-
-36
-00:01:52,143 --> 00:01:55,600
-If you have an MP3, or a digital photo,
-
-37
-00:01:55,600 --> 00:01:57,977
-it's very easy to make a copy
-of that digital photo or MP3
-
-38
-00:01:57,977 --> 00:02:00,030
-and send it to multiple friends,
-
-39
-00:02:00,030 --> 00:02:03,050
-or what this term is called, double spend.
-
-40
-00:02:03,050 --> 00:02:07,250
-In 2008, an anonymous
-developer, or engineer,
-
-41
-00:02:07,250 --> 00:02:09,410
+to be a duplicate of that digital asset
+ill give you an example
+if you have an mp or a digital photo
+it very easy to make a copy
+of that digital photo or mp
+and send it to multiple friends
+or what this term is called double spend
+in  an anonymous
+developer or engineer
 or financial guru devised a way
-
-42
-00:02:09,410 --> 00:02:11,600
-to create a digital currency,
-
-43
-00:02:11,600 --> 00:02:13,360
-which essentially solved that problem,
-
-44
-00:02:13,360 --> 00:02:14,990
+to create a digital currency
+which essentially solved that problem
 where you could create a digital asset
-
-45
-00:02:14,990 --> 00:02:17,430
 that could be transferred
 from entity to another
-
-46
-00:02:17,430 --> 00:02:18,933
-and couldn't be easily copied.
-
-47
-00:02:19,920 --> 00:02:24,760
-In 2011, I read a blog
+and couldnt be easily copied
+in  i read a blog
 about an underground website
-
-48
-00:02:24,760 --> 00:02:27,610
 that was using this new internet
 currency that was different
-
-49
-00:02:27,610 --> 00:02:29,457
 from any other currency that
-had ever come before it,
-
-50
-00:02:29,457 --> 00:02:32,142
-and I immediately decided to
+had ever come before it
+and i immediately decided to
 try and play around with it
-
-51
-00:02:32,142 --> 00:02:35,240
-and see where it would go,
-and acquired a number of them,
-
-52
-00:02:35,240 --> 00:02:37,230
-when they were worth very little.
-
-53
-00:02:37,230 --> 00:02:40,097
-And then, over the years I've
+and see where it would go
+and acquired a number of them
+when they were worth very little
+and then over the years ive
 just seen the usage explode
-
-54
-00:02:40,097 --> 00:02:42,400
 and people come around to the idea
-
-55
-00:02:42,400 --> 00:02:45,060
 that this could very will
 be the next innovation
-
-56
-00:02:45,060 --> 00:02:46,850
-that disrupts and upturns our lives,
-
-57
-00:02:46,850 --> 00:02:49,143
-and has a massive positive impact.
-
-58
-00:02:50,902 --> 00:02:52,910
-- There are thousands of
+that disrupts and upturns our lives
+and has a massive positive impact
+there are thousands of
 cryptocurrencies out there
-
-59
-00:02:52,910 --> 00:02:54,730
-and they're quite diverse in terms
-
-60
-00:02:54,730 --> 00:02:56,270
+and theyre quite diverse in terms
 of what their intentions are
-
-61
-00:02:56,270 --> 00:02:57,940
-and what they were designed to do.
-
-62
-00:02:57,940 --> 00:02:59,330
-So, for me the discussion
-begins with Bitcoin.
-
-63
-00:02:59,330 --> 00:03:01,540
-It's the the proto cryptocurrency.
-
-64
-00:03:01,540 --> 00:03:03,190
-It's the first one that mattered.
-
-65
-00:03:04,440 --> 00:03:06,860
-- When you first geek out about Bitcoin,
-
-66
-00:03:06,860 --> 00:03:09,300
-and blockchain, and cryptocurrency,
-
-67
-00:03:09,300 --> 00:03:12,170
+and what they were designed to do
+so for me the discussion
+begins with bitcoin
+it the the proto cryptocurrency
+it the first one that mattered
+when you first geek out about bitcoin
+and blockchain and cryptocurrency
 you tend to become very
-excited about the tech itself,
-
-68
-00:03:12,170 --> 00:03:15,730
-and I think I made the mistake
+excited about the tech itself
+and i think i made the mistake
 quite a few times early on
-
-69
-00:03:15,730 --> 00:03:18,220
 of getting too technical
-when I'm just speaking
-
-70
-00:03:18,220 --> 00:03:21,040
-to my mum, or my wife, or friends
-
-71
-00:03:21,040 --> 00:03:23,210
-who just want to understand how it works.
-
-72
-00:03:23,210 --> 00:03:24,793
-It's digital money.
-
-73
-00:03:26,142 --> 00:03:27,707
-- [Director] In 2016,
-we attended the Bitcoin
-
-74
-00:03:27,707 --> 00:03:29,270
-and Blockchain Africa Conference,
-
-75
-00:03:29,270 --> 00:03:31,913
+when im just speaking
+to my mum or my wife or friends
+who just want to understand how it works
+it digital money
+director in
+we attended the bitcoin
+and blockchain africa conference
 so we could hear people
-who get it, explain it.
-
-76
-00:03:32,950 --> 00:03:35,400
-There was a woman on stage from
-Botswana who educates people
-
-77
-00:03:35,400 --> 00:03:38,110
+who get it explain it
+there was a woman on stage from
+botswana who educates people
 on both the potential
-and risks of Bitcoin.
-
-78
-00:03:39,790 --> 00:03:41,530
-After she shared her personal story,
-
-79
-00:03:41,530 --> 00:03:43,760
-I snuck over and slipped a
+and risks of bitcoin
+after she shared her personal story
+i snuck over and slipped a
 piece of paper into her hand
-
-80
-00:03:43,760 --> 00:03:45,620
-with the hastily scrawled words,
-
-81
-00:03:45,620 --> 00:03:48,603
-I'm making a documentary and
-I would love to interview you.
-
-82
-00:03:51,380 --> 00:03:52,743
-- Come, come, come.
-
-83
-00:03:52,743 --> 00:03:55,076
-(whistling)
-
-84
-00:03:56,065 --> 00:03:56,898
-(goats bleating)
-
-85
-00:03:56,898 --> 00:03:57,883
-Welcome to my farm.
-
-86
-00:03:58,780 --> 00:04:03,400
-This is a very small farm
-that I started in 2017,
-
-87
-00:04:03,400 --> 00:04:07,900
-when the Bitcoin market went a bit up.
-
-88
-00:04:07,900 --> 00:04:09,240
-I managed to buy the goats
-
-89
-00:04:09,240 --> 00:04:11,270
-and I bought myself some chickens,
-
-90
-00:04:11,270 --> 00:04:12,280
-and I set up the farm.
-
-91
-00:04:12,280 --> 00:04:14,460
-And I also managed to buy myself this car.
-
-92
-00:04:14,460 --> 00:04:17,716
-That is why it has got all
-these Bitcoin stickers.
-
-93
-00:04:17,716 --> 00:04:19,543
-You can come and check out my goats.
-
-94
-00:04:19,543 --> 00:04:21,133
-They are like way cool.
-
-95
-00:04:22,310 --> 00:04:24,240
-The other ones are not yet here.
-
-96
-00:04:24,240 --> 00:04:26,353
-I think they're still in the bush.
-
-97
-00:04:28,400 --> 00:04:30,580
-The humble beginnings. (laughing)
-
-98
-00:04:30,580 --> 00:04:32,020
-I'm hoping in the future
-
-99
-00:04:32,020 --> 00:04:36,380
-I'll have much, much wider farm
-
-100
-00:04:36,380 --> 00:04:38,960
-as I continue in my journey of Bitcoin.
-
-101
-00:04:38,960 --> 00:04:40,383
-So this is a Bitcoin farm.
-
-102
-00:04:41,440 --> 00:04:43,406
-But instead of mining
-Bitcoin, I'm mining goats.
-
-103
-00:04:43,406 --> 00:04:45,410
-(laughing)
-
-104
-00:04:45,410 --> 00:04:48,740
-The piece of land, I got it in 2011,
-
-105
-00:04:48,740 --> 00:04:51,840
-so from 2011 until 2017
-there was nothing happening.
-
-106
-00:04:51,840 --> 00:04:54,090
-I couldn't clean it up
-because I didn't have money.
-
-107
-00:04:54,090 --> 00:04:55,490
-Some of my goats are coming.
-
-108
-00:04:57,000 --> 00:04:58,530
-It's one of my passions
-
-109
-00:04:58,530 --> 00:05:00,990
-besides teaching people about Bitcoin.
-
-110
-00:05:00,990 --> 00:05:02,770
-My husband is the one
+with the hastily scrawled words
+im making a documentary and
+i would love to interview you
+come come come
+whistling
+goats bleating
+welcome to my farm
+this is a very small farm
+that i started in
+when the bitcoin market went a bit up
+i managed to buy the goats
+and i bought myself some chickens
+and i set up the farm
+and i also managed to buy myself this car
+that is why it has got all
+these bitcoin stickers
+you can come and check out my goats
+they are like way cool
+the other ones are not yet here
+i think theyre still in the bush
+the humble beginnings laughing
+im hoping in the future
+ill have much much wider farm
+as i continue in my journey of bitcoin
+so this is a bitcoin farm
+but instead of mining
+bitcoin im mining goats
+laughing
+the piece of land i got it in
+so from  until
+there was nothing happening
+i couldnt clean it up
+because i didnt have money
+some of my goats are coming
+it one of my passions
+besides teaching people about bitcoin
+my husband is the one
 who is always coming here
-
-111
-00:05:02,770 --> 00:05:03,603
 most of the time
-
-112
-00:05:03,603 --> 00:05:06,860
-because as for me, I'm always
+because as for me im always
 busy doing my education
-
-113
-00:05:06,860 --> 00:05:10,490
-and doing my Satoshi Centre,
-and sometimes touring.
-
-114
-00:05:10,490 --> 00:05:13,480
-People have flooded
-Africa with a lot of scams
-
-115
-00:05:13,480 --> 00:05:15,800
+and doing my satoshi centre
+and sometimes touring
+people have flooded
+africa with a lot of scams
 and a lot of our people are
-falling into those scams.
-
-116
-00:05:15,800 --> 00:05:18,120
-So I'm not basically
-only focused on Botswana.
-
-117
-00:05:18,120 --> 00:05:20,153
-Where education is needed, I go.
-
-118
-00:05:22,042 --> 00:05:24,832
-(laughing)
-(bells dinging)
-
-119
-00:05:24,832 --> 00:05:25,665
-The whole idea of the farm
-
-120
-00:05:25,665 --> 00:05:27,980
-is so that I can be
-able to sustain myself.
-
-121
-00:05:27,980 --> 00:05:29,440
-I'm just educating people
-
-122
-00:05:29,440 --> 00:05:32,340
-without making any profit out of it.
-
-123
-00:05:32,340 --> 00:05:34,580
-For me, education is very important
-
-124
-00:05:34,580 --> 00:05:35,890
-even though I get stressed
-
-125
-00:05:35,890 --> 00:05:39,600
+falling into those scams
+so im not basically
+only focused on botswana
+where education is needed i go
+laughing
+bells dinging
+the whole idea of the farm
+is so that i can be
+able to sustain myself
+im just educating people
+without making any profit out of it
+for me education is very important
+even though i get stressed
 when my life is not
-working according to plan,
-
-126
-00:05:39,600 --> 00:05:40,630
-and my vision for the Satoshi Centre
-
-127
-00:05:40,630 --> 00:05:43,580
-is not really accomplished, I would say,
-
-128
-00:05:43,580 --> 00:05:46,050
-but I'm always grateful
-for the Bitcoin community
-
-129
-00:05:46,050 --> 00:05:48,880
+working according to plan
+and my vision for the satoshi centre
+is not really accomplished i would say
+but im always grateful
+for the bitcoin community
 because they are really
-a super, amazing family.
-
-130
-00:05:48,880 --> 00:05:51,323
-Everyone in the Bitcoin
-space, they're amazing.
-
-131
-00:05:51,323 --> 00:05:54,230
-(soft music)
-
-132
-00:05:54,230 --> 00:05:55,270
-- [Director] The original document
-
-133
-00:05:55,270 --> 00:05:57,660
+a super amazing family
+everyone in the bitcoin
+space theyre amazing
+soft music
+director the original document
 that outlined the vision to
 reinvent the world of finance
-
-134
-00:05:57,660 --> 00:06:00,150
-and technology was released in 2008
-
-135
-00:06:00,150 --> 00:06:02,473
+and technology was released in
 against the backdrop of
-the financial crisis.
-
-136
-00:06:03,520 --> 00:06:04,657
-In order to understand all of that,
-
-137
-00:06:04,657 --> 00:06:07,620
-the most obvious place to start was money.
-
-138
-00:06:07,620 --> 00:06:08,453
-What is money?
-
-139
-00:06:08,453 --> 00:06:09,650
-Where did it come from?
-
-140
-00:06:09,650 --> 00:06:12,993
-And why isn't the way it
-works working for us anymore?
-
-141
-00:06:15,690 --> 00:06:17,703
-- One of the first things
+the financial crisis
+in order to understand all of that
+the most obvious place to start was money
+what is money
+where did it come from
+and why isnt the way it
+works working for us anymore
+one of the first things
 we figured out to do
-
-142
-00:06:17,703 --> 00:06:19,070
 that really distinguished us
-
-143
-00:06:19,070 --> 00:06:22,400
 from the other animals on this
 planet was invent language
-
-144
-00:06:22,400 --> 00:06:24,830
 and a way of communicating with each other
-
-145
-00:06:24,830 --> 00:06:27,830
-that could convey very complicated ideas.
-
-146
-00:06:27,830 --> 00:06:31,500
-We could have armies of 100s
-or 1000s of individuals,
-
-147
-00:06:31,500 --> 00:06:33,710
+that could convey very complicated ideas
+we could have armies of s
+or s of individuals
 where other great apes would only be able
-
-148
-00:06:33,710 --> 00:06:37,690
 to organize in clusters of
-up to about 100 individuals.
-
-149
-00:06:37,690 --> 00:06:38,840
-So, that gave us an edge.
-
-150
-00:06:38,840 --> 00:06:42,100
-Language was extremely powerful
-as an organizing mechanism,
-
-151
-00:06:42,100 --> 00:06:43,960
+up to about  individuals
+so that gave us an edge
+language was extremely powerful
+as an organizing mechanism
 but the thing we needed next was a way
-
-152
-00:06:43,960 --> 00:06:46,550
 of making our trust in
-each other portable.
-
-153
-00:06:46,550 --> 00:06:47,970
-We used seashells.
-
-154
-00:06:47,970 --> 00:06:51,350
-Baboon bones were a popular
-form of currency in Africa,
-
-155
-00:06:51,350 --> 00:06:55,290
-but money is, and always has
-been, a form of an IOU note.
-
-156
-00:06:55,290 --> 00:06:57,310
-I could give you something
+each other portable
+we used seashells
+baboon bones were a popular
+form of currency in africa
+but money is and always has
+been a form of an iou note
+i could give you something
 and you could trust that
-
-157
-00:06:57,310 --> 00:07:01,090
 that thing had value because
-society believed it did.
-
-158
-00:07:01,090 --> 00:07:04,700
-Things like dollars and rands,
+society believed it did
+things like dollars and rands
 we call those fiat currencies
-
-159
-00:07:04,700 --> 00:07:07,820
-and fiat is a Latin word
-that means 'let it be done'.
-
-160
-00:07:07,820 --> 00:07:09,560
-It basically means that they have value
-
-161
-00:07:09,560 --> 00:07:11,290
-because governments say they do.
-
-162
-00:07:11,290 --> 00:07:13,890
-Governments tell us that
-you will use this money.
-
-163
-00:07:13,890 --> 00:07:16,410
-You will accept it as repayment of debt
-
-164
-00:07:16,410 --> 00:07:18,680
+and fiat is a latin word
+that means let it be done
+it basically means that they have value
+because governments say they do
+governments tell us that
+you will use this money
+you will accept it as repayment of debt
 and you will pay your
-taxes in this currency.
-
-165
-00:07:18,680 --> 00:07:21,610
-So, it really is just
-is because we say so.
-
-166
-00:07:21,610 --> 00:07:23,613
-There was a period where fiat currencies
-
-167
-00:07:23,613 --> 00:07:25,650
-were backed by the gold standard,
-
-168
-00:07:25,650 --> 00:07:27,830
+taxes in this currency
+so it really is just
+is because we say so
+there was a period where fiat currencies
+were backed by the gold standard
 and now really money is just backed
-
-169
-00:07:27,830 --> 00:07:30,910
-by a government's ability
+by a government ability
 to enforce taxation
-
-170
-00:07:30,910 --> 00:07:32,340
-within its borders.
-
-171
-00:07:32,340 --> 00:07:35,300
-Governments, or their
-central banking authorities,
-
-172
-00:07:35,300 --> 00:07:37,930
-can print as much money as they want to.
-
-173
-00:07:37,930 --> 00:07:39,290
-The decision to print money
-
-174
-00:07:39,290 --> 00:07:42,130
+within its borders
+governments or their
+central banking authorities
+can print as much money as they want to
+the decision to print money
 is something that lies
-with a few individuals.
-
-175
-00:07:42,130 --> 00:07:45,560
-It's open to flawed decision
-making and really it's fair
-
-176
-00:07:45,560 --> 00:07:47,953
+with a few individuals
+it open to flawed decision
+making and really it fair
 to say that fiat money
-isn't backed by anything.
-
-177
-00:07:47,953 --> 00:07:49,390
-(soft music)
-
-178
-00:07:49,390 --> 00:07:51,270
-- [Director] For a time,
-Bitcoin felt like a lot of talk
-
-179
-00:07:51,270 --> 00:07:52,910
-and very little action,
-
-180
-00:07:52,910 --> 00:07:55,460
-but Lorien was taking
-Bitcoin out of academia,
-
-181
-00:07:55,460 --> 00:07:56,293
-out of the future,
-
-182
-00:07:56,293 --> 00:07:59,800
+isnt backed by anything
+soft music
+director for a time
+bitcoin felt like a lot of talk
+and very little action
+but lorien was taking
+bitcoin out of academia
+out of the future
 and creating a real
-world use for it in 2015,
-
-183
-00:07:59,800 --> 00:08:02,560
-something tangible for the world to see.
-
-184
-00:08:02,560 --> 00:08:03,750
-- If you consume electricity,
-
-185
-00:08:03,750 --> 00:08:05,940
-you're gonna have a meter
-installed at your property.
-
-186
-00:08:05,940 --> 00:08:07,960
-There's two modes that
-that meter can be in,
-
-187
-00:08:07,960 --> 00:08:09,890
-either postpaid or prepaid.
-
-188
-00:08:09,890 --> 00:08:12,510
-Postpaid is where you
+world use for it in
+something tangible for the world to see
+if you consume electricity
+youre gonna have a meter
+installed at your property
+there two modes that
+that meter can be in
+either postpaid or prepaid
+postpaid is where you
 just consume the utility
-
-189
-00:08:12,510 --> 00:08:14,190
 and at the end of the
 month somebody will come
-
-190
-00:08:14,190 --> 00:08:15,400
 and read your meter and
 then send you a bill
-
-191
-00:08:15,400 --> 00:08:17,050
-and then you pay.
-
-192
-00:08:17,050 --> 00:08:19,675
-You're consuming first and then you pay.
-
-193
-00:08:19,675 --> 00:08:22,200
-Now prepaid meters are
+and then you pay
+youre consuming first and then you pay
+now prepaid meters are
 trying to solve the problem
-
-194
-00:08:22,200 --> 00:08:24,370
 where people are consuming
-and then not paying,
-
-195
-00:08:24,370 --> 00:08:27,450
-which is a problem we have,
-and it's showing itself
-
-196
-00:08:27,450 --> 00:08:31,047
-in our energy provider,
-Eskom, where they say
-
-197
-00:08:31,047 --> 00:08:34,030
-they don't have enough money
+and then not paying
+which is a problem we have
+and it showing itself
+in our energy provider
+eskom where they say
+they dont have enough money
 to maintain the power stations
-
-198
-00:08:34,030 --> 00:08:36,265
-because they can't recover
-from the municipalities.
-
-199
-00:08:36,265 --> 00:08:37,630
-The municipalities can't recover
-
-200
-00:08:37,630 --> 00:08:39,370
+because they cant recover
+from the municipalities
+the municipalities cant recover
 because nobody wants
-to pay for the utility.
-
-201
-00:08:39,370 --> 00:08:40,900
-They've already consumed it.
-
-202
-00:08:40,900 --> 00:08:42,740
-So, they're trying to close that gap
-
-203
-00:08:42,740 --> 00:08:44,860
+to pay for the utility
+theyve already consumed it
+so theyre trying to close that gap
 by switching all their
-customers on to prepaid,
-
-204
-00:08:44,860 --> 00:08:48,300
-so they can't consume unless they've paid.
-
-205
-00:08:48,300 --> 00:08:50,327
-But it then introduces another problem
-
-206
-00:08:50,327 --> 00:08:52,620
-from a consumer's point of view.
-
-207
-00:08:52,620 --> 00:08:55,610
-At least 80% of Africans are unbanked.
-
-208
-00:08:55,610 --> 00:08:58,610
-If they want to make a
-payment they have to use cash.
-
-209
-00:08:58,610 --> 00:09:00,513
-Obviously now, the costs are increased
-
-210
-00:09:00,513 --> 00:09:03,030
-because the vendor has costs,
-
-211
-00:09:03,030 --> 00:09:05,820
-and there's traveling
-costs, security costs.
-
-212
-00:09:05,820 --> 00:09:07,430
-So, although prepaid systems
-
-213
-00:09:07,430 --> 00:09:10,560
+customers on to prepaid
+so they cant consume unless theyve paid
+but it then introduces another problem
+from a consumer point of view
+at least  of africans are unbanked
+if they want to make a
+payment they have to use cash
+obviously now the costs are increased
+because the vendor has costs
+and there traveling
+costs security costs
+so although prepaid systems
 will solve the recovery from
-the utility's point of view,
-
-214
-00:09:10,560 --> 00:09:13,254
-it doesn't solve anything from
-the consumer's point of view.
-
-215
-00:09:13,254 --> 00:09:14,600
-Bitcoin is a payment system,
-
-216
-00:09:14,600 --> 00:09:16,410
-which is an electronic payment system,
-
-217
-00:09:16,410 --> 00:09:18,610
-that is outside of the banking system.
-
-218
-00:09:18,610 --> 00:09:22,257
-Anybody who has an app
-on their mobile phone,
-
-219
-00:09:22,257 --> 00:09:24,060
-it doesn't even have to be a smartphone,
-
-220
-00:09:24,060 --> 00:09:26,620
+the utility point of view
+it doesnt solve anything from
+the consumer point of view
+bitcoin is a payment system
+which is an electronic payment system
+that is outside of the banking system
+anybody who has an app
+on their mobile phone
+it doesnt even have to be a smartphone
 they can easily become
-part of the Bitcoin economy
-
-221
-00:09:26,620 --> 00:09:29,230
-and have access to electronic payments.
-
-222
-00:09:29,230 --> 00:09:32,380
-So, it's just a common sense
-thing if you think about it,
-
-223
-00:09:32,380 --> 00:09:36,680
+part of the bitcoin economy
+and have access to electronic payments
+so it just a common sense
+thing if you think about it
 that being able to make
-Bitcoin a payment method
-
-224
-00:09:36,680 --> 00:09:41,150
-for a pre-payment system
-opens up that massive market,
-
-225
-00:09:41,150 --> 00:09:44,180
+bitcoin a payment method
+for a prepayment system
+opens up that massive market
 and it has opportunity to
 drastically reduce costs
-
-226
-00:09:44,180 --> 00:09:45,563
-and increase efficiency,
-
-227
-00:09:46,410 --> 00:09:49,990
+and increase efficiency
 at least from the
-perspective of the consumer.
-
-228
-00:09:49,990 --> 00:09:53,160
-So now, there's a solution, Bitcoin,
-
-229
-00:09:53,160 --> 00:09:55,671
+perspective of the consumer
+so now there a solution bitcoin
 and applied to smart metering
-
-230
-00:09:55,671 --> 00:09:58,130
 can solve a massive
-problem throughout Africa
-
-231
-00:09:58,130 --> 00:10:00,317
-as well as Latin America and Asia Pacific.
-
-232
-00:10:00,317 --> 00:10:03,067
-(birds chirping)
-
-233
-00:10:04,212 --> 00:10:06,140
-(greeting in foreign language)
-
-234
-00:10:06,140 --> 00:10:10,475
-- I started my journey with Bitcoin
-
-235
-00:10:10,475 --> 00:10:12,477
-in a little bit of a sad way.
-
-236
-00:10:14,490 --> 00:10:15,750
-- [Director] Can you tell me that story?
-
-237
-00:10:15,750 --> 00:10:20,004
-- My son, right here on the wall.
-
-238
-00:10:20,004 --> 00:10:24,020
-In 2007, I gave birth to a baby boy.
-
-239
-00:10:24,020 --> 00:10:27,530
-His name was called
-Pako, which means praise.
-
-240
-00:10:27,530 --> 00:10:29,260
-He was born with a heart defect
-
-241
-00:10:29,260 --> 00:10:33,520
+problem throughout africa
+as well as latin america and asia pacific
+birds chirping
+greeting in foreign language
+i started my journey with bitcoin
+in a little bit of a sad way
+director can you tell me that story
+my son right here on the wall
+in  i gave birth to a baby boy
+his name was called
+pako which means praise
+he was born with a heart defect
 called hypertrophic
-obstructive cardiomyopathy.
-
-242
-00:10:33,520 --> 00:10:35,620
-I was looking for ways in
-which I can raise money
-
-243
-00:10:35,620 --> 00:10:38,190
-and probably take him overseas.
-
-244
-00:10:38,190 --> 00:10:40,950
-It was kind of difficult here in Botswana
-
-245
-00:10:40,950 --> 00:10:43,510
-for them to promise me anything.
-
-246
-00:10:43,510 --> 00:10:44,670
-One time, the doctor told me
-
-247
-00:10:44,670 --> 00:10:47,213
-that there's literally
-nothing that they can do.
-
-248
-00:10:49,320 --> 00:10:51,710
-When we brought to South
-Africa, I was very happy.
-
-249
-00:10:51,710 --> 00:10:54,000
-I said my son would get help.
-
-250
-00:10:54,000 --> 00:10:56,937
-But they said to me, "For us
-to be able to help your son,
-
-251
-00:10:56,937 --> 00:11:00,157
-"we finish first with the
-list that is in South Africa
-
-252
-00:11:00,157 --> 00:11:02,057
-"for children who need transplants."
-
-253
-00:11:03,880 --> 00:11:06,330
-So I went online to try and do freelancing
-
-254
-00:11:06,330 --> 00:11:08,330
-so maybe I can be able to raise more funds
-
-255
-00:11:08,330 --> 00:11:09,373
-to be help my child.
-
-256
-00:11:10,270 --> 00:11:11,810
-Then I remember I got across a survey
-
-257
-00:11:11,810 --> 00:11:13,270
+obstructive cardiomyopathy
+i was looking for ways in
+which i can raise money
+and probably take him overseas
+it was kind of difficult here in botswana
+for them to promise me anything
+one time the doctor told me
+that there literally
+nothing that they can do
+when we brought to south
+africa i was very happy
+i said my son would get help
+but they said to me for us
+to be able to help your son
+we finish first with the
+list that is in south africa
+for children who need transplants
+so i went online to try and do freelancing
+so maybe i can be able to raise more funds
+to be help my child
+then i remember i got across a survey
 where they say you can do a survey
-
-258
-00:11:13,270 --> 00:11:15,940
-and you can be paid in Bitcoin.
-
-259
-00:11:15,940 --> 00:11:19,890
-I went through that, worked my heart out.
-
-260
-00:11:19,890 --> 00:11:23,180
-I never got any Bitcoins
-from the work that I did.
-
-261
-00:11:23,180 --> 00:11:25,040
-A lot of things that I met were scams.
-
-262
-00:11:25,040 --> 00:11:27,300
-One scam after another.
-
-263
-00:11:27,300 --> 00:11:32,300
-And then in April, on the
-4th, my son died, so yeah.
-
-264
-00:11:40,257 --> 00:11:42,422
-(soft music)
-
-265
-00:11:42,422 --> 00:11:43,550
-The first time I heard about Bitcoin
-
-266
-00:11:43,550 --> 00:11:45,910
-was to raise money for my son.
-
-267
-00:11:45,910 --> 00:11:48,330
-So when he died, I felt
-like I have lost the purpose
-
-268
-00:11:48,330 --> 00:11:50,180
-for why I should work online.
-
-269
-00:11:50,180 --> 00:11:52,163
-So I just stopped.
-
-270
-00:11:53,500 --> 00:11:55,130
-Something was just nagging me in my head,
-
-271
-00:11:55,130 --> 00:11:57,190
+and you can be paid in bitcoin
+i went through that worked my heart out
+i never got any bitcoins
+from the work that i did
+a lot of things that i met were scams
+one scam after another
+and then in april on the
+th my son died so yeah
+soft music
+the first time i heard about bitcoin
+was to raise money for my son
+so when he died i felt
+like i have lost the purpose
+for why i should work online
+so i just stopped
+something was just nagging me in my head
 like you need to go back
-to that Bitcoin thing
-
-272
-00:11:57,190 --> 00:12:01,370
+to that bitcoin thing
 and look at it and see if
-it can be of any worth.
-
-273
-00:12:01,370 --> 00:12:03,820
-The more I read, the more I get learned.
-
-274
-00:12:03,820 --> 00:12:06,540
-I decided let me take
-another step further.
-
-275
-00:12:06,540 --> 00:12:08,360
-It's no longer about my son,
-
-276
-00:12:08,360 --> 00:12:10,880
-now it's about changing my country.
-
-277
-00:12:10,880 --> 00:12:12,780
-It's about changing the people.
-
-278
-00:12:12,780 --> 00:12:14,000
-I will group together people
-
-279
-00:12:14,000 --> 00:12:16,499
-and I will teach them about Bitcoin.
-
-280
-00:12:16,499 --> 00:12:19,460
-So 2013, I did my first meet-up.
-
-281
-00:12:19,460 --> 00:12:21,710
-But before the meet-up, I did a video,
-
-282
-00:12:21,710 --> 00:12:22,840
-which I put on YouTube.
-
-283
-00:12:22,840 --> 00:12:25,720
-I did an old t-shirt
-with my Bitcoin address
-
-284
-00:12:25,720 --> 00:12:27,810
-and I was like, I want
-to work for this company.
-
-285
-00:12:27,810 --> 00:12:30,890
-Even by then I don't even
-understand what Bitcoin was.
-
-286
-00:12:30,890 --> 00:12:32,890
-Like for me, it was more like a company.
-
-287
-00:12:34,160 --> 00:12:38,200
-Then 2014, my group was growing
-
-288
-00:12:38,200 --> 00:12:40,940
-and I kept on educating
-people about Bitcoin
-
-289
-00:12:40,940 --> 00:12:42,813
-from that moment onwards.
-
-290
-00:12:46,690 --> 00:12:49,330
-- [Director] So why can
+it can be of any worth
+the more i read the more i get learned
+i decided let me take
+another step further
+it no longer about my son
+now it about changing my country
+it about changing the people
+i will group together people
+and i will teach them about bitcoin
+so  i did my first meetup
+but before the meetup i did a video
+which i put on youtube
+i did an old tshirt
+with my bitcoin address
+and i was like i want
+to work for this company
+even by then i dont even
+understand what bitcoin was
+like for me it was more like a company
+then  my group was growing
+and i kept on educating
+people about bitcoin
+from that moment onwards
+director so why can
 we trust that crypto
-
-291
-00:12:49,330 --> 00:12:51,220
-is worth something?
-
-292
-00:12:51,220 --> 00:12:55,160
-- Bitcoin, as a primary
-example, has a finite supply,
-
-293
-00:12:55,160 --> 00:12:57,750
-which makes it a deflationary currency.
-
-294
-00:12:57,750 --> 00:13:01,150
-It actually in very real
-terms is scarcer than gold.
-
-295
-00:13:01,150 --> 00:13:03,440
-There's no central
+is worth something
+bitcoin as a primary
+example has a finite supply
+which makes it a deflationary currency
+it actually in very real
+terms is scarcer than gold
+there no central
 authority that can decide
-
-296
-00:13:03,440 --> 00:13:06,610
 to raise interest rates
 or to print more money
-
-297
-00:13:06,610 --> 00:13:08,450
-as a part of quantitative easing.
-
-298
-00:13:08,450 --> 00:13:10,540
-The Bitcoin network runs itself.
-
-299
-00:13:10,540 --> 00:13:13,080
-Once the network was set in motion,
-
-300
-00:13:13,080 --> 00:13:16,503
-that system runs by consensus.
-
-301
-00:13:18,500 --> 00:13:21,682
-- [Director] Can you tell me about Usizo?
-
-302
-00:13:21,682 --> 00:13:24,650
-- [Lorien] Sure, imagine
-a poor school in Africa.
-
-303
-00:13:24,650 --> 00:13:26,800
-They have a Bitcoin meter.
-
-304
-00:13:26,800 --> 00:13:28,770
-Anybody from anywhere
+as a part of quantitative easing
+the bitcoin network runs itself
+once the network was set in motion
+that system runs by consensus
+director can you tell me about usizo
+lorien sure imagine
+a poor school in africa
+they have a bitcoin meter
+anybody from anywhere
 in the world could pay
-
-305
-00:13:28,770 --> 00:13:32,210
-for a week or month's worth of electricity
-
-306
-00:13:32,210 --> 00:13:36,343
+for a week or month worth of electricity
 directly without having to
-go to that organization.
-
-307
-00:13:37,312 --> 00:13:39,930
-I actually thought instead of
-just talking about something,
-
-308
-00:13:39,930 --> 00:13:41,180
-why don't I go and do it?
-
-309
-00:13:43,328 --> 00:13:44,440
-- [Director] What does Usizo mean?
-
-310
-00:13:44,440 --> 00:13:47,264
-- Usizo is a Zulu word, it means help.
-
-311
-00:13:47,264 --> 00:13:49,350
-(soft music)
-
-312
-00:13:49,350 --> 00:13:50,340
-The whole point of this project
-
-313
-00:13:50,340 --> 00:13:52,970
+go to that organization
+i actually thought instead of
+just talking about something
+why dont i go and do it
+director what does usizo mean
+usizo is a zulu word it means help
+soft music
+the whole point of this project
 is to kind of relieve the
-burden of the electricity.
-
-314
-00:13:52,970 --> 00:13:54,860
-I mean, obviously
-there's a lot more things
-
-315
-00:13:54,860 --> 00:13:56,380
+burden of the electricity
+i mean obviously
+there a lot more things
 to be paid for in the school
-
-316
-00:13:56,380 --> 00:13:58,590
-and these schools have small budgets.
-
-317
-00:13:58,590 --> 00:14:01,620
-If they can have that
-burden lifted a little,
-
-318
-00:14:01,620 --> 00:14:05,430
-where they don't have to
-actually pay for the utilities,
-
-319
-00:14:05,430 --> 00:14:08,120
+and these schools have small budgets
+if they can have that
+burden lifted a little
+where they dont have to
+actually pay for the utilities
 then they can then spend
 what little they have
-
-320
-00:14:08,120 --> 00:14:09,730
-on other things.
-
-321
-00:14:09,730 --> 00:14:11,130
-One of the struggles that we've had
-
-322
-00:14:11,130 --> 00:14:14,810
+on other things
+one of the struggles that weve had
 is trying to get a metering
-company to agree to the project.
-
-323
-00:14:14,810 --> 00:14:16,620
-A lot of these metering
+company to agree to the project
+a lot of these metering
 companies make a lot of money
-
-324
-00:14:16,620 --> 00:14:18,450
-on the vending solutions they've supplied,
-
-325
-00:14:18,450 --> 00:14:23,450
+on the vending solutions theyve supplied
 taking the fees from
-the fiat transactions.
-
-326
-00:14:23,860 --> 00:14:26,210
-Now, having a
-blockchain-based system means
-
-327
-00:14:26,210 --> 00:14:30,300
+the fiat transactions
+now having a
+blockchainbased system means
 that the funds go directly
-through to the meter,
-
-328
-00:14:30,300 --> 00:14:32,210
+through to the meter
 and so the metering companies
-that we've been dealing with
-
-329
-00:14:32,210 --> 00:14:33,790
-weren't willing to go
-along with the project.
-
-330
-00:14:33,790 --> 00:14:35,740
-So, it was quite an uphill struggle,
-
-331
-00:14:35,740 --> 00:14:38,822
+that weve been dealing with
+werent willing to go
+along with the project
+so it was quite an uphill struggle
 but luckily we have found
-some enlightened partners.
-
-332
-00:14:38,822 --> 00:14:41,313
-We've got about two bars out of the three.
-
-333
-00:14:43,230 --> 00:14:45,280
-So, I think communication should be fine.
-
-334
-00:14:49,060 --> 00:14:50,140
-But we also have an antenna.
-
-335
-00:14:50,140 --> 00:14:52,730
-So what we can do is perhaps
+some enlightened partners
+weve got about two bars out of the three
+so i think communication should be fine
+but we also have an antenna
+so what we can do is perhaps
 bring an antenna through here
-
-336
-00:14:52,730 --> 00:14:54,933
-just to boost the signal.
-
-337
-00:14:55,773 --> 00:14:57,430
-So, once we get the
-donation going through,
-
-338
-00:14:57,430 --> 00:15:00,350
+just to boost the signal
+so once we get the
+donation going through
 and the meter can pick up the
-payment on the blockchain,
-
-339
-00:15:00,350 --> 00:15:03,540
+payment on the blockchain
 the next step is for the
-actual meter to switch on,
-
-340
-00:15:03,540 --> 00:15:05,343
+actual meter to switch on
 and then we should see
-the school light up.
-
-341
-00:15:05,343 --> 00:15:06,920
-It will be hard to see now,
-
-342
-00:15:06,920 --> 00:15:09,490
-but at least we'll see something happen,
-
-343
-00:15:09,490 --> 00:15:12,990
-and then on Monday night
-when it's all pitch-dark,
-
-344
-00:15:12,990 --> 00:15:15,910
-I think it'll be quite spectacular,
-when everything goes on.
-
-345
-00:15:15,910 --> 00:15:18,227
-That's the theory, very exciting.
-
-346
-00:15:18,227 --> 00:15:20,060
-(lively music)
-
-347
-00:15:20,060 --> 00:15:24,180
-- The blockchain is the
-operating system that it runs on.
-
-348
-00:15:24,180 --> 00:15:26,440
-So, you can see it as your Windows,
-
-349
-00:15:26,440 --> 00:15:29,370
-or your Linux, or macOS X.
-
-350
-00:15:29,370 --> 00:15:32,290
-The software layer is the blockchain
-
-351
-00:15:32,290 --> 00:15:36,900
-and Bitcoin is an app that
-runs on top of the blockchain.
-
-352
-00:15:36,900 --> 00:15:39,060
-- [Director] Blockchain is
-the magic behind the money,
-
-353
-00:15:39,060 --> 00:15:41,360
-but really it's just a
+the school light up
+it will be hard to see now
+but at least well see something happen
+and then on monday night
+when it all pitchdark
+i think itll be quite spectacular
+when everything goes on
+that the theory very exciting
+lively music
+the blockchain is the
+operating system that it runs on
+so you can see it as your windows
+or your linux or macos x
+the software layer is the blockchain
+and bitcoin is an app that
+runs on top of the blockchain
+director blockchain is
+the magic behind the money
+but really it just a
 decentralized database
-
-354
-00:15:41,360 --> 00:15:42,880
 stored on a very large network
-
-355
-00:15:42,880 --> 00:15:45,060
-of computers all over the world.
-
-356
-00:15:45,060 --> 00:15:47,100
-It is the technology
-that underpins Bitcoin
-
-357
-00:15:47,100 --> 00:15:48,570
-and other cryptocurrencies,
-
-358
-00:15:48,570 --> 00:15:51,140
-but it's not just for
-monetary transactions.
-
-359
-00:15:51,140 --> 00:15:53,680
-You can use it to store
-data like patents or wills,
-
-360
-00:15:53,680 --> 00:15:55,210
-or to exchange anything of value,
-
-361
-00:15:55,210 --> 00:15:58,763
-such as products, properties,
-services and even votes.
-
-362
-00:16:00,140 --> 00:16:03,650
-The authenticity of the exchange
-of value, or transactions,
-
-363
-00:16:03,650 --> 00:16:05,730
-is verified by the community as a whole,
-
-364
-00:16:05,730 --> 00:16:08,330
+of computers all over the world
+it is the technology
+that underpins bitcoin
+and other cryptocurrencies
+but it not just for
+monetary transactions
+you can use it to store
+data like patents or wills
+or to exchange anything of value
+such as products properties
+services and even votes
+the authenticity of the exchange
+of value or transactions
+is verified by the community as a whole
 rather than by a single
-entity, removing the risk
-
-365
-00:16:08,330 --> 00:16:10,480
+entity removing the risk
 of a single point of
-failure in the system.
-
-366
-00:16:11,390 --> 00:16:14,830
-Each transaction is recorded
+failure in the system
+each transaction is recorded
 on a public distributed ledger
-
-367
-00:16:14,830 --> 00:16:19,733
-that can be viewed by anyone in the world.
-
-368
-00:16:19,733 --> 00:16:22,600
-- The blockchain is a
-decentralized system,
-
-369
-00:16:22,600 --> 00:16:24,630
+that can be viewed by anyone in the world
+the blockchain is a
+decentralized system
 and the strength of the blockchain
-
-370
-00:16:24,630 --> 00:16:27,020
-is that everybody's
-checking everybody else.
-
-371
-00:16:27,020 --> 00:16:30,870
-No single institution is in
-charge of this information.
-
-372
-00:16:30,870 --> 00:16:33,900
-Now that differs from the
+is that everybody
+checking everybody else
+no single institution is in
+charge of this information
+now that differs from the
 current financial system
-
-373
-00:16:33,900 --> 00:16:36,480
 that we actually do
-have all over the world.
-
-374
-00:16:36,480 --> 00:16:37,600
-In the case of South Africa,
-
-375
-00:16:37,600 --> 00:16:40,120
-in the center of our financial system,
-
-376
-00:16:40,120 --> 00:16:42,000
-is the South African Reserve Bank.
-
-377
-00:16:42,000 --> 00:16:45,080
-And the Reserve Bank
-checks all the other banks,
-
-378
-00:16:45,080 --> 00:16:47,200
-and all the other banks check us.
-
-379
-00:16:47,200 --> 00:16:50,290
-And that's the difference
-between a decentralized system,
-
-380
-00:16:50,290 --> 00:16:53,363
-the blockchain, for example,
-and a centralized system.
-
-381
-00:16:54,230 --> 00:16:57,040
-If I, for example, want to
-give you government money,
-
-382
-00:16:57,040 --> 00:16:59,900
-or Central Bank money, and I do a transfer
-
-383
-00:16:59,900 --> 00:17:03,010
-from my cellphone to your cellphone,
-
-384
-00:17:03,010 --> 00:17:05,770
+have all over the world
+in the case of south africa
+in the center of our financial system
+is the south african reserve bank
+and the reserve bank
+checks all the other banks
+and all the other banks check us
+and that the difference
+between a decentralized system
+the blockchain for example
+and a centralized system
+if i for example want to
+give you government money
+or central bank money and i do a transfer
+from my cellphone to your cellphone
 it is impossible for me to transfer money
-
-385
-00:17:05,770 --> 00:17:09,830
 from one bank account directly
-into another bank account.
-
-386
-00:17:09,830 --> 00:17:11,720
-We think that is what happens,
-
-387
-00:17:11,720 --> 00:17:16,270
+into another bank account
+we think that is what happens
 but what really happens is that
-I send a message to my bank,
-
-388
-00:17:16,270 --> 00:17:18,520
+i send a message to my bank
 which will send a message
-to the Central Bank,
-
-389
-00:17:18,520 --> 00:17:20,930
+to the central bank
 which will send a message to your bank
-
-390
-00:17:20,930 --> 00:17:23,490
-to make a deposit into your bank account.
-
-391
-00:17:23,490 --> 00:17:26,240
-So there's somebody else always in charge.
-
-392
-00:17:26,240 --> 00:17:28,430
-There's always a middle man somewhere
-
-393
-00:17:28,430 --> 00:17:30,784
-between my account and your account.
-
-394
-00:17:30,784 --> 00:17:33,145
-(soft music)
-
-395
-00:17:33,145 --> 00:17:35,940
-- [Director] So who invented
-blockchain and Bitcoin?
-
-396
-00:17:35,940 --> 00:17:38,595
-- The creator of Bitcoin,
+to make a deposit into your bank account
+so there somebody else always in charge
+there always a middle man somewhere
+between my account and your account
+soft music
+director so who invented
+blockchain and bitcoin
+the creator of bitcoin
 the cryptocurrency
-
-397
-00:17:38,595 --> 00:17:41,310
-and the technology, is Satoshi Nakamoto.
-
-398
-00:17:41,310 --> 00:17:43,420
-People think it's a group of people,
-
-399
-00:17:43,420 --> 00:17:46,170
-or it could be an individual,
-he's a complete mystery.
-
-400
-00:17:46,170 --> 00:17:47,930
-No-one knows who he is.
-
-401
-00:17:47,930 --> 00:17:49,410
-People have their suspicions.
-
-402
-00:17:49,410 --> 00:17:51,620
-I have my suspicions as well.
-
-403
-00:17:51,620 --> 00:17:52,800
-Several people have come out
-
-404
-00:17:52,800 --> 00:17:55,470
-to claim that they are Satoshi Nakamoto.
-
-405
-00:17:55,470 --> 00:17:57,430
-I think it's quite nice
-that it's a mystery.
-
-406
-00:17:57,430 --> 00:17:59,180
-I like the fact that
-I don't know who it is
-
-407
-00:17:59,180 --> 00:18:00,780
-and I think we would be disappointed
-
-408
-00:18:00,780 --> 00:18:02,403
-if we found out who it was.
-
-409
-00:18:03,370 --> 00:18:05,010
-- [Director] So why did
-you name your dog Satoshi?
-
-410
-00:18:05,010 --> 00:18:06,827
-(laughing)
-
-411
-00:18:06,827 --> 00:18:08,209
-- Bitcoin and cryptocurrency,
-
-412
-00:18:08,209 --> 00:18:11,360
+and the technology is satoshi nakamoto
+people think it a group of people
+or it could be an individual
+he a complete mystery
+noone knows who he is
+people have their suspicions
+i have my suspicions as well
+several people have come out
+to claim that they are satoshi nakamoto
+i think it quite nice
+that it a mystery
+i like the fact that
+i dont know who it is
+and i think we would be disappointed
+if we found out who it was
+director so why did
+you name your dog satoshi
+laughing
+bitcoin and cryptocurrency
 and blockchain technology
-has taken over my life.
-
-413
-00:18:11,360 --> 00:18:14,783
-I love Bitcoin, I really do,
-and I like what it stands for,
-
-414
-00:18:16,184 --> 00:18:18,251
-and the name suits him completely.
-
-415
-00:18:18,251 --> 00:18:20,501
-(laughing)
-
-416
-00:18:22,210 --> 00:18:24,099
-- I'll organize small
-talks and I'll go around.
-
-417
-00:18:24,099 --> 00:18:27,230
-I've been in Gabarone,
-and I went to Francestown
-
-418
-00:18:27,230 --> 00:18:29,250
-to go and teach people about Bitcoin.
-
-419
-00:18:29,250 --> 00:18:31,740
-I met students who are into IT.
-
-420
-00:18:31,740 --> 00:18:33,850
-We talked blockchain and all that
-
-421
-00:18:33,850 --> 00:18:36,740
-and I began to tell them
+has taken over my life
+i love bitcoin i really do
+and i like what it stands for
+and the name suits him completely
+laughing
+ill organize small
+talks and ill go around
+ive been in gabarone
+and i went to francestown
+to go and teach people about bitcoin
+i met students who are into it
+we talked blockchain and all that
+and i began to tell them
 about the possibility
-
-422
-00:18:36,740 --> 00:18:40,020
 of changing the way
-things are in our country.
-
-423
-00:18:40,020 --> 00:18:41,933
-The way things are in the world.
-
-424
-00:18:43,200 --> 00:18:46,180
-I was inspired by Satoshi Nakamoto,
-
-425
-00:18:46,180 --> 00:18:49,270
+things are in our country
+the way things are in the world
+i was inspired by satoshi nakamoto
 liberating the people
 from what was happening
-
-426
-00:18:49,270 --> 00:18:50,890
-during the financial crisis,
-
-427
-00:18:50,890 --> 00:18:53,500
+during the financial crisis
 coming up with something that
-would really help people.
-
-428
-00:18:53,500 --> 00:18:57,200
-The Satoshi Centre's vision
+would really help people
+the satoshi centre vision
 was to create a community lab
-
-429
-00:18:57,200 --> 00:19:00,430
 where people can come
-and learn about Bitcoin
-
-430
-00:19:00,430 --> 00:19:02,563
-and also be able to be very creative.
-
-431
-00:19:03,670 --> 00:19:07,060
-- Somebody came up with this
+and learn about bitcoin
+and also be able to be very creative
+somebody came up with this
 idea of making it possible
-
-432
-00:19:07,060 --> 00:19:10,260
-to trust the record of ownership of money,
-
-433
-00:19:10,260 --> 00:19:14,020
+to trust the record of ownership of money
 without trusting any
 individual in the ecosystem
-
-434
-00:19:14,020 --> 00:19:15,860
 that makes things work together
-
-435
-00:19:15,860 --> 00:19:18,740
-and that is such a clever invention,
-
-436
-00:19:18,740 --> 00:19:21,050
+and that is such a clever invention
 that we have to make it work
-
-437
-00:19:21,050 --> 00:19:24,350
 and make it valuable in the
-way we apply it to society.
-
-438
-00:19:24,350 --> 00:19:27,720
-If you compare it to the
-traditional financial system,
-
-439
-00:19:27,720 --> 00:19:30,640
-I don't think any of us really get excited
-
-440
-00:19:30,640 --> 00:19:32,210
-about going to our bank,
-
-441
-00:19:32,210 --> 00:19:36,010
+way we apply it to society
+if you compare it to the
+traditional financial system
+i dont think any of us really get excited
+about going to our bank
 or excited about logging
-onto a banking system.
-
-442
-00:19:36,010 --> 00:19:38,630
-One of the disadvantages of cryptocurrency
-
-443
-00:19:38,630 --> 00:19:40,940
-is the complexity stall,
-
-444
-00:19:40,940 --> 00:19:44,220
-that we're working with a
-very rough, technical thing
-
-445
-00:19:44,220 --> 00:19:45,740
+onto a banking system
+one of the disadvantages of cryptocurrency
+is the complexity stall
+that were working with a
+very rough technical thing
 where you need to understand things
-
-446
-00:19:45,740 --> 00:19:48,450
 like the transaction fees
-and things like that.
-
-447
-00:19:48,450 --> 00:19:50,350
-But, to be fair, if you compare it
-
-448
-00:19:50,350 --> 00:19:52,110
-to the traditional financial system,
-
-449
-00:19:52,110 --> 00:19:54,900
-that's not really clear as crystal either.
-
-450
-00:19:54,900 --> 00:19:56,870
-It's really very difficult to understand
-
-451
-00:19:56,870 --> 00:19:59,420
+and things like that
+but to be fair if you compare it
+to the traditional financial system
+that not really clear as crystal either
+it really very difficult to understand
 how banking fees are
-going to apply to you,
-
-452
-00:19:59,420 --> 00:20:02,510
-what's it going to cost
-to transfer 10 000 rands
-
-453
-00:20:02,510 --> 00:20:04,010
-to a U.S. bank account.
-
-454
-00:20:04,010 --> 00:20:06,715
-Things like that are
-also very, very complex.
-
-455
-00:20:06,715 --> 00:20:08,990
-(soft music)
-
-456
-00:20:08,990 --> 00:20:11,030
-- What we're gonna
-basically do is an auction.
-
-457
-00:20:11,030 --> 00:20:14,050
-The item in question is this over here,
-
-458
-00:20:14,050 --> 00:20:15,687
-which is a 100 rand note.
-
-459
-00:20:15,687 --> 00:20:18,840
-You're gonna be bidding
-for this 100 rand note.
-
-460
-00:20:18,840 --> 00:20:19,960
-It's a standard auction.
-
-461
-00:20:19,960 --> 00:20:21,800
-Whoever wins the auction
-gets the 100 rand note.
-
-462
-00:20:21,800 --> 00:20:24,880
-A slight switch though on
+going to apply to you
+what it going to cost
+to transfer   rands
+to a us bank account
+things like that are
+also very very complex
+soft music
+what were gonna
+basically do is an auction
+the item in question is this over here
+which is a  rand note
+youre gonna be bidding
+for this  rand note
+it a standard auction
+whoever wins the auction
+gets the  rand note
+a slight switch though on
 the traditional auction model
-
-463
-00:20:24,880 --> 00:20:27,030
 is that the person who comes second
-
-464
-00:20:27,030 --> 00:20:29,130
-has to pay whatever their bid was,
-
-465
-00:20:29,130 --> 00:20:30,490
-but they don't get the note.
-
-466
-00:20:30,490 --> 00:20:31,990
-So, I'm gonna open it up at 10 rand.
-
-467
-00:20:31,990 --> 00:20:34,530
-Would anybody pay me 10
-rand for a 100 rand note?
-
-468
-00:20:34,530 --> 00:20:35,363
-Who's first?
-
-469
-00:20:35,363 --> 00:20:37,183
-10 rand, we got 10 rand in the back.
-
-470
-00:20:38,940 --> 00:20:40,573
-180 rand going once,
-
-471
-00:20:41,450 --> 00:20:43,760
-180 rand going twice.
-
-472
-00:20:43,760 --> 00:20:46,530
-Sold for 180 rand.
-
-473
-00:20:46,530 --> 00:20:48,550
-You can come and settle afterwards
-
-474
-00:20:48,550 --> 00:20:49,970
+has to pay whatever their bid was
+but they dont get the note
+so im gonna open it up at  rand
+would anybody pay me
+rand for a  rand note
+who first
+rand we got  rand in the back
+rand going once
+rand going twice
+sold for  rand
+you can come and settle afterwards
 and the person who came second
-
-475
-00:20:49,970 --> 00:20:51,695
-needs to settle with me as well.
-
-476
-00:20:51,695 --> 00:20:52,990
-(laughing)
-
-477
-00:20:52,990 --> 00:20:56,210
-It's not that central financial
-authorities were a bad idea.
-
-478
-00:20:56,210 --> 00:20:58,200
-It gave us a way of scaling up to what now
-
-479
-00:20:58,200 --> 00:21:00,040
-is the global financial system.
-
-480
-00:21:00,040 --> 00:21:02,380
-It gave us a way of
-trading with each other.
-
-481
-00:21:02,380 --> 00:21:04,090
-You could travel to the
+needs to settle with me as well
+laughing
+it not that central financial
+authorities were a bad idea
+it gave us a way of scaling up to what now
+is the global financial system
+it gave us a way of
+trading with each other
+you could travel to the
 other side of the world
-
-482
-00:21:04,090 --> 00:21:06,200
 and you could start to
-trade with people there,
-
-483
-00:21:06,200 --> 00:21:09,430
-and that was fantastic,
-but where it has failed us,
-
-484
-00:21:09,430 --> 00:21:12,200
-for example, is where
+trade with people there
+and that was fantastic
+but where it has failed us
+for example is where
 human greed has been able
-
-485
-00:21:12,200 --> 00:21:15,200
-to manipulate the system,
-to put it quite bluntly.
-
-486
-00:21:15,200 --> 00:21:16,920
-That's the second highest price
-
-487
-00:21:16,920 --> 00:21:18,800
-I've ever gotten for a 100 rand note.
-
-488
-00:21:18,800 --> 00:21:20,440
-It's a great game for me
-
-489
-00:21:20,440 --> 00:21:24,880
-because I essentially
-now have made 310 rand
-
-490
-00:21:24,880 --> 00:21:27,520
-and parted with 100 rand, right?
-
-491
-00:21:27,520 --> 00:21:29,700
-The game of course is rigged.
-
-492
-00:21:29,700 --> 00:21:32,240
-It's designed so that I'm gonna win
-
-493
-00:21:32,240 --> 00:21:34,660
+to manipulate the system
+to put it quite bluntly
+that the second highest price
+ive ever gotten for a  rand note
+it a great game for me
+because i essentially
+now have made  rand
+and parted with  rand right
+the game of course is rigged
+it designed so that im gonna win
 and it has to do with
 the irrational mindset
-
-494
-00:21:34,660 --> 00:21:36,100
-people have around money.
-
-495
-00:21:36,100 --> 00:21:37,250
-We all remember what happened
-
-496
-00:21:37,250 --> 00:21:39,760
-with the financial crisis in 2009.
-
-497
-00:21:39,760 --> 00:21:41,810
-In that situation, we were reminded again
-
-498
-00:21:41,810 --> 00:21:43,630
-that banks can fail.
-
-499
-00:21:43,630 --> 00:21:45,610
-We have a fractional
+people have around money
+we all remember what happened
+with the financial crisis in
+in that situation we were reminded again
+that banks can fail
+we have a fractional
 reserve banking system
-
-500
-00:21:45,610 --> 00:21:48,480
 in most countries where
-banks don't actually
-
-501
-00:21:48,480 --> 00:21:49,830
+banks dont actually
 have to have all of the money
-
-502
-00:21:49,830 --> 00:21:52,220
-that they're storing on
-behalf of their customers,
-
-503
-00:21:52,220 --> 00:21:55,540
+that theyre storing on
+behalf of their customers
 they only need to keep
 enough of that money around
-
-504
-00:21:55,540 --> 00:21:58,250
 that they can satisfy all
 of the withdrawals requested
-
-505
-00:21:58,250 --> 00:21:59,920
-in any given period.
-
-506
-00:21:59,920 --> 00:22:04,120
-When a bank gives you a loan
-to buy a house, for example,
-
-507
-00:22:04,120 --> 00:22:05,810
-they don't have to have that money either.
-
-508
-00:22:05,810 --> 00:22:09,110
-That's basically money they
-can make out of thin air.
-
-509
-00:22:09,110 --> 00:22:10,630
-But when you have a run on the bank,
-
-510
-00:22:10,630 --> 00:22:11,670
-when there's a crisis
-
-511
-00:22:11,670 --> 00:22:13,190
+in any given period
+when a bank gives you a loan
+to buy a house for example
+they dont have to have that money either
+that basically money they
+can make out of thin air
+but when you have a run on the bank
+when there a crisis
 and everybody tries to pull their money
-
-512
-00:22:13,190 --> 00:22:15,300
 out of the banking
-system at the same time,
-
-513
-00:22:15,300 --> 00:22:17,070
-banks don't have that money
-
-514
-00:22:17,070 --> 00:22:19,160
-and that causes them to collapse.
-
-515
-00:22:19,160 --> 00:22:20,490
-Governments then stand
-
-516
-00:22:20,490 --> 00:22:22,840
-as what we call a lender of last resort.
-
-517
-00:22:22,840 --> 00:22:25,460
-So, governments say, if the
-bank doesn't have enough money
-
-518
-00:22:25,460 --> 00:22:27,370
-to sort out all of its customers,
-
-519
-00:22:27,370 --> 00:22:30,030
-we'll step in and we'll lend
-them the money to do that.
-
-520
-00:22:30,030 --> 00:22:32,680
-But, of course, that money needs
-to come from somewhere too,
-
-521
-00:22:32,680 --> 00:22:35,760
+system at the same time
+banks dont have that money
+and that causes them to collapse
+governments then stand
+as what we call a lender of last resort
+so governments say if the
+bank doesnt have enough money
+to sort out all of its customers
+well step in and well lend
+them the money to do that
+but of course that money needs
+to come from somewhere too
 and so what happened in
-2009 was you had banks,
-
-522
-00:22:35,760 --> 00:22:36,960
-which didn't have enough money
-
-523
-00:22:36,960 --> 00:22:39,430
+was you had banks
+which didnt have enough money
 to pay all of the people
-trying to withdraw their money.
-
-524
-00:22:39,430 --> 00:22:41,240
-The U.S. government
-didn't have enough money
-
-525
-00:22:41,240 --> 00:22:43,380
-to act as a lender of last resort,
-
-526
-00:22:43,380 --> 00:22:47,740
-and so, the U.S. taxpayer
+trying to withdraw their money
+the us government
+didnt have enough money
+to act as a lender of last resort
+and so the us taxpayer
 effectively had to bail out a bank
-
-527
-00:22:47,740 --> 00:22:50,040
-with a tax-free, non-reversible loan
-
-528
-00:22:50,040 --> 00:22:52,500
+with a taxfree nonreversible loan
 that never had to be paid
-back to the taxpayer.
-
-529
-00:22:52,500 --> 00:22:55,050
-Now, it doesn't really matter
-how you present that story.
-
-530
-00:22:55,050 --> 00:22:56,500
-It doesn't strike me as fair.
-
-531
-00:22:57,630 --> 00:22:59,630
-- [Director] Every country's
+back to the taxpayer
+now it doesnt really matter
+how you present that story
+it doesnt strike me as fair
+director every country
 economy is intertwined
-
-532
-00:22:59,630 --> 00:23:01,840
-with every other country's economy,
-
-533
-00:23:01,840 --> 00:23:03,790
-imports, exports, investments,
-
-534
-00:23:03,790 --> 00:23:05,670
-and the world reserve currency,
-
-535
-00:23:05,670 --> 00:23:08,340
-meant that the financial crisis in America
-
-536
-00:23:08,340 --> 00:23:11,150
-became the global financial crisis.
-
-537
-00:23:11,150 --> 00:23:12,960
-The saying before 2008
-
-538
-00:23:12,960 --> 00:23:15,730
-was that the banks were too big to fail,
-
-539
-00:23:15,730 --> 00:23:18,253
-but the bigger they are,
-the harder they fall.
-
-540
-00:23:19,220 --> 00:23:20,260
-Over a decade later,
-
-541
-00:23:20,260 --> 00:23:22,120
+with every other country economy
+imports exports investments
+and the world reserve currency
+meant that the financial crisis in america
+became the global financial crisis
+the saying before
+was that the banks were too big to fail
+but the bigger they are
+the harder they fall
+over a decade later
 there are now banks that are even bigger
-
-542
-00:23:22,120 --> 00:23:23,520
-than the too-big-to-fail banks
-
-543
-00:23:23,520 --> 00:23:25,373
-of the financial crisis years.
-
-544
-00:23:27,120 --> 00:23:29,240
-- Hi, my name is Bheki Mahlobo,
-
-545
-00:23:29,240 --> 00:23:31,680
-and I have a question
-for the chief economist.
-
-546
-00:23:31,680 --> 00:23:33,840
-So, I'm an economics student,
-
-547
-00:23:33,840 --> 00:23:35,147
-and I'm not sure if you've noticed,
-
-548
-00:23:35,147 --> 00:23:37,270
-but a lot of people in the Bitcoin space,
-
-549
-00:23:37,270 --> 00:23:40,660
+than the toobigtofail banks
+of the financial crisis years
+hi my name is bheki mahlobo
+and i have a question
+for the chief economist
+so im an economics student
+and im not sure if youve noticed
+but a lot of people in the bitcoin space
 they know more about economics
-than most PhD students
-
-550
-00:23:40,660 --> 00:23:41,896
-in universities actually.
-
-551
-00:23:41,896 --> 00:23:43,120
-(crowd laughing)
-
-552
-00:23:43,120 --> 00:23:46,260
-This is because in university
-we're not particularly exposed
-
-553
-00:23:46,260 --> 00:23:48,170
-to different, other schools
-of economic thought,
-
-554
-00:23:48,170 --> 00:23:50,850
-like the Austrian school
-of economics, for example,
-
-555
-00:23:50,850 --> 00:23:52,970
-and if we're not exposed to certain things
-
-556
-00:23:52,970 --> 00:23:54,400
-then we won't question certain things,
-
-557
-00:23:54,400 --> 00:23:55,990
-for example, like money.
-
-558
-00:23:55,990 --> 00:23:58,960
-In school we're not particularly
-taught what money truly is.
-
-559
-00:23:58,960 --> 00:24:01,660
-What is your opinion of Bitcoin being used
-
-560
-00:24:01,660 --> 00:24:06,660
+than most phd students
+in universities actually
+crowd laughing
+this is because in university
+were not particularly exposed
+to different other schools
+of economic thought
+like the austrian school
+of economics for example
+and if were not exposed to certain things
+then we wont question certain things
+for example like money
+in school were not particularly
+taught what money truly is
+what is your opinion of bitcoin being used
 as a way to escape this
-economy that exists right now?
-
-561
-00:24:07,020 --> 00:24:09,360
-- You're absolutely right
+economy that exists right now
+youre absolutely right
 that in our universities
-
-562
-00:24:09,360 --> 00:24:12,120
 we should teach other
-schools of thought as well,
-
-563
-00:24:12,120 --> 00:24:13,650
+schools of thought as well
 and a very important school of thought
-
-564
-00:24:13,650 --> 00:24:16,330
-is the school of thought of real freedom.
-
-565
-00:24:16,330 --> 00:24:17,550
-And I've got a suspicion.
-
-566
-00:24:17,550 --> 00:24:19,520
-This new technology will
+is the school of thought of real freedom
+and ive got a suspicion
+this new technology will
 really put the power
-
-567
-00:24:19,520 --> 00:24:21,280
 in the hands of the individuals
-
-568
-00:24:21,280 --> 00:24:25,140
 and allow us to experience
-that real, real freedom
-
-569
-00:24:25,140 --> 00:24:27,870
+that real real freedom
 and not to enslave us the way
-
-570
-00:24:27,870 --> 00:24:30,210
 that politicians have been enslaving us
-
-571
-00:24:30,210 --> 00:24:32,450
-for the last couple of hundred years.
-
-572
-00:24:32,450 --> 00:24:34,190
-This is a real freedom,
-
-573
-00:24:34,190 --> 00:24:35,600
-but not only is it real freedom,
-
-574
-00:24:35,600 --> 00:24:37,730
-it's very, very dangerous and with that,
-
-575
-00:24:37,730 --> 00:24:39,713
-goes a huge responsibility as well.
-
-576
-00:24:40,909 --> 00:24:44,550
-- [Director] 21-year-olds don't normally
-
-577
-00:24:44,550 --> 00:24:47,130
-go to events like we did the other day.
-
-578
-00:24:47,130 --> 00:24:47,963
-- Yeah, yeah.
-
-579
-00:24:47,963 --> 00:24:50,497
-- [Director] That's not a
-normal 21-year-old thing to do.
-
-580
-00:24:50,497 --> 00:24:53,333
-- Usually like clubs
-and stuff, right, yeah.
-
-581
-00:24:54,351 --> 00:24:55,730
-The first time I heard about Bitcoin
-
-582
-00:24:55,730 --> 00:24:58,000
-was from a movie called 'Dope'.
-
-583
-00:24:58,000 --> 00:25:01,940
-This movie doesn't cover
-Bitcoin in a positive light.
-
-584
-00:25:01,940 --> 00:25:03,740
-And then, I heard it again, and I was like
-
-585
-00:25:03,740 --> 00:25:07,540
+for the last couple of hundred years
+this is a real freedom
+but not only is it real freedom
+it very very dangerous and with that
+goes a huge responsibility as well
+director yearolds dont normally
+go to events like we did the other day
+yeah yeah
+director that not a
+normal yearold thing to do
+usually like clubs
+and stuff right yeah
+the first time i heard about bitcoin
+was from a movie called dope
+this movie doesnt cover
+bitcoin in a positive light
+and then i heard it again and i was like
 maybe let me look at it and
-do a little bit more research,
-
-586
-00:25:07,540 --> 00:25:09,600
-and that's where I fell
-down the rabbit-hole
-
-587
-00:25:09,600 --> 00:25:10,930
-as the saying says.
-
-588
-00:25:10,930 --> 00:25:13,640
-My economics teacher
-was heavily into gold.
-
-589
-00:25:13,640 --> 00:25:15,660
-So he was explaining
-central banking, right,
-
-590
-00:25:15,660 --> 00:25:17,090
-and fractional reserve banking,
-
-591
-00:25:17,090 --> 00:25:21,860
-and inside I was like whoa,
-this seems a little bit shady.
-
-592
-00:25:21,860 --> 00:25:24,890
-He explained that we actually
-don't need the system.
-
-593
-00:25:24,890 --> 00:25:26,590
-In a normal economy things are supposed
-
-594
-00:25:26,590 --> 00:25:29,700
-to get cheaper over time,
-not expensive over time,
-
-595
-00:25:29,700 --> 00:25:32,210
+do a little bit more research
+and that where i fell
+down the rabbithole
+as the saying says
+my economics teacher
+was heavily into gold
+so he was explaining
+central banking right
+and fractional reserve banking
+and inside i was like whoa
+this seems a little bit shady
+he explained that we actually
+dont need the system
+in a normal economy things are supposed
+to get cheaper over time
+not expensive over time
 and the common thing that
-I'm hearing on the news
-
-596
-00:25:32,210 --> 00:25:34,660
-or YouTube is that no, we need inflation
-
-597
-00:25:34,660 --> 00:25:37,150
-so that there's economic growth.
-
-598
-00:25:37,150 --> 00:25:38,390
-I did a little bit more digging
-
-599
-00:25:38,390 --> 00:25:40,750
-and then that's when I found Mises.
-
-600
-00:25:40,750 --> 00:25:43,580
-They follow the Austrian
-school of economics,
-
-601
-00:25:43,580 --> 00:25:45,120
-and then they explain that no,
-
-602
-00:25:45,120 --> 00:25:47,370
-we actually don't need
-inflation for economic growth,
-
-603
-00:25:47,370 --> 00:25:49,150
-and, in fact, that whole statement
-
-604
-00:25:49,150 --> 00:25:51,033
-is a whole contradiction in itself.
-
-605
-00:25:52,320 --> 00:25:53,830
-When you define economic growth
-
-606
-00:25:53,830 --> 00:25:55,800
-it's the increase in production,
-
-607
-00:25:55,800 --> 00:25:58,620
+im hearing on the news
+or youtube is that no we need inflation
+so that there economic growth
+i did a little bit more digging
+and then that when i found mises
+they follow the austrian
+school of economics
+and then they explain that no
+we actually dont need
+inflation for economic growth
+and in fact that whole statement
+is a whole contradiction in itself
+when you define economic growth
+it the increase in production
 and the increase in production
-causes prices to decrease.
-
-608
-00:25:58,620 --> 00:26:00,780
-An example of this would be technology.
-
-609
-00:26:00,780 --> 00:26:03,270
-When the first phone came
+causes prices to decrease
+an example of this would be technology
+when the first phone came
 out it was quite expensive
-
-610
-00:26:03,270 --> 00:26:05,240
 and then eventually
 there was a lot of people
-
-611
-00:26:05,240 --> 00:26:07,280
-contributing to different designs,
-
-612
-00:26:07,280 --> 00:26:09,530
+contributing to different designs
 basically providing
 alternatives to smartphones
-
-613
-00:26:09,530 --> 00:26:12,530
 and then the prices of
-smartphones decreased over time.
-
-614
-00:26:12,530 --> 00:26:15,530
-That also could apply
-to the economy as well,
-
-615
-00:26:15,530 --> 00:26:18,810
-and now I know, this person,
-what he's saying on TV,
-
-616
-00:26:18,810 --> 00:26:20,377
-is utter nonsense.
-
-617
-00:26:20,377 --> 00:26:22,153
-And then, what can I do about it?
-
-618
-00:26:22,153 --> 00:26:24,141
-It's like buy Bitcoin, bruh.
-
-619
-00:26:24,141 --> 00:26:24,980
-(soft music)
-
-620
-00:26:24,980 --> 00:26:27,820
-- Using this greedy algorithm
-I can make a lot of money,
-
-621
-00:26:27,820 --> 00:26:30,390
+smartphones decreased over time
+that also could apply
+to the economy as well
+and now i know this person
+what he saying on tv
+is utter nonsense
+and then what can i do about it
+it like buy bitcoin bruh
+soft music
+using this greedy algorithm
+i can make a lot of money
 and actually the only way
-you could've won that game
-
-622
-00:26:30,390 --> 00:26:32,080
-was to not play it.
-
-623
-00:26:32,080 --> 00:26:34,210
-The problem is, when you
+you couldve won that game
+was to not play it
+the problem is when you
 have money on the table
-
-624
-00:26:34,210 --> 00:26:37,360
 human beings start acting
-in a very curious way,
-
-625
-00:26:37,360 --> 00:26:40,090
-but I wanna use this auction as an example
-
-626
-00:26:40,090 --> 00:26:42,020
-of our banking system,
-
-627
-00:26:42,020 --> 00:26:43,470
-and, in fact, the financial system
-
-628
-00:26:43,470 --> 00:26:45,170
-that runs the world today.
-
-629
-00:26:45,170 --> 00:26:46,960
-Because it is rigged.
-
-630
-00:26:46,960 --> 00:26:49,220
-There are rules that have
+in a very curious way
+but i wanna use this auction as an example
+of our banking system
+and in fact the financial system
+that runs the world today
+because it is rigged
+there are rules that have
 been put in place that mean
-
-631
-00:26:49,220 --> 00:26:51,640
 that you will lose every time you play
-
-632
-00:26:51,640 --> 00:26:53,370
 and somebody will make a lot of money
-
-633
-00:26:53,370 --> 00:26:55,010
 because they control the algorithm
-
-634
-00:26:55,010 --> 00:26:57,120
-that ensures that you lose.
-
-635
-00:26:57,120 --> 00:26:58,390
-Our current banking systems,
-
-636
-00:26:58,390 --> 00:27:00,450
-while they're useful for
+that ensures that you lose
+our current banking systems
+while theyre useful for
 things like being carrots
-
-637
-00:27:00,450 --> 00:27:02,240
-and going to the movies and stuff,
-
-638
-00:27:02,240 --> 00:27:04,800
-are exploitive, and they're exclusionary,
-
-639
-00:27:04,800 --> 00:27:06,440
-and they cut out a lot of the world,
-
-640
-00:27:06,440 --> 00:27:08,650
-and we don't have to play the game anymore
-
-641
-00:27:08,650 --> 00:27:11,773
+and going to the movies and stuff
+are exploitive and theyre exclusionary
+and they cut out a lot of the world
+and we dont have to play the game anymore
 because we have the
-technology now to opt out.
-
-642
-00:27:13,550 --> 00:27:16,270
-Money was always centralized,
-was always opaque,
-
-643
-00:27:16,270 --> 00:27:19,490
-was always exclusionary,
-had too many middlemen,
-
-644
-00:27:19,490 --> 00:27:22,240
-too many rent-seekers, too
+technology now to opt out
+money was always centralized
+was always opaque
+was always exclusionary
+had too many middlemen
+too many rentseekers too
 many people quite frankly
-
-645
-00:27:22,240 --> 00:27:24,950
-benefiting from exploiting others.
-
-646
-00:27:24,950 --> 00:27:27,690
-Finally, we could use the internet
-
-647
-00:27:27,690 --> 00:27:29,880
+benefiting from exploiting others
+finally we could use the internet
 to create a financial system
-
-648
-00:27:29,880 --> 00:27:32,280
-that benefited everybody potentially,
-
-649
-00:27:32,280 --> 00:27:34,960
-that was resistant to censorship,
-
-650
-00:27:34,960 --> 00:27:37,150
-that nobody could take control of,
-
-651
-00:27:37,150 --> 00:27:39,260
-that's what the world had been waiting for
-
-652
-00:27:39,260 --> 00:27:41,913
+that benefited everybody potentially
+that was resistant to censorship
+that nobody could take control of
+that what the world had been waiting for
 and finally it arrived
-with the Bitcoin network.
-
-653
-00:27:42,875 --> 00:27:45,230
-- I was never interested
-in all these subjects,
-
-654
-00:27:45,230 --> 00:27:47,770
-this economics and finance,
-
-655
-00:27:47,770 --> 00:27:51,047
-and since Bitcoin I became interested,
-
-656
-00:27:51,047 --> 00:27:55,200
-and I would still be
-living in my oblivious way,
-
-657
-00:27:55,200 --> 00:27:58,510
-hoping that whoever's running
+with the bitcoin network
+i was never interested
+in all these subjects
+this economics and finance
+and since bitcoin i became interested
+and i would still be
+living in my oblivious way
+hoping that whoever running
 the system is running it fine
-
-658
-00:27:58,510 --> 00:28:00,720
-and that we don't end up in the same way
-
-659
-00:28:00,720 --> 00:28:04,930
-that Zimbabwe ended up where
-their money became worthless.
-
-660
-00:28:04,930 --> 00:28:07,490
-It's not so much about not
-having a long-term view,
-
-661
-00:28:07,490 --> 00:28:10,200
-it's just about being educated on this
-
-662
-00:28:10,200 --> 00:28:13,343
+and that we dont end up in the same way
+that zimbabwe ended up where
+their money became worthless
+it not so much about not
+having a longterm view
+it just about being educated on this
 and the majority of people
-aren't educated on this.
-
-663
-00:28:15,350 --> 00:28:16,946
-- Can I just go on and say something else
-
-664
-00:28:16,946 --> 00:28:17,779
-that I think it is important?
-
-665
-00:28:17,779 --> 00:28:18,612
-- [Director] Absolutely, absolutely.
-
-666
-00:28:18,612 --> 00:28:21,350
-- Okay, if we use a blockchain system,
-
-667
-00:28:21,350 --> 00:28:24,580
+arent educated on this
+can i just go on and say something else
+that i think it is important
+director absolutely absolutely
+okay if we use a blockchain system
 the power is actually where
-I believe it should be
-
-668
-00:28:24,580 --> 00:28:26,930
-and that's in the hands
-of the individuals.
-
-669
-00:28:26,930 --> 00:28:30,280
-We do not need the
+i believe it should be
+and that in the hands
+of the individuals
+we do not need the
 permission to transfer money
-
-670
-00:28:30,280 --> 00:28:32,740
-between my account and your account.
-
-671
-00:28:32,740 --> 00:28:35,560
-And that, of course, also
+between my account and your account
+and that of course also
 opens the possibility
-
-672
-00:28:35,560 --> 00:28:37,400
-for things like, for example, fraud
-
-673
-00:28:37,400 --> 00:28:40,130
+for things like for example fraud
 and tax evasion and all
-sort of illegal things.
-
-674
-00:28:40,130 --> 00:28:43,078
-And the responsibility
+sort of illegal things
+and the responsibility
 is also in the hands
-
-675
-00:28:43,078 --> 00:28:46,347
-of the individuals, the
-way I believe it should be.
-
-676
-00:28:46,347 --> 00:28:47,425
-- [Director] Why?
-
-677
-00:28:47,425 --> 00:28:49,890
-Why should we have that
-kind of responsibility?
-
-678
-00:28:49,890 --> 00:28:53,430
-- In all instances when governments
-got involved with money,
-
-679
-00:28:53,430 --> 00:28:57,430
+of the individuals the
+way i believe it should be
+director why
+why should we have that
+kind of responsibility
+in all instances when governments
+got involved with money
 in all instances without
 one single exception
-
-680
-00:28:57,430 --> 00:29:00,300
 they have either destroyed the money
-
-681
-00:29:00,300 --> 00:29:03,170
 or they are in the
-process of destroying it.
-
-682
-00:29:03,170 --> 00:29:05,980
-So don't think that a
-politician or Central Bank
-
-683
-00:29:05,980 --> 00:29:07,960
+process of destroying it
+so dont think that a
+politician or central bank
 is in the position that
-you can always trust him.
-
-684
-00:29:07,960 --> 00:29:10,680
-It's just another individual,
-just another human,
-
-685
-00:29:10,680 --> 00:29:13,853
+you can always trust him
+it just another individual
+just another human
 and they always make
-mistakes and it's inevitable.
-
-686
-00:29:15,800 --> 00:29:18,390
-But ideologically, I also believe
-
-687
-00:29:18,390 --> 00:29:21,420
-that I should have the
+mistakes and it inevitable
+but ideologically i also believe
+that i should have the
 right to decide for myself
-
-688
-00:29:21,420 --> 00:29:22,253
-whether I want to lend you money,
-
-689
-00:29:22,253 --> 00:29:24,220
-whether I want to borrow money,
-
-690
-00:29:24,220 --> 00:29:27,270
-it's not up to some politician
+whether i want to lend you money
+whether i want to borrow money
+it not up to some politician
 or some other institution
-
-691
-00:29:27,270 --> 00:29:29,200
-to tell me what I can and what I can't do.
-
-692
-00:29:29,200 --> 00:29:30,723
-That's my business.
-
-693
-00:29:31,959 --> 00:29:34,620
-(soft music)
-
-694
-00:29:34,620 --> 00:29:36,640
-- [Director] There exists
-a definite two-camp divide
-
-695
-00:29:36,640 --> 00:29:39,170
-over whether Bitcoin should
+to tell me what i can and what i cant do
+that my business
+soft music
+director there exists
+a definite twocamp divide
+over whether bitcoin should
 be used to facilitate liberty
-
-696
-00:29:39,170 --> 00:29:41,900
-and self-sovereignty or
+and selfsovereignty or
 if it should be regulated
-
-697
-00:29:41,900 --> 00:29:43,133
-to protect users.
-
-698
-00:29:45,030 --> 00:29:48,840
-Can you give me an example of
+to protect users
+can you give me an example of
 some of these crazy schemes
-
-699
-00:29:48,840 --> 00:29:50,910
 that people are coming
-up with using crypto?
-
-700
-00:29:50,910 --> 00:29:53,200
-- There's so many.
-
-701
-00:29:53,200 --> 00:29:55,814
-I remember, but most of them
-coming from South Africa.
-
-702
-00:29:55,814 --> 00:29:56,820
-(laughing)
-
-703
-00:29:56,820 --> 00:30:00,170
-So in the very beginning, I
+up with using crypto
+there so many
+i remember but most of them
+coming from south africa
+laughing
+so in the very beginning i
 remember they used to call me
-
-704
-00:30:00,170 --> 00:30:01,510
-and try to recruit me.
-
-705
-00:30:01,510 --> 00:30:02,363
-They say like, "You've
+and try to recruit me
+they say like youve
 got a network of people
-
-706
-00:30:02,363 --> 00:30:04,190
-"you can make a lot of money."
-
-707
-00:30:04,190 --> 00:30:05,737
-I'm like, "I would rather be poor
-
-708
-00:30:05,737 --> 00:30:07,610
-"than to join something
+you can make a lot of money
+im like i would rather be poor
+than to join something
 that at the end of the day
-
-709
-00:30:07,610 --> 00:30:09,140
-I'll hurt my own people."
-
-710
-00:30:09,140 --> 00:30:10,380
-There's always a joining thing.
-
-711
-00:30:10,380 --> 00:30:12,370
-It's like a pyramid scheme.
-
-712
-00:30:12,370 --> 00:30:13,550
-The lady came to our office.
-
-713
-00:30:13,550 --> 00:30:15,130
-She was really heartbroken
-
-714
-00:30:15,130 --> 00:30:17,527
+ill hurt my own people
+there always a joining thing
+it like a pyramid scheme
+the lady came to our office
+she was really heartbroken
 because she has put a lot
 of money into a scheme
-
-715
-00:30:17,527 --> 00:30:19,730
-and then it disappeared.
-
-716
-00:30:19,730 --> 00:30:23,000
-People actually put [in]
-their children's school fees.
-
-717
-00:30:23,000 --> 00:30:26,430
-What I know is once you start
+and then it disappeared
+people actually put in
+their children school fees
+what i know is once you start
 having an influx of people
-
-718
-00:30:26,430 --> 00:30:27,460
-calling and saying they want Bitcoin,
-
-719
-00:30:27,460 --> 00:30:29,620
-know that there's a scheme coming up.
-
-720
-00:30:29,620 --> 00:30:32,230
-So they're good in a sense
-maybe they make Bitcoin
-
-721
-00:30:32,230 --> 00:30:33,510
-to be used a lot.
-
-722
-00:30:33,510 --> 00:30:35,850
-But at the same time, they're really bad.
-
-723
-00:30:35,850 --> 00:30:37,733
-The bad surpasses the good.
-
-724
-00:30:38,741 --> 00:30:41,650
-One of the biggest challenges
-to explaining Bitcoin
-
-725
-00:30:41,650 --> 00:30:45,580
+calling and saying they want bitcoin
+know that there a scheme coming up
+so theyre good in a sense
+maybe they make bitcoin
+to be used a lot
+but at the same time theyre really bad
+the bad surpasses the good
+one of the biggest challenges
+to explaining bitcoin
 is to somebody who comes
-already with the 'preknowledge'
-
-726
-00:30:45,580 --> 00:30:48,177
-of what Bitcoin is and then
-they come to you and say like,
-
-727
-00:30:48,177 --> 00:30:49,957
-"How much do I join?
-
-728
-00:30:49,957 --> 00:30:52,010
-"How would I make money very quick?"
-
-729
-00:30:52,010 --> 00:30:53,350
-You try to convince the person
-
-730
-00:30:53,350 --> 00:30:56,120
-that it's not about joining,
-it's like a revolution.
-
-731
-00:30:56,120 --> 00:30:58,640
-It's like a new technology
-arising altogether.
-
-732
-00:30:58,640 --> 00:30:59,930
-It's about you understanding.
-
-733
-00:30:59,930 --> 00:31:02,597
-They're like, "No, but it's not that."
-
-734
-00:31:04,360 --> 00:31:07,960
-The pros for me, is liberation, freedom,
-
-735
-00:31:07,960 --> 00:31:10,730
+already with the preknowledge
+of what bitcoin is and then
+they come to you and say like
+how much do i join
+how would i make money very quick
+you try to convince the person
+that it not about joining
+it like a revolution
+it like a new technology
+arising altogether
+it about you understanding
+theyre like no but it not that
+the pros for me is liberation freedom
 the ability to control your own money
-
-736
-00:31:10,730 --> 00:31:14,160
 or the ability to send any
-amount of crypto or carry it.
-
-737
-00:31:14,160 --> 00:31:16,690
-Imagine if you were to
-carry a chunk of gold,
-
-738
-00:31:16,690 --> 00:31:19,520
+amount of crypto or carry it
+imagine if you were to
+carry a chunk of gold
 you want to pass through the
-border or whatever, you can't.
-
-739
-00:31:19,520 --> 00:31:22,020
-So that's the beauty of Bitcoin.
-
-740
-00:31:22,020 --> 00:31:24,920
-The negativity is people using it wrongly,
-
-741
-00:31:24,920 --> 00:31:27,130
-making our people poor.
-
-742
-00:31:27,130 --> 00:31:29,610
-Also, lack of regulations and stuff.
-
-743
-00:31:29,610 --> 00:31:33,040
-If you can have maybe some
-sort of regulatory framework,
-
-744
-00:31:33,040 --> 00:31:35,570
-it will also help protect us.
-
-745
-00:31:35,570 --> 00:31:36,640
-I know you cannot control it
-
-746
-00:31:36,640 --> 00:31:38,580
-because of the way it was created,
-
-747
-00:31:38,580 --> 00:31:42,108
-but just regulations, it
-can help a little bit.
-
-748
-00:31:42,108 --> 00:31:44,910
-(lively music)
-
-749
-00:31:44,910 --> 00:31:46,370
-- [Director] Since Bitcoin's early days
-
-750
-00:31:46,370 --> 00:31:49,100
-it's been shrouded in
-mystery and controversy,
-
-751
-00:31:49,100 --> 00:31:52,340
-from the bankruptcy of Mt. Gox,
-one of the early exchanges,
-
-752
-00:31:52,340 --> 00:31:55,200
+border or whatever you cant
+so that the beauty of bitcoin
+the negativity is people using it wrongly
+making our people poor
+also lack of regulations and stuff
+if you can have maybe some
+sort of regulatory framework
+it will also help protect us
+i know you cannot control it
+because of the way it was created
+but just regulations it
+can help a little bit
+lively music
+director since bitcoin early days
+it been shrouded in
+mystery and controversy
+from the bankruptcy of mt gox
+one of the early exchanges
 to the infamy caused by the
-dark web Silk Road marketplace
-
-753
-00:31:55,200 --> 00:31:58,083
-that accepted Bitcoin for
-nefarious goods and services.
-
-754
-00:31:59,400 --> 00:32:00,520
-While Silk Road became one
-
-755
-00:32:00,520 --> 00:32:02,690
-of the first use cases for Bitcoin,
-
-756
-00:32:02,690 --> 00:32:04,600
+dark web silk road marketplace
+that accepted bitcoin for
+nefarious goods and services
+while silk road became one
+of the first use cases for bitcoin
 it also perhaps put
 the mainstream adoption
-
-757
-00:32:04,600 --> 00:32:06,350
 of cryptocurrencies years behind
-
-758
-00:32:06,350 --> 00:32:08,100
-where it might have been otherwise.
-
-759
-00:32:09,551 --> 00:32:13,100
-- It was run by Dread Pirate
-Roberts, or Ross Ulbricht.
-
-760
-00:32:13,100 --> 00:32:15,300
-If you follow the news you
-know that Ross Ulbricht
-
-761
-00:32:15,300 --> 00:32:17,550
-was found guilty by a jury.
-
-762
-00:32:17,550 --> 00:32:20,390
-The federal judge took his
+where it might have been otherwise
+it was run by dread pirate
+roberts or ross ulbricht
+if you follow the news you
+know that ross ulbricht
+was found guilty by a jury
+the federal judge took his
 activities very serious
-
-763
-00:32:20,390 --> 00:32:24,050
 and she actually sentenced
-him to serve a life sentence.
-
-764
-00:32:24,050 --> 00:32:26,260
-They counted at least six individuals
-
-765
-00:32:26,260 --> 00:32:28,450
+him to serve a life sentence
+they counted at least six individuals
 who had purchased
-narcotics off of Silk Road
-
-766
-00:32:28,450 --> 00:32:30,670
-and died as a result.
-
-767
-00:32:30,670 --> 00:32:33,410
-What we basically are focused on,
-
-768
-00:32:33,410 --> 00:32:37,120
-one, is criminal offenses
-involving digital currency,
-
-769
-00:32:37,120 --> 00:32:40,250
+narcotics off of silk road
+and died as a result
+what we basically are focused on
+one is criminal offenses
+involving digital currency
 which could be any sort of
-crime, whether it's narcotics,
-
-770
-00:32:40,250 --> 00:32:41,280
-whether it's murder-for-hire,
-
-771
-00:32:41,280 --> 00:32:43,810
-whether it's identity theft and so on,
-
-772
-00:32:43,810 --> 00:32:47,650
+crime whether it narcotics
+whether it murderforhire
+whether it identity theft and so on
 in which the bad guys
-are utilizing Bitcoin
-
-773
-00:32:47,650 --> 00:32:49,410
+are utilizing bitcoin
 rather than other forms of money
-
-774
-00:32:49,410 --> 00:32:51,220
-because they, in our experience,
-
-775
-00:32:51,220 --> 00:32:52,720
-believe it to be untraceable,
-
-776
-00:32:52,720 --> 00:32:57,060
+because they in our experience
+believe it to be untraceable
 which is clearly an
-accident on their part,
-
-777
-00:32:57,060 --> 00:33:00,160
+accident on their part
 a misunderstanding to say
-the least. [crowd laughing]
-
-778
-00:33:00,160 --> 00:33:04,025
-But we also deal with the
-regulation of exchanges of money.
-
-779
-00:33:04,025 --> 00:33:07,320
-(woman mumbling)
-
-780
-00:33:07,320 --> 00:33:08,208
-- [Lorien] Very nice.
-
-781
-00:33:08,208 --> 00:33:10,442
-- Don't touch, don't touch.
-
-782
-00:33:10,442 --> 00:33:12,558
-- No, you must be careful.
-
-783
-00:33:12,558 --> 00:33:15,860
-Every single transaction that
-occurs in the Bitcoin network
-
-784
-00:33:15,860 --> 00:33:17,730
+the least crowd laughing
+but we also deal with the
+regulation of exchanges of money
+woman mumbling
+lorien very nice
+dont touch dont touch
+no you must be careful
+every single transaction that
+occurs in the bitcoin network
 is recorded in something
-called the blockchain,
-
-785
-00:33:17,730 --> 00:33:20,080
+called the blockchain
 a public ledger of every
-transaction that's made.
-
-786
-00:33:20,080 --> 00:33:21,513
-The only problem is that
-
-787
-00:33:21,513 --> 00:33:23,160
+transaction that made
+the only problem is that
 even though you can see
-every single transaction,
-
-788
-00:33:23,160 --> 00:33:25,080
-and you can see the addresses,
-
-789
-00:33:25,080 --> 00:33:28,250
+every single transaction
+and you can see the addresses
 which are like the account
 numbers of the people
-
-790
-00:33:28,250 --> 00:33:30,210
-that are holding those bitcoins,
-
-791
-00:33:30,210 --> 00:33:33,120
-you don't actually know who
-those addresses belong to.
-
-792
-00:33:33,120 --> 00:33:37,220
-So, the correct term isn't
-anonymous, it's pseudonymous.
-
-793
-00:33:37,220 --> 00:33:39,530
-Cash is truly anonymous.
-
-794
-00:33:39,530 --> 00:33:42,920
-If you have a suitcase of
-cash and you go and spend it,
-
-795
-00:33:42,920 --> 00:33:45,600
-there's no way that that
-transaction is recorded.
-
-796
-00:33:45,600 --> 00:33:50,320
-So, Bitcoin is less anonymous than cash
-
-797
-00:33:50,320 --> 00:33:53,160
+that are holding those bitcoins
+you dont actually know who
+those addresses belong to
+so the correct term isnt
+anonymous it pseudonymous
+cash is truly anonymous
+if you have a suitcase of
+cash and you go and spend it
+there no way that that
+transaction is recorded
+so bitcoin is less anonymous than cash
 and we certainly know how cash can be used
-
-798
-00:33:53,160 --> 00:33:54,490
-for nefarious purposes.
-
-799
-00:33:54,490 --> 00:33:56,060
-We know that suitcases of money
-
-800
-00:33:56,060 --> 00:33:57,810
-and drug deals happen all the time.
-
-801
-00:33:59,430 --> 00:34:00,620
-- [Director] There was a
+for nefarious purposes
+we know that suitcases of money
+and drug deals happen all the time
+director there was a
 name that kept coming up
-
-802
-00:34:00,620 --> 00:34:02,820
-in conversation and research,
-
-803
-00:34:02,820 --> 00:34:05,600
+in conversation and research
 and for his name alone it
-felt necessary to meet him.
-
-804
-00:34:05,600 --> 00:34:06,583
-Fluffy Pony.
-
-805
-00:34:07,770 --> 00:34:09,300
-It's a nickname that stuck years ago
-
-806
-00:34:09,300 --> 00:34:10,510
-that despite his best efforts,
-
-807
-00:34:10,510 --> 00:34:12,670
-Riccardo is not able to get rid of,
-
-808
-00:34:12,670 --> 00:34:14,620
-but amongst the noise of the crypto world,
-
-809
-00:34:14,620 --> 00:34:16,503
-Fluffy Pony definitely stands out.
-
-810
-00:34:20,290 --> 00:34:22,520
-Why is privacy so important
-
-811
-00:34:22,520 --> 00:34:26,080
+felt necessary to meet him
+fluffy pony
+it a nickname that stuck years ago
+that despite his best efforts
+riccardo is not able to get rid of
+but amongst the noise of the crypto world
+fluffy pony definitely stands out
+why is privacy so important
 and how is it lacking in the
-way we currently do things?
-
-812
-00:34:26,080 --> 00:34:29,033
-- Privacy is the natural state of things.
-
-813
-00:34:29,880 --> 00:34:32,290
-You're not closing the
+way we currently do things
+privacy is the natural state of things
+youre not closing the
 door at the bathroom
-
-814
-00:34:32,290 --> 00:34:35,840
 because you want to plot to
-overthrow the government.
-
-815
-00:34:35,840 --> 00:34:37,210
-You're closing the door at the bathroom
-
-816
-00:34:37,210 --> 00:34:40,310
-because you don't want
-people to see you on the loo.
-
-817
-00:34:40,310 --> 00:34:43,560
-There's certain aspects of our
-life we wanna keep private,
-
-818
-00:34:43,560 --> 00:34:46,310
-that we might reveal to certain people.
-
-819
-00:34:46,310 --> 00:34:47,940
-We hopefully take our clothes off
-
-820
-00:34:47,940 --> 00:34:49,580
-in front of the person we're married to,
-
-821
-00:34:49,580 --> 00:34:52,810
-but we don't go and walk around
-the shopping center naked.
-
-822
-00:34:52,810 --> 00:34:57,500
-But privacy has become, it's
-sort of become, overshadowed
-
-823
-00:34:57,500 --> 00:34:59,610
-by oh bad people want privacy,
-
-824
-00:34:59,610 --> 00:35:02,240
+overthrow the government
+youre closing the door at the bathroom
+because you dont want
+people to see you on the loo
+there certain aspects of our
+life we wanna keep private
+that we might reveal to certain people
+we hopefully take our clothes off
+in front of the person were married to
+but we dont go and walk around
+the shopping center naked
+but privacy has become it
+sort of become overshadowed
+by oh bad people want privacy
 or things like if you
-have nothing to hide,
-
-825
-00:35:02,240 --> 00:35:04,380
-then why do you care about privacy?
-
-826
-00:35:04,380 --> 00:35:06,260
-It's not about wanting
-to hide it from everyone.
-
-827
-00:35:06,260 --> 00:35:09,930
-It's just that we wanna control
-who sees the information.
-
-828
-00:35:09,930 --> 00:35:11,200
-If law enforcement or the government
-
-829
-00:35:11,200 --> 00:35:12,670
-want information about me,
-
-830
-00:35:12,670 --> 00:35:14,490
+have nothing to hide
+then why do you care about privacy
+it not about wanting
+to hide it from everyone
+it just that we wanna control
+who sees the information
+if law enforcement or the government
+want information about me
 they should have to come knock on my door
-
-831
-00:35:14,490 --> 00:35:16,000
-to get that information.
-
-832
-00:35:16,000 --> 00:35:18,410
-They shouldn't be able to
+to get that information
+they shouldnt be able to
 just get that information
-
-833
-00:35:18,410 --> 00:35:19,490
 because my bank is telling them
-
-834
-00:35:19,490 --> 00:35:22,258
-about every transaction I've ever done.
-
-835
-00:35:22,258 --> 00:35:25,620
-(lively music)
-
-836
-00:35:25,620 --> 00:35:28,630
-- I know people say there is
-information on the internet,
-
-837
-00:35:28,630 --> 00:35:29,730
-but it's different.
-
-838
-00:35:29,730 --> 00:35:33,450
-If I'm able to really
+about every transaction ive ever done
+lively music
+i know people say there is
+information on the internet
+but it different
+if im able to really
 expand on the information
-
-839
-00:35:33,450 --> 00:35:34,680
 maybe you picked from the internet
-
-840
-00:35:34,680 --> 00:35:37,570
-and make you understand,
+and make you understand
 it makes me feel good
-
-841
-00:35:37,570 --> 00:35:39,640
-because I know I've empowered you,
-
-842
-00:35:39,640 --> 00:35:41,070
+because i know ive empowered you
 you will take the same knowledge
-
-843
-00:35:41,070 --> 00:35:43,360
-and you give it to someone.
-
-844
-00:35:43,360 --> 00:35:47,099
-So if I'm able to reproduce
-someone who does what I do.
-
-845
-00:35:47,099 --> 00:35:49,292
-(soft music)
-
-846
-00:35:49,292 --> 00:35:52,083
-That's the real deal,
-that's the real deal, yeah.
-
-847
-00:35:53,650 --> 00:35:55,340
-Had it not been for him,
-
-848
-00:35:55,340 --> 00:35:57,230
-I wouldn't be doing what I'm doing.
-
-849
-00:35:57,230 --> 00:35:59,860
-He made me to know about Bitcoin.
-
-850
-00:35:59,860 --> 00:36:03,060
-So because I was trying to
-help him during that time,
-
-851
-00:36:03,060 --> 00:36:04,970
-now I'm helping people with knowledge.
-
-852
-00:36:04,970 --> 00:36:07,990
-So it's like transferring
-whatever I wanted to do for him
-
-853
-00:36:07,990 --> 00:36:11,243
-now he's somehow doing it
-for the people through me.
-
-854
-00:36:11,243 --> 00:36:13,520
-I'll continue to honor him, yeah.
-
-855
-00:36:13,520 --> 00:36:15,277
-He'll be my baby forever.
-
-856
-00:36:15,277 --> 00:36:16,170
-(laughing)
-
-857
-00:36:16,170 --> 00:36:17,263
-Yep, yeah.
-
-858
-00:36:23,750 --> 00:36:27,110
-- When I got introduced to
-Bitcoin, it's like okay,
-
-859
-00:36:27,110 --> 00:36:29,960
-let me save, each month
-I save, I save, I save.
-
-860
-00:36:29,960 --> 00:36:31,640
-I think more about the future,
-
-861
-00:36:31,640 --> 00:36:32,477
-what's gonna happen in the future
-
-862
-00:36:32,477 --> 00:36:36,823
-and I orientate my actions
-today that'll impact the future.
-
-863
-00:36:37,760 --> 00:36:39,380
-I mean, that's the reason
-why I'm studying, right?
-
-864
-00:36:39,380 --> 00:36:42,210
-I'm like, it seems like some
+and you give it to someone
+so if im able to reproduce
+someone who does what i do
+soft music
+that the real deal
+that the real deal yeah
+had it not been for him
+i wouldnt be doing what im doing
+he made me to know about bitcoin
+so because i was trying to
+help him during that time
+now im helping people with knowledge
+so it like transferring
+whatever i wanted to do for him
+now he somehow doing it
+for the people through me
+ill continue to honor him yeah
+hell be my baby forever
+laughing
+yep yeah
+when i got introduced to
+bitcoin it like okay
+let me save each month
+i save i save i save
+i think more about the future
+what gonna happen in the future
+and i orientate my actions
+today thatll impact the future
+i mean that the reason
+why im studying right
+im like it seems like some
 really interesting stuff
-
-865
-00:36:42,210 --> 00:36:44,050
-in the space of crypto.
-
-866
-00:36:44,050 --> 00:36:46,230
-I'm not saying I'm against banking,
-
-867
-00:36:46,230 --> 00:36:48,110
-I'm just against
-fractional reserve banking.
-
-868
-00:36:48,110 --> 00:36:50,870
-So, I orientate my actions towards that,
-
-869
-00:36:50,870 --> 00:36:52,323
-the new financial system.
-
-870
-00:36:54,250 --> 00:36:55,510
-I would be a lot more stressed
-
-871
-00:36:55,510 --> 00:36:57,270
-if I didn't have Bitcoin, honestly.
-
-872
-00:36:57,270 --> 00:36:58,345
-- [Director] Why?
-
-873
-00:36:58,345 --> 00:36:59,360
-- Let's say, for example,
-
-874
-00:36:59,360 --> 00:37:02,650
-if we have the Central Bank
+in the space of crypto
+im not saying im against banking
+im just against
+fractional reserve banking
+so i orientate my actions towards that
+the new financial system
+i would be a lot more stressed
+if i didnt have bitcoin honestly
+director why
+let say for example
+if we have the central bank
 government decides like
-
-875
-00:37:02,650 --> 00:37:05,403
-yo, I'm gonna print like two trillion rand
-
-876
-00:37:05,403 --> 00:37:06,610
-into the economy.
-
-877
-00:37:06,610 --> 00:37:09,750
-The consequences of that
-would be hyperinflation.
-
-878
-00:37:09,750 --> 00:37:11,837
-I can't remember who said
-this, but it says like,
-
-879
-00:37:11,837 --> 00:37:14,257
-"Bitcoin's not about getting
-your money out of the country,
-
-880
-00:37:14,257 --> 00:37:17,440
-"it's about getting your
-country out of your money."
-
-881
-00:37:17,440 --> 00:37:19,640
-Essentially, it's like
-protecting your savings,
-
-882
-00:37:19,640 --> 00:37:22,910
-protecting your stored value,
-that's why I'm into Bitcoin.
-
-883
-00:37:24,960 --> 00:37:27,640
-- I think the financial
+yo im gonna print like two trillion rand
+into the economy
+the consequences of that
+would be hyperinflation
+i cant remember who said
+this but it says like
+bitcoin not about getting
+your money out of the country
+it about getting your
+country out of your money
+essentially it like
+protecting your savings
+protecting your stored value
+that why im into bitcoin
+i think the financial
 crisis started a discussion
-
-884
-00:37:27,640 --> 00:37:30,240
-that Bitcoin then accelerated
-
-885
-00:37:30,240 --> 00:37:32,130
+that bitcoin then accelerated
 around why the financial
 system works the way it does
-
-886
-00:37:32,130 --> 00:37:34,610
 and whether or not it
-should work that way.
-
-887
-00:37:34,610 --> 00:37:36,300
-How can we make it more transparent?
-
-888
-00:37:36,300 --> 00:37:37,910
-How can we make it more fair?
-
-889
-00:37:37,910 --> 00:37:40,790
-How can we improve the world
-of money for everybody?
-
-890
-00:37:40,790 --> 00:37:42,280
-But it was a very difficult discussion
-
-891
-00:37:42,280 --> 00:37:45,090
+should work that way
+how can we make it more transparent
+how can we make it more fair
+how can we improve the world
+of money for everybody
+but it was a very difficult discussion
 to have with people in
-the early days of Bitcoin.
-
-892
-00:37:45,090 --> 00:37:47,450
-I was writing for Finweek
-Magazine at the time
-
-893
-00:37:47,450 --> 00:37:50,220
-and I did a story on Bitcoin in 2011,
-
-894
-00:37:50,220 --> 00:37:52,110
+the early days of bitcoin
+i was writing for finweek
+magazine at the time
+and i did a story on bitcoin in
 and some of my colleagues
-literally laughed at me.
-
-895
-00:37:52,110 --> 00:37:53,027
-They were like, "This is the dumbest thing
-
-896
-00:37:53,027 --> 00:37:55,177
-"we've ever heard of, it's a bubble,
-
-897
-00:37:55,177 --> 00:37:56,977
-"it'll never be worth more than $9."
-
-898
-00:37:58,346 --> 00:38:00,930
-At its height it was worth $20,000
-
-899
-00:38:00,930 --> 00:38:03,630
-and it's gonna be worth a
-lot more than that one day,
-
-900
-00:38:03,630 --> 00:38:06,070
-and every time we see this cycle.
-
-901
-00:38:06,070 --> 00:38:08,220
-We have people laughing,
-it's not gonna last,
-
-902
-00:38:08,220 --> 00:38:09,680
-it's over-inflated,
-
-903
-00:38:09,680 --> 00:38:10,980
-and every time they're right
-
-904
-00:38:10,980 --> 00:38:12,390
-for a very short period of time,
-
-905
-00:38:12,390 --> 00:38:14,040
-and then every time they're proven
-
-906
-00:38:14,040 --> 00:38:16,950
-ultimately wrong in the medium-term.
-
-907
-00:38:16,950 --> 00:38:17,980
-I believe that one day
-
-908
-00:38:17,980 --> 00:38:20,240
-it's something that you
-won't have to understand.
-
-909
-00:38:20,240 --> 00:38:22,060
-It just makes your life better.
-
-910
-00:38:22,060 --> 00:38:23,200
-Very few people can tell you
-
-911
-00:38:23,200 --> 00:38:25,200
-exactly how their smartphone works.
-
-912
-00:38:25,200 --> 00:38:26,830
-It doesn't matter because the narrative
-
-913
-00:38:26,830 --> 00:38:28,680
-has become about why it's good for them.
-
-914
-00:38:28,680 --> 00:38:30,350
-What does it enable in their lives?
-
-915
-00:38:30,350 --> 00:38:32,630
-Well I can speak to my grandchildren.
-
-916
-00:38:32,630 --> 00:38:34,130
-I can stay up-to-date with the news.
-
-917
-00:38:34,130 --> 00:38:36,130
-I can take pictures of my family.
-
-918
-00:38:36,130 --> 00:38:38,210
-Those are the things that matter.
-
-919
-00:38:38,210 --> 00:38:41,030
-How the processor works
+literally laughed at me
+they were like this is the dumbest thing
+weve ever heard of it a bubble
+itll never be worth more than
+at its height it was worth
+and it gonna be worth a
+lot more than that one day
+and every time we see this cycle
+we have people laughing
+it not gonna last
+it overinflated
+and every time theyre right
+for a very short period of time
+and then every time theyre proven
+ultimately wrong in the mediumterm
+i believe that one day
+it something that you
+wont have to understand
+it just makes your life better
+very few people can tell you
+exactly how their smartphone works
+it doesnt matter because the narrative
+has become about why it good for them
+what does it enable in their lives
+well i can speak to my grandchildren
+i can stay uptodate with the news
+i can take pictures of my family
+those are the things that matter
+how the processor works
 and all of the software
-
-920
-00:38:41,030 --> 00:38:42,210
-that makes it possible,
-
-921
-00:38:42,210 --> 00:38:45,073
+that makes it possible
 nobody really needs to
-understand the bits and pieces.
-
-922
-00:38:46,523 --> 00:38:49,440
-(crowd chattering)
-
-923
-00:38:50,780 --> 00:38:54,393
-- Welcome to Emaweni, in
-the middle of the night.
-
-924
-00:38:56,000 --> 00:38:57,210
-- [Director] At two
-o'clock in the morning,
-
-925
-00:38:57,210 --> 00:38:58,810
-I followed Lorien out to Soweto
-
-926
-00:38:58,810 --> 00:39:00,150
+understand the bits and pieces
+crowd chattering
+welcome to emaweni in
+the middle of the night
+director at two
+oclock in the morning
+i followed lorien out to soweto
 to witness history being made
-
-927
-00:39:00,150 --> 00:39:02,943
 with a live demonstration of
-his Bitcoin prepaid meter.
-
-928
-00:39:04,036 --> 00:39:05,790
-Lorien would be Skyping
+his bitcoin prepaid meter
+lorien would be skyping
 through to a conference
-
-929
-00:39:05,790 --> 00:39:08,520
 on the other side of the
-world at MIT in Boston,
-
-930
-00:39:08,520 --> 00:39:11,010
-where his friend Ed would
-be making a Bitcoin payment
-
-931
-00:39:11,010 --> 00:39:12,343
-straight to the meter.
-
-932
-00:39:13,860 --> 00:39:15,440
-- So, what I'm gonna do
-
-933
-00:39:15,440 --> 00:39:16,690
-is I'm actually going to -
-
-934
-00:39:20,110 --> 00:39:22,963
-be ready, okay, so let's get
-this whole thing started.
-
-935
-00:39:23,850 --> 00:39:25,820
-They're gonna be calling right now,
-
-936
-00:39:25,820 --> 00:39:27,525
+world at mit in boston
+where his friend ed would
+be making a bitcoin payment
+straight to the meter
+so what im gonna do
+is im actually going to
+be ready okay so let get
+this whole thing started
+theyre gonna be calling right now
 in about two minutes
-
-937
-00:39:27,525 --> 00:39:30,584
-and then I'm gonna come to that classroom.
-
-938
-00:39:30,584 --> 00:39:31,640
-- [Woman] Okay.
-
-939
-00:39:31,640 --> 00:39:34,580
-- Shame, they've been here
-for two hours, three hours.
-
-940
-00:39:34,580 --> 00:39:35,850
-They got here at 12.
-
-941
-00:39:37,144 --> 00:39:40,061
-(computer ringing)
-
-942
-00:39:42,008 --> 00:39:43,086
-Hi, Ed.
-
-943
-00:39:43,086 --> 00:39:44,430
-- [Ed] This is a pack room here.
-
-944
-00:39:44,430 --> 00:39:46,410
-- Hi, everybody.
-- Can you see all of them?
-
-945
-00:39:46,410 --> 00:39:49,920
-- Hi, nice to see you
-all, thanks for coming.
-
-946
-00:39:49,920 --> 00:39:52,920
-- [Ed] Could you shortly
+and then im gonna come to that classroom
+woman okay
+shame theyve been here
+for two hours three hours
+they got here at
+computer ringing
+hi ed
+ed this is a pack room here
+hi everybody
+can you see all of them
+hi nice to see you
+all thanks for coming
+ed could you shortly
 explain where you are
-
-947
-00:39:52,920 --> 00:39:54,660
-and what you're doing there?
-
-948
-00:39:54,660 --> 00:39:57,050
-- Sure, I'm in a city outside
-
-949
-00:39:57,050 --> 00:39:58,930
-of Johannesburg, in South Africa,
-
-950
-00:39:58,930 --> 00:40:00,130
-it's called Soweto.
-
-951
-00:40:00,130 --> 00:40:01,170
-Where I am right now is very close
-
-952
-00:40:01,170 --> 00:40:04,170
-to where Nelson Mandela
-used to live in his youth,
-
-953
-00:40:04,170 --> 00:40:05,700
-and I'm in a small school.
-
-954
-00:40:05,700 --> 00:40:07,200
-We're gonna be demonstrating
-
-955
-00:40:08,520 --> 00:40:11,330
-our blockchain prepaid metering system.
-
-956
-00:40:11,330 --> 00:40:14,404
-So, this is now one of
-the electrical boxes.
-
-957
-00:40:14,404 --> 00:40:16,110
-I don't think you can actually see,
-
-958
-00:40:16,110 --> 00:40:18,250
-but there is a (dog barking),
-
-959
-00:40:18,250 --> 00:40:20,450
-this is now just a conventional meter box,
-
-960
-00:40:20,450 --> 00:40:23,670
-but there's a blockchain
-enabled meter over there,
-
-961
-00:40:23,670 --> 00:40:27,890
-and what we're gonna do now is
-I'm gonna go to the classroom
-
-962
-00:40:27,890 --> 00:40:32,120
-and there's some teachers
-there, and it's all dark,
-
-963
-00:40:32,120 --> 00:40:35,409
-and Ed's gonna now make the transaction.
-
-964
-00:40:35,409 --> 00:40:36,901
-- [Ed] How long
-
-965
-00:40:36,901 --> 00:40:38,090
-does the transaction take?
-
-966
-00:40:38,090 --> 00:40:39,855
-- [Lorien] The transaction takes about,
-
-967
-00:40:39,855 --> 00:40:41,306
-it should take about 30 seconds.
-
-968
-00:40:41,306 --> 00:40:42,190
-(people chattering)
-
-969
-00:40:42,190 --> 00:40:43,023
-All right.
-
-970
-00:40:45,777 --> 00:40:46,663
-Go for it.
-
-971
-00:40:46,663 --> 00:40:48,230
-Okay, and now we wait I guess.
-
-972
-00:40:48,230 --> 00:40:49,980
-And we hope it works.
-
-973
-00:40:51,100 --> 00:40:52,070
-So yeah, now what's happening
-
-974
-00:40:52,070 --> 00:40:53,110
-is it's now going through the blockchain,
-
-975
-00:40:53,110 --> 00:40:55,450
-the meter's gonna detect the payment,
-
-976
-00:40:55,450 --> 00:40:56,830
-it's gonna calculate the tariff,
-
-977
-00:40:56,830 --> 00:40:59,590
+and what youre doing there
+sure im in a city outside
+of johannesburg in south africa
+it called soweto
+where i am right now is very close
+to where nelson mandela
+used to live in his youth
+and im in a small school
+were gonna be demonstrating
+our blockchain prepaid metering system
+so this is now one of
+the electrical boxes
+i dont think you can actually see
+but there is a dog barking
+this is now just a conventional meter box
+but there a blockchain
+enabled meter over there
+and what were gonna do now is
+im gonna go to the classroom
+and there some teachers
+there and it all dark
+and ed gonna now make the transaction
+ed how long
+does the transaction take
+lorien the transaction takes about
+it should take about  seconds
+people chattering
+all right
+go for it
+okay and now we wait i guess
+and we hope it works
+so yeah now what happening
+is it now going through the blockchain
+the meter gonna detect the payment
+it gonna calculate the tariff
 and then load the required
 amount of electricity
-
-978
-00:40:59,590 --> 00:41:01,280
-onto the meter.
-
-979
-00:41:01,280 --> 00:41:02,230
-So, there's nothing on it at the moment.
-
-980
-00:41:02,230 --> 00:41:03,939
-That's why we're in the dark.
-
-981
-00:41:03,939 --> 00:41:06,933
-And, hopefully in a few seconds
-
-982
-00:41:06,933 --> 00:41:09,140
-the meter should be activated.
-
-983
-00:41:09,140 --> 00:41:10,751
-I'm actually sitting in
-one of the classrooms here,
-
-984
-00:41:10,751 --> 00:41:11,918
+onto the meter
+so there nothing on it at the moment
+that why were in the dark
+and hopefully in a few seconds
+the meter should be activated
+im actually sitting in
+one of the classrooms here
 so you can see
-
-985
-00:41:14,249 --> 00:41:16,578
-the staff here, ready?
-
-986
-00:41:16,578 --> 00:41:18,911
-(chuckling)
-
-987
-00:41:20,524 --> 00:41:23,537
-This should be a few, about 30 seconds.
-
-988
-00:41:23,537 --> 00:41:26,204
-- [Ed] 41 seconds.
-- 41 seconds, okay.
-
-989
-00:41:32,821 --> 00:41:33,654
-All right.
-
-990
-00:41:34,758 --> 00:41:35,928
-- [Ed] Maybe you should
-just switch them on.
-
-991
-00:41:35,928 --> 00:41:39,261
-- No, no, not fair if there's switching.
-
-992
-00:41:45,044 --> 00:41:49,345
-This is usually what
-happens in the live demo.
-
-993
-00:41:49,345 --> 00:41:50,345
-- [Ed] Yeah.
-
-994
-00:41:52,296 --> 00:41:56,129
-Let me just check if I
-have the right address.
-
-995
-00:41:57,530 --> 00:41:59,530
-Yeah, yeah it's Emaweni.
-
-996
-00:42:02,714 --> 00:42:05,333
-- Hmm, oh there we go.
-
-997
-00:42:05,333 --> 00:42:08,333
-(teachers cheering)
-
-998
-00:42:13,027 --> 00:42:16,860
-(singing)
-
-999
-00:42:28,270 --> 00:42:31,220
-I've got four sons who are busy.
-
-1000
-00:42:31,220 --> 00:42:32,820
-One of the things that
-I've been involved with
-
-1001
-00:42:32,820 --> 00:42:34,530
-is the Cub Scouts.
-
-1002
-00:42:34,530 --> 00:42:37,640
-I take my sons there on a Friday night.
-
-1003
-00:42:37,640 --> 00:42:41,430
-We get involved teaching
-kids how to be independent,
-
-1004
-00:42:41,430 --> 00:42:43,970
-and also, most importantly,
-be good citizens.
-
-1005
-00:42:43,970 --> 00:42:45,820
-It's very important to get children
-
-1006
-00:42:45,820 --> 00:42:48,750
+the staff here ready
+chuckling
+this should be a few about  seconds
+ed  seconds
+seconds okay
+all right
+ed maybe you should
+just switch them on
+no no not fair if there switching
+this is usually what
+happens in the live demo
+ed yeah
+let me just check if i
+have the right address
+yeah yeah it emaweni
+hmm oh there we go
+teachers cheering
+singing
+ive got four sons who are busy
+one of the things that
+ive been involved with
+is the cub scouts
+i take my sons there on a friday night
+we get involved teaching
+kids how to be independent
+and also most importantly
+be good citizens
+it very important to get children
 to consider their
 communities and their society
-
-1007
-00:42:48,750 --> 00:42:52,260
-and to be empathetic to other people,
-
-1008
-00:42:52,260 --> 00:42:55,170
-to try and make their communities better,
-
-1009
-00:42:55,170 --> 00:42:58,963
-to build it up, to try
-and think civic-mindedly.
-
-1010
-00:43:03,120 --> 00:43:04,890
-- [Director] This is the
-thing that I struggle with.
-
-1011
-00:43:04,890 --> 00:43:08,710
-So in Africa, I don't know that it helps
-
-1012
-00:43:08,710 --> 00:43:10,440
+and to be empathetic to other people
+to try and make their communities better
+to build it up to try
+and think civicmindedly
+director this is the
+thing that i struggle with
+so in africa i dont know that it helps
 to resolve third world problems
-
-1013
-00:43:10,440 --> 00:43:14,010
 because if you live in a hut
-
-1014
-00:43:14,010 --> 00:43:15,540
-you don't have access to the internet.
-
-1015
-00:43:15,540 --> 00:43:17,330
-You don't have access to a phone.
-
-1016
-00:43:17,330 --> 00:43:19,300
-Do you think that it's actually something
-
-1017
-00:43:19,300 --> 00:43:22,310
+you dont have access to the internet
+you dont have access to a phone
+do you think that it actually something
 that could really
-genuinely make a practical,
-
-1018
-00:43:22,310 --> 00:43:24,040
-real-world, difference here?
-
-1019
-00:43:24,040 --> 00:43:26,970
-- I tend to think that
+genuinely make a practical
+realworld difference here
+i tend to think that
 cryptocurrencies have potential
-
-1020
-00:43:26,970 --> 00:43:28,900
 to solve real world
-problems all over the world.
-
-1021
-00:43:28,900 --> 00:43:30,800
-You're not gonna solve all
-the problems, certainly.
-
-1022
-00:43:30,800 --> 00:43:33,930
-Even if it just becomes a
-global reserve currency,
-
-1023
-00:43:33,930 --> 00:43:37,510
+problems all over the world
+youre not gonna solve all
+the problems certainly
+even if it just becomes a
+global reserve currency
 the local currency for a
-country becomes less important,
-
-1024
-00:43:37,510 --> 00:43:40,800
+country becomes less important
 where people can trivially
 shift from whatever
-
-1025
-00:43:40,800 --> 00:43:43,110
-the local currency is into Bitcoin,
-
-1026
-00:43:43,110 --> 00:43:44,670
-and then it doesn't matter
-
-1027
-00:43:44,670 --> 00:43:46,190
-what happens to the local currency.
-
-1028
-00:43:46,190 --> 00:43:48,260
-Now, your reliance isn't on the government
-
-1029
-00:43:48,260 --> 00:43:50,550
+the local currency is into bitcoin
+and then it doesnt matter
+what happens to the local currency
+now your reliance isnt on the government
 to keep the economy stable
-
-1030
-00:43:50,550 --> 00:43:53,400
-because you've got a back-up,
-you've got a fallback.
-
-1031
-00:43:53,400 --> 00:43:55,930
-That's very powerful and I think that
-
-1032
-00:43:55,930 --> 00:43:58,760
-that's something that
+because youve got a backup
+youve got a fallback
+that very powerful and i think that
+that something that
 could have lasting effects
-
-1033
-00:43:58,760 --> 00:44:01,640
-and impact in Africa.
-
-1034
-00:44:01,640 --> 00:44:05,190
-We've had this leapfrog thing that occurs,
-
-1035
-00:44:05,190 --> 00:44:07,860
-where there's an innovation,
-
-1036
-00:44:07,860 --> 00:44:11,020
+and impact in africa
+weve had this leapfrog thing that occurs
+where there an innovation
 like digital cellphones
-when they came out,
-
-1037
-00:44:11,020 --> 00:44:12,030
+when they came out
 those were the first cellphones
-
-1038
-00:44:12,030 --> 00:44:14,530
-that really got deployed in South Africa,
-
-1039
-00:44:14,530 --> 00:44:17,950
-and because of that we were on 3G faster
-
-1040
-00:44:17,950 --> 00:44:21,440
-than the United States and most of Europe,
-
-1041
-00:44:21,440 --> 00:44:23,560
-and it's just because the infrastructure
-
-1042
-00:44:23,560 --> 00:44:24,800
-is a little bit more modern,
-
-1043
-00:44:24,800 --> 00:44:27,530
+that really got deployed in south africa
+and because of that we were on g faster
+than the united states and most of europe
+and it just because the infrastructure
+is a little bit more modern
 because it was deployed
-slightly later in the game.
-
-1044
-00:44:27,530 --> 00:44:31,610
-There are a class of problems in Africa
-
-1045
-00:44:31,610 --> 00:44:35,700
-where we can just leapfrog,
+slightly later in the game
+there are a class of problems in africa
+where we can just leapfrog
 and use cryptocurrencies
-
-1046
-00:44:35,700 --> 00:44:38,443
-to our advantage, and I think
-that's what's gonna happen.
-
-1047
-00:44:39,520 --> 00:44:41,660
-- Even though, myself
-on a day-to-day basis,
-
-1048
-00:44:41,660 --> 00:44:44,490
-I don't use Bitcoin in
-the way I would like.
-
-1049
-00:44:44,490 --> 00:44:46,167
-I do wanna be able to spend Bitcoin
-
-1050
-00:44:46,167 --> 00:44:48,620
-and I do wanna be able
+to our advantage and i think
+that what gonna happen
+even though myself
+on a daytoday basis
+i dont use bitcoin in
+the way i would like
+i do wanna be able to spend bitcoin
+and i do wanna be able
 to have people out there
-
-1051
-00:44:48,620 --> 00:44:51,010
-in this country spending Bitcoin.
-
-1052
-00:44:51,010 --> 00:44:54,610
-I want merchants and service
-providers to accept Bitcoin.
-
-1053
-00:44:54,610 --> 00:44:57,750
-So, instead of waiting
-for them to do that,
-
-1054
-00:44:57,750 --> 00:45:00,770
-I'm now going and actually
-providing those tools.
-
-1055
-00:45:00,770 --> 00:45:04,950
-I will certainly strive
+in this country spending bitcoin
+i want merchants and service
+providers to accept bitcoin
+so instead of waiting
+for them to do that
+im now going and actually
+providing those tools
+i will certainly strive
 to create the opportunity
-
-1056
-00:45:04,950 --> 00:45:08,290
 for people to spend it
-in their day-to-day lives
-
-1057
-00:45:08,290 --> 00:45:10,690
+in their daytoday lives
 and also to accept it in
-their day-to-day lives.
-
-1058
-00:45:12,050 --> 00:45:13,930
-- [Director] Ironically,
-the story I expected
-
-1059
-00:45:13,930 --> 00:45:15,980
+their daytoday lives
+director ironically
+the story i expected
 was to be told by a bunch of men in suits
-
-1060
-00:45:15,980 --> 00:45:17,533
-just in pursuit of more money.
-
-1061
-00:45:18,650 --> 00:45:20,830
-I expected to find
-bandits, and terrorists,
-
-1062
-00:45:20,830 --> 00:45:24,093
-and everyday-Joes organizing
-dark deeds in dark places.
-
-1063
-00:45:25,020 --> 00:45:26,530
-But in the last five and a half years,
-
-1064
-00:45:26,530 --> 00:45:27,920
-the story I thought I would be telling
-
-1065
-00:45:27,920 --> 00:45:31,593
+just in pursuit of more money
+i expected to find
+bandits and terrorists
+and everydayjoes organizing
+dark deeds in dark places
+but in the last five and a half years
+the story i thought i would be telling
 about the crypto space in
-Africa never materialized.
-
-1066
-00:45:32,810 --> 00:45:34,690
-I've realized that my
+africa never materialized
+ive realized that my
 pessimism at the beginning
-
-1067
-00:45:34,690 --> 00:45:37,780
 of this journey was
-actually just misplaced,
-
-1068
-00:45:37,780 --> 00:45:41,283
-but regardless, that pessimism
-has now turned to optimism,
-
-1069
-00:45:42,380 --> 00:45:45,220
+actually just misplaced
+but regardless that pessimism
+has now turned to optimism
 not so much because of the
-tech, but because of the people
-
-1070
-00:45:45,220 --> 00:45:49,310
+tech but because of the people
 who are using it to make the
-circle both bigger and better,
-
-1071
-00:45:49,310 --> 00:45:51,960
-and that's what I call the
-beginning of a revolution.
-
-1072
-00:45:58,914 --> 00:45:59,747
-(lively music)
-
-1073
-00:45:59,747 --> 00:46:02,203
-- Just off the top of my head.
-
-1074
-00:46:03,404 --> 00:46:04,630
-- Bitcoin. (laughing)
-
-1075
-00:46:04,630 --> 00:46:06,174
-- Ethereum Classic.
-
-1076
-00:46:06,174 --> 00:46:07,043
-- Huntercoin.
-
-1077
-00:46:07,043 --> 00:46:08,245
-- Monero.
-
-1078
-00:46:08,245 --> 00:46:09,200
-- Ethereum.
-
-1079
-00:46:09,200 --> 00:46:10,484
-- Ripple XRP.
-
-1080
-00:46:10,484 --> 00:46:11,402
-- Bitcoins.
-
-1081
-00:46:11,402 --> 00:46:12,980
-- Bitcoin Gold, Bitcoin Silver,
-
-1082
-00:46:12,980 --> 00:46:14,850
-Bitcoin Diamond, Bitcoin Private,
-
-1083
-00:46:14,850 --> 00:46:16,330
-all of the things that start with Bitcoin
-
-1084
-00:46:16,330 --> 00:46:17,787
-and have another word after it.
-
-1085
-00:46:17,787 --> 00:46:19,420
-- Dash, Zcash.
-
-1086
-00:46:19,420 --> 00:46:20,990
-- There's Cardano.
-
-1087
-00:46:20,990 --> 00:46:21,823
-- EOS.
-
-1088
-00:46:21,823 --> 00:46:23,468
-- Stellar Lumens.
-
-1089
-00:46:23,468 --> 00:46:24,537
-- Calibur.
-
-1090
-00:46:24,537 --> 00:46:25,590
-- IOTA.
-
-1091
-00:46:25,590 --> 00:46:27,440
-- There's another one called E-Ora.
-
-1092
-00:46:27,440 --> 00:46:28,586
-- Bitconnect.
-
-1093
-00:46:28,586 --> 00:46:30,330
-(laughing)
-
-1094
-00:46:30,330 --> 00:46:33,093
-I'm sorry, I'm sorry,
-that was like a scam coin.
-
-1095
-00:46:34,439 --> 00:46:35,932
-- Did I say Dash?
-
-1096
-00:46:35,932 --> 00:46:38,432
-Of course Dash, Litecoin Cash.
-
-1097
-00:46:42,143 --> 00:46:44,550
-(laughing)
-
-1098
-00:46:44,550 --> 00:46:46,160
-- I just hit a blank.
-
-1099
-00:46:46,160 --> 00:46:48,110
-- Now they're escaping me, these coins.
-
-1100
-00:46:49,020 --> 00:46:50,063
-As many as I can.
-
-1101
-00:46:53,510 --> 00:46:55,810
-- There's so many, it's
-hard to think of them.
-
-1102
-00:46:57,142 --> 00:46:57,975
-- UBU.
-
-1103
-00:46:59,430 --> 00:47:00,263
-BNB.
-
-1104
-00:47:02,780 --> 00:47:03,613
-PRIVEX.
-
-1105
-00:47:05,100 --> 00:47:06,504
-This should be a lot easier.
-
-1106
-00:47:06,504 --> 00:47:07,694
-(laughing)
-
-										
-
-  
-  
-
-   
-
- 
- 
-  
-
- 
-
- 
-
-  
-
-										
+circle both bigger and better
+and that what i call the
+beginning of a revolution
+lively music
+just off the top of my head
+bitcoin laughing
+ethereum classic
+huntercoin
+monero
+ethereum
+ripple xrp
+bitcoins
+bitcoin gold bitcoin silver
+bitcoin diamond bitcoin private
+all of the things that start with bitcoin
+and have another word after it
+dash zcash
+there cardano
+eos
+stellar lumens
+calibur
+iota
+there another one called eora
+bitconnect
+laughing
+im sorry im sorry
+that was like a scam coin
+did i say dash
+of course dash litecoin cash
+laughing
+i just hit a blank
+now theyre escaping me these coins
+as many as i can
+there so many it
+hard to think of them
+ubu
+bnb
+privex
+this should be a lot easier
+laughing

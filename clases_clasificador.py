@@ -1066,39 +1066,37 @@ def main():
 
 	#LimpiarArchivos
 	limpiador = limpiadorTexto()
-	#limpiador.ProcessFiles(limpiador.FindFiles("srt","PeliculasBuenas,PeliculasExcelentes,PeliculasMalas,PeliculasRegulares"))
+	# limpiador.ProcessFiles(limpiador.FindFiles("srt","PeliculasBuenas,PeliculasExcelentes,PeliculasMalas,PeliculasRegulares"))
 
 	peliculas = [["./EjemplosExternos/buenaResult","Dunkirk.2017.1080p.BluRay.H264.AAC-RARBG.srt"],["./EjemplosExternos/buenaResult","Jim Carrey - The Un-Natural Act (1991).srt"], \
 	["./EjemplosExternos/excelentResult","Banking.On.Africa.The.Bitcoin.Revolution.2020.WEBRip.x264-ION10.srt"],["./EjemplosExternos/excelentResult","Marvels.The.Punisher.S02E13.WEB.x264-STRiFE.srt"],\
 	["./EjemplosExternos/malaResult","2_English.srt"],["./EjemplosExternos/malaResult","Skinned.2020.NORDiC.1080p.WEB-DL.H.264.DD5.1-TWA.sv.srt"],\
 	["./EjemplosExternos/regularResult","Splice.en.srt"],["./EjemplosExternos/regularResult","Stranded (2001).srt"]]
 
-
-	"""for ruta,pelicula in peliculas:
-		print("Limpiando actualmente: ", pelicula)
-		limpiador.limpiarPeliculaIndividual(ruta,pelicula)"""
-
+	# for ruta,pelicula in peliculas:
+	# 	print("Limpiando actualmente: ", pelicula)
+	# 	limpiador.limpiarPeliculaIndividual(ruta,pelicula)
 
 	laplace = Laplace()
-	#laplace.crearTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-Laplace.csv")
+	# laplace.crearTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-Laplace.csv")
 	tablaEntrenamientoLaplace = pd.read_csv("TFIDF-Laplace.csv", index_col=0)
 
 
-	# print("Algoritmo de SVM")
+	print("Algoritmo de SVM")
 	svm_instancia = algoritmoSVM()
-	#svm_instancia.construirTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-SVM.csv")
+	# svm_instancia.construirTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-SVM.csv")
 	svm_entrenado = svm_instancia.entrenarSistema("TFIDF-SVM.csv","linear")
-	
-	# print("Algoritmo de N-Neighbors")
+
+	print("Algoritmo de N-Neighbors")
 	n_neighbors = algoritmoKNeighbors()
-	#n_neighbors.construirTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-Nneig.csv")
+	# n_neighbors.construirTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-Nneig.csv")
 	neighbors_entrenado = n_neighbors.entrenarSistema("TFIDF-Nneig.csv",3)
-	
+
 
 	for ruta,pelicula in peliculas:
 		print("------------------------------------------------------")
 		ruta = ruta.replace("./","")
-		#pelicula = pelicula.replace(".srt",".txt")
+		pelicula = pelicula.replace(".srt",".txt")
 		print ("ANALIZANDO PELICULA: ", pelicula[:len(pelicula)-3])
 		print("Laplace")
 		laplace.dirname =''

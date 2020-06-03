@@ -1,0 +1,64 @@
+------------------------------------------------------
+ANALIZANDO PELICULA:  Dunkirk.2017.1080p.BluRay.H264.AAC-RARBG.
+Laplace
+Malas
+SVM
+SVC:  ['Mala' 'Mala' 'Mala' 'Mala']
+N-Neighbors
+Prediccion por Knn:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+------------------------------------------------------
+ANALIZANDO PELICULA:  Jim Carrey - The Un-Natural Act (1991).
+Laplace
+Malas
+SVM
+SVC:  ['Mala' 'Mala' 'Mala' 'Mala']
+N-Neighbors
+Prediccion por Knn:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+------------------------------------------------------
+ANALIZANDO PELICULA:  Banking.On.Africa.The.Bitcoin.Revolution.2020.WEBRip.x264-ION10.
+Laplace
+Malas
+SVM
+SVC:  ['Mala' 'Mala' 'Mala' 'Mala']
+N-Neighbors
+Prediccion por Knn:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+------------------------------------------------------
+ANALIZANDO PELICULA:  Marvels.The.Punisher.S02E13.WEB.x264-STRiFE.
+Laplace
+Malas
+SVM
+SVC:  ['Mala' 'Mala' 'Mala' 'Mala']
+N-Neighbors
+Prediccion por Knn:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+------------------------------------------------------
+ANALIZANDO PELICULA:  2_English.
+Laplace
+Malas
+SVM
+SVC:  ['Mala' 'Mala' 'Mala' 'Mala']
+N-Neighbors
+Prediccion por Knn:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+------------------------------------------------------
+ANALIZANDO PELICULA:  Skinned.2020.NORDiC.1080p.WEB-DL.H.264.DD5.1-TWA.sv.
+Laplace
+Malas
+SVM
+SVC:  ['Mala' 'Mala' 'Mala' 'Mala']
+N-Neighbors
+Prediccion por Knn:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+------------------------------------------------------
+ANALIZANDO PELICULA:  Splice.en.
+Laplace
+Malas
+SVM
+SVC:  ['Mala' 'Mala' 'Mala' 'Mala']
+N-Neighbors
+Prediccion por Knn:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+------------------------------------------------------
+ANALIZANDO PELICULA:  Stranded (2001).
+Laplace
+Malas
+SVM
+SVC:  ['Mala' 'Mala' 'Mala' 'Mala']
+N-Neighbors
+Prediccion por Knn:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']

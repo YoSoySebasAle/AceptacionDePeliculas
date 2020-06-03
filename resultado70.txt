@@ -1,0 +1,64 @@
+------------------------------------------------------
+ANALIZANDO PELICULA:  Dunkirk.2017.1080p.BluRay.H264.AAC-RARBG.
+Laplace
+Malas
+SVM
+SVC:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+N-Neighbors
+Prediccion por Knn:  ['Buena' 'Buena' 'Buena' 'Buena']
+------------------------------------------------------
+ANALIZANDO PELICULA:  Jim Carrey - The Un-Natural Act (1991).
+Laplace
+Malas
+SVM
+SVC:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+N-Neighbors
+Prediccion por Knn:  ['Buena' 'Buena' 'Buena' 'Buena']
+------------------------------------------------------
+ANALIZANDO PELICULA:  Banking.On.Africa.The.Bitcoin.Revolution.2020.WEBRip.x264-ION10.
+Laplace
+Regulares
+SVM
+SVC:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+N-Neighbors
+Prediccion por Knn:  ['Buena' 'Buena' 'Buena' 'Buena']
+------------------------------------------------------
+ANALIZANDO PELICULA:  Marvels.The.Punisher.S02E13.WEB.x264-STRiFE.
+Laplace
+Malas
+SVM
+SVC:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+N-Neighbors
+Prediccion por Knn:  ['Buena' 'Buena' 'Buena' 'Buena']
+------------------------------------------------------
+ANALIZANDO PELICULA:  2_English.
+Laplace
+Regulares
+SVM
+SVC:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+N-Neighbors
+Prediccion por Knn:  ['Buena' 'Buena' 'Buena' 'Buena']
+------------------------------------------------------
+ANALIZANDO PELICULA:  Skinned.2020.NORDiC.1080p.WEB-DL.H.264.DD5.1-TWA.sv.
+Laplace
+Regulares
+SVM
+SVC:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+N-Neighbors
+Prediccion por Knn:  ['Buena' 'Buena' 'Buena' 'Buena']
+------------------------------------------------------
+ANALIZANDO PELICULA:  Splice.en.
+Laplace
+Malas
+SVM
+SVC:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+N-Neighbors
+Prediccion por Knn:  ['Buena' 'Buena' 'Buena' 'Buena']
+------------------------------------------------------
+ANALIZANDO PELICULA:  Stranded (2001).
+Laplace
+Regulares
+SVM
+SVC:  ['Excelente' 'Excelente' 'Excelente' 'Excelente']
+N-Neighbors
+Prediccion por Knn:  ['Buena' 'Buena' 'Buena' 'Buena']
