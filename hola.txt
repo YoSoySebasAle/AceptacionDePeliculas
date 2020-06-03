@@ -1,4 +1,0 @@
-word_count_in_class : sum of(tf-idf_weights of the word for all the documents belonging to that class) //
-basically replacing the counts with the tfidf weights of the same word calculated for every document within that class.
-
-total_words_in_class : sum of (tf-idf weights of all the words belonging to that class)
