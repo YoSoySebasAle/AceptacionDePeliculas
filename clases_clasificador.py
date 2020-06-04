@@ -845,13 +845,13 @@ class Laplace:
 
 		probaMax = max([prob_malas,prob_regulares,prob_buenas, prob_excelentes])
 		if probaMax ==  prob_malas:
-			return 'Malas'
+			return 'Mala'
 		elif probaMax == prob_regulares:
-			return 'Regulares'
+			return 'Regular'
 		elif probaMax == prob_buenas:
-			return 'Buenas'
+			return 'Buena'
 		else:
-			return 'Excelentes'
+			return 'Excelente'
 
 
 
@@ -955,6 +955,7 @@ class algoritmoSVM:
 		x_prediccion = peliculasAnalizar.drop("Calificacion",axis =1)
 		prediccion = svc.predict(x_prediccion)
 		print("SVC: ",prediccion)
+		return prediccion[0]
 
 
 
@@ -1059,14 +1060,16 @@ class algoritmoKNeighbors:
 		knn = instanciaEntrenada
 		peliculasAnalizar = pd.read_csv(archivoPelicula +".csv", index_col=0)
 		x_prediccion = peliculasAnalizar.drop("Calificacion",axis =1)
+		prediccion = knn.predict(x_prediccion)
 		print("Prediccion por Knn: ",knn.predict(x_prediccion))
+		return prediccion[0]
 
 
 def main():
 
 	#LimpiarArchivos
 	limpiador = limpiadorTexto()
-	#limpiador.ProcessFiles(limpiador.FindFiles("srt","PeliculasBuenas,PeliculasExcelentes,PeliculasMalas,PeliculasRegulares"))
+	limpiador.ProcessFiles(limpiador.FindFiles("srt","PeliculasBuenas,PeliculasExcelentes,PeliculasMalas,PeliculasRegulares"))
 
 	peliculas = [["./EjemplosExternos/buenaResult","Dunkirk.2017.1080p.BluRay.H264.AAC-RARBG.srt"],["./EjemplosExternos/buenaResult","Jim Carrey - The Un-Natural Act (1991).srt"], \
 	["./EjemplosExternos/excelentResult","Banking.On.Africa.The.Bitcoin.Revolution.2020.WEBRip.x264-ION10.srt"],["./EjemplosExternos/excelentResult","Marvels.The.Punisher.S02E13.WEB.x264-STRiFE.srt"],\
@@ -1078,22 +1081,22 @@ def main():
 		print("Limpiando actualmente: ", pelicula)
 		limpiador.limpiarPeliculaIndividual(ruta,pelicula)"""
 
-
+	print("Algoritmo de Laplace")
 	laplace = Laplace()
-	#laplace.crearTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-Laplace.csv")
+	laplace.crearTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-Laplace.csv")
 	tablaEntrenamientoLaplace = pd.read_csv("TFIDF-Laplace.csv", index_col=0)
 
 
-	# print("Algoritmo de SVM")
+	print("Algoritmo de SVM")
 	svm_instancia = algoritmoSVM()
-	#svm_instancia.construirTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-SVM.csv")
+	svm_instancia.construirTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-SVM.csv")
 	svm_entrenado = svm_instancia.entrenarSistema("TFIDF-SVM.csv","linear")
-	
-	# print("Algoritmo de N-Neighbors")
+
+	print("Algoritmo de N-Neighbors")
 	n_neighbors = algoritmoKNeighbors()
-	#n_neighbors.construirTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-Nneig.csv")
+	n_neighbors.construirTablaEntrenamiento("PeliculasMalasResult.txt,PeliculasRegularesResult.txt,PeliculasBuenasResult.txt,PeliculasExcelentesResult.txt","TFIDF-Nneig.csv")
 	neighbors_entrenado = n_neighbors.entrenarSistema("TFIDF-Nneig.csv",3)
-	
+
 
 	for ruta,pelicula in peliculas:
 		print("------------------------------------------------------")
