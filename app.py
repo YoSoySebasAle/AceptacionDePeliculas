@@ -3,7 +3,7 @@ import os
 import pandas as pd
 from clases_clasificador import Laplace, algoritmoKNeighbors, algoritmoSVM
 
-UPLOAD_FOLDER = './filesUploaded/'
+UPLOAD_FOLDER = "./filesUploaded/"
 tablaEntrenamientoLaplace = pd.read_csv("TFIDF-Laplace.csv", index_col=0)
 svm_instancia = algoritmoSVM()
 svm_entrenado = svm_instancia.entrenarSistema("TFIDF-SVM.csv", "linear")
