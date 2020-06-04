@@ -845,13 +845,13 @@ class Laplace:
 
 		probaMax = max([prob_malas,prob_regulares,prob_buenas, prob_excelentes])
 		if probaMax ==  prob_malas:
-			return 'Malas'
+			return 'Mala'
 		elif probaMax == prob_regulares:
-			return 'Regulares'
+			return 'Regular'
 		elif probaMax == prob_buenas:
-			return 'Buenas'
+			return 'Buena'
 		else:
-			return 'Excelentes'
+			return 'Excelente'
 
 
 
@@ -955,6 +955,8 @@ class algoritmoSVM:
 		x_prediccion = peliculasAnalizar.drop("Calificacion",axis =1)
 		prediccion = svc.predict(x_prediccion)
 		print("SVC: ",prediccion)
+		return prediccion[0]
+
 
 
 
@@ -1059,7 +1061,9 @@ class algoritmoKNeighbors:
 		knn = instanciaEntrenada
 		peliculasAnalizar = pd.read_csv(archivoPelicula +".csv", index_col=0)
 		x_prediccion = peliculasAnalizar.drop("Calificacion",axis =1)
-		print("Prediccion por Knn: ",knn.predict(x_prediccion))
+		prediccion = knn.predict(x_prediccion)
+		print("Prediccion por Knn: ", prediccion)
+		return prediccion[0]
 
 
 def main():
